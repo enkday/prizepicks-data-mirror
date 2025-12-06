@@ -128,10 +128,9 @@ async function scrapePrizePicks() {
       await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2));
       console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
 
-      // Create NBA day-specific slices to keep payloads small for GPT
-      if (sport === 'nba') {
+      // Create NBA/NFL day- and team-specific slices to keep payloads small for GPT
+      if (sport === 'nba' || sport === 'nfl') {
         const now = new Date();
-
         const getWindow = (offsetDays) => {
           const start = new Date(now);
           start.setDate(now.getDate() + offsetDays);
@@ -141,14 +140,15 @@ async function scrapePrizePicks() {
           return { start, end };
         };
 
-        const buildDaySlice = (label, offsetDays) => {
+        const buildDaySlice = async (label, offsetDays) => {
           const { start, end } = getWindow(offsetDays);
           const dayProps = props.filter(p => {
             if (!p.startTimeIso) return false;
             const d = new Date(p.startTimeIso);
             return d >= start && d <= end;
           });
-          const file = path.join(dataDir, `prizepicks-${sport}-${label}.json`);
+
+          const baseFile = path.join(dataDir, `prizepicks-${sport}-${label}.json`);
           const payload = {
             scrapedAt: allData.scrapedAt,
             scrapedDate: allData.scrapedDate,
@@ -158,9 +158,36 @@ async function scrapePrizePicks() {
             totalProps: dayProps.length,
             props: dayProps
           };
-          return fs.writeFile(file, JSON.stringify(payload, null, 2)).then(() => {
-            console.log(`   ✅ ${sport.toUpperCase()} (${label.toUpperCase()}): ${dayProps.length} props → ${file}`);
+          await fs.writeFile(baseFile, JSON.stringify(payload, null, 2));
+          console.log(`   ✅ ${sport.toUpperCase()} (${label.toUpperCase()}): ${dayProps.length} props → ${baseFile}`);
+
+          // Team-specific slices
+          const byTeam = {};
+          dayProps.forEach(p => {
+            if (!p.Team) return;
+            if (!byTeam[p.Team]) byTeam[p.Team] = [];
+            byTeam[p.Team].push(p);
           });
+
+          const teamDir = path.join(dataDir, `${sport}-${label}`);
+          await fs.mkdir(teamDir, { recursive: true });
+          for (const [teamName, teamProps] of Object.entries(byTeam)) {
+            const slug = slugifyTeam(teamName);
+            if (!slug) continue;
+            const teamFile = path.join(teamDir, `${slug}.json`);
+            const teamPayload = {
+              scrapedAt: allData.scrapedAt,
+              scrapedDate: allData.scrapedDate,
+              source: allData.source,
+              sport: sport.toUpperCase(),
+              day: label,
+              team: teamName,
+              totalProps: teamProps.length,
+              props: teamProps
+            };
+            await fs.writeFile(teamFile, JSON.stringify(teamPayload, null, 2));
+            console.log(`      • ${sport.toUpperCase()} ${label.toUpperCase()} ${teamName}: ${teamProps.length} props → ${teamFile}`);
+          }
         };
 
         await buildDaySlice('today', 0);
@@ -287,6 +314,14 @@ function formatStartTimeToCentral(isoString) {
     return acc;
   }, {});
   return `${parts.month}/${parts.day}/${parts.year} ${parts.hour}:${parts.minute} ${parts.dayPeriod} CST`;
+}
+
+function slugifyTeam(name) {
+  if (!name) return null;
+  return name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 }
 
 // Helper function to parse projection and extract player info
