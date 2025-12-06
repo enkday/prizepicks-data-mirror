@@ -128,33 +128,43 @@ async function scrapePrizePicks() {
       await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2));
       console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
 
-      // Create tomorrow-only NBA slice to keep payload small for GPT
+      // Create NBA day-specific slices to keep payloads small for GPT
       if (sport === 'nba') {
         const now = new Date();
-        const tomorrowStart = new Date(now);
-        tomorrowStart.setDate(now.getDate() + 1);
-        tomorrowStart.setHours(0, 0, 0, 0);
-        const tomorrowEnd = new Date(tomorrowStart);
-        tomorrowEnd.setHours(23, 59, 59, 999);
 
-        const tomorrowProps = props.filter(p => {
-          if (!p.startTimeIso) return false;
-          const d = new Date(p.startTimeIso);
-          return d >= tomorrowStart && d <= tomorrowEnd;
-        });
-
-        const tomorrowFile = path.join(dataDir, `prizepicks-${sport}-tomorrow.json`);
-        const tomorrowData = {
-          scrapedAt: allData.scrapedAt,
-          scrapedDate: allData.scrapedDate,
-          source: allData.source,
-          sport: sport.toUpperCase(),
-          day: 'tomorrow',
-          totalProps: tomorrowProps.length,
-          props: tomorrowProps
+        const getWindow = (offsetDays) => {
+          const start = new Date(now);
+          start.setDate(now.getDate() + offsetDays);
+          start.setHours(0, 0, 0, 0);
+          const end = new Date(start);
+          end.setHours(23, 59, 59, 999);
+          return { start, end };
         };
-        await fs.writeFile(tomorrowFile, JSON.stringify(tomorrowData, null, 2));
-        console.log(`   ✅ ${sport.toUpperCase()} (TOMORROW): ${tomorrowProps.length} props → ${tomorrowFile}`);
+
+        const buildDaySlice = (label, offsetDays) => {
+          const { start, end } = getWindow(offsetDays);
+          const dayProps = props.filter(p => {
+            if (!p.startTimeIso) return false;
+            const d = new Date(p.startTimeIso);
+            return d >= start && d <= end;
+          });
+          const file = path.join(dataDir, `prizepicks-${sport}-${label}.json`);
+          const payload = {
+            scrapedAt: allData.scrapedAt,
+            scrapedDate: allData.scrapedDate,
+            source: allData.source,
+            sport: sport.toUpperCase(),
+            day: label,
+            totalProps: dayProps.length,
+            props: dayProps
+          };
+          return fs.writeFile(file, JSON.stringify(payload, null, 2)).then(() => {
+            console.log(`   ✅ ${sport.toUpperCase()} (${label.toUpperCase()}): ${dayProps.length} props → ${file}`);
+          });
+        };
+
+        await buildDaySlice('today', 0);
+        await buildDaySlice('tomorrow', 1);
       }
     }
     

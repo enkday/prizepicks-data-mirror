@@ -125,14 +125,14 @@
         }
       }
     },
-    "/data/prizepicks-nba.json": {
+    "/data/prizepicks-nba-today.json": {
       "get": {
-        "summary": "Get NBA props (standard only)",
-        "description": "Returns only NBA prop bets (standard odds).",
-        "operationId": "getNBAProps",
+        "summary": "Get today's NBA props (standard)",
+        "description": "Returns only today's NBA prop bets (standard odds) to keep payload small.",
+        "operationId": "getNBAPropsToday",
         "responses": {
           "200": {
-            "description": "Successful response with NBA prop bet data",
+            "description": "Successful response with NBA prop bet data for today",
             "content": {
               "application/json": {
                 "schema": {
