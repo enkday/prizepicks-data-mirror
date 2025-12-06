@@ -1,118 +1,99 @@
-const { chromium } = require('playwright');
+const axios = require('axios');
 const fs = require('fs').promises;
 const path = require('path');
 
 /**
  * PrizePicks Scraper
- * Extracts current prop bet options from PrizePicks
+ * Fetches current prop bet options from PrizePicks API
  */
 
+// League IDs (from PrizePicks API)
+const LEAGUES = {
+  NFL: 1,
+  NBA: 7,
+  MLB: 2,
+  NHL: 3,
+  NCAAF: 9,  // College Football
+  NCAAB: 6,  // College Basketball
+  SOCCER: 12,
+  ESPORTS: 13,
+  UFC: 14,
+  GOLF: 5
+};
+
 async function scrapePrizePicks() {
-  console.log('🚀 Starting PrizePicks scraper...');
+  console.log('🚀 Starting PrizePicks API scraper...');
   
-  const browser = await chromium.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
-  });
+  const allProps = [];
+  const includedData = {};
   
   try {
-    const context = await browser.newContext({
-      userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    });
-    const page = await context.newPage();
-    
-    console.log('📱 Loading PrizePicks app...');
-    
-    // Navigate to the app with more lenient timeout
-    try {
-      await page.goto('https://app.prizepicks.com/', {
-        waitUntil: 'domcontentloaded',
-        timeout: 30000
-      });
-    } catch (error) {
-      console.log('⚠️  Page load timed out, but continuing anyway...');
+    // Fetch projections for each league
+    for (const [leagueName, leagueId] of Object.entries(LEAGUES)) {
+      console.log(`📊 Fetching ${leagueName} props...`);
+      
+      try {
+        const response = await axios.get(`https://api.prizepicks.com/projections`, {
+          params: {
+            league_id: leagueId,
+            per_page: 250  // Get more results
+          },
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+            'Accept': 'application/json',
+            'Referer': 'https://app.prizepicks.com/'
+          },
+          timeout: 10000
+        });
+        
+        const data = response.data;
+        
+        // Store included data (players, teams, etc.) for reference
+        if (data.included) {
+          data.included.forEach(item => {
+            if (!includedData[item.type]) {
+              includedData[item.type] = {};
+            }
+            includedData[item.type][item.id] = item;
+          });
+        }
+        
+        // Process projections
+        if (data.data && Array.isArray(data.data)) {
+          data.data.forEach(projection => {
+            const prop = parseProjection(projection, includedData, leagueName);
+            if (prop) {
+              allProps.push(prop);
+            }
+          });
+          console.log(`   ✅ Found ${data.data.length} ${leagueName} props`);
+        }
+        
+        // Add delay to avoid rate limiting
+        await new Promise(resolve => setTimeout(resolve, 500));
+        
+      } catch (error) {
+        console.log(`   ⚠️  ${leagueName} fetch failed:`, error.message);
+      }
     }
     
-    // Wait for content to load (adjust selectors based on actual site structure)
-    await page.waitForTimeout(5000);
+    console.log(`\n✅ Total props scraped: ${allProps.length}`);
     
-    // Intercept API calls to get the actual data
-    const propBets = [];
-    
-    // Listen for API responses
-    page.on('response', async (response) => {
-      const url = response.url();
-      
-      // Look for API endpoints that contain player projections
-      // These patterns are examples - you'll need to inspect the actual network calls
-      if (url.includes('/api/projections') || 
-          url.includes('/api/props') || 
-          url.includes('/api/players')) {
-        try {
-          const data = await response.json();
-          console.log('📊 Found API data:', url);
-          propBets.push({
-            url: url,
-            timestamp: new Date().toISOString(),
-            data: data
-          });
-        } catch (e) {
-          // Not JSON or error parsing
-        }
-      }
-    });
-    
-    // Trigger some interactions to load data
-    await page.waitForTimeout(3000);
-    
-    // Try to extract data from the page DOM
-    const pageData = await page.evaluate(() => {
-      const props = [];
-      
-      // Example selectors - these WILL need to be updated based on actual site structure
-      // You'll need to inspect the PrizePicks app to find the correct selectors
-      
-      // Look for player cards or prop bet elements
-      const playerElements = document.querySelectorAll('[data-testid*="player"], .player-card, .projection-card');
-      
-      playerElements.forEach((element) => {
-        try {
-          const playerName = element.querySelector('[data-testid*="name"], .player-name')?.textContent?.trim();
-          const statType = element.querySelector('[data-testid*="stat"], .stat-type')?.textContent?.trim();
-          const line = element.querySelector('[data-testid*="line"], .projection-line')?.textContent?.trim();
-          const sport = element.querySelector('[data-testid*="sport"], .sport')?.textContent?.trim();
-          
-          if (playerName && statType && line) {
-            props.push({
-              player: playerName,
-              stat: statType,
-              line: parseFloat(line) || line,
-              sport: sport || 'Unknown'
-            });
-          }
-        } catch (e) {
-          // Skip elements that don't match expected structure
-        }
-      });
-      
-      return props;
-    });
-    
-    console.log(`✅ Scraped ${pageData.length} props from DOM`);
-    
-    // Combine data from API calls and DOM scraping
+    // Save to JSON
     const allData = {
       scrapedAt: new Date().toISOString(),
       scrapedDate: new Date().toLocaleDateString('en-US', { 
         weekday: 'long', 
         year: 'numeric', 
         month: 'long', 
-        day: 'numeric' 
+        day: 'numeric',
+        hour: '2-digit',
+        minute: '2-digit',
+        timeZoneName: 'short'
       }),
-      source: 'PrizePicks',
-      totalProps: pageData.length,
-      props: pageData,
-      apiResponses: propBets.length > 0 ? propBets : undefined
+      source: 'PrizePicks API',
+      totalProps: allProps.length,
+      props: allProps
     };
     
     // Save to data directory
@@ -130,8 +111,63 @@ async function scrapePrizePicks() {
   } catch (error) {
     console.error('❌ Scraping failed:', error.message);
     throw error;
-  } finally {
-    await browser.close();
+  }
+}
+
+// Helper function to parse projection and extract player info
+function parseProjection(projection, includedData, leagueName) {
+  try {
+    const attrs = projection.attributes;
+    if (!attrs) return null;
+    
+    // Get player info from relationships
+    let playerName = 'Unknown';
+    let teamName = null;
+    let opponentName = null;
+    
+    if (projection.relationships) {
+      // Get new_player data
+      const newPlayerId = projection.relationships.new_player?.data?.id;
+      if (newPlayerId && includedData.new_player && includedData.new_player[newPlayerId]) {
+        const playerData = includedData.new_player[newPlayerId];
+        playerName = playerData.attributes?.name || playerName;
+        
+        // Get team
+        const teamId = playerData.relationships?.team?.data?.id;
+        if (teamId && includedData.team && includedData.team[teamId]) {
+          teamName = includedData.team[teamId].attributes?.name;
+        }
+      }
+      
+      // Try to get opponent info
+      const gameId = projection.relationships.game?.data?.id;
+      if (gameId && includedData.game && includedData.game[gameId]) {
+        const gameData = includedData.game[gameId];
+        opponentName = gameData.attributes?.opponent_name;
+      }
+    }
+    
+    // Parse stat type - remove "(Combo)" suffix if present
+    let statType = attrs.stat_type || attrs.stat_display_name || 'Unknown';
+    statType = statType.replace(/\s*\(Combo\)\s*/gi, '').trim();
+    
+    // Only include active props
+    if (attrs.status === 'pre_game' || attrs.status === 'live') {
+      return {
+        player: playerName,
+        stat: statType,
+        line: parseFloat(attrs.line_score),
+        sport: leagueName,
+        // Optional fields only if available
+        ...(teamName && { team: teamName }),
+        ...(opponentName && { opponent: opponentName })
+      };
+    }
+    
+    return null;
+  } catch (error) {
+    console.error('Error parsing projection:', error.message);
+    return null;
   }
 }
 
