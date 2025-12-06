@@ -143,6 +143,25 @@
           }
         }
       }
+    },
+    "/data/prizepicks-nba-tomorrow.json": {
+      "get": {
+        "summary": "Get NBA props for tomorrow only (standard)",
+        "description": "Returns only tomorrow's NBA prop bets (standard odds) to keep payload small.",
+        "operationId": "getNBAPropsTomorrow",
+        "responses": {
+          "200": {
+            "description": "Successful response with NBA prop bet data for tomorrow",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
     }
   },
   "components": {

@@ -127,6 +127,35 @@ async function scrapePrizePicks() {
       };
       await fs.writeFile(sportFile, JSON.stringify(sportData, null, 2));
       console.log(`   ✅ ${sport.toUpperCase()}: ${props.length} props → ${sportFile}`);
+
+      // Create tomorrow-only NBA slice to keep payload small for GPT
+      if (sport === 'nba') {
+        const now = new Date();
+        const tomorrowStart = new Date(now);
+        tomorrowStart.setDate(now.getDate() + 1);
+        tomorrowStart.setHours(0, 0, 0, 0);
+        const tomorrowEnd = new Date(tomorrowStart);
+        tomorrowEnd.setHours(23, 59, 59, 999);
+
+        const tomorrowProps = props.filter(p => {
+          if (!p.startTimeIso) return false;
+          const d = new Date(p.startTimeIso);
+          return d >= tomorrowStart && d <= tomorrowEnd;
+        });
+
+        const tomorrowFile = path.join(dataDir, `prizepicks-${sport}-tomorrow.json`);
+        const tomorrowData = {
+          scrapedAt: allData.scrapedAt,
+          scrapedDate: allData.scrapedDate,
+          source: allData.source,
+          sport: sport.toUpperCase(),
+          day: 'tomorrow',
+          totalProps: tomorrowProps.length,
+          props: tomorrowProps
+        };
+        await fs.writeFile(tomorrowFile, JSON.stringify(tomorrowData, null, 2));
+        console.log(`   ✅ ${sport.toUpperCase()} (TOMORROW): ${tomorrowProps.length} props → ${tomorrowFile}`);
+      }
     }
     
     return allData;
@@ -275,6 +304,7 @@ function parseProjection(projection, includedData, leagueName) {
     }
     const opponentFull = getOpponentFull(opponentName, includedData);
     const startTimeCentral = formatStartTimeToCentral(attrs.start_time);
+    const startTimeIso = attrs.start_time || null;
 
     // Parse stat type - remove "(Combo)" suffix if present
     let statType = attrs.stat_type || attrs.stat_display_name || 'Unknown';
@@ -287,6 +317,7 @@ function parseProjection(projection, includedData, leagueName) {
         line: parseFloat(attrs.line_score),
         sport: leagueName,
         startTime: startTimeCentral,
+        startTimeIso,
         oddsType: oddsType,
         Team: teamFull || null,
         Opponent: opponentFull || null,
