@@ -16,18 +16,22 @@ async function scrapePrizePicks() {
   });
   
   try {
-    const page = await browser.newPage();
-    
-    // Set a realistic user agent
-    await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+    const context = await browser.newContext({
+      userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    });
+    const page = await context.newPage();
     
     console.log('📱 Loading PrizePicks app...');
     
-    // Navigate to the app (you may need to adjust this URL)
-    await page.goto('https://app.prizepicks.com/', {
-      waitUntil: 'networkidle',
-      timeout: 60000
-    });
+    // Navigate to the app with more lenient timeout
+    try {
+      await page.goto('https://app.prizepicks.com/', {
+        waitUntil: 'domcontentloaded',
+        timeout: 30000
+      });
+    } catch (error) {
+      console.log('⚠️  Page load timed out, but continuing anyway...');
+    }
     
     // Wait for content to load (adjust selectors based on actual site structure)
     await page.waitForTimeout(5000);
