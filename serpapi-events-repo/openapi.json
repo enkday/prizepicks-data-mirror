@@ -1,0 +1,159 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "SerpApi Google Events Proxy",
+    "version": "0.1.0",
+    "description": "Proxies SerpApi google_events search; API key is held server-side via SERPAPI_API_KEY env."
+  },
+  "servers": [
+    {
+      "url": "http://localhost:3001"
+    }
+  ],
+  "paths": {
+    "/search": {
+      "get": {
+        "summary": "Search Google Events (proxied to SerpApi)",
+        "description": "Forwards to SerpApi with engine=google_events. The server injects the API key from environment.",
+        "operationId": "searchGoogleEvents",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": true,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Search query (city, venue, performer, etc.)."
+          },
+          {
+            "name": "location",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Location bias (city/state/country or lat,lng)."
+          },
+          {
+            "name": "hl",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Language code (e.g., en)."
+          },
+          {
+            "name": "gl",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Geolocation country code (e.g., us)."
+          },
+          {
+            "name": "start",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "description": "Pagination offset."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "SerpApi google_events response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GoogleEventsResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Missing required query parameters"
+          },
+          "500": {
+            "description": "Upstream or configuration error"
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "summary": "Health check",
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "status": {
+                      "type": "string"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "GoogleEventsResponse": {
+        "type": "object",
+        "properties": {
+          "search_metadata": {
+            "type": "object"
+          },
+          "events_results": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GoogleEvent"
+            }
+          }
+        }
+      },
+      "GoogleEvent": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "date": {
+            "type": "object"
+          },
+          "address": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "link": {
+            "type": "string",
+            "format": "uri"
+          },
+          "thumbnail": {
+            "type": "string",
+            "format": "uri"
+          },
+          "venue": {
+            "type": "object"
+          },
+          "ticket_info": {
+            "type": "array"
+          }
+        }
+      }
+    }
+  }
+}
