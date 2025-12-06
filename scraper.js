@@ -287,14 +287,17 @@ function getOpponentFull(opponentName, includedData) {
   const teams = includedData.team ? Object.values(includedData.team) : [];
   const match = teams.find(t => {
     const attrs = t.attributes || {};
-    return attrs.abbreviation === opponentName || attrs.name === opponentName || attrs.full_name === opponentName;
+    return attrs.abbreviation === opponentName || attrs.name === opponentName || attrs.full_name === opponentName || attrs.market === opponentName;
   });
-  if (!match) return null;
+  if (!match) return { full: null, code: null };
   const attrs = match.attributes || {};
   const parts = [];
   if (attrs.market) parts.push(attrs.market);
   if (attrs.name || attrs.full_name) parts.push(attrs.name || attrs.full_name);
-  return parts.length ? parts.join(' ') : null;
+  return {
+    full: parts.length ? parts.join(' ') : null,
+    code: attrs.abbreviation || null
+  };
 }
 
 function formatStartTimeToCentral(isoString) {
@@ -339,7 +342,7 @@ function parseProjection(projection, includedData, leagueName) {
     const playerId = projection.relationships?.new_player?.data?.id;
     const playerData = playerId ? includedData.new_player?.[playerId] : null;
     const playerName = playerData?.attributes?.name || 'Unknown';
-    const { name: teamName, full: teamFull } = getTeamInfo(projection, includedData);
+    const { name: teamName, code: teamCode, full: teamFull } = getTeamInfo(projection, includedData);
 
     const gameId = projection.relationships?.game?.data?.id || null;
     const gameData = gameId ? includedData.game?.[gameId] : null;
@@ -347,7 +350,7 @@ function parseProjection(projection, includedData, leagueName) {
     if (!opponentName) {
       opponentName = attrs.opponent || attrs.opponent_name || attrs.description || null;
     }
-    const opponentFull = getOpponentFull(opponentName, includedData);
+    const opponentInfo = getOpponentFull(opponentName, includedData);
     const startTimeCentral = formatStartTimeToCentral(attrs.start_time);
     const startTimeIso = attrs.start_time || null;
     const rank = attrs.rank;
@@ -376,7 +379,9 @@ function parseProjection(projection, includedData, leagueName) {
         startTimeIso,
         oddsType: oddsType,
         Team: teamFull || null,
-        Opponent: opponentFull || null,
+        teamCode: teamCode || null,
+        Opponent: opponentInfo.full || opponentName || null,
+        opponentCode: opponentInfo.code || null,
         rank: rank !== undefined ? rank : null,
         gameId
       };

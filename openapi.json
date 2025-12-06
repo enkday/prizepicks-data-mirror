@@ -338,6 +338,14 @@
             "type": "string",
             "description": "Opponent name (market + mascot)"
           },
+          "teamCode": {
+            "type": "string",
+            "description": "Team abbreviation/code when available"
+          },
+          "opponentCode": {
+            "type": "string",
+            "description": "Opponent abbreviation/code when available"
+          },
           "startTime": {
             "type": "string",
             "description": "Game start time in CST formatted as MM/DD/YY HH:MM AM/PM CST"
