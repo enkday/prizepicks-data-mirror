@@ -5,20 +5,16 @@ const path = require('path');
 /**
  * PrizePicks Scraper
  * Fetches current prop bet options from PrizePicks API
+ * League IDs verified from partner-api.prizepicks.com/leagues
  */
 
-// League IDs (from PrizePicks API)
+// Correct League IDs from PrizePicks API
 const LEAGUES = {
-  NFL: 1,
-  NBA: 7,
-  MLB: 2,
-  NHL: 3,
-  NCAAF: 9,  // College Football
-  NCAAB: 6,  // College Basketball
-  SOCCER: 12,
-  ESPORTS: 13,
-  UFC: 14,
-  GOLF: 5
+  NFL: 9,        // NFL
+  NCAAF: 15,     // College Football  
+  NBA: 7,        // NBA
+  MLB: 2         // MLB (offseason - will return 0 props)
+  // NCAAB and College Baseball IDs to be added when seasons are active
 };
 
 async function scrapePrizePicks() {
@@ -36,7 +32,7 @@ async function scrapePrizePicks() {
         const response = await axios.get(`https://api.prizepicks.com/projections`, {
           params: {
             league_id: leagueId,
-            per_page: 250  // Get more results
+            per_page: 250
           },
           headers: {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
