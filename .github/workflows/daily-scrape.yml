@@ -42,7 +42,7 @@ jobs:
       - name: 📊 Check if data changed
         id: check_changes
         run: |
-          if git diff --quiet data/prizepicks.json; then
+          if git diff --quiet data; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -53,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/prizepicks.json
+          git add data
           git commit -m "🤖 Update PrizePicks data - $(date +'%Y-%m-%d %H:%M UTC')"
           git push
       
