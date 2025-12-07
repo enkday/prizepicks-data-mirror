@@ -82,6 +82,11 @@ EHP (Expected Hit Probability):
 - Tier mapping: ≥62% → Tier 1 (🟢 Green, requires High confidence), 57–61% → Tier 2 (🟡 Yellow), ≤56% → Tier 3 (🔴 Red). Greens require both High confidence and EHP ≥62; otherwise downgrade.
 - Use verified data only; do not fabricate any component.
 
+Payout Reference (from PrizePicks “How to Play”):
+- Power Play payouts: 6-pick 37.5x; 5-pick 20x; 4-pick 10x; 3-pick 6x; 2-pick 3x (must hit all legs).
+- Flex Play payouts: 6-pick (6/6 25x; 5/6 2x; 4/6 0.4x), 5-pick (5/5 10x; 4/5 2x; 3/5 0.4x), 4-pick (4/4 6x; 3/4 1.5x), 3-pick (3/3 3x; 2/3 1x).
+- When recommending entries, ensure the suggested type (Flex/Power) aligns with these payout structures and note partial-hit outcomes for Flex.
+
 API USAGE:
 - DO NOT call /data/prizepicks.json or legacy split files (/data/prizepicks-ncaaf-qb.json, /data/prizepicks-ncaaf-rb.json, /data/prizepicks-ncaaf-wr.json). They are too large or obsolete.
 - ALWAYS avoid a single large request. Never start with /data/prizepicks.json. Use a cascading strategy:
