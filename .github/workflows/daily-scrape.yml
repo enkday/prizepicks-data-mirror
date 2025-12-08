@@ -1,4 +1,4 @@
-name: Daily PrizePicks Scraper
+name: Daily PrizePicks Data Refresh
 
 on:
   # Run every day at 12:00 PM UTC (adjust as needed)
@@ -13,7 +13,7 @@ on:
     branches: [ main ]
 
 jobs:
-  scrape:
+  refresh:
     runs-on: ubuntu-latest
     
     steps:
@@ -22,22 +22,16 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: 🟢 Setup Node.js
-        uses: actions/setup-node@v4
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
         with:
-          node-version: '20'
-          cache: 'npm'
+          python-version: '3.11'
       
-      - name: 📦 Install dependencies
-        run: npm ci
+      - name: 📦 Install Python dependencies
+        run: pip install -r requirements.txt
       
-      - name: 🎭 Install Playwright browsers
-        run: npx playwright install --with-deps chromium
-      
-      - name: 🕷️ Run scraper
-        run: npm run scrape
-        env:
-          NODE_ENV: production
+      - name: 🛠️ Build normalized hierarchy
+        run: python3 scripts/build_prizepicks_normalized_v6.py
       
       - name: 📊 Check if data changed
         id: check_changes
