@@ -443,7 +443,7 @@ If you're concerned about GitHub rate limits:
 ### Empty or no data returned
 - Check GitHub Actions ran successfully
 - Verify JSON is valid (use JSONLint)
-- Make sure scraper didn't fail silently
+- Make sure the data fetch didn't fail silently
 
 ### GPT doesn't use the action
 - Make sure action is enabled
@@ -454,7 +454,7 @@ If you're concerned about GitHub rate limits:
 
 ## Update Checklist
 
-When updating your scraper:
+When updating your data fetcher:
 
 1. [ ] Test locally first
 2. [ ] Verify JSON output format matches schema

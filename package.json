@@ -1,15 +1,15 @@
 {
-  "name": "prizepicks-scraper",
+  "name": "prizepicks-data-mirror",
   "version": "1.0.0",
-  "description": "Daily scraper for PrizePicks prop bet data",
+  "description": "Daily mirror for PrizePicks prop bet data",
   "main": "scraper.js",
   "scripts": {
-    "scrape": "node scraper.js",
+    "fetch": "node scraper.js",
     "test": "node scraper.js"
   },
   "keywords": [
     "prizepicks",
-    "scraper",
+    "data",
     "sports",
     "betting"
   ],

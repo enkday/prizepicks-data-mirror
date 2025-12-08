@@ -9,9 +9,11 @@ import datetime
 import subprocess
 import pytz
 import json
+from pathlib import Path
 
-BASE = os.path.expanduser("~/prizepicks-scraper/data/hierarchy")
-SCRIPT = os.path.expanduser("~/prizepicks-scraper/scripts/build_prizepicks_normalized_v6.py")
+ROOT = Path(__file__).resolve().parent.parent
+BASE = ROOT / "data" / "hierarchy"
+SCRIPT = ROOT / "scripts" / "build_prizepicks_normalized_v6.py"
 CST = pytz.timezone("America/Chicago")
 
 

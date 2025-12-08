@@ -5,7 +5,7 @@ Creates normalized tables (games, teams, players, props, slates)
 from per-team, standard-only PrizePicks endpoints.
 
 Output:
-  ~/prizepicks-scraper/data/hierarchy/{current_day,tomorrow}/
+  <repo>/data/hierarchy/{current_day,tomorrow}/
 """
 import json
 import os
@@ -15,9 +15,11 @@ from collections import defaultdict
 
 import pytz
 import requests
+from pathlib import Path
 
 
-BASE_PATH = os.path.expanduser("~/prizepicks-scraper/data/hierarchy")
+ROOT = Path(__file__).resolve().parent.parent
+BASE_PATH = ROOT / "data" / "hierarchy"
 CST = pytz.timezone("America/Chicago")
 
 SPORTS = ["NFL"]
@@ -26,7 +28,7 @@ SAFE_ODDSTYPE = "standard"
 # Default to this repo's data folder; override via DATA_BASE_URL to point elsewhere.
 DATA_BASE_URL = os.environ.get(
     "DATA_BASE_URL", "https://raw.githubusercontent.com/ENKDAY/prizepicks-scraper/main/data"
-)
+)  # remote slug kept for backward compatibility
 DATA_SOURCES = [
     "prizepicks-nfl-today.json",
     "prizepicks-nfl-tomorrow.json",
@@ -36,7 +38,7 @@ DATA_SOURCES = [
 
 def ensure_dirs():
     for d in ["current_day", "tomorrow"]:
-        os.makedirs(os.path.join(BASE_PATH, d), exist_ok=True)
+        os.makedirs(BASE_PATH / d, exist_ok=True)
 
 
 def get_day_branch(dt):
@@ -207,11 +209,11 @@ def main():
         player_ids = {p["playerId"] for p in day_props}
         day_players = {pid: players[pid] for pid in player_ids if pid in players}
 
-        write_json(f"{BASE_PATH}/{branch}/games.json", day_games)
-        write_json(f"{BASE_PATH}/{branch}/teams.json", day_teams)
-        write_json(f"{BASE_PATH}/{branch}/players.json", day_players)
-        write_json(f"{BASE_PATH}/{branch}/props.json", day_props)
-        write_json(f"{BASE_PATH}/{branch}/slates.json", day_slates)
+        write_json(BASE_PATH / branch / "games.json", day_games)
+        write_json(BASE_PATH / branch / "teams.json", day_teams)
+        write_json(BASE_PATH / branch / "players.json", day_players)
+        write_json(BASE_PATH / branch / "props.json", day_props)
+        write_json(BASE_PATH / branch / "slates.json", day_slates)
     print("✅ Normalized hierarchy build complete.")
 
 

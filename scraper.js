@@ -18,7 +18,7 @@ const LEAGUES = {
 };
 
 async function scrapePrizePicks() {
-  console.log('🚀 Starting PrizePicks API scraper...');
+  console.log('🚀 Starting PrizePicks data fetch...');
   
   const allProps = [];
   // For debugging: collect all included objects
@@ -394,7 +394,7 @@ function parseProjection(projection, includedData, leagueName) {
   }
 }
 
-// Run the scraper
+// Run the data fetch
 if (require.main === module) {
   scrapePrizePicks()
     .then(() => {
