@@ -4,10 +4,10 @@ on:
   # Run every day at 12:00 PM UTC (adjust as needed)
   schedule:
     - cron: '0 12 * * *'
-  
+
   # Allow manual triggering from GitHub Actions tab
   workflow_dispatch:
-  
+
   # Run on push to main for testing
   push:
     branches: [ main ]
@@ -15,24 +15,24 @@ on:
 jobs:
   refresh:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: 📥 Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-      
+
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      
+
       - name: 📦 Install Python dependencies
         run: pip install -r requirements.txt
-      
+
       - name: 🛠️ Build normalized hierarchy
         run: python3 scripts/build_prizepicks_normalized_v6.py
-      
+
       - name: 📊 Check if data changed
         id: check_changes
         run: |
@@ -41,7 +41,7 @@ jobs:
           else
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
-      
+
       - name: 💾 Commit and push updated data
         if: steps.check_changes.outputs.changed == 'true'
         run: |
@@ -50,7 +50,7 @@ jobs:
           git add data
           git commit -m "🤖 Update PrizePicks data - $(date +'%Y-%m-%d %H:%M UTC')"
           git push
-      
+
       - name: ✅ No changes detected
         if: steps.check_changes.outputs.changed == 'false'
         run: echo "No changes in scraped data"
