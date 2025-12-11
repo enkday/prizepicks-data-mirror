@@ -22,7 +22,9 @@ ROOT = Path(__file__).resolve().parent.parent
 BASE_PATH = ROOT / "data" / "hierarchy"
 CST = pytz.timezone("America/Chicago")
 
-SPORTS = ["NFL"]
+SPORTS = [
+    "NFL", "NBA", "NCAAF", "MLB", "NCAAB", "WNBA", "NHL", "MMA", "TENNIS", "CSGO", "LOL", "DOTA2", "NASCAR", "F1", "BOXING", "CRICKET", "RUGBY", "AFL", "CFL", "EUROLEAGUE", "KBO", "LCS", "LCK", "LPL", "LJL", "VALORANT", "PGA", "LPGA", "UFC", "XFL", "USFL", "SUMO", "TABLE TENNIS", "VOLLEYBALL", "HANDBALL", "WATER POLO", "BADMINTON", "SNOOKER", "DARTS", "BASKETBALL", "FOOTBALL", "BASEBALL", "HOCKEY", "ESPORTS", "CYCLING", "ATHLETICS", "SWIMMING", "SKIING", "SNOWBOARDING", "BIATHLON", "SPEED SKATING", "SHORT TRACK", "LUGE", "SKELETON", "BOBSLEIGH", "CURLING", "FUTSAL", "NETBALL", "GAELIC FOOTBALL", "HURLING", "CAMOGIE", "SHINTY", "BANDY", "FLOORBALL", "PESAPALLO", "KORFBALL", "PICKLEBALL", "PADDEL", "SQUASH", "RACQUETBALL", "SOFTBALL", "FIELD HOCKEY", "LACROSSE", "POLO", "ROWING", "SAILING", "SURFING", "WINDSURFING", "KITEBOARDING", "CANOEING", "KAYAKING", "DRAGON BOAT", "MOTORSPORT", "MOTORCYCLE RACING", "RALLY", "TOURING CARS", "TRUCK RACING", "AIR RACING", "BOAT RACING", "JET SKI", "POWERBOAT", "FISHING", "EQUESTRIAN", "DOG RACING", "GREYHOUND", "HORSE RACING", "HARNESS RACING", "TROTTING", "SHOW JUMPING", "DRESSAGE", "EVENTING", "POLO CROSS", "RODEO", "BULL RIDING", "BARREL RACING", "CUTTING", "REINING", "TEAM PENNING", "VAULTING", "TRAIL", "ENDURANCE RIDING", "MOUNTED GAMES", "TENT PEGGING", "POLO CROSSE", "POLO X", "POLO Y", "POLO Z"
+]
 SAFE_ODDSTYPE = "standard"
 
 # Default to this repo's data folder; override via DATA_BASE_URL to point elsewhere.
@@ -30,9 +32,9 @@ DATA_BASE_URL = os.environ.get(
     "DATA_BASE_URL", "https://raw.githubusercontent.com/ENKDAY/prizepicks-scraper/main/data"
 )  # remote slug kept for backward compatibility
 DATA_SOURCES = [
-    "prizepicks-nfl-today.json",
-    "prizepicks-nfl-tomorrow.json",
-    "prizepicks-nfl.json",
+    f for f in os.listdir(ROOT / "data")
+    if f.startswith("prizepicks-") and f.endswith(".json")
+    and not ("golf" in f.lower() or "soccer" in f.lower())
 ]
 
 
