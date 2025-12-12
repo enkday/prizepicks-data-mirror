@@ -17,8 +17,33 @@ const LEAGUES = {
   // NCAAB and College Baseball IDs to be added when seasons are active
 };
 
+// Realistic User-Agent strings to rotate through
+const USER_AGENTS = [
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0',
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2 Safari/605.1.15',
+  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0'
+];
+
+/**
+ * Get a random User-Agent string from the list
+ */
+function getRandomUserAgent() {
+  return USER_AGENTS[Math.floor(Math.random() * USER_AGENTS.length)];
+}
+
 async function scrapePrizePicks() {
   console.log('🚀 Starting PrizePicks data fetch...');
+  
+  // Check for optional Cookie environment variable
+  const cookieHeader = process.env.PRIZEPICKS_COOKIE;
+  if (cookieHeader) {
+    console.log('🍪 Cookie header detected from PRIZEPICKS_COOKIE environment variable');
+  } else {
+    console.log('ℹ️  No PRIZEPICKS_COOKIE environment variable set');
+  }
   
   const allProps = [];
   // For debugging: collect all included objects
@@ -27,19 +52,38 @@ async function scrapePrizePicks() {
   try {
     // Fetch projections for each league
     for (const [leagueName, leagueId] of Object.entries(LEAGUES)) {
-      console.log(`📊 Fetching ${leagueName} props...`);
+      console.log(`\n📊 Fetching ${leagueName} props...`);
       
       try {
-        const response = await axios.get(`https://api.prizepicks.com/projections`, {
-          params: {
-            league_id: leagueId,
-            per_page: 250
-          },
-          headers: {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
-            'Accept': 'application/json',
-            'Referer': 'https://app.prizepicks.com/'
-          },
+        // Build request URL
+        const url = 'https://api.prizepicks.com/projections';
+        const params = {
+          league_id: leagueId,
+          per_page: 250
+        };
+        
+        // Build request headers with randomized User-Agent
+        const userAgent = getRandomUserAgent();
+        const headers = {
+          'User-Agent': userAgent,
+          'Accept': 'application/json',
+          'Referer': 'https://app.prizepicks.com/'
+        };
+        
+        // Add Cookie header if available
+        if (cookieHeader) {
+          headers['Cookie'] = cookieHeader;
+        }
+        
+        // Log the full request details for debugging
+        const fullUrl = `${url}?${new URLSearchParams(params).toString()}`;
+        console.log(`   🌐 URL: ${fullUrl}`);
+        console.log(`   📋 Headers:`, JSON.stringify(headers, null, 2));
+        console.log(`   🍪 Cookie included: ${cookieHeader ? 'Yes' : 'No'}`);
+        
+        const response = await axios.get(url, {
+          params,
+          headers,
           timeout: 10000
         });
         
@@ -65,11 +109,19 @@ async function scrapePrizePicks() {
           console.log(`   ✅ Found ${data.data.length} ${leagueName} props`);
         }
         
-        // Add delay to avoid rate limiting
-        await new Promise(resolve => setTimeout(resolve, 500));
+        // Add delay to avoid rate limiting (increased from 500ms to 2000ms)
+        console.log(`   ⏳ Waiting 2000ms before next request to avoid rate limiting...`);
+        await new Promise(resolve => setTimeout(resolve, 2000));
         
       } catch (error) {
         console.log(`   ⚠️  ${leagueName} fetch failed:`, error.message);
+        if (error.response) {
+          console.log(`   📛 HTTP Status: ${error.response.status}`);
+          console.log(`   📛 Response Headers:`, JSON.stringify(error.response.headers, null, 2));
+          if (error.response.data) {
+            console.log(`   📛 Response Data:`, JSON.stringify(error.response.data, null, 2));
+          }
+        }
       }
     }
     
