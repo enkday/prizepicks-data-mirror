@@ -100,16 +100,21 @@ jobs:
           
           # Copy updated data directory to private repository if data exists
           if [ -d "${REPO_DIR}/data" ] && [ -n "$(ls -A "${REPO_DIR}/data" 2>/dev/null)" ]; then
-            cp -r "${REPO_DIR}/data"/* data/
+            # Remove existing data files to ensure clean sync
+            rm -rf data/*
+            # Copy all files including hidden files
+            cp -r "${REPO_DIR}/data/." data/
             echo "✅ Data files copied successfully"
           else
             echo "⚠️ Warning: No data files to copy"
             exit 0
           fi
           
-          # Check if there are changes
-          if ! git diff --quiet data; then
-            git add data
+          # Stage all changes (modified, deleted, and new files)
+          git add data
+          
+          # Check if there are staged changes
+          if ! git diff --cached --quiet; then
             git commit -m "🤖 Update PrizePicks data - $(date +'%Y-%m-%d %H:%M UTC')"
             git push https://x-access-token:${TARGET_REPO_PAT}@github.com/enkday/prizepicks-data-mirror-private.git HEAD:main
             echo "✅ Successfully pushed to private repository"
