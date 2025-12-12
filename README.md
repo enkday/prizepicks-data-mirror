@@ -29,3 +29,14 @@ python3 scripts/sync_prizepicks_payouts.py
 - Times are CST in the hierarchy files.
 - Only standard-odds props are included; goblin/demon variants are excluded.
 - If you need a different cadence or sports, adjust the data sources in `scripts/build_prizepicks_normalized_v6.py` and the scheduler as needed.
+
+## Scraper Features
+
+The `scraper.js` script includes several features to handle API restrictions:
+
+- **Rate limiting protection**: 2-second delay between league requests to avoid 429 errors
+- **Randomized User-Agents**: Rotates through 6 realistic browser UA strings
+- **Cookie support**: Set `PRIZEPICKS_COOKIE` environment variable for authentication
+- **Enhanced logging**: Logs URLs, headers (with sensitive data redacted), and detailed errors
+
+For troubleshooting API issues (403/429 errors), see [TROUBLESHOOTING.md](TROUBLESHOOTING.md).

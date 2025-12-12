@@ -39,6 +39,8 @@ jobs:
           fi
 
       - name: 🏃 Run PrizePicks scraper
+        env:
+          PRIZEPICKS_COOKIE: ${{ secrets.PRIZEPICKS_COOKIE }}
         run: node scraper.js
 
       - name: 🐍 Setup Python
