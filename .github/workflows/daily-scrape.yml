@@ -73,3 +73,31 @@ jobs:
       - name: ✅ No changes detected
         if: steps.check_changes.outputs.changed == 'false'
         run: echo "No changes in scraped data"
+
+      - name: 🔐 Push to private repository
+        if: steps.check_changes.outputs.changed == 'true'
+        env:
+          TARGET_REPO_PAT: ${{ secrets.TARGET_REPO_PAT }}
+        run: |
+          # Clone the private repository using PAT
+          git clone https://${TARGET_REPO_PAT}@github.com/enkday/prizepicks-data-mirror-private.git /tmp/private-repo
+          
+          # Copy updated data directory to private repository
+          cp -r data/* /tmp/private-repo/data/
+          
+          # Navigate to private repository
+          cd /tmp/private-repo
+          
+          # Configure git
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes
+          if ! git diff --quiet data; then
+            git add data
+            git commit -m "🤖 Update PrizePicks data - $(date +'%Y-%m-%d %H:%M UTC')"
+            git push https://${TARGET_REPO_PAT}@github.com/enkday/prizepicks-data-mirror-private.git
+            echo "✅ Successfully pushed to private repository"
+          else
+            echo "ℹ️ No changes to push to private repository"
+          fi
