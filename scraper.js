@@ -66,28 +66,23 @@ async function fetchProjectionsForLeague(leagueId) {
         {
           params: { league_id: leagueId, per_page: 250 },
           headers: PRIZEPICKS_DEFAULT_HEADERS,
-          timeout: 15000,
-          validateStatus: () => true
+          timeout: 20000
         },
-        { maxAttempts: 8, baseDelayMs: 2000 }
+        { maxAttempts: 10, baseDelayMs: 2500 }
       );
 
-      if (response.status >= 200 && response.status < 300) return response;
-
-      // If we are explicitly blocked (403/401), try the next base URL.
-      if (response.status === 401 || response.status === 403) {
-        lastError = new Error(`HTTP ${response.status} from ${baseUrl}`);
-        lastError.response = response;
-        continue;
-      }
-
-      // Other non-2xx: treat as error (but allow axiosGetWithRetry to handle 429/5xx already).
-      lastError = new Error(`HTTP ${response.status} from ${baseUrl}`);
-      lastError.response = response;
+      return response;
     } catch (error) {
       lastError = error;
       const status = error?.response?.status;
-      if (status === 401 || status === 403) continue;
+      if (status === 401 || status === 403) {
+        console.log(`   🔒 Blocked on ${baseUrl} (HTTP ${status}); trying alternate host...`);
+        continue;
+      }
+      if (status === 429) {
+        console.log(`   🧱 Rate limited on ${baseUrl} (HTTP 429); trying alternate host...`);
+        continue;
+      }
     }
   }
 
@@ -149,8 +144,8 @@ async function scrapePrizePicks() {
 
         leagueResults.push({ leagueName, ok: true, status: response.status, count: Array.isArray(data.data) ? data.data.length : 0 });
         
-        // Add delay to avoid rate limiting
-        await sleep(500);
+        // Add delay to avoid rate limiting (with jitter)
+        await sleep(1200 + Math.floor(Math.random() * 600));
         
       } catch (error) {
         const status = error?.response?.status;
