@@ -68,6 +68,7 @@ async function axiosGetWithRetry(
 
 async function fetchProjectionsForLeague(leagueId) {
   let lastError;
+  let rateLimitError;
   for (const baseUrl of PRIZEPICKS_BASE_URLS) {
     const url = `${baseUrl}/projections`;
     try {
@@ -90,6 +91,7 @@ async function fetchProjectionsForLeague(leagueId) {
     } catch (error) {
       lastError = error;
       const status = error?.response?.status;
+      if (status === 429) rateLimitError = error;
       if (status === 401 || status === 403) {
         console.log(`   🔒 Blocked on ${baseUrl} (HTTP ${status}); trying alternate host...`);
         continue;
@@ -101,7 +103,7 @@ async function fetchProjectionsForLeague(leagueId) {
     }
   }
 
-  throw lastError ?? new Error('Failed to fetch projections');
+  throw rateLimitError ?? lastError ?? new Error('Failed to fetch projections');
 }
 
 async function fetchProjectionsForLeagueWithCooldown(leagueId, leagueName) {
