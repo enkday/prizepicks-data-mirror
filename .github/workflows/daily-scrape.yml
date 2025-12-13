@@ -48,6 +48,9 @@ jobs:
       - name: 🏃 Run PrizePicks scraper
         run: node scraper.js
 
+      - name: 🧩 Build small Action slices
+        run: node scripts/build_action_slices.js
+
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:

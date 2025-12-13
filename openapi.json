@@ -83,6 +83,30 @@
         }
       }
     },
+    "/data/prizepicks-nfl-tomorrow-top-200.json": {
+      "get": {
+        "summary": "Get tomorrow's NFL props (top 200 by rank)",
+        "description": "Returns only the top 200 tomorrow NFL props by PrizePicks rank to stay under connector payload limits.",
+        "operationId": "getNFLPropsTomorrowTop200",
+        "responses": {
+          "200": {
+            "description": "Successful response with top 200 NFL prop bet data for tomorrow",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/prizepicks-nfl-next-7-days.json": {
       "get": {
         "summary": "Get NFL props for next 7 days (standard)",
@@ -115,6 +139,30 @@
         "responses": {
           "200": {
             "description": "Successful response with NBA prop bet data for today",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nfl-today-top-200.json": {
+      "get": {
+        "summary": "Get today's NFL props (top 200 by rank)",
+        "description": "Returns only the top 200 today's NFL props by PrizePicks rank to stay under connector payload limits.",
+        "operationId": "getNFLPropsTodayTop200",
+        "responses": {
+          "200": {
+            "description": "Successful response with top 200 NFL prop bet data for today",
             "content": {
               "application/json": {
                 "schema": {
