@@ -21,6 +21,8 @@ on:
 
 jobs:
   refresh:
+    # Avoid an infinite loop: the workflow commits data, which triggers a push event.
+    if: github.event_name != 'push' || github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
