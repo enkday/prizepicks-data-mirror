@@ -107,6 +107,30 @@
         }
       }
     },
+    "/data/prizepicks-nfl-tomorrow-top-50.json": {
+      "get": {
+        "summary": "Get tomorrow's NFL props (top 50 by rank)",
+        "description": "Returns only the top 50 tomorrow NFL props by PrizePicks rank for strict connector payload limits.",
+        "operationId": "getNFLPropsTomorrowTop50",
+        "responses": {
+          "200": {
+            "description": "Successful response with top 50 NFL prop bet data for tomorrow",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/data/prizepicks-nfl-next-7-days.json": {
       "get": {
         "summary": "Get NFL props for next 7 days (standard)",
@@ -163,6 +187,30 @@
         "responses": {
           "200": {
             "description": "Successful response with top 200 NFL prop bet data for today",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/prizepicks-nfl-today-top-50.json": {
+      "get": {
+        "summary": "Get today's NFL props (top 50 by rank)",
+        "description": "Returns only the top 50 today's NFL props by PrizePicks rank for strict connector payload limits.",
+        "operationId": "getNFLPropsTodayTop50",
+        "responses": {
+          "200": {
+            "description": "Successful response with top 50 NFL prop bet data for today",
             "content": {
               "application/json": {
                 "schema": {
@@ -596,6 +644,223 @@
       }
     },
 
+    "/data/hierarchy/current_day/{sport}/props-index.json": {
+      "get": {
+        "summary": "Get per-game props index for current day (connector-safe)",
+        "description": "Small index listing gameIds and per-game/per-slate prop slice paths for a sport on current day. `sport` is a lowercase slug (e.g., nfl, nba, ncaaf).",
+        "operationId": "getSportPropsIndexToday",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Sport props index",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+              },
+              "text/plain": {
+                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/tomorrow/{sport}/props-index.json": {
+      "get": {
+        "summary": "Get per-game props index for tomorrow (connector-safe)",
+        "description": "Small index listing gameIds and per-game/per-slate prop slice paths for a sport on tomorrow. `sport` is a lowercase slug (e.g., nfl, nba, ncaaf).",
+        "operationId": "getSportPropsIndexTomorrow",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Sport props index",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+              },
+              "text/plain": {
+                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/current_day/{sport}/props-by-game/{gameId}.json": {
+      "get": {
+        "summary": "Get normalized props for a single game (current day)",
+        "description": "Connector-safe: returns only the normalized props for one gameId for the specified sport on current day.",
+        "operationId": "getSportPropsByGameToday",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props for the specified NFL game",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/tomorrow/{sport}/props-by-game/{gameId}.json": {
+      "get": {
+        "summary": "Get normalized props for a single game (tomorrow)",
+        "description": "Connector-safe: returns only the normalized props for one gameId for the specified sport on tomorrow.",
+        "operationId": "getSportPropsByGameTomorrow",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props for the specified NFL game",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/current_day/{sport}/props-by-slate/{slate}.json": {
+      "get": {
+        "summary": "Get normalized props for a single slate (current day)",
+        "description": "Connector-safe: returns normalized props for a slate bucket (e.g., early, late) for the specified sport on current day.",
+        "operationId": "getSportPropsBySlateToday",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "slate",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string", "description": "Slate slug such as early or late" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props for the specified NFL slate",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/data/hierarchy/tomorrow/{sport}/props-by-slate/{slate}.json": {
+      "get": {
+        "summary": "Get normalized props for a single slate (tomorrow)",
+        "description": "Connector-safe: returns normalized props for a slate bucket (e.g., early, late) for the specified sport on tomorrow.",
+        "operationId": "getSportPropsBySlateTomorrow",
+        "parameters": [
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          },
+          {
+            "name": "slate",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string", "description": "Slate slug such as early or late" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Array of normalized props for the specified NFL slate",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              },
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+
     "/data/hierarchy/archive/{date}/games.json": {
       "get": {
         "summary": "Get normalized games for an archived date (CST)",
@@ -863,6 +1128,42 @@
           "slate": { "type": "string" },
           "gameIds": { "type": "array", "items": { "type": "string" } },
           "totalProps": { "type": "integer" }
+        }
+      },
+      "SportPropsIndex": {
+        "type": "object",
+        "properties": {
+          "sport": { "type": "string" },
+          "sportSlug": { "type": "string" },
+          "dayBranch": { "type": "string" },
+          "gameCount": { "type": "integer" },
+          "propCount": { "type": "integer" },
+          "games": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "gameId": { "type": "string" },
+                "slate": { "type": "string" },
+                "startTime": { "type": "string" },
+                "startTimeIso": { "type": "string" },
+                "teams": { "type": "array", "items": { "type": "string" } },
+                "propCount": { "type": "integer" },
+                "path": { "type": "string" }
+              }
+            }
+          },
+          "slates": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "slate": { "type": "string" },
+                "propCount": { "type": "integer" },
+                "path": { "type": "string" }
+              }
+            }
+          }
         }
       }
     }

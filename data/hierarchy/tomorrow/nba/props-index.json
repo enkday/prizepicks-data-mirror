@@ -1,0 +1,117 @@
+{
+  "sport": "NBA",
+  "sportSlug": "nba",
+  "dayBranch": "tomorrow",
+  "gameCount": 8,
+  "propCount": 151,
+  "games": [
+    {
+      "gameId": "117151",
+      "slate": "Early",
+      "startTime": "12/14/25 02:10 PM CST",
+      "startTimeIso": "2025-12-14T15:10:00.000-05:00",
+      "teams": [
+        "Indiana Pacers",
+        "Washington Wizards"
+      ],
+      "propCount": 19,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/117151.json"
+    },
+    {
+      "gameId": "117152",
+      "slate": "Early",
+      "startTime": "12/14/25 02:40 PM CST",
+      "startTimeIso": "2025-12-14T15:40:00.000-05:00",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Charlotte Hornets"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/117152.json"
+    },
+    {
+      "gameId": "117153",
+      "slate": "Late",
+      "startTime": "12/14/25 05:10 PM CST",
+      "startTimeIso": "2025-12-14T18:10:00.000-05:00",
+      "teams": [
+        "Philadelphia 76ers",
+        "Atlanta Hawks"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/117153.json"
+    },
+    {
+      "gameId": "117154",
+      "slate": "Late",
+      "startTime": "12/14/25 05:10 PM CST",
+      "startTimeIso": "2025-12-14T18:10:00.000-05:00",
+      "teams": [
+        "Brooklyn Nets",
+        "Milwaukee Bucks"
+      ],
+      "propCount": 16,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/117154.json"
+    },
+    {
+      "gameId": "117155",
+      "slate": "Late",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "teams": [
+        "Minnesota Timberwolves",
+        "Sacramento Kings"
+      ],
+      "propCount": 22,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/117155.json"
+    },
+    {
+      "gameId": "117158",
+      "slate": "Late",
+      "startTime": "12/14/25 06:10 PM CST",
+      "startTimeIso": "2025-12-14T19:10:00.000-05:00",
+      "teams": [
+        "Chicago Bulls",
+        "New Orleans Pelicans"
+      ],
+      "propCount": 26,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/117158.json"
+    },
+    {
+      "gameId": "119980",
+      "slate": "Late",
+      "startTime": "12/14/25 07:10 PM CST",
+      "startTimeIso": "2025-12-14T20:10:00.000-05:00",
+      "teams": [
+        "Los Angeles Lakers",
+        "Phoenix Suns"
+      ],
+      "propCount": 15,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/119980.json"
+    },
+    {
+      "gameId": "117156",
+      "slate": "Late",
+      "startTime": "12/14/25 08:10 PM CST",
+      "startTimeIso": "2025-12-14T21:10:00.000-05:00",
+      "teams": [
+        "Golden State Warriors",
+        "Portland Trail Blazers"
+      ],
+      "propCount": 17,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/117156.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "early",
+      "propCount": 37,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-slate/early.json"
+    },
+    {
+      "slate": "late",
+      "propCount": 114,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
+    }
+  ]
+}

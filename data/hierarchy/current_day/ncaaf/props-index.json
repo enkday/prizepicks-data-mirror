@@ -1,0 +1,81 @@
+{
+  "sport": "NCAAF",
+  "sportSlug": "ncaaf",
+  "dayBranch": "current_day",
+  "gameCount": 5,
+  "propCount": 47,
+  "games": [
+    {
+      "gameId": "120313",
+      "slate": "Early",
+      "startTime": "12/13/25 11:00 AM CST",
+      "startTimeIso": "2025-12-13T12:00:00.000-05:00",
+      "teams": [
+        "Tarleton State Texans",
+        "Villanova Wildcats"
+      ],
+      "propCount": 6,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/120313.json"
+    },
+    {
+      "gameId": "113529",
+      "slate": "Early",
+      "startTime": "12/13/25 02:00 PM CST",
+      "startTimeIso": "2025-12-13T15:00:00.000-05:00",
+      "teams": [
+        "Army Black Knights",
+        "Navy Midshipmen"
+      ],
+      "propCount": 17,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/113529.json"
+    },
+    {
+      "gameId": "118953",
+      "slate": "Early",
+      "startTime": "12/13/25 02:30 PM CST",
+      "startTimeIso": "2025-12-13T15:30:00.000-05:00",
+      "teams": [
+        "Montana Grizzlies",
+        "South Dakota Coyotes"
+      ],
+      "propCount": 7,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/118953.json"
+    },
+    {
+      "gameId": "120312",
+      "slate": "Late",
+      "startTime": "12/13/25 04:00 PM CST",
+      "startTimeIso": "2025-12-13T17:00:00.000-05:00",
+      "teams": [
+        "Illinois State Redbirds",
+        "UC Davis Aggies"
+      ],
+      "propCount": 7,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/120312.json"
+    },
+    {
+      "gameId": "119007",
+      "slate": "Late",
+      "startTime": "12/13/25 07:00 PM CST",
+      "startTimeIso": "2025-12-13T20:00:00.000-05:00",
+      "teams": [
+        "Washington Huskies",
+        "Boise State Broncos"
+      ],
+      "propCount": 10,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119007.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "early",
+      "propCount": 30,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
+    },
+    {
+      "slate": "late",
+      "propCount": 17,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
+    }
+  ]
+}

@@ -9,8 +9,13 @@ Knowledge docs (follow after mirror fetch)
 
 ## Data sources (smallest-first)
 1) `/data/hierarchy/current_day|tomorrow/{games,teams,players,props,slates}.json` (CST buckets; archives: `/data/hierarchy/archive/{YYYY-MM-DD}/...`)
+1a) Connector-safe hierarchy slices per sport (full coverage, small payloads):
+	- `/data/hierarchy/current_day|tomorrow/{sport}/props-index.json`
+	- `/data/hierarchy/current_day|tomorrow/{sport}/props-by-game/{gameId}.json`
+	- `/data/hierarchy/current_day|tomorrow/{sport}/props-by-slate/{slate}.json`
+	- `{sport}` is a lowercase slug (e.g., `nfl`, `nba`, `ncaaf`).
 2) sport/day splits (e.g., `/data/prizepicks-nba-today.json`, `/data/prizepicks-nba-tomorrow.json`, `/data/prizepicks-nfl.json`)
-2a) small sport/day slices for Actions (preferred for grading): `/data/prizepicks-nfl-tomorrow-top-200.json` (and other `*-top-200.json`)
+2a) small sport/day slices for Actions (fallback only): `/data/prizepicks-nfl-tomorrow-top-50.json`, then `*-top-200.json`
 3) team day splits (NBA/NFL): `/data/nba-*/{team}.json`, `/data/nfl-*/{team}.json`
 4) `/data/prizepicks-<sport>-next-7-days.json` (all sports except Soccer/Golf)
 Never fetch `/data/prizepicks.json`.
@@ -25,7 +30,8 @@ Day filtering rule:
 
 Proof-of-fetch (mandatory)
 - Always list the exact mirror path(s) you called (e.g., `/data/prizepicks-nfl-tomorrow-top-200.json`). Do NOT list operationIds as “the endpoint”.
-- Any response that includes picks/grades/entries MUST include `scrapedDate` from the fetched `PrizePicksData` payload.
+- Any response that includes picks/grades/entries MUST include `scrapedDate` from a fetched `PrizePicksData` payload.
+- If you are primarily using hierarchy slice arrays (which have no `scrapedDate`), also fetch a tiny `PrizePicksData` endpoint (e.g., a `*-top-50.json` file) just to obtain `scrapedDate` as proof-of-scrape. Do NOT treat that top-N file as the full prop universe.
 - Do NOT invent `scrapedDate` for hierarchy arrays (they do not contain it).
 
 Tool honesty (mandatory)
@@ -72,10 +78,15 @@ Tool honesty (mandatory)
 - Ambiguous requests: pick the most reasonable default and state the assumption.
 - “NFL schedule/upcoming games” → show upcoming *PrizePicks* NFL games/slates from the mirror (not the full NFL schedule).
 - “NFL Sunday entry” (no date/slate) → use `/data/prizepicks-nfl-next-7-days.json`, pick nearest Sunday CST, include all Sunday games incl. SNF.
-- “NFL tomorrow” specifically → prefer `/data/prizepicks-nfl-tomorrow-top-200.json` for grading (connector-safe). Use hierarchy only for day/schedule context.
+- “<sport> tomorrow” specifically → prefer full-coverage, connector-safe hierarchy slices:
+	1) fetch `/data/hierarchy/tomorrow/games.json` (filter `sport`)
+	2) fetch `/data/hierarchy/tomorrow/{sport}/props-index.json`
+	3) fetch props per slate or per game via the `path` fields (or `/data/hierarchy/tomorrow/{sport}/props-by-game/{gameId}.json`)
+	Use top-N sport slices only if the connector blocks multi-call fetching.
 
 Default scope caps (to avoid huge outputs)
-- If a request is broad (e.g., “NFL picks for tomorrow”), grade the top 10 props by `rank` (or first 10 if rank missing) from the relevant mirror file.
+- If a request is broad (e.g., “NFL picks for tomorrow”), do NOT pretend a truncated file contains “the best” props.
+- Use per-game/per-slate fetching for coverage, then output only 10 graded props as the *display cap*.
 
 ## Payout reference
 - Power: 2=3x, 3=6x, 4=10x, 5=20x, 6=37.5x.

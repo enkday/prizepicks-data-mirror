@@ -1,0 +1,40 @@
+{
+  "sport": "NBA",
+  "sportSlug": "nba",
+  "dayBranch": "current_day",
+  "gameCount": 2,
+  "propCount": 183,
+  "games": [
+    {
+      "gameId": "119503",
+      "slate": "Late",
+      "startTime": "12/13/25 04:40 PM CST",
+      "startTimeIso": "2025-12-13T17:40:00.000-05:00",
+      "teams": [
+        "New York Knicks",
+        "Orlando Magic"
+      ],
+      "propCount": 102,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/119503.json"
+    },
+    {
+      "gameId": "119979",
+      "slate": "Late",
+      "startTime": "12/13/25 08:10 PM CST",
+      "startTimeIso": "2025-12-13T21:10:00.000-05:00",
+      "teams": [
+        "Oklahoma City Thunder",
+        "San Antonio Spurs"
+      ],
+      "propCount": 81,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/119979.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 183,
+      "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
+    }
+  ]
+}

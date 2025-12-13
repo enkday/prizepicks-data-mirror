@@ -46,23 +46,42 @@ function buildTopByRank({ inFile, outFile, limit }) {
 }
 
 function main() {
-  const limit = Number(process.env.ACTION_SLICE_LIMIT || 200);
+  const limits = (() => {
+    if (process.env.ACTION_SLICE_LIMITS) {
+      return String(process.env.ACTION_SLICE_LIMITS)
+        .split(',')
+        .map((v) => Number(v.trim()))
+        .filter((n) => Number.isFinite(n) && n > 0);
+    }
+
+    // Back-compat: ACTION_SLICE_LIMIT used to be a single numeric value.
+    if (process.env.ACTION_SLICE_LIMIT) {
+      const n = Number(process.env.ACTION_SLICE_LIMIT);
+      return Number.isFinite(n) && n > 0 ? [n] : [];
+    }
+
+    // Defaults: keep one very small slice for connectors + a larger fallback.
+    return [50, 200];
+  })();
 
   // Keep this intentionally small and focused: only endpoints needed by the GPT Action.
-  const jobs = [
-    {
+  const jobs = [];
+  for (const limit of limits) {
+    jobs.push({
       in: path.join(DATA_DIR, 'prizepicks-nfl-tomorrow.json'),
-      out: path.join(DATA_DIR, `prizepicks-nfl-tomorrow-top-${limit}.json`)
-    },
-    {
+      out: path.join(DATA_DIR, `prizepicks-nfl-tomorrow-top-${limit}.json`),
+      limit
+    });
+    jobs.push({
       in: path.join(DATA_DIR, 'prizepicks-nfl-today.json'),
-      out: path.join(DATA_DIR, `prizepicks-nfl-today-top-${limit}.json`)
-    }
-  ];
+      out: path.join(DATA_DIR, `prizepicks-nfl-today-top-${limit}.json`),
+      limit
+    });
+  }
 
   let any = false;
   for (const job of jobs) {
-    const ok = buildTopByRank({ inFile: job.in, outFile: job.out, limit });
+    const ok = buildTopByRank({ inFile: job.in, outFile: job.out, limit: job.limit });
     any = any || ok;
   }
 

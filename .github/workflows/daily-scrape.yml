@@ -62,6 +62,9 @@ jobs:
       - name: 🛠️ Build normalized hierarchy
         run: python3 scripts/build_prizepicks_normalized_v6.py
 
+      - name: 🧩 Build hierarchy slices (connector-safe)
+        run: python3 scripts/build_hierarchy_slices.py
+
       - name: 📊 Check if data changed
         id: check_changes
         run: |
