@@ -4,10 +4,14 @@ const path = require('path');
 
 const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+const isGithubActions = process.env.GITHUB_ACTIONS === 'true';
+
 const PRIZEPICKS_BASE_URLS = (
   process.env.PRIZEPICKS_BASE_URL
     ? [process.env.PRIZEPICKS_BASE_URL]
-    : ['https://api.prizepicks.com', 'https://partner-api.prizepicks.com']
+    : isGithubActions
+      ? ['https://partner-api.prizepicks.com', 'https://api.prizepicks.com']
+      : ['https://api.prizepicks.com', 'https://partner-api.prizepicks.com']
 ).map(s => s.replace(/\/$/, ''));
 
 const PRIZEPICKS_DEFAULT_HEADERS = {
@@ -32,7 +36,11 @@ function parseRetryAfterMs(retryAfterHeader) {
   return null;
 }
 
-async function axiosGetWithRetry(url, config, { maxAttempts = 6, baseDelayMs = 1500 } = {}) {
+async function axiosGetWithRetry(
+  url,
+  config,
+  { maxAttempts = 6, baseDelayMs = 1500, minDelayMs = 0, maxDelayMs = 30000 } = {}
+) {
   let lastError;
 
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
@@ -45,9 +53,11 @@ async function axiosGetWithRetry(url, config, { maxAttempts = 6, baseDelayMs = 1
       if (!isRetryable || attempt === maxAttempts) break;
 
       const retryAfterMs = parseRetryAfterMs(error?.response?.headers?.['retry-after']);
-      const backoffMs = Math.min(30000, Math.round(baseDelayMs * (2 ** (attempt - 1))));
+      const backoffMs = Math.min(maxDelayMs, Math.round(baseDelayMs * (2 ** (attempt - 1))));
       const jitterMs = Math.floor(Math.random() * 250);
-      const waitMs = Math.max(0, (retryAfterMs ?? backoffMs) + jitterMs);
+      // Many CDNs send Retry-After: 1 repeatedly; enforce a sane minimum in CI.
+      const chosenMs = retryAfterMs ?? backoffMs;
+      const waitMs = Math.max(minDelayMs, Math.max(0, chosenMs + jitterMs));
       console.log(`   ⏳ Rate limited (${status}); retrying in ${Math.ceil(waitMs / 1000)}s (attempt ${attempt + 1}/${maxAttempts})...`);
       await sleep(waitMs);
     }
@@ -68,7 +78,12 @@ async function fetchProjectionsForLeague(leagueId) {
           headers: PRIZEPICKS_DEFAULT_HEADERS,
           timeout: 20000
         },
-        { maxAttempts: 10, baseDelayMs: 2500 }
+        {
+          maxAttempts: 10,
+          baseDelayMs: 2500,
+          minDelayMs: isGithubActions ? 5000 : 0,
+          maxDelayMs: isGithubActions ? 60000 : 30000
+        }
       );
 
       return response;
@@ -87,6 +102,28 @@ async function fetchProjectionsForLeague(leagueId) {
   }
 
   throw lastError ?? new Error('Failed to fetch projections');
+}
+
+async function fetchProjectionsForLeagueWithCooldown(leagueId, leagueName) {
+  const maxCycles = Number(process.env.PRIZEPICKS_LEAGUE_CYCLES || 3);
+  const baseCooldownMs = Number(process.env.PRIZEPICKS_LEAGUE_COOLDOWN_MS || (isGithubActions ? 20000 : 5000));
+  const maxCooldownMs = Number(process.env.PRIZEPICKS_LEAGUE_MAX_COOLDOWN_MS || (isGithubActions ? 120000 : 30000));
+
+  let lastError;
+  for (let cycle = 1; cycle <= maxCycles; cycle++) {
+    try {
+      return await fetchProjectionsForLeague(leagueId);
+    } catch (error) {
+      lastError = error;
+      const status = error?.response?.status;
+      if (status !== 429 || cycle === maxCycles) break;
+
+      const waitMs = Math.min(maxCooldownMs, baseCooldownMs * cycle) + Math.floor(Math.random() * 500);
+      console.log(`   🧊 ${leagueName} still rate-limited; cooling down ${Math.ceil(waitMs / 1000)}s (cycle ${cycle + 1}/${maxCycles})...`);
+      await sleep(waitMs);
+    }
+  }
+  throw lastError;
 }
 
 /**
@@ -118,7 +155,7 @@ async function scrapePrizePicks() {
       console.log(`📊 Fetching ${leagueName} props...`);
       
       try {
-        const response = await fetchProjectionsForLeague(leagueId);
+        const response = await fetchProjectionsForLeagueWithCooldown(leagueId, leagueName);
         
         const data = response.data;
         // Build included maps per response (players, teams, games, etc.)
@@ -145,7 +182,7 @@ async function scrapePrizePicks() {
         leagueResults.push({ leagueName, ok: true, status: response.status, count: Array.isArray(data.data) ? data.data.length : 0 });
         
         // Add delay to avoid rate limiting (with jitter)
-        await sleep(1200 + Math.floor(Math.random() * 600));
+        await sleep(1500 + Math.floor(Math.random() * 900));
         
       } catch (error) {
         const status = error?.response?.status;
