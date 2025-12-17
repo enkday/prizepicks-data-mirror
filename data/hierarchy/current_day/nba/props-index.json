@@ -2,26 +2,38 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 28,
+  "gameCount": 2,
+  "propCount": 29,
   "games": [
     {
-      "gameId": "120437",
+      "gameId": "114586",
       "slate": "Late",
-      "startTime": "12/16/25 07:40 PM CST",
-      "startTimeIso": "2025-12-16T20:40:00.000-05:00",
+      "startTime": "12/17/25 07:10 PM CST",
+      "startTimeIso": "2025-12-17T20:10:00.000-05:00",
       "teams": [
-        "New York Knicks",
-        "San Antonio Spurs"
+        "Memphis Grizzlies",
+        "Minnesota Timberwolves"
       ],
-      "propCount": 28,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/120437.json"
+      "propCount": 2,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/114586.json"
+    },
+    {
+      "gameId": "114588",
+      "slate": "Late",
+      "startTime": "12/17/25 07:10 PM CST",
+      "startTimeIso": "2025-12-17T20:10:00.000-05:00",
+      "teams": [
+        "Cleveland Cavaliers",
+        "Chicago Bulls"
+      ],
+      "propCount": 27,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/114588.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 28,
+      "propCount": 29,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
