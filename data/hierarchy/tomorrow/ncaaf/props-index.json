@@ -2,26 +2,55 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 2,
+  "gameCount": 3,
+  "propCount": 23,
   "games": [
     {
-      "gameId": "118896",
-      "slate": "Late",
-      "startTime": "12/17/25 07:30 PM CST",
-      "startTimeIso": "2025-12-17T20:30:00.000-05:00",
+      "gameId": "119009",
+      "slate": "Early",
+      "startTime": "12/19/25 10:00 AM CST",
+      "startTimeIso": "2025-12-19T11:00:00.000-05:00",
       "teams": [
-        "Delaware Fightin' Blue Hens",
-        "Louisiana Ragin' Cajuns"
+        "Kennesaw State Owls",
+        "Western Michigan Broncos"
       ],
-      "propCount": 2,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/118896.json"
+      "propCount": 1,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119009.json"
+    },
+    {
+      "gameId": "119078",
+      "slate": "Early",
+      "startTime": "12/19/25 01:30 PM CST",
+      "startTimeIso": "2025-12-19T14:30:00.000-05:00",
+      "teams": [
+        "North Carolina State Wolfpack",
+        "Memphis Tigers"
+      ],
+      "propCount": 1,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119078.json"
+    },
+    {
+      "gameId": "119010",
+      "slate": "Late",
+      "startTime": "12/19/25 07:00 PM CST",
+      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
+      "teams": [
+        "Alabama Crimson Tide",
+        "Oklahoma Sooners"
+      ],
+      "propCount": 21,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119010.json"
     }
   ],
   "slates": [
     {
-      "slate": "late",
+      "slate": "early",
       "propCount": 2,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/early.json"
+    },
+    {
+      "slate": "late",
+      "propCount": 21,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]
