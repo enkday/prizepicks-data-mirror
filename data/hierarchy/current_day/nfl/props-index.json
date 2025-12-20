@@ -2,26 +2,38 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 56,
+  "gameCount": 2,
+  "propCount": 163,
   "games": [
     {
-      "gameId": "114924",
+      "gameId": "117899",
       "slate": "Late",
-      "startTime": "12/18/25 07:15 PM CST",
-      "startTimeIso": "2025-12-18T20:15:00.000-05:00",
+      "startTime": "12/20/25 04:00 PM CST",
+      "startTimeIso": "2025-12-20T17:00:00.000-05:00",
       "teams": [
-        "Seattle Seahawks",
-        "Los Angeles Rams"
+        "Washington Commanders",
+        "Philadelphia Eagles"
       ],
-      "propCount": 56,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/114924.json"
+      "propCount": 87,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/117899.json"
+    },
+    {
+      "gameId": "117900",
+      "slate": "Late",
+      "startTime": "12/20/25 07:20 PM CST",
+      "startTimeIso": "2025-12-20T20:20:00.000-05:00",
+      "teams": [
+        "Green Bay Packers",
+        "Chicago Bears"
+      ],
+      "propCount": 76,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/117900.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 56,
+      "propCount": 163,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]

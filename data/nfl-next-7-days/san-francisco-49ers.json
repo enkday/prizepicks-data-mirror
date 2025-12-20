@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-19T12:30:05.910Z",
-  "scrapedDate": "Friday, December 19, 2025 at 12:30 PM UTC",
+  "scrapedAt": "2025-12-20T12:26:37.249Z",
+  "scrapedDate": "Saturday, December 20, 2025 at 12:26 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 19,
+  "totalProps": 25,
   "props": [
     {
       "player": "Brock Purdy",
       "stat": "Pass Yards",
-      "line": 243.5,
+      "line": 242.5,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -21,13 +21,13 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4657,
+      "rank": 5809,
       "gameId": "116004"
     },
     {
       "player": "George Kittle",
       "stat": "Receiving Yards",
-      "line": 64.5,
+      "line": 66.5,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -38,7 +38,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4706,
+      "rank": 5862,
       "gameId": "116004"
     },
     {
@@ -55,13 +55,13 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4710,
+      "rank": 5866,
       "gameId": "116004"
     },
     {
-      "player": "Christian McCaffrey",
+      "player": "Jauan Jennings",
       "stat": "Receiving Yards",
-      "line": 39.5,
+      "line": 59.5,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -72,7 +72,24 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4728,
+      "rank": 5871,
+      "gameId": "116004"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "stat": "Receiving Yards",
+      "line": 36.5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 5896,
       "gameId": "116004"
     },
     {
@@ -89,7 +106,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4739,
+      "rank": 5897,
       "gameId": "116004"
     },
     {
@@ -106,13 +123,13 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4740,
+      "rank": 5900,
       "gameId": "116004"
     },
     {
       "player": "Brian Robinson",
       "stat": "Rush Yards",
-      "line": 23.5,
+      "line": 22.5,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -123,7 +140,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4767,
+      "rank": 5934,
       "gameId": "116004"
     },
     {
@@ -140,7 +157,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4769,
+      "rank": 5935,
       "gameId": "116004"
     },
     {
@@ -157,7 +174,58 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4770,
+      "rank": 5936,
+      "gameId": "116004"
+    },
+    {
+      "player": "Brock Purdy",
+      "stat": "Pass Completions",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 5937,
+      "gameId": "116004"
+    },
+    {
+      "player": "Jauan Jennings",
+      "stat": "Longest Reception",
+      "line": 21.5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 5938,
+      "gameId": "116004"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "stat": "Rush Attempts",
+      "line": 18.5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 5962,
       "gameId": "116004"
     },
     {
@@ -174,7 +242,24 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4798,
+      "rank": 5966,
+      "gameId": "116004"
+    },
+    {
+      "player": "Brock Purdy",
+      "stat": "Rush Yards",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 5981,
       "gameId": "116004"
     },
     {
@@ -191,24 +276,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4801,
-      "gameId": "116004"
-    },
-    {
-      "player": "Brock Purdy",
-      "stat": "Rush Yards",
-      "line": 9.5,
-      "sport": "NFL",
-      "startTime": "12/22/25 07:15 PM CST",
-      "startTimeCST": "12/22/25 07:15 PM CST",
-      "startDateCST": "2025-12-22",
-      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 4805,
+      "rank": 5982,
       "gameId": "116004"
     },
     {
@@ -225,7 +293,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4807,
+      "rank": 5993,
       "gameId": "116004"
     },
     {
@@ -242,7 +310,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4809,
+      "rank": 5995,
       "gameId": "116004"
     },
     {
@@ -259,13 +327,13 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4810,
+      "rank": 5996,
       "gameId": "116004"
     },
     {
-      "player": "Brock Purdy",
-      "stat": "Rush Attempts",
-      "line": 3.5,
+      "player": "George Kittle",
+      "stat": "Receptions",
+      "line": 6,
       "sport": "NFL",
       "startTime": "12/22/25 07:15 PM CST",
       "startTimeCST": "12/22/25 07:15 PM CST",
@@ -276,7 +344,41 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4829,
+      "rank": 6005,
+      "gameId": "116004"
+    },
+    {
+      "player": "Christian McCaffrey",
+      "stat": "Receptions",
+      "line": 5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 6014,
+      "gameId": "116004"
+    },
+    {
+      "player": "Jauan Jennings",
+      "stat": "Receptions",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "12/22/25 07:15 PM CST",
+      "startTimeCST": "12/22/25 07:15 PM CST",
+      "startDateCST": "2025-12-22",
+      "startTimeIso": "2025-12-22T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 6017,
       "gameId": "116004"
     },
     {
@@ -293,7 +395,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4846,
+      "rank": 6041,
       "gameId": "116004"
     },
     {
@@ -310,7 +412,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4858,
+      "rank": 6055,
       "gameId": "116004"
     },
     {
@@ -327,7 +429,7 @@
       "teamCode": "SF",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 4879,
+      "rank": 6076,
       "gameId": "116004"
     }
   ]

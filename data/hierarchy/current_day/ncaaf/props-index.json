@@ -3,54 +3,54 @@
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
   "gameCount": 3,
-  "propCount": 32,
+  "propCount": 82,
   "games": [
     {
-      "gameId": "119009",
+      "gameId": "119011",
       "slate": "Early",
-      "startTime": "12/19/25 10:00 AM CST",
-      "startTimeIso": "2025-12-19T11:00:00.000-05:00",
+      "startTime": "12/20/25 11:00 AM CST",
+      "startTimeIso": "2025-12-20T12:00:00.000-05:00",
       "teams": [
-        "Kennesaw State Owls",
-        "Western Michigan Broncos"
+        "Miami (FL) Hurricanes",
+        "Texas A&M Aggies"
       ],
-      "propCount": 1,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119009.json"
+      "propCount": 25,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119011.json"
     },
     {
-      "gameId": "119078",
+      "gameId": "119012",
       "slate": "Early",
-      "startTime": "12/19/25 01:30 PM CST",
-      "startTimeIso": "2025-12-19T14:30:00.000-05:00",
+      "startTime": "12/20/25 02:30 PM CST",
+      "startTimeIso": "2025-12-20T15:30:00.000-05:00",
       "teams": [
-        "North Carolina State Wolfpack",
-        "Memphis Tigers"
+        "Ole Miss Rebels",
+        "Tulane Green Wave"
       ],
-      "propCount": 1,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119078.json"
+      "propCount": 32,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119012.json"
     },
     {
-      "gameId": "119010",
+      "gameId": "119013",
       "slate": "Late",
-      "startTime": "12/19/25 07:00 PM CST",
-      "startTimeIso": "2025-12-19T20:00:00.000-05:00",
+      "startTime": "12/20/25 06:30 PM CST",
+      "startTimeIso": "2025-12-20T19:30:00.000-05:00",
       "teams": [
-        "Alabama Crimson Tide",
-        "Oklahoma Sooners"
+        "Oregon Ducks",
+        "James Madison Dukes"
       ],
-      "propCount": 30,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119010.json"
+      "propCount": 25,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119013.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 2,
+      "propCount": 57,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 30,
+      "propCount": 25,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
