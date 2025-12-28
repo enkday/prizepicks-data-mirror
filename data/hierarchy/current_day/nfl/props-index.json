@@ -2,38 +2,139 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 105,
+  "gameCount": 10,
+  "propCount": 555,
   "games": [
     {
-      "gameId": "119683",
-      "slate": "Late",
-      "startTime": "12/27/25 03:30 PM CST",
-      "startTimeIso": "2025-12-27T16:30:00.000-05:00",
+      "gameId": "116783",
+      "slate": "Early",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
       "teams": [
-        "Houston Texans",
-        "Los Angeles Chargers"
+        "Tampa Bay Buccaneers",
+        "Miami Dolphins"
       ],
-      "propCount": 65,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/119683.json"
+      "propCount": 59,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116783.json"
     },
     {
-      "gameId": "119684",
-      "slate": "Late",
-      "startTime": "12/27/25 07:00 PM CST",
-      "startTimeIso": "2025-12-27T20:00:00.000-05:00",
+      "gameId": "116784",
+      "slate": "Early",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
       "teams": [
-        "Green Bay Packers",
-        "Baltimore Ravens"
+        "Pittsburgh Steelers",
+        "Cleveland Browns"
       ],
-      "propCount": 40,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/119684.json"
+      "propCount": 26,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116784.json"
+    },
+    {
+      "gameId": "116785",
+      "slate": "Early",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "teams": [
+        "New Orleans Saints",
+        "Tennessee Titans"
+      ],
+      "propCount": 60,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116785.json"
+    },
+    {
+      "gameId": "116786",
+      "slate": "Early",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "teams": [
+        "Jacksonville Jaguars",
+        "Indianapolis Colts"
+      ],
+      "propCount": 55,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116786.json"
+    },
+    {
+      "gameId": "116787",
+      "slate": "Early",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "teams": [
+        "New England Patriots",
+        "New York Jets"
+      ],
+      "propCount": 44,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116787.json"
+    },
+    {
+      "gameId": "119685",
+      "slate": "Early",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "teams": [
+        "Seattle Seahawks",
+        "Carolina Panthers"
+      ],
+      "propCount": 72,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/119685.json"
+    },
+    {
+      "gameId": "119686",
+      "slate": "Early",
+      "startTime": "12/28/25 12:00 PM CST",
+      "startTimeIso": "2025-12-28T13:00:00.000-05:00",
+      "teams": [
+        "Cincinnati Bengals",
+        "Arizona Cardinals"
+      ],
+      "propCount": 63,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/119686.json"
+    },
+    {
+      "gameId": "119687",
+      "slate": "Late",
+      "startTime": "12/28/25 03:05 PM CST",
+      "startTimeIso": "2025-12-28T16:05:00.000-05:00",
+      "teams": [
+        "Las Vegas Raiders",
+        "New York Giants"
+      ],
+      "propCount": 49,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/119687.json"
+    },
+    {
+      "gameId": "116788",
+      "slate": "Late",
+      "startTime": "12/28/25 03:25 PM CST",
+      "startTimeIso": "2025-12-28T16:25:00.000-05:00",
+      "teams": [
+        "Buffalo Bills",
+        "Philadelphia Eagles"
+      ],
+      "propCount": 73,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/116788.json"
+    },
+    {
+      "gameId": "117038",
+      "slate": "Late",
+      "startTime": "12/28/25 07:20 PM CST",
+      "startTimeIso": "2025-12-28T20:20:00.000-05:00",
+      "teams": [
+        "San Francisco 49ers",
+        "Chicago Bears"
+      ],
+      "propCount": 54,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/117038.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 379,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 105,
+      "propCount": 176,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
