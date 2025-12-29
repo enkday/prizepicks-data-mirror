@@ -2,80 +2,27 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 5,
-  "propCount": 12,
+  "gameCount": 1,
+  "propCount": 1,
   "games": [
     {
-      "gameId": "119021",
+      "gameId": "119079",
       "slate": "Early",
-      "startTime": "12/27/25 10:00 AM CST",
-      "startTimeIso": "2025-12-27T11:00:00.000-05:00",
+      "startTime": "12/29/25 01:00 PM CST",
+      "startTimeIso": "2025-12-29T14:00:00.000-05:00",
       "teams": [
-        "Pittsburgh Panthers",
-        "East Carolina Pirates"
-      ],
-      "propCount": 2,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119021.json"
-    },
-    {
-      "gameId": "119022",
-      "slate": "Early",
-      "startTime": "12/27/25 11:00 AM CST",
-      "startTimeIso": "2025-12-27T12:00:00.000-05:00",
-      "teams": [
-        "Penn State Nittany Lions",
-        "Clemson Tigers"
-      ],
-      "propCount": 2,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119022.json"
-    },
-    {
-      "gameId": "119024",
-      "slate": "Early",
-      "startTime": "12/27/25 02:30 PM CST",
-      "startTimeIso": "2025-12-27T15:30:00.000-05:00",
-      "teams": [
-        "BYU Cougars",
-        "Georgia Tech Yellow Jackets"
-      ],
-      "propCount": 3,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119024.json"
-    },
-    {
-      "gameId": "119026",
-      "slate": "Late",
-      "startTime": "12/27/25 04:45 PM CST",
-      "startTimeIso": "2025-12-27T17:45:00.000-05:00",
-      "teams": [
-        "San Diego State Aztecs",
-        "North Texas Mean Green"
+        "Appalachian State Mountaineers",
+        "Georgia Southern Eagles"
       ],
       "propCount": 1,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119026.json"
-    },
-    {
-      "gameId": "119027",
-      "slate": "Late",
-      "startTime": "12/27/25 06:30 PM CST",
-      "startTimeIso": "2025-12-27T19:30:00.000-05:00",
-      "teams": [
-        "Missouri Tigers",
-        "Virginia Cavaliers"
-      ],
-      "propCount": 4,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119027.json"
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119079.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 7,
+      "propCount": 1,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
-    },
-    {
-      "slate": "late",
-      "propCount": 5,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
 }
