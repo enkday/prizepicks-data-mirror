@@ -2,20 +2,44 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 1,
+  "gameCount": 3,
+  "propCount": 4,
   "games": [
     {
-      "gameId": "119079",
+      "gameId": "119029",
       "slate": "Early",
-      "startTime": "12/29/25 01:00 PM CST",
-      "startTimeIso": "2025-12-29T14:00:00.000-05:00",
+      "startTime": "12/30/25 01:00 PM CST",
+      "startTimeIso": "2025-12-30T14:00:00.000-05:00",
       "teams": [
-        "Appalachian State Mountaineers",
-        "Georgia Southern Eagles"
+        "Louisiana Tech Bulldogs",
+        "Coastal Carolina Chanticleers"
       ],
       "propCount": 1,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119079.json"
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119029.json"
+    },
+    {
+      "gameId": "119030",
+      "slate": "Late",
+      "startTime": "12/30/25 04:30 PM CST",
+      "startTimeIso": "2025-12-30T17:30:00.000-05:00",
+      "teams": [
+        "Illinois Fighting Illini",
+        "Tennessee Volunteers"
+      ],
+      "propCount": 2,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119030.json"
+    },
+    {
+      "gameId": "119031",
+      "slate": "Late",
+      "startTime": "12/30/25 08:00 PM CST",
+      "startTimeIso": "2025-12-30T21:00:00.000-05:00",
+      "teams": [
+        "TCU Horned Frogs",
+        "USC Trojans"
+      ],
+      "propCount": 1,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119031.json"
     }
   ],
   "slates": [
@@ -23,6 +47,11 @@
       "slate": "early",
       "propCount": 1,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
+    },
+    {
+      "slate": "late",
+      "propCount": 3,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
 }
