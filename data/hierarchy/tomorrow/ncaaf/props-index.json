@@ -2,26 +2,55 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 9,
+  "gameCount": 3,
+  "propCount": 63,
   "games": [
     {
-      "gameId": "121720",
-      "slate": "Late",
-      "startTime": "12/31/25 06:30 PM CST",
-      "startTimeIso": "2025-12-31T19:30:00.000-05:00",
+      "gameId": "121829",
+      "slate": "Early",
+      "startTime": "01/01/26 11:00 AM CST",
+      "startTimeIso": "2026-01-01T12:00:00.000-05:00",
       "teams": [
-        "Ohio State Buckeyes",
-        "Miami (FL) Hurricanes"
+        "Texas Tech Red Raiders",
+        "Oregon Ducks"
       ],
-      "propCount": 9,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/121720.json"
+      "propCount": 27,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/121829.json"
+    },
+    {
+      "gameId": "121690",
+      "slate": "Late",
+      "startTime": "01/01/26 03:00 PM CST",
+      "startTimeIso": "2026-01-01T16:00:00.000-05:00",
+      "teams": [
+        "Alabama Crimson Tide",
+        "Indiana Hoosiers"
+      ],
+      "propCount": 16,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/121690.json"
+    },
+    {
+      "gameId": "121745",
+      "slate": "Late",
+      "startTime": "01/01/26 07:00 PM CST",
+      "startTimeIso": "2026-01-01T20:00:00.000-05:00",
+      "teams": [
+        "Ole Miss Rebels",
+        "Georgia Bulldogs"
+      ],
+      "propCount": 20,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/121745.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 27,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 9,
+      "propCount": 36,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

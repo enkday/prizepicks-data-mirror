@@ -1,16 +1,16 @@
 {
-  "scrapedAt": "2025-12-30T12:29:44.635Z",
-  "scrapedDate": "Tuesday, December 30, 2025 at 12:29 PM UTC",
+  "scrapedAt": "2025-12-31T12:31:04.093Z",
+  "scrapedDate": "Wednesday, December 31, 2025 at 12:31 PM UTC",
   "source": "PrizePicks API",
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 32,
+  "totalProps": 45,
   "props": [
     {
-      "player": "Baker Mayfield",
-      "stat": "Pass Yards",
-      "line": 222.5,
+      "player": "Mike Evans",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 20.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
       "startTimeCST": "01/03/26 03:30 PM CST",
@@ -21,13 +21,166 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 17,
+      "rank": 2,
+      "gameId": "123037"
+    },
+    {
+      "player": "Chris Godwin",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": 18.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7,
+      "gameId": "123037"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": 18.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 8,
+      "gameId": "123037"
+    },
+    {
+      "player": "Mike Evans",
+      "stat": "Yards on First Reception",
+      "line": 10.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 19,
+      "gameId": "123037"
+    },
+    {
+      "player": "Jalen McMillan",
+      "stat": "Yards on First Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 20,
+      "gameId": "123037"
+    },
+    {
+      "player": "Emeka Egbuka",
+      "stat": "Yards on First Reception",
+      "line": 9.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 21,
+      "gameId": "123037"
+    },
+    {
+      "player": "Chris Godwin",
+      "stat": "Yards on First Reception",
+      "line": 8.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 28,
+      "gameId": "123037"
+    },
+    {
+      "player": "Cade Otton",
+      "stat": "Yards on First Reception",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 31,
+      "gameId": "123037"
+    },
+    {
+      "player": "Baker Mayfield",
+      "stat": "Yards on First Pass Completion",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 32,
+      "gameId": "123037"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Yards on First Reception",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 43,
       "gameId": "123037"
     },
     {
       "player": "Baker Mayfield",
       "stat": "Pass Yards",
-      "line": 222.5,
+      "line": 223.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
       "startTimeCST": "01/03/26 03:30 PM CST",
@@ -38,7 +191,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 18,
+      "rank": 69,
       "gameId": "123037"
     },
     {
@@ -55,13 +208,13 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 72,
+      "rank": 123,
       "gameId": "123037"
     },
     {
       "player": "Mike Evans",
       "stat": "Receiving Yards",
-      "line": 52.5,
+      "line": 53.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
       "startTimeCST": "01/03/26 03:30 PM CST",
@@ -72,13 +225,13 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 75,
+      "rank": 125,
       "gameId": "123037"
     },
     {
       "player": "Baker Mayfield",
       "stat": "Longest Completion",
-      "line": 35.5,
+      "line": 34.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
       "startTimeCST": "01/03/26 03:30 PM CST",
@@ -89,7 +242,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 115,
+      "rank": 164,
       "gameId": "123037"
     },
     {
@@ -106,7 +259,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 118,
+      "rank": 167,
       "gameId": "123037"
     },
     {
@@ -123,7 +276,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 120,
+      "rank": 170,
       "gameId": "123037"
     },
     {
@@ -140,7 +293,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 121,
+      "rank": 171,
       "gameId": "123037"
     },
     {
@@ -157,7 +310,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 155,
+      "rank": 205,
       "gameId": "123037"
     },
     {
@@ -174,7 +327,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 169,
+      "rank": 223,
       "gameId": "123037"
     },
     {
@@ -191,30 +344,13 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 170,
-      "gameId": "123037"
-    },
-    {
-      "player": "Bucky Irving",
-      "stat": "Receiving Yards",
-      "line": 17.5,
-      "sport": "NFL",
-      "startTime": "01/03/26 03:30 PM CST",
-      "startTimeCST": "01/03/26 03:30 PM CST",
-      "startDateCST": "2026-01-03",
-      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 202,
+      "rank": 224,
       "gameId": "123037"
     },
     {
       "player": "Cade Otton",
       "stat": "Receiving Yards",
-      "line": 17.5,
+      "line": 20.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
       "startTimeCST": "01/03/26 03:30 PM CST",
@@ -225,7 +361,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 203,
+      "rank": 225,
       "gameId": "123037"
     },
     {
@@ -242,7 +378,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 204,
+      "rank": 257,
       "gameId": "123037"
     },
     {
@@ -259,7 +395,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 208,
+      "rank": 262,
+      "gameId": "123037"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Receiving Yards",
+      "line": 16.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 264,
       "gameId": "123037"
     },
     {
@@ -276,7 +429,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 211,
+      "rank": 267,
       "gameId": "123037"
     },
     {
@@ -293,7 +446,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 212,
+      "rank": 268,
       "gameId": "123037"
     },
     {
@@ -310,7 +463,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 213,
+      "rank": 269,
       "gameId": "123037"
     },
     {
@@ -327,13 +480,13 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 226,
+      "rank": 284,
       "gameId": "123037"
     },
     {
       "player": "Rachaad White",
       "stat": "Rush Yards",
-      "line": 12.5,
+      "line": 11.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
       "startTimeCST": "01/03/26 03:30 PM CST",
@@ -344,7 +497,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 229,
+      "rank": 292,
+      "gameId": "123037"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Longest Reception",
+      "line": 11.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 293,
       "gameId": "123037"
     },
     {
@@ -361,7 +531,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 230,
+      "rank": 294,
       "gameId": "123037"
     },
     {
@@ -378,24 +548,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 233,
-      "gameId": "123037"
-    },
-    {
-      "player": "Bucky Irving",
-      "stat": "Longest Reception",
-      "line": 10.5,
-      "sport": "NFL",
-      "startTime": "01/03/26 03:30 PM CST",
-      "startTimeCST": "01/03/26 03:30 PM CST",
-      "startDateCST": "2026-01-03",
-      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 236,
+      "rank": 296,
       "gameId": "123037"
     },
     {
@@ -412,7 +565,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 249,
+      "rank": 315,
       "gameId": "123037"
     },
     {
@@ -429,7 +582,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 250,
+      "rank": 317,
+      "gameId": "123037"
+    },
+    {
+      "player": "Mike Evans",
+      "stat": "Rec Targets",
+      "line": 7.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 319,
       "gameId": "123037"
     },
     {
@@ -446,7 +616,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 255,
+      "rank": 323,
       "gameId": "123037"
     },
     {
@@ -463,12 +633,29 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 256,
+      "rank": 324,
       "gameId": "123037"
     },
     {
-      "player": "Mike Evans",
-      "stat": "Receptions",
+      "player": "Chris Godwin",
+      "stat": "Rec Targets",
+      "line": 5.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 335,
+      "gameId": "123037"
+    },
+    {
+      "player": "Emeka Egbuka",
+      "stat": "Rec Targets",
       "line": 4.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
@@ -480,7 +667,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 275,
+      "rank": 348,
+      "gameId": "123037"
+    },
+    {
+      "player": "Jalen McMillan",
+      "stat": "Rec Targets",
+      "line": 4.5,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 349,
       "gameId": "123037"
     },
     {
@@ -497,12 +701,12 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 287,
+      "rank": 362,
       "gameId": "123037"
     },
     {
-      "player": "Chris Godwin",
-      "stat": "Receptions",
+      "player": "Cade Otton",
+      "stat": "Rec Targets",
       "line": 3.5,
       "sport": "NFL",
       "startTime": "01/03/26 03:30 PM CST",
@@ -514,7 +718,24 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 289,
+      "rank": 368,
+      "gameId": "123037"
+    },
+    {
+      "player": "Bucky Irving",
+      "stat": "Rec Targets",
+      "line": 3,
+      "sport": "NFL",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeCST": "01/03/26 03:30 PM CST",
+      "startDateCST": "2026-01-03",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 370,
       "gameId": "123037"
     },
     {
@@ -531,7 +752,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 301,
+      "rank": 380,
       "gameId": "123037"
     },
     {
@@ -548,7 +769,7 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 318,
+      "rank": 397,
       "gameId": "123037"
     }
   ]
