@@ -3,54 +3,54 @@
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
   "gameCount": 3,
-  "propCount": 26,
+  "propCount": 76,
   "games": [
     {
-      "gameId": "119032",
+      "gameId": "121829",
       "slate": "Early",
-      "startTime": "12/31/25 11:00 AM CST",
-      "startTimeIso": "2025-12-31T12:00:00.000-05:00",
+      "startTime": "01/01/26 11:00 AM CST",
+      "startTimeIso": "2026-01-01T12:00:00.000-05:00",
       "teams": [
-        "Vanderbilt Commodores",
-        "Iowa Hawkeyes"
+        "Texas Tech Red Raiders",
+        "Oregon Ducks"
       ],
-      "propCount": 1,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119032.json"
+      "propCount": 27,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/121829.json"
     },
     {
-      "gameId": "119080",
-      "slate": "Early",
-      "startTime": "12/31/25 01:00 PM CST",
-      "startTimeIso": "2025-12-31T14:00:00.000-05:00",
-      "teams": [
-        "Duke Blue Devils",
-        "Arizona State Sun Devils"
-      ],
-      "propCount": 4,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119080.json"
-    },
-    {
-      "gameId": "121720",
+      "gameId": "121690",
       "slate": "Late",
-      "startTime": "12/31/25 06:30 PM CST",
-      "startTimeIso": "2025-12-31T19:30:00.000-05:00",
+      "startTime": "01/01/26 03:00 PM CST",
+      "startTimeIso": "2026-01-01T16:00:00.000-05:00",
       "teams": [
-        "Ohio State Buckeyes",
-        "Miami (FL) Hurricanes"
+        "Alabama Crimson Tide",
+        "Indiana Hoosiers"
       ],
       "propCount": 21,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/121720.json"
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/121690.json"
+    },
+    {
+      "gameId": "121745",
+      "slate": "Late",
+      "startTime": "01/01/26 07:00 PM CST",
+      "startTimeIso": "2026-01-01T20:00:00.000-05:00",
+      "teams": [
+        "Ole Miss Rebels",
+        "Georgia Bulldogs"
+      ],
+      "propCount": 28,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/121745.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 5,
+      "propCount": 27,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 21,
+      "propCount": 49,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
