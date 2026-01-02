@@ -2,26 +2,38 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 59,
+  "gameCount": 2,
+  "propCount": 186,
   "games": [
     {
-      "gameId": "117288",
+      "gameId": "123037",
       "slate": "Late",
-      "startTime": "12/29/25 07:15 PM CST",
-      "startTimeIso": "2025-12-29T20:15:00.000-05:00",
+      "startTime": "01/03/26 03:30 PM CST",
+      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
       "teams": [
-        "Los Angeles Rams",
-        "Atlanta Falcons"
+        "Carolina Panthers",
+        "Tampa Bay Buccaneers"
       ],
-      "propCount": 59,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/117288.json"
+      "propCount": 95,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/123037.json"
+    },
+    {
+      "gameId": "123038",
+      "slate": "Late",
+      "startTime": "01/03/26 07:00 PM CST",
+      "startTimeIso": "2026-01-03T20:00:00.000-05:00",
+      "teams": [
+        "Seattle Seahawks",
+        "San Francisco 49ers"
+      ],
+      "propCount": 91,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/123038.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 59,
+      "propCount": 186,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
     }
   ]

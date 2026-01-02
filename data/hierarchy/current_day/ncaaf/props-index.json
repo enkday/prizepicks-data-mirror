@@ -2,55 +2,38 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 3,
-  "propCount": 76,
+  "gameCount": 2,
+  "propCount": 4,
   "games": [
     {
-      "gameId": "121829",
-      "slate": "Early",
-      "startTime": "01/01/26 11:00 AM CST",
-      "startTimeIso": "2026-01-01T12:00:00.000-05:00",
+      "gameId": "119037",
+      "slate": "Late",
+      "startTime": "01/02/26 07:00 PM CST",
+      "startTimeIso": "2026-01-02T20:00:00.000-05:00",
       "teams": [
-        "Texas Tech Red Raiders",
-        "Oregon Ducks"
+        "SMU Mustangs",
+        "Arizona Wildcats"
       ],
-      "propCount": 27,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/121829.json"
+      "propCount": 2,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119037.json"
     },
     {
-      "gameId": "121690",
+      "gameId": "119038",
       "slate": "Late",
-      "startTime": "01/01/26 03:00 PM CST",
-      "startTimeIso": "2026-01-01T16:00:00.000-05:00",
+      "startTime": "01/02/26 07:00 PM CST",
+      "startTimeIso": "2026-01-02T20:00:00.000-05:00",
       "teams": [
-        "Alabama Crimson Tide",
-        "Indiana Hoosiers"
+        "Wake Forest Demon Deacons",
+        "Mississippi State Bulldogs"
       ],
-      "propCount": 21,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/121690.json"
-    },
-    {
-      "gameId": "121745",
-      "slate": "Late",
-      "startTime": "01/01/26 07:00 PM CST",
-      "startTimeIso": "2026-01-01T20:00:00.000-05:00",
-      "teams": [
-        "Ole Miss Rebels",
-        "Georgia Bulldogs"
-      ],
-      "propCount": 28,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/121745.json"
+      "propCount": 2,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/119038.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 27,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 49,
+      "propCount": 4,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
