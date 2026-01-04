@@ -2,38 +2,175 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 196,
+  "gameCount": 13,
+  "propCount": 446,
   "games": [
     {
-      "gameId": "123037",
-      "slate": "Late",
-      "startTime": "01/03/26 03:30 PM CST",
-      "startTimeIso": "2026-01-03T16:30:00.000-05:00",
+      "gameId": "123039",
+      "slate": "Early",
+      "startTime": "01/04/26 12:00 PM CST",
+      "startTimeIso": "2026-01-04T13:00:00.000-05:00",
       "teams": [
-        "Carolina Panthers",
-        "Tampa Bay Buccaneers"
+        "Atlanta Falcons",
+        "New Orleans Saints"
       ],
-      "propCount": 100,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/123037.json"
+      "propCount": 51,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123039.json"
     },
     {
-      "gameId": "123038",
-      "slate": "Late",
-      "startTime": "01/03/26 07:00 PM CST",
-      "startTimeIso": "2026-01-03T20:00:00.000-05:00",
+      "gameId": "123040",
+      "slate": "Early",
+      "startTime": "01/04/26 12:00 PM CST",
+      "startTimeIso": "2026-01-04T13:00:00.000-05:00",
       "teams": [
-        "Seattle Seahawks",
-        "San Francisco 49ers"
+        "Houston Texans",
+        "Indianapolis Colts"
       ],
-      "propCount": 96,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/123038.json"
+      "propCount": 33,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123040.json"
+    },
+    {
+      "gameId": "123041",
+      "slate": "Early",
+      "startTime": "01/04/26 12:00 PM CST",
+      "startTimeIso": "2026-01-04T13:00:00.000-05:00",
+      "teams": [
+        "Jacksonville Jaguars",
+        "Tennessee Titans"
+      ],
+      "propCount": 57,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123041.json"
+    },
+    {
+      "gameId": "123042",
+      "slate": "Early",
+      "startTime": "01/04/26 12:00 PM CST",
+      "startTimeIso": "2026-01-04T13:00:00.000-05:00",
+      "teams": [
+        "Minnesota Vikings",
+        "Green Bay Packers"
+      ],
+      "propCount": 7,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123042.json"
+    },
+    {
+      "gameId": "123043",
+      "slate": "Early",
+      "startTime": "01/04/26 12:00 PM CST",
+      "startTimeIso": "2026-01-04T13:00:00.000-05:00",
+      "teams": [
+        "New York Giants",
+        "Dallas Cowboys"
+      ],
+      "propCount": 12,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123043.json"
+    },
+    {
+      "gameId": "123044",
+      "slate": "Early",
+      "startTime": "01/04/26 12:00 PM CST",
+      "startTimeIso": "2026-01-04T13:00:00.000-05:00",
+      "teams": [
+        "Cincinnati Bengals",
+        "Cleveland Browns"
+      ],
+      "propCount": 31,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123044.json"
+    },
+    {
+      "gameId": "123045",
+      "slate": "Late",
+      "startTime": "01/04/26 03:25 PM CST",
+      "startTimeIso": "2026-01-04T16:25:00.000-05:00",
+      "teams": [
+        "Denver Broncos",
+        "Los Angeles Chargers"
+      ],
+      "propCount": 23,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123045.json"
+    },
+    {
+      "gameId": "123046",
+      "slate": "Late",
+      "startTime": "01/04/26 03:25 PM CST",
+      "startTimeIso": "2026-01-04T16:25:00.000-05:00",
+      "teams": [
+        "Los Angeles Rams",
+        "Arizona Cardinals"
+      ],
+      "propCount": 33,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123046.json"
+    },
+    {
+      "gameId": "123047",
+      "slate": "Late",
+      "startTime": "01/04/26 03:25 PM CST",
+      "startTimeIso": "2026-01-04T16:25:00.000-05:00",
+      "teams": [
+        "Chicago Bears",
+        "Detroit Lions"
+      ],
+      "propCount": 52,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123047.json"
+    },
+    {
+      "gameId": "123048",
+      "slate": "Late",
+      "startTime": "01/04/26 03:25 PM CST",
+      "startTimeIso": "2026-01-04T16:25:00.000-05:00",
+      "teams": [
+        "Philadelphia Eagles",
+        "Washington Commanders"
+      ],
+      "propCount": 9,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123048.json"
+    },
+    {
+      "gameId": "123049",
+      "slate": "Late",
+      "startTime": "01/04/26 03:25 PM CST",
+      "startTimeIso": "2026-01-04T16:25:00.000-05:00",
+      "teams": [
+        "Kansas City Chiefs",
+        "Las Vegas Raiders"
+      ],
+      "propCount": 28,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123049.json"
+    },
+    {
+      "gameId": "123050",
+      "slate": "Late",
+      "startTime": "01/04/26 03:25 PM CST",
+      "startTimeIso": "2026-01-04T16:25:00.000-05:00",
+      "teams": [
+        "New England Patriots",
+        "Miami Dolphins"
+      ],
+      "propCount": 32,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123050.json"
+    },
+    {
+      "gameId": "123052",
+      "slate": "Late",
+      "startTime": "01/04/26 07:20 PM CST",
+      "startTimeIso": "2026-01-04T20:20:00.000-05:00",
+      "teams": [
+        "Baltimore Ravens",
+        "Pittsburgh Steelers"
+      ],
+      "propCount": 78,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/123052.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 191,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 196,
+      "propCount": 255,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
