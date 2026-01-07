@@ -2,38 +2,26 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 2,
-  "propCount": 4,
+  "gameCount": 1,
+  "propCount": 19,
   "games": [
     {
-      "gameId": "119037",
+      "gameId": "123416",
       "slate": "Late",
-      "startTime": "01/02/26 07:00 PM CST",
-      "startTimeIso": "2026-01-02T20:00:00.000-05:00",
+      "startTime": "01/08/26 06:30 PM CST",
+      "startTimeIso": "2026-01-08T19:30:00.000-05:00",
       "teams": [
-        "SMU Mustangs",
-        "Arizona Wildcats"
+        "Ole Miss Rebels",
+        "Miami (FL) Hurricanes"
       ],
-      "propCount": 2,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119037.json"
-    },
-    {
-      "gameId": "119038",
-      "slate": "Late",
-      "startTime": "01/02/26 07:00 PM CST",
-      "startTimeIso": "2026-01-02T20:00:00.000-05:00",
-      "teams": [
-        "Wake Forest Demon Deacons",
-        "Mississippi State Bulldogs"
-      ],
-      "propCount": 2,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/119038.json"
+      "propCount": 19,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/123416.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 4,
+      "propCount": 19,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]
