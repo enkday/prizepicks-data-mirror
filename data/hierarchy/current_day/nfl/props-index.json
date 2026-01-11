@@ -2,38 +2,55 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 221,
+  "gameCount": 3,
+  "propCount": 338,
   "games": [
     {
-      "gameId": "124292",
-      "slate": "Late",
-      "startTime": "01/10/26 03:30 PM CST",
-      "startTimeIso": "2026-01-10T16:30:00.000-05:00",
+      "gameId": "124294",
+      "slate": "Early",
+      "startTime": "01/11/26 12:00 PM CST",
+      "startTimeIso": "2026-01-11T13:00:00.000-05:00",
       "teams": [
-        "Carolina Panthers",
-        "Los Angeles Rams"
+        "Jacksonville Jaguars",
+        "Buffalo Bills"
       ],
-      "propCount": 107,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/124292.json"
+      "propCount": 119,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/124294.json"
     },
     {
-      "gameId": "124293",
+      "gameId": "124295",
       "slate": "Late",
-      "startTime": "01/10/26 07:00 PM CST",
-      "startTimeIso": "2026-01-10T20:00:00.000-05:00",
+      "startTime": "01/11/26 03:30 PM CST",
+      "startTimeIso": "2026-01-11T16:30:00.000-05:00",
       "teams": [
-        "Chicago Bears",
-        "Green Bay Packers"
+        "Philadelphia Eagles",
+        "San Francisco 49ers"
       ],
-      "propCount": 114,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/124293.json"
+      "propCount": 96,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/124295.json"
+    },
+    {
+      "gameId": "124296",
+      "slate": "Late",
+      "startTime": "01/11/26 07:15 PM CST",
+      "startTimeIso": "2026-01-11T20:15:00.000-05:00",
+      "teams": [
+        "New England Patriots",
+        "Los Angeles Chargers"
+      ],
+      "propCount": 123,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/124296.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 119,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 221,
+      "propCount": 219,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
