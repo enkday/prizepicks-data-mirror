@@ -2,55 +2,26 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 3,
-  "propCount": 338,
+  "gameCount": 1,
+  "propCount": 121,
   "games": [
     {
-      "gameId": "124294",
-      "slate": "Early",
-      "startTime": "01/11/26 12:00 PM CST",
-      "startTimeIso": "2026-01-11T13:00:00.000-05:00",
-      "teams": [
-        "Jacksonville Jaguars",
-        "Buffalo Bills"
-      ],
-      "propCount": 119,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/124294.json"
-    },
-    {
-      "gameId": "124295",
+      "gameId": "124297",
       "slate": "Late",
-      "startTime": "01/11/26 03:30 PM CST",
-      "startTimeIso": "2026-01-11T16:30:00.000-05:00",
+      "startTime": "01/12/26 07:15 PM CST",
+      "startTimeIso": "2026-01-12T20:15:00.000-05:00",
       "teams": [
-        "Philadelphia Eagles",
-        "San Francisco 49ers"
+        "Houston Texans",
+        "Pittsburgh Steelers"
       ],
-      "propCount": 96,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/124295.json"
-    },
-    {
-      "gameId": "124296",
-      "slate": "Late",
-      "startTime": "01/11/26 07:15 PM CST",
-      "startTimeIso": "2026-01-11T20:15:00.000-05:00",
-      "teams": [
-        "New England Patriots",
-        "Los Angeles Chargers"
-      ],
-      "propCount": 123,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/124296.json"
+      "propCount": 121,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/124297.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 119,
-      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 219,
+      "propCount": 121,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
