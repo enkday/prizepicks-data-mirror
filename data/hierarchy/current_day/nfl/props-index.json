@@ -2,26 +2,38 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 121,
+  "gameCount": 2,
+  "propCount": 200,
   "games": [
     {
-      "gameId": "124297",
+      "gameId": "126067",
       "slate": "Late",
-      "startTime": "01/12/26 07:15 PM CST",
-      "startTimeIso": "2026-01-12T20:15:00.000-05:00",
+      "startTime": "01/17/26 03:30 PM CST",
+      "startTimeIso": "2026-01-17T16:30:00.000-05:00",
       "teams": [
-        "Houston Texans",
-        "Pittsburgh Steelers"
+        "Buffalo Bills",
+        "Denver Broncos"
       ],
-      "propCount": 121,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/124297.json"
+      "propCount": 105,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/126067.json"
+    },
+    {
+      "gameId": "126068",
+      "slate": "Late",
+      "startTime": "01/17/26 07:00 PM CST",
+      "startTimeIso": "2026-01-17T20:00:00.000-05:00",
+      "teams": [
+        "Seattle Seahawks",
+        "San Francisco 49ers"
+      ],
+      "propCount": 95,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/126068.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 121,
+      "propCount": 200,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]

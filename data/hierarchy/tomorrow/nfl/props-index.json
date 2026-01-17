@@ -3,38 +3,43 @@
   "sportSlug": "nfl",
   "dayBranch": "tomorrow",
   "gameCount": 2,
-  "propCount": 166,
+  "propCount": 209,
   "games": [
     {
-      "gameId": "126067",
+      "gameId": "126303",
       "slate": "Early",
-      "startTime": "01/17/26 12:00 PM CST",
-      "startTimeIso": "2026-01-17T13:00:00.000-05:00",
+      "startTime": "01/18/26 02:00 PM CST",
+      "startTimeIso": "2026-01-18T15:00:00.000-05:00",
       "teams": [
-        "Buffalo Bills",
-        "Denver Broncos"
+        "New England Patriots",
+        "Houston Texans"
       ],
-      "propCount": 83,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/126067.json"
+      "propCount": 100,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/126303.json"
     },
     {
-      "gameId": "126068",
-      "slate": "Early",
-      "startTime": "01/17/26 12:00 PM CST",
-      "startTimeIso": "2026-01-17T13:00:00.000-05:00",
+      "gameId": "126069",
+      "slate": "Late",
+      "startTime": "01/18/26 05:30 PM CST",
+      "startTimeIso": "2026-01-18T18:30:00.000-05:00",
       "teams": [
-        "Seattle Seahawks",
-        "San Francisco 49ers"
+        "Chicago Bears",
+        "Los Angeles Rams"
       ],
-      "propCount": 83,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/126068.json"
+      "propCount": 109,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/126069.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 166,
+      "propCount": 100,
       "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/early.json"
+    },
+    {
+      "slate": "late",
+      "propCount": 109,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
     }
   ]
 }
