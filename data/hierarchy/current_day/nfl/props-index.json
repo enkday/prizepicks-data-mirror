@@ -2,43 +2,26 @@
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 227,
+  "gameCount": 1,
+  "propCount": 140,
   "games": [
     {
-      "gameId": "128159",
-      "slate": "Early",
-      "startTime": "01/25/26 02:00 PM CST",
-      "startTimeIso": "2026-01-25T15:00:00.000-05:00",
+      "gameId": "130405",
+      "slate": "Late",
+      "startTime": "02/08/26 05:32 PM CST",
+      "startTimeIso": "2026-02-08T18:32:00.000-05:00",
       "teams": [
         "New England Patriots",
-        "Denver Broncos"
+        "Seattle Seahawks"
       ],
-      "propCount": 111,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/128159.json"
-    },
-    {
-      "gameId": "128201",
-      "slate": "Late",
-      "startTime": "01/25/26 05:32 PM CST",
-      "startTimeIso": "2026-01-25T18:32:00.000-05:00",
-      "teams": [
-        "Seattle Seahawks",
-        "Los Angeles Rams"
-      ],
-      "propCount": 116,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/128201.json"
+      "propCount": 140,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/130405.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 111,
-      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 116,
+      "propCount": 140,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
