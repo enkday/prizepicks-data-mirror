@@ -2,27 +2,39 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 17,
+  "gameCount": 2,
+  "propCount": 20,
   "games": [
     {
-      "gameId": "121441",
-      "slate": "Early",
-      "startTime": "01/18/26 11:10 AM CST",
-      "startTimeIso": "2026-01-18T12:10:00.000-05:00",
+      "gameId": "126078",
+      "slate": "Late",
+      "startTime": "02/11/26 06:10 PM CST",
+      "startTimeIso": "2026-02-11T19:10:00.000-05:00",
       "teams": [
         "Orlando Magic",
-        "Memphis Grizzlies"
+        "Milwaukee Bucks"
       ],
-      "propCount": 17,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/121441.json"
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/126078.json"
+    },
+    {
+      "gameId": "126315",
+      "slate": "Late",
+      "startTime": "02/11/26 08:10 PM CST",
+      "startTimeIso": "2026-02-11T21:10:00.000-05:00",
+      "teams": [
+        "Oklahoma City Thunder",
+        "Phoenix Suns"
+      ],
+      "propCount": 4,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/126315.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 17,
-      "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
+      "slate": "late",
+      "propCount": 20,
+      "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
 }
