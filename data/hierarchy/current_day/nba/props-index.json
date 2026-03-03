@@ -2,50 +2,38 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 3,
-  "propCount": 35,
+  "gameCount": 2,
+  "propCount": 37,
   "games": [
     {
-      "gameId": "130430",
+      "gameId": "132877",
       "slate": "Late",
-      "startTime": "02/24/26 06:40 PM CST",
-      "startTimeIso": "2026-02-24T19:40:00.000-05:00",
+      "startTime": "03/03/26 06:40 PM CST",
+      "startTimeIso": "2026-03-03T19:40:00.000-05:00",
       "teams": [
-        "Cleveland Cavaliers",
-        "New York Knicks"
+        "New York Knicks",
+        "Toronto Raptors"
+      ],
+      "propCount": 19,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/132877.json"
+    },
+    {
+      "gameId": "132880",
+      "slate": "Late",
+      "startTime": "03/03/26 07:10 PM CST",
+      "startTimeIso": "2026-03-03T20:10:00.000-05:00",
+      "teams": [
+        "Philadelphia 76ers",
+        "San Antonio Spurs"
       ],
       "propCount": 18,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/130430.json"
-    },
-    {
-      "gameId": "130434",
-      "slate": "Late",
-      "startTime": "02/24/26 08:10 PM CST",
-      "startTimeIso": "2026-02-24T21:10:00.000-05:00",
-      "teams": [
-        "Boston Celtics",
-        "Phoenix Suns"
-      ],
-      "propCount": 10,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/130434.json"
-    },
-    {
-      "gameId": "130436",
-      "slate": "Late",
-      "startTime": "02/24/26 09:40 PM CST",
-      "startTimeIso": "2026-02-24T22:40:00.000-05:00",
-      "teams": [
-        "Los Angeles Lakers",
-        "Orlando Magic"
-      ],
-      "propCount": 7,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/130436.json"
+      "path": "/data/hierarchy/current_day/nba/props-by-game/132880.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 35,
+      "propCount": 37,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
