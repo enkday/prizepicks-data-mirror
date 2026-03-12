@@ -2,38 +2,26 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 37,
+  "gameCount": 1,
+  "propCount": 2,
   "games": [
     {
-      "gameId": "132877",
+      "gameId": "135139",
       "slate": "Late",
-      "startTime": "03/03/26 06:40 PM CST",
-      "startTimeIso": "2026-03-03T19:40:00.000-05:00",
+      "startTime": "03/12/26 06:40 PM CST",
+      "startTimeIso": "2026-03-12T19:40:00.000-04:00",
       "teams": [
-        "New York Knicks",
-        "Toronto Raptors"
+        "Miami Heat",
+        "Milwaukee Bucks"
       ],
-      "propCount": 19,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/132877.json"
-    },
-    {
-      "gameId": "132880",
-      "slate": "Late",
-      "startTime": "03/03/26 07:10 PM CST",
-      "startTimeIso": "2026-03-03T20:10:00.000-05:00",
-      "teams": [
-        "Philadelphia 76ers",
-        "San Antonio Spurs"
-      ],
-      "propCount": 18,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/132880.json"
+      "propCount": 2,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/135139.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 37,
+      "propCount": 2,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
