@@ -1,10 +1,27 @@
 {
-  "scrapedAt": "2026-03-22T12:06:36.464Z",
-  "scrapedDate": "Sunday, March 22, 2026 at 12:06 PM UTC",
+  "scrapedAt": "2026-03-23T12:14:35.362Z",
+  "scrapedDate": "Monday, March 23, 2026 at 12:14 PM UTC",
   "source": "PrizePicks API",
   "sport": "MLB",
-  "totalProps": 140,
+  "totalProps": 148,
   "props": [
+    {
+      "player": "Max Fried",
+      "stat": "Pitcher Strikeouts",
+      "line": 5,
+      "sport": "MLB",
+      "startTime": "03/25/26 07:05 PM CST",
+      "startTimeCST": "03/25/26 07:05 PM CST",
+      "startDateCST": "2026-03-25",
+      "startTimeIso": "2026-03-25T20:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "San Francisco Giants",
+      "opponentCode": "SF",
+      "rank": 1,
+      "gameId": "138999"
+    },
     {
       "player": "Max Fried",
       "stat": "Hits Allowed",
@@ -19,7 +36,7 @@
       "teamCode": "NYY",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 2,
+      "rank": 5,
       "gameId": "138999"
     },
     {
@@ -36,7 +53,7 @@
       "teamCode": "NYY",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 6,
+      "rank": 9,
       "gameId": "138999"
     },
     {
@@ -53,7 +70,7 @@
       "teamCode": "NYY",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 20,
+      "rank": 23,
       "gameId": "138999"
     },
     {
@@ -70,7 +87,7 @@
       "teamCode": "NYY",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 21,
+      "rank": 24,
       "gameId": "138999"
     },
     {
@@ -87,7 +104,7 @@
       "teamCode": "SF",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 59,
+      "rank": 78,
       "gameId": "138999"
     },
     {
@@ -104,7 +121,7 @@
       "teamCode": "SF",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 61,
+      "rank": 80,
       "gameId": "138999"
     },
     {
@@ -121,7 +138,7 @@
       "teamCode": "SF",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 76,
+      "rank": 95,
       "gameId": "138999"
     },
     {
@@ -138,28 +155,28 @@
       "teamCode": "SF",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 79,
-      "gameId": "138999"
-    },
-    {
-      "player": "José Caballero",
-      "stat": "Hits",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/25/26 07:05 PM CST",
-      "startTimeCST": "03/25/26 07:05 PM CST",
-      "startDateCST": "2026-03-25",
-      "startTimeIso": "2026-03-25T20:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Yankees",
-      "teamCode": "NYY",
-      "Opponent": "San Francisco Giants",
-      "opponentCode": "SF",
       "rank": 98,
       "gameId": "138999"
     },
     {
       "player": "José Caballero",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/25/26 07:05 PM CST",
+      "startTimeCST": "03/25/26 07:05 PM CST",
+      "startDateCST": "2026-03-25",
+      "startTimeIso": "2026-03-25T20:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "San Francisco Giants",
+      "opponentCode": "SF",
+      "rank": 117,
+      "gameId": "138999"
+    },
+    {
+      "player": "José Caballero",
       "stat": "Total Bases",
       "line": 0.5,
       "sport": "MLB",
@@ -172,27 +189,10 @@
       "teamCode": "NYY",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 99,
+      "rank": 118,
       "gameId": "138999"
     },
     {
-      "player": "Paul Skenes",
-      "stat": "Hits Allowed",
-      "line": 3.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 12:15 PM CST",
-      "startTimeCST": "03/26/26 12:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Pirates",
-      "teamCode": "PIT",
-      "Opponent": "New York Mets",
-      "opponentCode": "NYM",
-      "rank": 102,
-      "gameId": "139000"
-    },
-    {
       "player": "Freddy Peralta",
       "stat": "Hits Allowed",
       "line": 3.5,
@@ -206,7 +206,7 @@
       "teamCode": "NYM",
       "Opponent": "Pittsburgh Pirates",
       "opponentCode": "PIT",
-      "rank": 103,
+      "rank": 121,
       "gameId": "139000"
     },
     {
@@ -223,7 +223,7 @@
       "teamCode": "PIT",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 113,
+      "rank": 131,
       "gameId": "139000"
     },
     {
@@ -240,7 +240,7 @@
       "teamCode": "NYM",
       "Opponent": "Pittsburgh Pirates",
       "opponentCode": "PIT",
-      "rank": 116,
+      "rank": 134,
       "gameId": "139000"
     },
     {
@@ -257,7 +257,7 @@
       "teamCode": "PIT",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 122,
+      "rank": 143,
       "gameId": "139000"
     },
     {
@@ -274,7 +274,7 @@
       "teamCode": "PIT",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 126,
+      "rank": 147,
       "gameId": "139000"
     },
     {
@@ -291,78 +291,78 @@
       "teamCode": "NYM",
       "Opponent": "Pittsburgh Pirates",
       "opponentCode": "PIT",
-      "rank": 127,
-      "gameId": "139000"
-    },
-    {
-      "player": "Brett Baty",
-      "stat": "Total Bases",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 12:15 PM CST",
-      "startTimeCST": "03/26/26 12:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Mets",
-      "teamCode": "NYM",
-      "Opponent": "Pittsburgh Pirates",
-      "opponentCode": "PIT",
-      "rank": 129,
-      "gameId": "139000"
-    },
-    {
-      "player": "Francisco Alvarez",
-      "stat": "Hits",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 12:15 PM CST",
-      "startTimeCST": "03/26/26 12:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Mets",
-      "teamCode": "NYM",
-      "Opponent": "Pittsburgh Pirates",
-      "opponentCode": "PIT",
-      "rank": 135,
-      "gameId": "139000"
-    },
-    {
-      "player": "Francisco Alvarez",
-      "stat": "Total Bases",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 12:15 PM CST",
-      "startTimeCST": "03/26/26 12:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Mets",
-      "teamCode": "NYM",
-      "Opponent": "Pittsburgh Pirates",
-      "opponentCode": "PIT",
-      "rank": 138,
-      "gameId": "139000"
-    },
-    {
-      "player": "Jared Triolo",
-      "stat": "Hits",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 12:15 PM CST",
-      "startTimeCST": "03/26/26 12:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Pirates",
-      "teamCode": "PIT",
-      "Opponent": "New York Mets",
-      "opponentCode": "NYM",
       "rank": 148,
       "gameId": "139000"
     },
     {
+      "player": "Brett Baty",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 12:15 PM CST",
+      "startTimeCST": "03/26/26 12:15 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Mets",
+      "teamCode": "NYM",
+      "Opponent": "Pittsburgh Pirates",
+      "opponentCode": "PIT",
+      "rank": 150,
+      "gameId": "139000"
+    },
+    {
+      "player": "Francisco Alvarez",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 12:15 PM CST",
+      "startTimeCST": "03/26/26 12:15 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Mets",
+      "teamCode": "NYM",
+      "Opponent": "Pittsburgh Pirates",
+      "opponentCode": "PIT",
+      "rank": 156,
+      "gameId": "139000"
+    },
+    {
+      "player": "Francisco Alvarez",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 12:15 PM CST",
+      "startTimeCST": "03/26/26 12:15 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Mets",
+      "teamCode": "NYM",
+      "Opponent": "Pittsburgh Pirates",
+      "opponentCode": "PIT",
+      "rank": 159,
+      "gameId": "139000"
+    },
+    {
+      "player": "Jared Triolo",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 12:15 PM CST",
+      "startTimeCST": "03/26/26 12:15 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T13:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Pirates",
+      "teamCode": "PIT",
+      "Opponent": "New York Mets",
+      "opponentCode": "NYM",
+      "rank": 169,
+      "gameId": "139000"
+    },
+    {
       "player": "Jared Triolo",
       "stat": "Total Bases",
       "line": 0.5,
@@ -376,7 +376,7 @@
       "teamCode": "PIT",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 151,
+      "rank": 172,
       "gameId": "139000"
     },
     {
@@ -393,7 +393,7 @@
       "teamCode": "PIT",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 183,
+      "rank": 204,
       "gameId": "139000"
     },
     {
@@ -410,7 +410,7 @@
       "teamCode": "PIT",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 185,
+      "rank": 206,
       "gameId": "139000"
     },
     {
@@ -427,29 +427,12 @@
       "teamCode": "CWS",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 193,
+      "rank": 220,
       "gameId": "139001"
     },
     {
-      "player": "Colson Montgomery",
+      "player": "Andrew Benintendi",
       "stat": "Hits",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 01:10 PM CST",
-      "startTimeCST": "03/26/26 01:10 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T14:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Milwaukee Brewers",
-      "opponentCode": "MIL",
-      "rank": 234,
-      "gameId": "139001"
-    },
-    {
-      "player": "Colson Montgomery",
-      "stat": "Total Bases",
       "line": 0.5,
       "sport": "MLB",
       "startTime": "03/26/26 01:10 PM CST",
@@ -465,6 +448,23 @@
       "gameId": "139001"
     },
     {
+      "player": "Andrew Benintendi",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 01:10 PM CST",
+      "startTimeCST": "03/26/26 01:10 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T14:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago White Sox",
+      "teamCode": "CWS",
+      "Opponent": "Milwaukee Brewers",
+      "opponentCode": "MIL",
+      "rank": 242,
+      "gameId": "139001"
+    },
+    {
       "player": "Edgar Quero",
       "stat": "Hits",
       "line": 0.5,
@@ -478,7 +478,7 @@
       "teamCode": "CWS",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 239,
+      "rank": 267,
       "gameId": "139001"
     },
     {
@@ -495,7 +495,41 @@
       "teamCode": "CWS",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 241,
+      "rank": 269,
+      "gameId": "139001"
+    },
+    {
+      "player": "Joey Ortiz",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 01:10 PM CST",
+      "startTimeCST": "03/26/26 01:10 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T14:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Brewers",
+      "teamCode": "MIL",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 275,
+      "gameId": "139001"
+    },
+    {
+      "player": "Joey Ortiz",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 01:10 PM CST",
+      "startTimeCST": "03/26/26 01:10 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T14:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Brewers",
+      "teamCode": "MIL",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 278,
       "gameId": "139001"
     },
     {
@@ -512,7 +546,7 @@
       "teamCode": "MIL",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 270,
+      "rank": 305,
       "gameId": "139001"
     },
     {
@@ -529,7 +563,7 @@
       "teamCode": "CWS",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 271,
+      "rank": 306,
       "gameId": "139001"
     },
     {
@@ -546,7 +580,7 @@
       "teamCode": "CWS",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 272,
+      "rank": 307,
       "gameId": "139001"
     },
     {
@@ -563,7 +597,41 @@
       "teamCode": "MIL",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 273,
+      "rank": 308,
+      "gameId": "139001"
+    },
+    {
+      "player": "Garrett Mitchell",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 01:10 PM CST",
+      "startTimeCST": "03/26/26 01:10 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T14:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Brewers",
+      "teamCode": "MIL",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 317,
+      "gameId": "139001"
+    },
+    {
+      "player": "Garrett Mitchell",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 01:10 PM CST",
+      "startTimeCST": "03/26/26 01:10 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T14:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Brewers",
+      "teamCode": "MIL",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 318,
       "gameId": "139001"
     },
     {
@@ -580,24 +648,7 @@
       "teamCode": "CHC",
       "Opponent": "Washington Nationals",
       "opponentCode": "WSH",
-      "rank": 280,
-      "gameId": "139002"
-    },
-    {
-      "player": "Matthew Boyd",
-      "stat": "Earned Runs Allowed",
-      "line": 1.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 01:20 PM CST",
-      "startTimeCST": "03/26/26 01:20 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T14:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Cubs",
-      "teamCode": "CHC",
-      "Opponent": "Washington Nationals",
-      "opponentCode": "WSH",
-      "rank": 284,
+      "rank": 320,
       "gameId": "139002"
     },
     {
@@ -614,11 +665,11 @@
       "teamCode": "CHC",
       "Opponent": "Washington Nationals",
       "opponentCode": "WSH",
-      "rank": 291,
+      "rank": 334,
       "gameId": "139002"
     },
     {
-      "player": "Michael Busch",
+      "player": "Alex Bregman",
       "stat": "Runs",
       "line": 0.5,
       "sport": "MLB",
@@ -631,41 +682,7 @@
       "teamCode": "CHC",
       "Opponent": "Washington Nationals",
       "opponentCode": "WSH",
-      "rank": 322,
-      "gameId": "139002"
-    },
-    {
-      "player": "Nasim Nuñez",
-      "stat": "Hits",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 01:20 PM CST",
-      "startTimeCST": "03/26/26 01:20 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T14:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Nationals",
-      "teamCode": "WSH",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 327,
-      "gameId": "139002"
-    },
-    {
-      "player": "Nasim Nuñez",
-      "stat": "Total Bases",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 01:20 PM CST",
-      "startTimeCST": "03/26/26 01:20 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T14:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Nationals",
-      "teamCode": "WSH",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 331,
+      "rank": 341,
       "gameId": "139002"
     },
     {
@@ -682,7 +699,7 @@
       "teamCode": "WSH",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 335,
+      "rank": 386,
       "gameId": "139002"
     },
     {
@@ -699,7 +716,7 @@
       "teamCode": "WSH",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 338,
+      "rank": 389,
       "gameId": "139002"
     },
     {
@@ -716,7 +733,7 @@
       "teamCode": "MIN",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 345,
+      "rank": 405,
       "gameId": "139003"
     },
     {
@@ -733,7 +750,7 @@
       "teamCode": "BAL",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 346,
+      "rank": 406,
       "gameId": "139003"
     },
     {
@@ -750,7 +767,7 @@
       "teamCode": "MIN",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 357,
+      "rank": 416,
       "gameId": "139003"
     },
     {
@@ -767,7 +784,7 @@
       "teamCode": "BAL",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 367,
+      "rank": 433,
       "gameId": "139003"
     },
     {
@@ -784,7 +801,75 @@
       "teamCode": "BAL",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 372,
+      "rank": 438,
+      "gameId": "139003"
+    },
+    {
+      "player": "Coby Mayo",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 02:05 PM CST",
+      "startTimeCST": "03/26/26 02:05 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T15:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Orioles",
+      "teamCode": "BAL",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 439,
+      "gameId": "139003"
+    },
+    {
+      "player": "Coby Mayo",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 02:05 PM CST",
+      "startTimeCST": "03/26/26 02:05 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T15:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Orioles",
+      "teamCode": "BAL",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 443,
+      "gameId": "139003"
+    },
+    {
+      "player": "Colton Cowser",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 02:05 PM CST",
+      "startTimeCST": "03/26/26 02:05 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T15:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Orioles",
+      "teamCode": "BAL",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 444,
+      "gameId": "139003"
+    },
+    {
+      "player": "Colton Cowser",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 02:05 PM CST",
+      "startTimeCST": "03/26/26 02:05 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T15:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Orioles",
+      "teamCode": "BAL",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 448,
       "gameId": "139003"
     },
     {
@@ -801,7 +886,7 @@
       "teamCode": "BAL",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 376,
+      "rank": 450,
       "gameId": "139003"
     },
     {
@@ -818,7 +903,7 @@
       "teamCode": "BAL",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 384,
+      "rank": 459,
       "gameId": "139003"
     },
     {
@@ -835,7 +920,7 @@
       "teamCode": "MIN",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 397,
+      "rank": 472,
       "gameId": "139003"
     },
     {
@@ -852,7 +937,7 @@
       "teamCode": "MIN",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 404,
+      "rank": 482,
       "gameId": "139003"
     },
     {
@@ -869,7 +954,24 @@
       "teamCode": "MIN",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 408,
+      "rank": 486,
+      "gameId": "139003"
+    },
+    {
+      "player": "Pete Alonso",
+      "stat": "Runs",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 02:05 PM CST",
+      "startTimeCST": "03/26/26 02:05 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T15:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Orioles",
+      "teamCode": "BAL",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 507,
       "gameId": "139003"
     },
     {
@@ -886,7 +988,7 @@
       "teamCode": "BOS",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 425,
+      "rank": 512,
       "gameId": "139004"
     },
     {
@@ -903,41 +1005,7 @@
       "teamCode": "BOS",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 439,
-      "gameId": "139004"
-    },
-    {
-      "player": "Marcelo Mayer",
-      "stat": "Hits",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 03:10 PM CST",
-      "startTimeCST": "03/26/26 03:10 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T16:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Boston Red Sox",
-      "teamCode": "BOS",
-      "Opponent": "Cincinnati Reds",
-      "opponentCode": "CIN",
-      "rank": 473,
-      "gameId": "139004"
-    },
-    {
-      "player": "Marcelo Mayer",
-      "stat": "Total Bases",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 03:10 PM CST",
-      "startTimeCST": "03/26/26 03:10 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T16:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Boston Red Sox",
-      "teamCode": "BOS",
-      "Opponent": "Cincinnati Reds",
-      "opponentCode": "CIN",
-      "rank": 477,
+      "rank": 526,
       "gameId": "139004"
     },
     {
@@ -954,7 +1022,7 @@
       "teamCode": "BOS",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 520,
+      "rank": 604,
       "gameId": "139004"
     },
     {
@@ -971,7 +1039,7 @@
       "teamCode": "LAA",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 527,
+      "rank": 613,
       "gameId": "139005"
     },
     {
@@ -988,7 +1056,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 530,
+      "rank": 616,
       "gameId": "139005"
     },
     {
@@ -1005,7 +1073,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 540,
+      "rank": 626,
       "gameId": "139005"
     },
     {
@@ -1022,7 +1090,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 543,
+      "rank": 629,
       "gameId": "139005"
     },
     {
@@ -1039,7 +1107,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 568,
+      "rank": 654,
       "gameId": "139005"
     },
     {
@@ -1056,7 +1124,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 572,
+      "rank": 658,
       "gameId": "139005"
     },
     {
@@ -1073,7 +1141,7 @@
       "teamCode": "LAA",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 573,
+      "rank": 659,
       "gameId": "139005"
     },
     {
@@ -1090,7 +1158,7 @@
       "teamCode": "LAA",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 578,
+      "rank": 664,
       "gameId": "139005"
     },
     {
@@ -1107,7 +1175,7 @@
       "teamCode": "LAA",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 582,
+      "rank": 668,
       "gameId": "139005"
     },
     {
@@ -1124,7 +1192,7 @@
       "teamCode": "LAA",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 587,
+      "rank": 673,
       "gameId": "139005"
     },
     {
@@ -1141,7 +1209,7 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 606,
+      "rank": 692,
       "gameId": "139005"
     },
     {
@@ -1158,7 +1226,7 @@
       "teamCode": "LAA",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 607,
+      "rank": 693,
       "gameId": "139005"
     },
     {
@@ -1175,7 +1243,7 @@
       "teamCode": "LAA",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 612,
+      "rank": 698,
       "gameId": "139005"
     },
     {
@@ -1192,7 +1260,7 @@
       "teamCode": "DET",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 623,
+      "rank": 708,
       "gameId": "139006"
     },
     {
@@ -1209,7 +1277,7 @@
       "teamCode": "SD",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 632,
+      "rank": 717,
       "gameId": "139006"
     },
     {
@@ -1226,7 +1294,7 @@
       "teamCode": "SD",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 633,
+      "rank": 718,
       "gameId": "139006"
     },
     {
@@ -1243,7 +1311,7 @@
       "teamCode": "SD",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 639,
+      "rank": 724,
       "gameId": "139006"
     },
     {
@@ -1260,42 +1328,8 @@
       "teamCode": "SD",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 642,
+      "rank": 727,
       "gameId": "139006"
-    },
-    {
-      "player": "Cristopher Sánchez",
-      "stat": "Hits Allowed",
-      "line": 4.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 03:15 PM CST",
-      "startTimeCST": "03/26/26 03:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T16:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Phillies",
-      "teamCode": "PHI",
-      "Opponent": "Texas Rangers",
-      "opponentCode": "TEX",
-      "rank": 664,
-      "gameId": "139008"
-    },
-    {
-      "player": "Nathan Eovaldi",
-      "stat": "Earned Runs Allowed",
-      "line": 2.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 03:15 PM CST",
-      "startTimeCST": "03/26/26 03:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T16:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Texas Rangers",
-      "teamCode": "TEX",
-      "Opponent": "Philadelphia Phillies",
-      "opponentCode": "PHI",
-      "rank": 665,
-      "gameId": "139008"
     },
     {
       "player": "Cristopher Sánchez",
@@ -1311,7 +1345,7 @@
       "teamCode": "PHI",
       "Opponent": "Texas Rangers",
       "opponentCode": "TEX",
-      "rank": 675,
+      "rank": 758,
       "gameId": "139008"
     },
     {
@@ -1328,7 +1362,7 @@
       "teamCode": "TEX",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 687,
+      "rank": 771,
       "gameId": "139008"
     },
     {
@@ -1345,7 +1379,7 @@
       "teamCode": "TEX",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 691,
+      "rank": 775,
       "gameId": "139008"
     },
     {
@@ -1362,7 +1396,7 @@
       "teamCode": "PHI",
       "Opponent": "Texas Rangers",
       "opponentCode": "TEX",
-      "rank": 731,
+      "rank": 814,
       "gameId": "139008"
     },
     {
@@ -1379,7 +1413,7 @@
       "teamCode": "PHI",
       "Opponent": "Texas Rangers",
       "opponentCode": "TEX",
-      "rank": 736,
+      "rank": 819,
       "gameId": "139008"
     },
     {
@@ -1396,25 +1430,8 @@
       "teamCode": "PHI",
       "Opponent": "Texas Rangers",
       "opponentCode": "TEX",
-      "rank": 739,
+      "rank": 822,
       "gameId": "139008"
-    },
-    {
-      "player": "Yandy Díaz",
-      "stat": "Total Bases",
-      "line": 1.5,
-      "sport": "MLB",
-      "startTime": "03/26/26 03:15 PM CST",
-      "startTimeCST": "03/26/26 03:15 PM CST",
-      "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T16:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Rays",
-      "teamCode": "TB",
-      "Opponent": "St. Louis Cardinals",
-      "opponentCode": "STL",
-      "rank": 745,
-      "gameId": "139007"
     },
     {
       "player": "Yandy Díaz",
@@ -1430,25 +1447,42 @@
       "teamCode": "TB",
       "Opponent": "St. Louis Cardinals",
       "opponentCode": "STL",
-      "rank": 779,
+      "rank": 872,
       "gameId": "139007"
     },
     {
-      "player": "Shohei Ohtani",
-      "stat": "Total Bases",
-      "line": 1.5,
+      "player": "Nathan Church",
+      "stat": "Hits",
+      "line": 0.5,
       "sport": "MLB",
-      "startTime": "03/26/26 07:30 PM CST",
-      "startTimeCST": "03/26/26 07:30 PM CST",
+      "startTime": "03/26/26 03:15 PM CST",
+      "startTimeCST": "03/26/26 03:15 PM CST",
       "startDateCST": "2026-03-26",
-      "startTimeIso": "2026-03-26T20:30:00.000-04:00",
+      "startTimeIso": "2026-03-26T16:15:00.000-04:00",
       "oddsType": "standard",
-      "Team": "Los Angeles Dodgers",
-      "teamCode": "LAD",
-      "Opponent": "Arizona Diamondbacks",
-      "opponentCode": "AZ",
-      "rank": 809,
-      "gameId": "139242"
+      "Team": "St. Louis Cardinals",
+      "teamCode": "STL",
+      "Opponent": "Tampa Bay Rays",
+      "opponentCode": "TB",
+      "rank": 888,
+      "gameId": "139007"
+    },
+    {
+      "player": "Nathan Church",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 03:15 PM CST",
+      "startTimeCST": "03/26/26 03:15 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T16:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "St. Louis Cardinals",
+      "teamCode": "STL",
+      "Opponent": "Tampa Bay Rays",
+      "opponentCode": "TB",
+      "rank": 890,
+      "gameId": "139007"
     },
     {
       "player": "Yoshinobu Yamamoto",
@@ -1464,7 +1498,7 @@
       "teamCode": "LAD",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 814,
+      "rank": 922,
       "gameId": "139242"
     },
     {
@@ -1481,7 +1515,7 @@
       "teamCode": "LAD",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 815,
+      "rank": 923,
       "gameId": "139242"
     },
     {
@@ -1498,7 +1532,7 @@
       "teamCode": "AZ",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 824,
+      "rank": 936,
       "gameId": "139242"
     },
     {
@@ -1515,7 +1549,7 @@
       "teamCode": "AZ",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 827,
+      "rank": 939,
       "gameId": "139242"
     },
     {
@@ -1532,7 +1566,7 @@
       "teamCode": "LAD",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 834,
+      "rank": 946,
       "gameId": "139242"
     },
     {
@@ -1549,7 +1583,7 @@
       "teamCode": "AZ",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 845,
+      "rank": 956,
       "gameId": "139242"
     },
     {
@@ -1566,7 +1600,7 @@
       "teamCode": "AZ",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 849,
+      "rank": 960,
       "gameId": "139242"
     },
     {
@@ -1583,7 +1617,7 @@
       "teamCode": "LAD",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 857,
+      "rank": 967,
       "gameId": "139242"
     },
     {
@@ -1600,7 +1634,7 @@
       "teamCode": "LAD",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 868,
+      "rank": 978,
       "gameId": "139242"
     },
     {
@@ -1617,7 +1651,7 @@
       "teamCode": "LAD",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 879,
+      "rank": 989,
       "gameId": "139242"
     },
     {
@@ -1634,7 +1668,7 @@
       "teamCode": "LAD",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 888,
+      "rank": 998,
       "gameId": "139242"
     },
     {
@@ -1651,7 +1685,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 889,
+      "rank": 999,
       "gameId": "139243"
     },
     {
@@ -1668,7 +1702,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 899,
+      "rank": 1008,
       "gameId": "139243"
     },
     {
@@ -1685,7 +1719,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 902,
+      "rank": 1012,
       "gameId": "139243"
     },
     {
@@ -1702,7 +1736,41 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 906,
+      "rank": 1016,
+      "gameId": "139243"
+    },
+    {
+      "player": "Brayan Rocchio",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 09:10 PM CST",
+      "startTimeCST": "03/26/26 09:10 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T22:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Guardians",
+      "teamCode": "CLE",
+      "Opponent": "Seattle Mariners",
+      "opponentCode": "SEA",
+      "rank": 1017,
+      "gameId": "139243"
+    },
+    {
+      "player": "Brayan Rocchio",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/26/26 09:10 PM CST",
+      "startTimeCST": "03/26/26 09:10 PM CST",
+      "startDateCST": "2026-03-26",
+      "startTimeIso": "2026-03-26T22:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Guardians",
+      "teamCode": "CLE",
+      "Opponent": "Seattle Mariners",
+      "opponentCode": "SEA",
+      "rank": 1020,
       "gameId": "139243"
     },
     {
@@ -1719,7 +1787,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 910,
+      "rank": 1024,
       "gameId": "139243"
     },
     {
@@ -1736,7 +1804,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 915,
+      "rank": 1029,
       "gameId": "139243"
     },
     {
@@ -1753,7 +1821,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 916,
+      "rank": 1030,
       "gameId": "139243"
     },
     {
@@ -1770,7 +1838,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 921,
+      "rank": 1035,
       "gameId": "139243"
     },
     {
@@ -1787,7 +1855,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 926,
+      "rank": 1040,
       "gameId": "139243"
     },
     {
@@ -1804,7 +1872,7 @@
       "teamCode": "CLE",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 931,
+      "rank": 1045,
       "gameId": "139243"
     },
     {
@@ -1821,7 +1889,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 941,
+      "rank": 1055,
       "gameId": "139243"
     },
     {
@@ -1838,7 +1906,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 942,
+      "rank": 1056,
       "gameId": "139243"
     },
     {
@@ -1855,7 +1923,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 944,
+      "rank": 1058,
       "gameId": "139243"
     },
     {
@@ -1872,7 +1940,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 948,
+      "rank": 1062,
       "gameId": "139243"
     },
     {
@@ -1889,7 +1957,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 951,
+      "rank": 1065,
       "gameId": "139243"
     },
     {
@@ -1906,7 +1974,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 962,
+      "rank": 1076,
       "gameId": "139243"
     },
     {
@@ -1923,7 +1991,7 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 965,
+      "rank": 1079,
       "gameId": "139243"
     },
     {
@@ -1940,8 +2008,42 @@
       "teamCode": "SEA",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 970,
+      "rank": 1084,
       "gameId": "139243"
+    },
+    {
+      "player": "Luis Severino",
+      "stat": "Hits Allowed",
+      "line": 5.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:07 PM CST",
+      "startTimeCST": "03/27/26 06:07 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Athletics",
+      "teamCode": "ATH",
+      "Opponent": "Toronto Blue Jays",
+      "opponentCode": "TOR",
+      "rank": 1090,
+      "gameId": "139245"
+    },
+    {
+      "player": "Kevin Gausman",
+      "stat": "Hits Allowed",
+      "line": 4.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:07 PM CST",
+      "startTimeCST": "03/27/26 06:07 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Toronto Blue Jays",
+      "teamCode": "TOR",
+      "Opponent": "Oakland Athletics",
+      "opponentCode": "ATH",
+      "rank": 1091,
+      "gameId": "139245"
     },
     {
       "player": "Luis Severino",
@@ -1957,7 +2059,7 @@
       "teamCode": "ATH",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 975,
+      "rank": 1092,
       "gameId": "139245"
     },
     {
@@ -1974,7 +2076,7 @@
       "teamCode": "TOR",
       "Opponent": "Oakland Athletics",
       "opponentCode": "ATH",
-      "rank": 986,
+      "rank": 1102,
       "gameId": "139245"
     },
     {
@@ -1991,64 +2093,13 @@
       "teamCode": "TOR",
       "Opponent": "Oakland Athletics",
       "opponentCode": "ATH",
-      "rank": 989,
+      "rank": 1105,
       "gameId": "139245"
     },
     {
-      "player": "Luis Severino",
-      "stat": "Walks Allowed",
-      "line": 1.5,
-      "sport": "MLB",
-      "startTime": "03/27/26 06:07 PM CST",
-      "startTimeCST": "03/27/26 06:07 PM CST",
-      "startDateCST": "2026-03-27",
-      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Athletics",
-      "teamCode": "ATH",
-      "Opponent": "Toronto Blue Jays",
-      "opponentCode": "TOR",
-      "rank": 990,
-      "gameId": "139245"
-    },
-    {
-      "player": "Denzel Clarke",
-      "stat": "Hits",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/27/26 06:07 PM CST",
-      "startTimeCST": "03/27/26 06:07 PM CST",
-      "startDateCST": "2026-03-27",
-      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Athletics",
-      "teamCode": "ATH",
-      "Opponent": "Toronto Blue Jays",
-      "opponentCode": "TOR",
-      "rank": 1010,
-      "gameId": "139245"
-    },
-    {
-      "player": "Denzel Clarke",
+      "player": "Vladimir Guerrero",
       "stat": "Total Bases",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/27/26 06:07 PM CST",
-      "startTimeCST": "03/27/26 06:07 PM CST",
-      "startDateCST": "2026-03-27",
-      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Athletics",
-      "teamCode": "ATH",
-      "Opponent": "Toronto Blue Jays",
-      "opponentCode": "TOR",
-      "rank": 1015,
-      "gameId": "139245"
-    },
-    {
-      "player": "George Springer",
-      "stat": "Runs",
-      "line": 0.5,
+      "line": 1.5,
       "sport": "MLB",
       "startTime": "03/27/26 06:07 PM CST",
       "startTimeCST": "03/27/26 06:07 PM CST",
@@ -2059,7 +2110,41 @@
       "teamCode": "TOR",
       "Opponent": "Oakland Athletics",
       "opponentCode": "ATH",
-      "rank": 1022,
+      "rank": 1114,
+      "gameId": "139245"
+    },
+    {
+      "player": "Denzel Clarke",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:07 PM CST",
+      "startTimeCST": "03/27/26 06:07 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Athletics",
+      "teamCode": "ATH",
+      "Opponent": "Toronto Blue Jays",
+      "opponentCode": "TOR",
+      "rank": 1131,
+      "gameId": "139245"
+    },
+    {
+      "player": "Denzel Clarke",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:07 PM CST",
+      "startTimeCST": "03/27/26 06:07 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Athletics",
+      "teamCode": "ATH",
+      "Opponent": "Toronto Blue Jays",
+      "opponentCode": "TOR",
+      "rank": 1134,
       "gameId": "139245"
     },
     {
@@ -2076,7 +2161,7 @@
       "teamCode": "ATH",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1033,
+      "rank": 1145,
       "gameId": "139245"
     },
     {
@@ -2093,7 +2178,7 @@
       "teamCode": "ATH",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1038,
+      "rank": 1150,
       "gameId": "139245"
     },
     {
@@ -2110,7 +2195,24 @@
       "teamCode": "TOR",
       "Opponent": "Oakland Athletics",
       "opponentCode": "ATH",
-      "rank": 1053,
+      "rank": 1162,
+      "gameId": "139245"
+    },
+    {
+      "player": "Daulton Varsho",
+      "stat": "Runs",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:07 PM CST",
+      "startTimeCST": "03/27/26 06:07 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Toronto Blue Jays",
+      "teamCode": "TOR",
+      "Opponent": "Oakland Athletics",
+      "opponentCode": "ATH",
+      "rank": 1165,
       "gameId": "139245"
     },
     {
@@ -2127,7 +2229,7 @@
       "teamCode": "MIA",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 1056,
+      "rank": 1176,
       "gameId": "146093"
     },
     {
@@ -2144,24 +2246,24 @@
       "teamCode": "COL",
       "Opponent": "Miami Marlins",
       "opponentCode": "MIA",
-      "rank": 1057,
+      "rank": 1177,
       "gameId": "146093"
     },
     {
-      "player": "Agustín Ramírez",
-      "stat": "Total Bases",
-      "line": 1.5,
+      "player": "Kyle Freeland",
+      "stat": "Earned Runs Allowed",
+      "line": 2.5,
       "sport": "MLB",
       "startTime": "03/27/26 06:10 PM CST",
       "startTimeCST": "03/27/26 06:10 PM CST",
       "startDateCST": "2026-03-27",
       "startTimeIso": "2026-03-27T19:10:00.000-04:00",
       "oddsType": "standard",
-      "Team": "Miami Marlins",
-      "teamCode": "MIA",
-      "Opponent": "Colorado Rockies",
-      "opponentCode": "COL",
-      "rank": 1061,
+      "Team": "Colorado Rockies",
+      "teamCode": "COL",
+      "Opponent": "Miami Marlins",
+      "opponentCode": "MIA",
+      "rank": 1178,
       "gameId": "146093"
     },
     {
@@ -2178,7 +2280,7 @@
       "teamCode": "MIA",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 1090,
+      "rank": 1212,
       "gameId": "146093"
     },
     {
@@ -2195,42 +2297,8 @@
       "teamCode": "MIA",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 1093,
+      "rank": 1215,
       "gameId": "146093"
-    },
-    {
-      "player": "Xavier Edwards",
-      "stat": "Runs",
-      "line": 0.5,
-      "sport": "MLB",
-      "startTime": "03/27/26 06:10 PM CST",
-      "startTimeCST": "03/27/26 06:10 PM CST",
-      "startDateCST": "2026-03-27",
-      "startTimeIso": "2026-03-27T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Miami Marlins",
-      "teamCode": "MIA",
-      "Opponent": "Colorado Rockies",
-      "opponentCode": "COL",
-      "rank": 1113,
-      "gameId": "146093"
-    },
-    {
-      "player": "Cole Ragans",
-      "stat": "Earned Runs Allowed",
-      "line": 1.5,
-      "sport": "MLB",
-      "startTime": "03/27/26 06:15 PM CST",
-      "startTimeCST": "03/27/26 06:15 PM CST",
-      "startDateCST": "2026-03-27",
-      "startTimeIso": "2026-03-27T19:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Royals",
-      "teamCode": "KC",
-      "Opponent": "Atlanta Braves",
-      "opponentCode": "ATL",
-      "rank": 1155,
-      "gameId": "139246"
     },
     {
       "player": "Cole Ragans",
@@ -2246,7 +2314,7 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 1156,
+      "rank": 1280,
       "gameId": "139246"
     },
     {
@@ -2263,7 +2331,7 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1158,
+      "rank": 1282,
       "gameId": "139246"
     },
     {
@@ -2280,7 +2348,7 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1174,
+      "rank": 1301,
       "gameId": "139246"
     },
     {
@@ -2297,7 +2365,7 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1178,
+      "rank": 1305,
       "gameId": "139246"
     },
     {
@@ -2314,7 +2382,7 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1179,
+      "rank": 1306,
       "gameId": "139246"
     },
     {
@@ -2331,7 +2399,7 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1184,
+      "rank": 1311,
       "gameId": "139246"
     },
     {
@@ -2348,7 +2416,7 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1190,
+      "rank": 1316,
       "gameId": "139246"
     },
     {
@@ -2365,7 +2433,7 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1192,
+      "rank": 1318,
       "gameId": "139246"
     },
     {
@@ -2382,7 +2450,75 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Royals",
       "opponentCode": "KC",
-      "rank": 1206,
+      "rank": 1331,
+      "gameId": "139246"
+    },
+    {
+      "player": "Isaac Collins",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:15 PM CST",
+      "startTimeCST": "03/27/26 06:15 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Royals",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Braves",
+      "opponentCode": "ATL",
+      "rank": 1340,
+      "gameId": "139246"
+    },
+    {
+      "player": "Isaac Collins",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:15 PM CST",
+      "startTimeCST": "03/27/26 06:15 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Royals",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Braves",
+      "opponentCode": "ATL",
+      "rank": 1345,
+      "gameId": "139246"
+    },
+    {
+      "player": "Jonathan India",
+      "stat": "Hits",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:15 PM CST",
+      "startTimeCST": "03/27/26 06:15 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Royals",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Braves",
+      "opponentCode": "ATL",
+      "rank": 1346,
+      "gameId": "139246"
+    },
+    {
+      "player": "Jonathan India",
+      "stat": "Total Bases",
+      "line": 0.5,
+      "sport": "MLB",
+      "startTime": "03/27/26 06:15 PM CST",
+      "startTimeCST": "03/27/26 06:15 PM CST",
+      "startDateCST": "2026-03-27",
+      "startTimeIso": "2026-03-27T19:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Royals",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Braves",
+      "opponentCode": "ATL",
+      "rank": 1349,
       "gameId": "139246"
     }
   ]
