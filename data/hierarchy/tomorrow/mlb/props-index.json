@@ -1,0 +1,28 @@
+{
+  "sport": "MLB",
+  "sportSlug": "mlb",
+  "dayBranch": "tomorrow",
+  "gameCount": 1,
+  "propCount": 11,
+  "games": [
+    {
+      "gameId": "138999",
+      "slate": "Late",
+      "startTime": "03/25/26 07:05 PM CST",
+      "startTimeIso": "2026-03-25T20:05:00.000-04:00",
+      "teams": [
+        "New York Yankees",
+        "San Francisco Giants"
+      ],
+      "propCount": 11,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/138999.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 11,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-slate/late.json"
+    }
+  ]
+}
