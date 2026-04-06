@@ -3,54 +3,49 @@
   "sportSlug": "nba",
   "dayBranch": "current_day",
   "gameCount": 3,
-  "propCount": 34,
+  "propCount": 62,
   "games": [
     {
-      "gameId": "141628",
-      "slate": "Early",
-      "startTime": "04/05/26 02:40 PM CST",
-      "startTimeIso": "2026-04-05T15:40:00.000-04:00",
+      "gameId": "141913",
+      "slate": "Late",
+      "startTime": "04/06/26 06:10 PM CST",
+      "startTimeIso": "2026-04-06T19:10:00.000-04:00",
       "teams": [
-        "Boston Celtics",
-        "Toronto Raptors"
+        "New York Knicks",
+        "Atlanta Hawks"
       ],
-      "propCount": 9,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/141628.json"
+      "propCount": 21,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/141913.json"
     },
     {
-      "gameId": "141632",
+      "gameId": "141914",
       "slate": "Late",
-      "startTime": "04/05/26 06:10 PM CST",
-      "startTimeIso": "2026-04-05T19:10:00.000-04:00",
+      "startTime": "04/06/26 07:10 PM CST",
+      "startTimeIso": "2026-04-06T20:10:00.000-04:00",
       "teams": [
-        "Minnesota Timberwolves",
-        "Charlotte Hornets"
+        "San Antonio Spurs",
+        "Philadelphia 76ers"
       ],
-      "propCount": 22,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/141632.json"
+      "propCount": 24,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/141914.json"
     },
     {
-      "gameId": "141634",
+      "gameId": "142297",
       "slate": "Late",
-      "startTime": "04/05/26 06:40 PM CST",
-      "startTimeIso": "2026-04-05T19:40:00.000-04:00",
+      "startTime": "04/06/26 08:10 PM CST",
+      "startTimeIso": "2026-04-06T21:10:00.000-04:00",
       "teams": [
-        "Los Angeles Lakers",
-        "Dallas Mavericks"
+        "Denver Nuggets",
+        "Portland Trail Blazers"
       ],
-      "propCount": 3,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/141634.json"
+      "propCount": 17,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/142297.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 9,
-      "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 25,
+      "propCount": 62,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
