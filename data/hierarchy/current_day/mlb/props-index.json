@@ -2,62 +2,38 @@
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "current_day",
-  "gameCount": 4,
-  "propCount": 57,
+  "gameCount": 2,
+  "propCount": 15,
   "games": [
     {
-      "gameId": "139244",
+      "gameId": "143159",
       "slate": "Late",
-      "startTime": "03/27/26 03:35 PM CST",
-      "startTimeIso": "2026-03-27T16:35:00.000-04:00",
+      "startTime": "04/10/26 06:15 PM CST",
+      "startTimeIso": "2026-04-10T19:15:00.000-04:00",
       "teams": [
-        "New York Yankees",
+        "Baltimore Orioles",
         "San Francisco Giants"
       ],
-      "propCount": 11,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/139244.json"
+      "propCount": 6,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/143159.json"
     },
     {
-      "gameId": "139245",
+      "gameId": "143528",
       "slate": "Late",
-      "startTime": "03/27/26 06:07 PM CST",
-      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
+      "startTime": "04/10/26 07:15 PM CST",
+      "startTimeIso": "2026-04-10T20:15:00.000-04:00",
       "teams": [
-        "Athletics",
-        "Toronto Blue Jays"
+        "Boston Red Sox",
+        "St. Louis Cardinals"
       ],
-      "propCount": 17,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/139245.json"
-    },
-    {
-      "gameId": "146093",
-      "slate": "Late",
-      "startTime": "03/27/26 06:10 PM CST",
-      "startTimeIso": "2026-03-27T19:10:00.000-04:00",
-      "teams": [
-        "Colorado Rockies",
-        "Miami Marlins"
-      ],
-      "propCount": 11,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/146093.json"
-    },
-    {
-      "gameId": "139246",
-      "slate": "Late",
-      "startTime": "03/27/26 06:15 PM CST",
-      "startTimeIso": "2026-03-27T19:15:00.000-04:00",
-      "teams": [
-        "Kansas City Royals",
-        "Atlanta Braves"
-      ],
-      "propCount": 18,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/139246.json"
+      "propCount": 9,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/143528.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 57,
+      "propCount": 15,
       "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
     }
   ]
