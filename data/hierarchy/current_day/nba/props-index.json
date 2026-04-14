@@ -2,50 +2,38 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 3,
-  "propCount": 10,
+  "gameCount": 2,
+  "propCount": 48,
   "games": [
     {
-      "gameId": "142595",
+      "gameId": "151804",
       "slate": "Late",
-      "startTime": "04/07/26 09:40 PM CST",
-      "startTimeIso": "2026-04-07T22:40:00.000-04:00",
+      "startTime": "04/14/26 06:40 PM CST",
+      "startTimeIso": "2026-04-14T19:40:00.000-04:00",
       "teams": [
-        "Oklahoma City Thunder",
-        "Los Angeles Lakers"
+        "Charlotte Hornets",
+        "Miami Heat"
       ],
-      "propCount": 2,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/142595.json"
+      "propCount": 29,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/151804.json"
     },
     {
-      "gameId": "142596",
+      "gameId": "151809",
       "slate": "Late",
-      "startTime": "04/07/26 09:40 PM CST",
-      "startTimeIso": "2026-04-07T22:40:00.000-04:00",
-      "teams": [
-        "LA Clippers",
-        "Dallas Mavericks"
-      ],
-      "propCount": 5,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/142596.json"
-    },
-    {
-      "gameId": "142597",
-      "slate": "Late",
-      "startTime": "04/07/26 10:10 PM CST",
-      "startTimeIso": "2026-04-07T23:10:00.000-04:00",
+      "startTime": "04/14/26 09:10 PM CST",
+      "startTimeIso": "2026-04-14T22:10:00.000-04:00",
       "teams": [
         "Phoenix Suns",
-        "Houston Rockets"
+        "Portland Trail Blazers"
       ],
-      "propCount": 3,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/142597.json"
+      "propCount": 19,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/151809.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 10,
+      "propCount": 48,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]

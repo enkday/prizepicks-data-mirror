@@ -2,26 +2,38 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 1,
+  "gameCount": 2,
+  "propCount": 33,
   "games": [
     {
-      "gameId": "136418",
+      "gameId": "151803",
       "slate": "Late",
-      "startTime": "03/16/26 06:10 PM CST",
-      "startTimeIso": "2026-03-16T19:10:00.000-04:00",
+      "startTime": "04/15/26 06:40 PM CST",
+      "startTimeIso": "2026-04-15T19:40:00.000-04:00",
       "teams": [
-        "Atlanta Hawks",
+        "Philadelphia 76ers",
         "Orlando Magic"
       ],
-      "propCount": 1,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/136418.json"
+      "propCount": 15,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/151803.json"
+    },
+    {
+      "gameId": "151810",
+      "slate": "Late",
+      "startTime": "04/15/26 09:10 PM CST",
+      "startTimeIso": "2026-04-15T22:10:00.000-04:00",
+      "teams": [
+        "LA Clippers",
+        "Golden State Warriors"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/151810.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 1,
+      "propCount": 33,
       "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
     }
   ]
