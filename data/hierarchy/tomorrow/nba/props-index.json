@@ -2,67 +2,43 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "tomorrow",
-  "gameCount": 4,
-  "propCount": 281,
+  "gameCount": 2,
+  "propCount": 137,
   "games": [
     {
-      "gameId": "151814",
+      "gameId": "152485",
       "slate": "Early",
-      "startTime": "04/18/26 12:10 PM CST",
-      "startTimeIso": "2026-04-18T13:10:00.000-04:00",
+      "startTime": "04/19/26 12:10 PM CST",
+      "startTimeIso": "2026-04-19T13:10:00.000-04:00",
       "teams": [
-        "Cleveland Cavaliers",
-        "Toronto Raptors"
+        "Philadelphia 76ers",
+        "Boston Celtics"
       ],
-      "propCount": 59,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/151814.json"
+      "propCount": 67,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152485.json"
     },
     {
-      "gameId": "151815",
-      "slate": "Early",
-      "startTime": "04/18/26 02:40 PM CST",
-      "startTimeIso": "2026-04-18T15:40:00.000-04:00",
-      "teams": [
-        "Denver Nuggets",
-        "Minnesota Timberwolves"
-      ],
-      "propCount": 71,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/151815.json"
-    },
-    {
-      "gameId": "151816",
+      "gameId": "152255",
       "slate": "Late",
-      "startTime": "04/18/26 05:10 PM CST",
-      "startTimeIso": "2026-04-18T18:10:00.000-04:00",
+      "startTime": "04/19/26 08:10 PM CST",
+      "startTimeIso": "2026-04-19T21:10:00.000-04:00",
       "teams": [
-        "New York Knicks",
-        "Atlanta Hawks"
+        "San Antonio Spurs",
+        "Portland Trail Blazers"
       ],
-      "propCount": 77,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/151816.json"
-    },
-    {
-      "gameId": "151817",
-      "slate": "Late",
-      "startTime": "04/18/26 07:40 PM CST",
-      "startTimeIso": "2026-04-18T20:40:00.000-04:00",
-      "teams": [
-        "Los Angeles Lakers",
-        "Houston Rockets"
-      ],
-      "propCount": 74,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/151817.json"
+      "propCount": 70,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152255.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 130,
+      "propCount": 67,
       "path": "/data/hierarchy/tomorrow/nba/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 151,
+      "propCount": 70,
       "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
     }
   ]

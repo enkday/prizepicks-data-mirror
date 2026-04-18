@@ -2,38 +2,67 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 137,
+  "gameCount": 4,
+  "propCount": 281,
   "games": [
     {
-      "gameId": "152484",
-      "slate": "Late",
-      "startTime": "04/17/26 06:40 PM CST",
-      "startTimeIso": "2026-04-17T19:40:00.000-04:00",
+      "gameId": "151814",
+      "slate": "Early",
+      "startTime": "04/18/26 12:10 PM CST",
+      "startTimeIso": "2026-04-18T13:10:00.000-04:00",
       "teams": [
-        "Charlotte Hornets",
-        "Orlando Magic"
+        "Cleveland Cavaliers",
+        "Toronto Raptors"
       ],
-      "propCount": 78,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/152484.json"
+      "propCount": 63,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/151814.json"
     },
     {
-      "gameId": "152562",
-      "slate": "Late",
-      "startTime": "04/17/26 09:10 PM CST",
-      "startTimeIso": "2026-04-17T22:10:00.000-04:00",
+      "gameId": "151815",
+      "slate": "Early",
+      "startTime": "04/18/26 02:40 PM CST",
+      "startTimeIso": "2026-04-18T15:40:00.000-04:00",
       "teams": [
-        "Golden State Warriors",
-        "Phoenix Suns"
+        "Denver Nuggets",
+        "Minnesota Timberwolves"
       ],
-      "propCount": 59,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/152562.json"
+      "propCount": 74,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/151815.json"
+    },
+    {
+      "gameId": "151816",
+      "slate": "Late",
+      "startTime": "04/18/26 05:10 PM CST",
+      "startTimeIso": "2026-04-18T18:10:00.000-04:00",
+      "teams": [
+        "New York Knicks",
+        "Atlanta Hawks"
+      ],
+      "propCount": 70,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/151816.json"
+    },
+    {
+      "gameId": "151817",
+      "slate": "Late",
+      "startTime": "04/18/26 07:40 PM CST",
+      "startTimeIso": "2026-04-18T20:40:00.000-04:00",
+      "teams": [
+        "Los Angeles Lakers",
+        "Houston Rockets"
+      ],
+      "propCount": 74,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/151817.json"
     }
   ],
   "slates": [
     {
-      "slate": "late",
+      "slate": "early",
       "propCount": 137,
+      "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
+    },
+    {
+      "slate": "late",
+      "propCount": 144,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
