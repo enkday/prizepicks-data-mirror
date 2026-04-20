@@ -2,67 +2,50 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 4,
-  "propCount": 193,
+  "gameCount": 3,
+  "propCount": 191,
   "games": [
     {
-      "gameId": "152485",
-      "slate": "Early",
-      "startTime": "04/19/26 12:10 PM CST",
-      "startTimeIso": "2026-04-19T13:10:00.000-04:00",
-      "teams": [
-        "Philadelphia 76ers",
-        "Boston Celtics"
-      ],
-      "propCount": 65,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/152485.json"
-    },
-    {
-      "gameId": "153015",
-      "slate": "Early",
-      "startTime": "04/19/26 02:40 PM CST",
-      "startTimeIso": "2026-04-19T15:40:00.000-04:00",
-      "teams": [
-        "Oklahoma City Thunder",
-        "Phoenix Suns"
-      ],
-      "propCount": 32,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/153015.json"
-    },
-    {
-      "gameId": "152986",
+      "gameId": "152256",
       "slate": "Late",
-      "startTime": "04/19/26 05:40 PM CST",
-      "startTimeIso": "2026-04-19T18:40:00.000-04:00",
+      "startTime": "04/20/26 06:10 PM CST",
+      "startTimeIso": "2026-04-20T19:10:00.000-04:00",
       "teams": [
-        "Detroit Pistons",
-        "Orlando Magic"
+        "Cleveland Cavaliers",
+        "Toronto Raptors"
       ],
-      "propCount": 27,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/152986.json"
+      "propCount": 58,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/152256.json"
     },
     {
-      "gameId": "152255",
+      "gameId": "152257",
       "slate": "Late",
-      "startTime": "04/19/26 08:10 PM CST",
-      "startTimeIso": "2026-04-19T21:10:00.000-04:00",
+      "startTime": "04/20/26 07:10 PM CST",
+      "startTimeIso": "2026-04-20T20:10:00.000-04:00",
       "teams": [
-        "San Antonio Spurs",
-        "Portland Trail Blazers"
+        "New York Knicks",
+        "Atlanta Hawks"
       ],
-      "propCount": 69,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/152255.json"
+      "propCount": 59,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/152257.json"
+    },
+    {
+      "gameId": "152258",
+      "slate": "Late",
+      "startTime": "04/20/26 09:40 PM CST",
+      "startTimeIso": "2026-04-20T22:40:00.000-04:00",
+      "teams": [
+        "Denver Nuggets",
+        "Minnesota Timberwolves"
+      ],
+      "propCount": 74,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/152258.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 97,
-      "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 96,
+      "propCount": 191,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
