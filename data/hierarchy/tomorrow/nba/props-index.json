@@ -2,26 +2,38 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 21,
+  "gameCount": 2,
+  "propCount": 50,
   "games": [
     {
-      "gameId": "152260",
+      "gameId": "152987",
       "slate": "Late",
-      "startTime": "04/21/26 09:40 PM CST",
-      "startTimeIso": "2026-04-21T22:40:00.000-04:00",
+      "startTime": "04/22/26 06:10 PM CST",
+      "startTimeIso": "2026-04-22T19:10:00.000-04:00",
       "teams": [
-        "Los Angeles Lakers",
-        "Houston Rockets"
+        "Detroit Pistons",
+        "Orlando Magic"
       ],
-      "propCount": 21,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152260.json"
+      "propCount": 25,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152987.json"
+    },
+    {
+      "gameId": "153016",
+      "slate": "Late",
+      "startTime": "04/22/26 08:40 PM CST",
+      "startTimeIso": "2026-04-22T21:40:00.000-04:00",
+      "teams": [
+        "Oklahoma City Thunder",
+        "Phoenix Suns"
+      ],
+      "propCount": 25,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/153016.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 21,
+      "propCount": 50,
       "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
     }
   ]
