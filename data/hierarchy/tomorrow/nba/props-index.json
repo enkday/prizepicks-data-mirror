@@ -2,38 +2,50 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "tomorrow",
-  "gameCount": 2,
-  "propCount": 50,
+  "gameCount": 3,
+  "propCount": 73,
   "games": [
     {
-      "gameId": "152987",
+      "gameId": "152261",
       "slate": "Late",
-      "startTime": "04/22/26 06:10 PM CST",
-      "startTimeIso": "2026-04-22T19:10:00.000-04:00",
+      "startTime": "04/23/26 06:10 PM CST",
+      "startTimeIso": "2026-04-23T19:10:00.000-04:00",
       "teams": [
-        "Detroit Pistons",
-        "Orlando Magic"
+        "New York Knicks",
+        "Atlanta Hawks"
       ],
-      "propCount": 25,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152987.json"
+      "propCount": 26,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152261.json"
     },
     {
-      "gameId": "153016",
+      "gameId": "152262",
       "slate": "Late",
-      "startTime": "04/22/26 08:40 PM CST",
-      "startTimeIso": "2026-04-22T21:40:00.000-04:00",
+      "startTime": "04/23/26 07:10 PM CST",
+      "startTimeIso": "2026-04-23T20:10:00.000-04:00",
       "teams": [
-        "Oklahoma City Thunder",
-        "Phoenix Suns"
+        "Cleveland Cavaliers",
+        "Toronto Raptors"
       ],
-      "propCount": 25,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/153016.json"
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152262.json"
+    },
+    {
+      "gameId": "152263",
+      "slate": "Late",
+      "startTime": "04/23/26 08:40 PM CST",
+      "startTimeIso": "2026-04-23T21:40:00.000-04:00",
+      "teams": [
+        "Minnesota Timberwolves",
+        "Denver Nuggets"
+      ],
+      "propCount": 29,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152263.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 50,
+      "propCount": 73,
       "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
     }
   ]
