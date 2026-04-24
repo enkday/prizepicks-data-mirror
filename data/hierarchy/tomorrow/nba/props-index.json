@@ -2,51 +2,39 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "tomorrow",
-  "gameCount": 3,
-  "propCount": 82,
+  "gameCount": 2,
+  "propCount": 53,
   "games": [
     {
-      "gameId": "152487",
-      "slate": "Late",
-      "startTime": "04/24/26 06:10 PM CST",
-      "startTimeIso": "2026-04-24T19:10:00.000-04:00",
+      "gameId": "152988",
+      "slate": "Early",
+      "startTime": "04/25/26 12:10 PM CST",
+      "startTimeIso": "2026-04-25T13:10:00.000-04:00",
       "teams": [
-        "Boston Celtics",
-        "Philadelphia 76ers"
-      ],
-      "propCount": 30,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152487.json"
-    },
-    {
-      "gameId": "152264",
-      "slate": "Late",
-      "startTime": "04/24/26 07:10 PM CST",
-      "startTimeIso": "2026-04-24T20:10:00.000-04:00",
-      "teams": [
-        "Los Angeles Lakers",
-        "Houston Rockets"
+        "Detroit Pistons",
+        "Orlando Magic"
       ],
       "propCount": 26,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152264.json"
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152988.json"
     },
     {
-      "gameId": "152265",
-      "slate": "Late",
-      "startTime": "04/24/26 09:40 PM CST",
-      "startTimeIso": "2026-04-24T22:40:00.000-04:00",
+      "gameId": "153017",
+      "slate": "Early",
+      "startTime": "04/25/26 02:40 PM CST",
+      "startTimeIso": "2026-04-25T15:40:00.000-04:00",
       "teams": [
-        "San Antonio Spurs",
-        "Portland Trail Blazers"
+        "Oklahoma City Thunder",
+        "Phoenix Suns"
       ],
-      "propCount": 26,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/152265.json"
+      "propCount": 27,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/153017.json"
     }
   ],
   "slates": [
     {
-      "slate": "late",
-      "propCount": 82,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
+      "slate": "early",
+      "propCount": 53,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-slate/early.json"
     }
   ]
 }
