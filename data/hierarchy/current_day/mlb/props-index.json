@@ -2,38 +2,26 @@
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 15,
+  "gameCount": 1,
+  "propCount": 18,
   "games": [
     {
-      "gameId": "143159",
+      "gameId": "147176",
       "slate": "Late",
-      "startTime": "04/10/26 06:15 PM CST",
-      "startTimeIso": "2026-04-10T19:15:00.000-04:00",
+      "startTime": "04/25/26 05:05 PM CST",
+      "startTimeIso": "2026-04-25T18:05:00.000-04:00",
       "teams": [
-        "Baltimore Orioles",
-        "San Francisco Giants"
+        "Arizona Diamondbacks",
+        "San Diego Padres"
       ],
-      "propCount": 6,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/143159.json"
-    },
-    {
-      "gameId": "143528",
-      "slate": "Late",
-      "startTime": "04/10/26 07:15 PM CST",
-      "startTimeIso": "2026-04-10T20:15:00.000-04:00",
-      "teams": [
-        "Boston Red Sox",
-        "St. Louis Cardinals"
-      ],
-      "propCount": 9,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/143528.json"
+      "propCount": 18,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/147176.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 15,
+      "propCount": 18,
       "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
     }
   ]
