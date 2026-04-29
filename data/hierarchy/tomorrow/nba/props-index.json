@@ -2,38 +2,26 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "tomorrow",
-  "gameCount": 2,
-  "propCount": 64,
+  "gameCount": 1,
+  "propCount": 18,
   "games": [
     {
-      "gameId": "155132",
+      "gameId": "155436",
       "slate": "Early",
-      "startTime": "04/29/26 12:10 PM CST",
-      "startTimeIso": "2026-04-29T13:10:00.000-04:00",
+      "startTime": "04/30/26 12:10 PM CST",
+      "startTimeIso": "2026-04-30T13:10:00.000-04:00",
       "teams": [
-        "Cleveland Cavaliers",
-        "Toronto Raptors"
+        "Denver Nuggets",
+        "Minnesota Timberwolves"
       ],
-      "propCount": 36,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/155132.json"
-    },
-    {
-      "gameId": "155223",
-      "slate": "Early",
-      "startTime": "04/29/26 12:10 PM CST",
-      "startTimeIso": "2026-04-29T13:10:00.000-04:00",
-      "teams": [
-        "Los Angeles Lakers",
-        "Houston Rockets"
-      ],
-      "propCount": 28,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/155223.json"
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/155436.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 64,
+      "propCount": 18,
       "path": "/data/hierarchy/tomorrow/nba/props-by-slate/early.json"
     }
   ]
