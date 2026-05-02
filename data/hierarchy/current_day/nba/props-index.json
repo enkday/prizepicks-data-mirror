@@ -2,56 +2,27 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 3,
-  "propCount": 83,
+  "gameCount": 1,
+  "propCount": 25,
   "games": [
     {
-      "gameId": "155968",
+      "gameId": "156178",
       "slate": "Early",
-      "startTime": "05/01/26 12:10 PM CST",
-      "startTimeIso": "2026-05-01T13:10:00.000-04:00",
+      "startTime": "05/02/26 12:10 PM CST",
+      "startTimeIso": "2026-05-02T13:10:00.000-04:00",
       "teams": [
-        "Detroit Pistons",
-        "Orlando Magic"
+        "Philadelphia 76ers",
+        "Boston Celtics"
       ],
-      "propCount": 23,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/155968.json"
-    },
-    {
-      "gameId": "155971",
-      "slate": "Early",
-      "startTime": "05/01/26 12:10 PM CST",
-      "startTimeIso": "2026-05-01T13:10:00.000-04:00",
-      "teams": [
-        "Los Angeles Lakers",
-        "Houston Rockets"
-      ],
-      "propCount": 30,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/155971.json"
-    },
-    {
-      "gameId": "155967",
-      "slate": "Late",
-      "startTime": "05/01/26 06:40 PM CST",
-      "startTimeIso": "2026-05-01T19:40:00.000-04:00",
-      "teams": [
-        "Cleveland Cavaliers",
-        "Toronto Raptors"
-      ],
-      "propCount": 30,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/155967.json"
+      "propCount": 25,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/156178.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 53,
+      "propCount": 25,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
-    },
-    {
-      "slate": "late",
-      "propCount": 30,
-      "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
 }
