@@ -3,42 +3,37 @@
   "sportSlug": "nba",
   "dayBranch": "current_day",
   "gameCount": 2,
-  "propCount": 60,
+  "propCount": 57,
   "games": [
     {
-      "gameId": "156678",
-      "slate": "Early",
-      "startTime": "05/10/26 02:40 PM CST",
-      "startTimeIso": "2026-05-10T15:40:00.000-04:00",
+      "gameId": "156895",
+      "slate": "Late",
+      "startTime": "05/11/26 07:10 PM CST",
+      "startTimeIso": "2026-05-11T20:10:00.000-04:00",
       "teams": [
-        "New York Knicks",
-        "Philadelphia 76ers"
+        "Cleveland Cavaliers",
+        "Detroit Pistons"
       ],
-      "propCount": 29,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/156678.json"
+      "propCount": 20,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/156895.json"
     },
     {
-      "gameId": "156554",
+      "gameId": "156555",
       "slate": "Late",
-      "startTime": "05/10/26 06:40 PM CST",
-      "startTimeIso": "2026-05-10T19:40:00.000-04:00",
+      "startTime": "05/11/26 09:40 PM CST",
+      "startTimeIso": "2026-05-11T22:40:00.000-04:00",
       "teams": [
-        "San Antonio Spurs",
-        "Minnesota Timberwolves"
+        "Oklahoma City Thunder",
+        "Los Angeles Lakers"
       ],
-      "propCount": 31,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/156554.json"
+      "propCount": 37,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/156555.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 29,
-      "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 31,
+      "propCount": 57,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
