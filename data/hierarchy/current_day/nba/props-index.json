@@ -2,38 +2,26 @@
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 57,
+  "gameCount": 1,
+  "propCount": 31,
   "games": [
     {
-      "gameId": "156895",
+      "gameId": "158450",
       "slate": "Late",
-      "startTime": "05/11/26 07:10 PM CST",
-      "startTimeIso": "2026-05-11T20:10:00.000-04:00",
+      "startTime": "05/12/26 07:10 PM CST",
+      "startTimeIso": "2026-05-12T20:10:00.000-04:00",
       "teams": [
-        "Cleveland Cavaliers",
-        "Detroit Pistons"
+        "Minnesota Timberwolves",
+        "San Antonio Spurs"
       ],
-      "propCount": 20,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/156895.json"
-    },
-    {
-      "gameId": "156555",
-      "slate": "Late",
-      "startTime": "05/11/26 09:40 PM CST",
-      "startTimeIso": "2026-05-11T22:40:00.000-04:00",
-      "teams": [
-        "Oklahoma City Thunder",
-        "Los Angeles Lakers"
-      ],
-      "propCount": 37,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/156555.json"
+      "propCount": 31,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/158450.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 57,
+      "propCount": 31,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
