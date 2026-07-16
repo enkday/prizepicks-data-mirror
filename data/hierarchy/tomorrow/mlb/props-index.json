@@ -2,50 +2,151 @@
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "tomorrow",
-  "gameCount": 3,
-  "propCount": 32,
+  "gameCount": 11,
+  "propCount": 126,
   "games": [
     {
-      "gameId": "139245",
-      "slate": "Late",
-      "startTime": "03/27/26 06:07 PM CST",
-      "startTimeIso": "2026-03-27T19:07:00.000-04:00",
+      "gameId": "150732",
+      "slate": "Early",
+      "startTime": "07/17/26 12:35 PM CST",
+      "startTimeIso": "2026-07-17T13:35:00.000-04:00",
       "teams": [
-        "Athletics",
-        "Toronto Blue Jays"
+        "Boston Red Sox",
+        "Tampa Bay Rays"
+      ],
+      "propCount": 1,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/150732.json"
+    },
+    {
+      "gameId": "167367",
+      "slate": "Late",
+      "startTime": "07/17/26 06:05 PM CST",
+      "startTimeIso": "2026-07-17T19:05:00.000-04:00",
+      "teams": [
+        "NL National League",
+        "New York Yankees"
       ],
       "propCount": 12,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/139245.json"
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167367.json"
     },
     {
-      "gameId": "146093",
+      "gameId": "167369",
       "slate": "Late",
-      "startTime": "03/27/26 06:10 PM CST",
-      "startTimeIso": "2026-03-27T19:10:00.000-04:00",
+      "startTime": "07/17/26 06:10 PM CST",
+      "startTimeIso": "2026-07-17T19:10:00.000-04:00",
       "teams": [
-        "Miami Marlins",
-        "Colorado Rockies"
+        "Cleveland Guardians",
+        "Pittsburgh Pirates"
+      ],
+      "propCount": 7,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167369.json"
+    },
+    {
+      "gameId": "167371",
+      "slate": "Late",
+      "startTime": "07/17/26 06:15 PM CST",
+      "startTimeIso": "2026-07-17T19:15:00.000-04:00",
+      "teams": [
+        "Chicago White Sox",
+        "Toronto Blue Jays"
       ],
       "propCount": 5,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/146093.json"
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167371.json"
     },
     {
-      "gameId": "139246",
+      "gameId": "167372",
       "slate": "Late",
-      "startTime": "03/27/26 06:15 PM CST",
-      "startTimeIso": "2026-03-27T19:15:00.000-04:00",
+      "startTime": "07/17/26 06:40 PM CST",
+      "startTimeIso": "2026-07-17T19:40:00.000-04:00",
+      "teams": [
+        "Milwaukee Brewers",
+        "Miami Marlins"
+      ],
+      "propCount": 5,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167372.json"
+    },
+    {
+      "gameId": "167583",
+      "slate": "Late",
+      "startTime": "07/17/26 07:05 PM CST",
+      "startTimeIso": "2026-07-17T20:05:00.000-04:00",
+      "teams": [
+        "Chicago Cubs",
+        "Minnesota Twins"
+      ],
+      "propCount": 21,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167583.json"
+    },
+    {
+      "gameId": "167584",
+      "slate": "Late",
+      "startTime": "07/17/26 07:10 PM CST",
+      "startTimeIso": "2026-07-17T20:10:00.000-04:00",
       "teams": [
         "Kansas City Royals",
-        "Atlanta Braves"
+        "San Diego Padres"
+      ],
+      "propCount": 6,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167584.json"
+    },
+    {
+      "gameId": "167586",
+      "slate": "Late",
+      "startTime": "07/17/26 07:40 PM CST",
+      "startTimeIso": "2026-07-17T20:40:00.000-04:00",
+      "teams": [
+        "Cincinnati Reds",
+        "Colorado Rockies"
+      ],
+      "propCount": 29,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167586.json"
+    },
+    {
+      "gameId": "167587",
+      "slate": "Late",
+      "startTime": "07/17/26 08:38 PM CST",
+      "startTimeIso": "2026-07-17T21:38:00.000-04:00",
+      "teams": [
+        "Detroit Tigers",
+        "Los Angeles Angels"
+      ],
+      "propCount": 7,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167587.json"
+    },
+    {
+      "gameId": "167588",
+      "slate": "Late",
+      "startTime": "07/17/26 08:40 PM CST",
+      "startTimeIso": "2026-07-17T21:40:00.000-04:00",
+      "teams": [
+        "St. Louis Cardinals",
+        "Arizona Diamondbacks"
       ],
       "propCount": 15,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/139246.json"
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167588.json"
+    },
+    {
+      "gameId": "167590",
+      "slate": "Late",
+      "startTime": "07/17/26 09:10 PM CST",
+      "startTimeIso": "2026-07-17T22:10:00.000-04:00",
+      "teams": [
+        "San Francisco Giants",
+        "Seattle Mariners"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/167590.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 1,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 32,
+      "propCount": 125,
       "path": "/data/hierarchy/tomorrow/mlb/props-by-slate/late.json"
     }
   ]
