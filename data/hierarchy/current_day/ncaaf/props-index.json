@@ -2,26 +2,115 @@
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 35,
+  "gameCount": 8,
+  "propCount": 194,
   "games": [
     {
-      "gameId": "125625",
-      "slate": "Late",
-      "startTime": "01/19/26 06:30 PM CST",
-      "startTimeIso": "2026-01-19T19:30:00.000-05:00",
+      "gameId": "176185",
+      "slate": "Early",
+      "startTime": "08/29/26 11:00 AM CST",
+      "startTimeIso": "2026-08-29T12:00:00.000-04:00",
       "teams": [
-        "Indiana Hoosiers",
-        "Miami (FL) Hurricanes"
+        "North Carolina Tar Heels",
+        "TCU Horned Frogs"
       ],
-      "propCount": 35,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/125625.json"
+      "propCount": 43,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/176185.json"
+    },
+    {
+      "gameId": "176186",
+      "slate": "Early",
+      "startTime": "08/29/26 02:00 PM CST",
+      "startTimeIso": "2026-08-29T15:00:00.000-04:00",
+      "teams": [
+        "USC Trojans",
+        "San Jose State Spartans"
+      ],
+      "propCount": 27,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/176186.json"
+    },
+    {
+      "gameId": "176187",
+      "slate": "Early",
+      "startTime": "08/29/26 02:30 PM CST",
+      "startTimeIso": "2026-08-29T15:30:00.000-04:00",
+      "teams": [
+        "Virginia Cavaliers",
+        "North Carolina State Wolfpack"
+      ],
+      "propCount": 41,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/176187.json"
+    },
+    {
+      "gameId": "176188",
+      "slate": "Late",
+      "startTime": "08/29/26 04:30 PM CST",
+      "startTimeIso": "2026-08-29T17:30:00.000-04:00",
+      "teams": [
+        "North Dakota State Bison",
+        "Jacksonville State Gamecocks"
+      ],
+      "propCount": 5,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/176188.json"
+    },
+    {
+      "gameId": "176189",
+      "slate": "Late",
+      "startTime": "08/29/26 05:30 PM CST",
+      "startTimeIso": "2026-08-29T18:30:00.000-04:00",
+      "teams": [
+        "Eastern Michigan Eagles",
+        "Sacramento State Hornets"
+      ],
+      "propCount": 3,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/176189.json"
+    },
+    {
+      "gameId": "176190",
+      "slate": "Late",
+      "startTime": "08/29/26 06:00 PM CST",
+      "startTimeIso": "2026-08-29T19:00:00.000-04:00",
+      "teams": [
+        "Florida State Seminoles",
+        "New Mexico State Aggies"
+      ],
+      "propCount": 22,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/176190.json"
+    },
+    {
+      "gameId": "180191",
+      "slate": "Late",
+      "startTime": "08/29/26 06:00 PM CST",
+      "startTimeIso": "2026-08-29T19:00:00.000-04:00",
+      "teams": [
+        "Hawai'i Rainbow Warriors",
+        "Stanford Cardinal"
+      ],
+      "propCount": 30,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/180191.json"
+    },
+    {
+      "gameId": "176424",
+      "slate": "Late",
+      "startTime": "08/29/26 09:00 PM CST",
+      "startTimeIso": "2026-08-29T22:00:00.000-04:00",
+      "teams": [
+        "Memphis Tigers",
+        "UNLV Rebels"
+      ],
+      "propCount": 23,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/176424.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 111,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 35,
+      "propCount": 83,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
