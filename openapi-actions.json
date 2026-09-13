@@ -364,6 +364,10 @@
                 },
                 "path": {
                   "type": "string"
+                },
+                "eventTimeVerified": {
+                  "type": "boolean",
+                  "description": "True only when the game start is linked to one unambiguous provider game timestamp; projection lock times remain separate."
                 }
               }
             }
@@ -440,6 +444,10 @@
           },
           "startTimeSelectionRule": {
             "type": "string"
+          },
+          "eventTimeVerified": {
+            "type": "boolean",
+            "description": "True only when the game start is linked to one unambiguous provider game timestamp; projection lock times remain separate."
           }
         }
       },
