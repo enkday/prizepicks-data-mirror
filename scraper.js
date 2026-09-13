@@ -77,6 +77,8 @@ async function fetchProjectionsForLeague(leagueId) {
         {
           params: { league_id: leagueId, per_page: 250 },
           headers: PRIZEPICKS_DEFAULT_HEADERS,
+          responseType: 'text',
+          transformResponse: [raw => raw],
           timeout: 20000
         },
         {
@@ -159,31 +161,25 @@ async function scrapePrizePicks() {
       try {
         const response = await fetchProjectionsForLeagueWithCooldown(leagueId, leagueName);
         
-        const data = response.data;
+        const data = parseProjectionPayload(response.data);
         const providerFetchedAt = new Date().toISOString();
         assertCompleteProjectionPayload(data);
         // Build included maps per response (players, teams, games, etc.)
         const includedData = buildIncludedMap(data.included || []);
-        // Collect all included objects for debugging
-        allIncluded = allIncluded.concat(data.included || []);
         
         // DEBUG: Print all available fields for the first projection in this league
         if (data.data && Array.isArray(data.data) && data.data.length > 0 && leagueName === 'NCAAF') {
           console.log('\n=== RAW FIELDS FOR FIRST NCAAF PROJECTION ===');
           console.log(JSON.stringify(data.data[0], null, 2));
         }
-        // Process projections
-        if (data.data && Array.isArray(data.data)) {
-          data.data.forEach(projection => {
-            const prop = parseProjection(projection, includedData, leagueName);
-            if (prop) {
-              allProps.push({ ...prop, providerFetchedAt });
-            }
-          });
-          console.log(`   ✅ Found ${data.data.length} ${leagueName} props`);
-        }
-
-        leagueResults.push({ leagueName, ok: true, status: response.status, count: data.data.length,
+        // Stage the entire league. A malformed eligible row cannot leave a
+        // prefix of a failed league in a supposedly complete master capture.
+        const parsed = parseLeagueProjections(data.data, includedData, leagueName, providerFetchedAt);
+        allProps.push(...parsed.props);
+        allIncluded = allIncluded.concat(data.included || []);
+        console.log(`   ✅ Published ${parsed.counts.publishedCount} of ${parsed.counts.sourceCount} ${leagueName} projections`);
+        leagueResults.push({ leagueName, ok: true, status: response.status,
+          count: parsed.counts.publishedCount, ...parsed.counts,
           providerFetchedAt, endpoint: response.config?.url || null });
         
         // Add delay to avoid rate limiting (with jitter)
@@ -193,7 +189,9 @@ async function scrapePrizePicks() {
         const status = error?.response?.status;
         console.log(`   ⚠️  ${leagueName} fetch failed:`, status ? `HTTP ${status}` : error.message);
         leagueResults.push({ leagueName, ok: false, status: status ?? null, count: 0,
-          failedAt: new Date().toISOString(), errorCode: status ? `HTTP_${status}` : 'COLLECTION_FAILED' });
+          sourceCount: null, acceptedCount: 0, excludedCount: 0, rejectedCount: 0,
+          ...error.projectionCounts, publishedCount: 0,
+          failedAt: new Date().toISOString(), errorCode: status ? `HTTP_${status}` : error.code || 'COLLECTION_FAILED' });
       }
     }
 
@@ -614,18 +612,21 @@ function slugifyTeam(name) {
 // Helper function to parse projection and extract player info
 function parseProjection(projection, includedData, leagueName) {
   try {
-    const attrs = projection.attributes;
-    if (!attrs) return null;
+    const attrs = projection?.attributes;
+    if (!attrs || typeof attrs !== 'object' || Array.isArray(attrs)) throw new Error('Missing projection attributes');
     
     const oddsType = attrs.odds_type;
     // Only keep standard props (exclude demon/goblin variants)
     if (oddsType === 'demon' || oddsType === 'goblin') {
       return null;
     }
+    if (oddsType !== 'standard') throw new Error('Unknown odds type');
+    if (typeof attrs.status !== 'string' || !attrs.status) throw new Error('Missing projection status');
+    if (attrs.status !== 'pre_game' && attrs.status !== 'live') return null;
     
     const playerId = projection.relationships?.new_player?.data?.id;
     const playerData = playerId ? includedData.new_player?.[playerId] : null;
-    const playerName = playerData?.attributes?.name || 'Unknown';
+    const playerName = playerData?.attributes?.name;
     const { name: teamName, code: teamCode, full: teamFull } = getTeamInfo(projection, includedData);
 
     const gameId = projection.relationships?.game?.data?.id || null;
@@ -641,8 +642,9 @@ function parseProjection(projection, includedData, leagueName) {
     const rank = attrs.rank;
 
     // Parse stat type - remove "(Combo)" suffix if present
-    let statType = attrs.stat_type || attrs.stat_display_name || 'Unknown';
-    statType = statType.replace(/\s*\(Combo\)\s*/gi, '').trim();
+    let statType = attrs.stat_type || attrs.stat_display_name;
+    if (typeof statType !== 'string' || !statType.trim()) throw new Error('Invalid stat type');
+    statType = statType.trim();
     // Drop fantasy score and combo/combined stat types to keep payload smaller
     const statLower = statType.toLowerCase();
     if (
@@ -653,6 +655,16 @@ function parseProjection(projection, includedData, leagueName) {
     ) {
       return null;
     }
+    const line = attrs.line_score;
+    if (typeof line !== 'string' || !/^-?(?:0|[1-9][0-9]*)(?:\.[0-9]+)?(?:[eE][+-]?[0-9]+)?$/.test(line) || !Number.isFinite(Number(line))) {
+      throw new Error('Line requires an exact finite decimal token');
+    }
+    if ([projection.id, playerId, playerName, gameId, teamFull, opponentInfo.full || opponentName].some(value => typeof value !== 'string' || !value.trim())) {
+      throw new Error('Missing eligible projection identity');
+    }
+    if (typeof startTimeIso !== 'string' || !/(?:Z|[+-][0-9]{2}:[0-9]{2})$/.test(startTimeIso) || Number.isNaN(new Date(startTimeIso).getTime())) {
+      throw new Error('Invalid projection start time');
+    }
     // Only include active props
     if (attrs.status === 'pre_game' || attrs.status === 'live') {
       return {
@@ -661,7 +673,7 @@ function parseProjection(projection, includedData, leagueName) {
         status: attrs.status,
         player: playerName,
         stat: statType,
-        line: parseFloat(attrs.line_score),
+        line,
         sport: leagueName,
         startTime: startTimeCentral,
         startTimeCST,
@@ -679,9 +691,59 @@ function parseProjection(projection, includedData, leagueName) {
     
     return null;
   } catch (error) {
-    console.error('Error parsing projection:', error.message);
-    return null;
+    error.code = 'MALFORMED_PROJECTION';
+    throw error;
   }
+}
+
+function parseLeagueProjections(projections, included, leagueName, providerFetchedAt) {
+  const props = [];
+  const counts = {sourceCount: projections.length, acceptedCount: 0,
+    excludedCount: 0, rejectedCount: 0, publishedCount: 0};
+  for (const projection of projections) {
+    try {
+      const prop = parseProjection(projection, included, leagueName);
+      if (prop) {
+        props.push({...prop, providerFetchedAt});
+        counts.acceptedCount++;
+      } else counts.excludedCount++;
+    } catch (error) {
+      counts.rejectedCount++;
+    }
+  }
+  if (counts.rejectedCount) {
+    const error = new Error('Malformed eligible projections; entire league withheld');
+    error.code = 'MALFORMED_PROJECTION';
+    error.projectionCounts = counts;
+    throw error;
+  }
+  counts.publishedCount = props.length;
+  return {props, counts};
+}
+
+function parseProjectionPayload(raw) {
+  if (typeof raw !== 'string') throw new Error('Projection response requires original JSON text');
+  // Tokenize the JSON text before JSON.parse can round a numeric line_score.
+  // Every string is consumed whole, so text inside descriptions cannot be
+  // mistaken for a property. JSON.parse still validates the full grammar.
+  const tokens = /\s+|"(?:\\[\s\S]|[^"\\])*"|-?(?:0|[1-9][0-9]*)(?:\.[0-9]+)?(?:[eE][+-]?[0-9]+)?|true|false|null|[{}\[\]:,]/gy;
+  const parts = [];
+  let offset = 0, previous = null, beforePrevious = null;
+  while (offset < raw.length) {
+    tokens.lastIndex = offset;
+    const match = tokens.exec(raw);
+    if (!match) throw new Error('Invalid JSON token in projection response');
+    const token = match[0];
+    offset = tokens.lastIndex;
+    const numericLine = previous === ':' && beforePrevious?.startsWith('"') &&
+      JSON.parse(beforePrevious) === 'line_score' && /^-?[0-9]/.test(token);
+    parts.push(numericLine ? JSON.stringify(token) : token);
+    if (!/^\s+$/.test(token)) {
+      beforePrevious = previous;
+      previous = token;
+    }
+  }
+  return JSON.parse(parts.join(''));
 }
 
 // Run the data fetch
@@ -714,4 +776,5 @@ function linkedOpponent(game, player, included) {
 }
 
 module.exports = { scrapePrizePicks, parseProjection, formatStartTimeToCentral,
-  getCstStartFields, assertCompleteProjectionPayload, linkedOpponent };
+  getCstStartFields, assertCompleteProjectionPayload, linkedOpponent,
+  parseProjectionPayload, parseLeagueProjections };

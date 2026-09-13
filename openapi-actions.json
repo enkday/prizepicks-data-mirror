@@ -3,7 +3,7 @@
   "info": {
     "title": "PrizePicks Data API (Actions)",
     "description": "Minimal OpenAPI surface (<=30 ops) for GPT Actions. Prefer hierarchy connector-safe slices.\nHierarchy lineage fields refer to the exact local master acquisition. Native projection/player IDs are nullable for legacy captures; mirror-generated IDs are separate. sourceScrapedAt is observation time; generatedAt is not a freshness claim.",
-    "version": "1.1.0"
+    "version": "1.2.0"
   },
   "servers": [
     {
@@ -468,7 +468,11 @@
             "type": "string"
           },
           "line": {
-            "type": "number"
+            "oneOf": [
+              { "type": "string", "pattern": "^-?(?:0|[1-9][0-9]*)(?:\\.[0-9]+)?(?:[eE][+-]?[0-9]+)?$" },
+              { "type": "number" }
+            ],
+            "description": "Exact decimal string in new hierarchy builds; legacy files may contain JSON numbers."
           },
           "sourcePath": {
             "type": "string",

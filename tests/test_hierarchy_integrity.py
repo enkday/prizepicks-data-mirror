@@ -58,7 +58,7 @@ class HierarchyIntegrity(unittest.TestCase):
         self.write_master()
         (self.data / 'prizepicks-nfl-today-top-50.json').write_text(json.dumps({'props': [prop(line=228.5)]}))
         self.build()
-        self.assertEqual(self.rows()[0]['line'], 229.5)
+        self.assertEqual(self.rows()[0]['line'], '229.5')
 
     def test_exact_bytes_and_pointer_lineage(self):
         raw = self.write_master()
@@ -130,8 +130,27 @@ class HierarchyIntegrity(unittest.TestCase):
     def test_conflicting_lines_retained_and_flagged(self):
         self.write_master([prop(line=229.5), prop(line=228.5)])
         self.build()
-        self.assertEqual({r['line'] for r in self.rows()}, {228.5, 229.5})
+        self.assertEqual({r['line'] for r in self.rows()}, {'228.5', '229.5'})
         self.assertTrue(all(r['sourceConflict'] for r in self.rows()))
+
+    def test_exact_decimal_strings_and_numeric_json_survive_all_hierarchy_slices(self):
+        raw = self.write_master([prop(line='229.500000000000001'), prop(line=229.5)])
+        raw = raw.replace(b'"line": 229.5', b'"line": 229.500000000000002')
+        (self.data / 'prizepicks.json').write_bytes(raw)
+        self.build()
+        expected = {'229.500000000000001', '229.500000000000002'}
+        self.assertEqual({row['line'] for row in self.rows()}, expected)
+        self.assertTrue(all(row['sourceConflict'] for row in self.rows()))
+        rows = json.loads((self.data / 'hierarchy/current_day/nfl/props-by-game/123.json').read_text())
+        if isinstance(rows, dict): rows = rows['props']
+        self.assertEqual({row['line'] for row in rows}, expected)
+        self.assertTrue(all(row['sourcePayloadHash'] == hashlib.sha256(raw).hexdigest() for row in rows))
+
+    def test_equivalent_decimal_spellings_do_not_create_false_conflicts(self):
+        self.write_master([prop(line='229.50'), prop(line='229.5')])
+        self.build()
+        self.assertEqual({row['line'] for row in self.rows()}, {'229.50', '229.5'})
+        self.assertFalse(any(row['sourceConflict'] for row in self.rows()))
 
     def test_native_game_time_separate_from_projection_lock_time(self):
         self.write_master([prop(startTimeIso='2026-09-13T17:05:00Z')], included=[{

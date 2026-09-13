@@ -5,9 +5,9 @@ Derived/team/top-N files and remote repositories cannot supply alternative lines
 import datetime as dt
 import hashlib
 import json
-import math
 import os
 from collections import defaultdict
+from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -56,7 +56,7 @@ def fetch_props_sources(data_dir=None):
         raise ValueError('DATA_BASE_URL is unsupported: use this acquisition local master')
     source = Path(data_dir or ROOT / 'data') / 'prizepicks.json'
     raw = source.read_bytes()
-    envelope = json.loads(raw)
+    envelope = json.loads(raw, parse_float=Decimal)
     if not isinstance(envelope, dict) or not isinstance(envelope.get('props'), list):
         raise ValueError('master envelope must contain a props array')
     if type(envelope.get('totalProps')) is not int or envelope['totalProps'] != len(envelope['props']):
@@ -116,9 +116,15 @@ def normalize_props(props, today=None):
         if any(not isinstance(row.get(k), str) or not row[k].strip() for k in required):
             raise ValueError('in-scope prop lacks required identity fields')
         gid, sport, team, opponent, player = (row[k] for k in required[:5])
-        if isinstance(row.get('line'), bool) or not math.isfinite(float(row['line'])):
+        try:
+            line_decimal = Decimal(str(row['line']))
+        except (InvalidOperation, KeyError, ValueError):
+            raise ValueError('line must be finite decimal data') from None
+        if isinstance(row.get('line'), bool) or not line_decimal.is_finite():
             raise ValueError('line must be finite numeric data')
-        line, slate = float(row['line']), 'Early' if event.hour < 15 else 'Late'
+        # Emit decimal strings so every downstream JSON parser can preserve
+        # the value. Comparison uses Decimal, so 229.50 and 229.5 agree.
+        line, slate = str(row['line']), 'Early' if event.hour < 15 else 'Late'
         if gid in games and (games[gid]['sport'], games[gid]['dayBranch']) != (sport, branch):
             raise ValueError(f'cross-sport or cross-day gameId collision: {gid}')
         if gid not in games:
@@ -150,7 +156,7 @@ def normalize_props(props, today=None):
         players.setdefault(pid, {'playerId': pid, 'playerName': player,
             'teamCode': clean_key(team), 'sport': sport, 'nativePlayerId': row.get('playerId')})
         key = (gid, pid, row['stat'], SAFE_ODDSTYPE)
-        market_lines[key].add(line)
+        market_lines[key].add(line_decimal)
         props_out.append({'propId': f"{gid}_{pid}_{clean_key(row['stat'])}",
             'gameId': gid, 'playerId': pid, 'stat': row['stat'], 'line': line,
             'teamCode': clean_key(team), 'opponentCode': clean_key(opponent),
@@ -170,7 +176,12 @@ def normalize_props(props, today=None):
 
 def write_json(path, value):
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(value, indent=2, ensure_ascii=False, allow_nan=False) + '\n')
+    path.write_text(json.dumps(value, indent=2, ensure_ascii=False, allow_nan=False,
+        default=lambda item: str(item) if isinstance(item, Decimal) else _unsupported_json(item)) + '\n')
+
+
+def _unsupported_json(item):
+    raise TypeError(f'Unsupported JSON value: {type(item).__name__}')
 
 
 def build(data_dir=None, today=None):
