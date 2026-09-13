@@ -5,7 +5,7 @@
   "main": "scraper.js",
   "scripts": {
     "fetch": "node scraper.js",
-    "test": "node scraper.js"
+    "test": "node --test tests/*.test.js && python3 -m unittest discover -s tests -v"
   },
   "keywords": [
     "prizepicks",

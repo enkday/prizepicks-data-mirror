@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "PrizePicks Data API (Actions)",
-    "description": "Minimal OpenAPI surface (<=30 ops) for GPT Actions. Prefer hierarchy connector-safe slices.",
+    "description": "Minimal OpenAPI surface (<=30 ops) for GPT Actions. Prefer hierarchy connector-safe slices.\nHierarchy lineage fields refer to the exact local master acquisition. Native projection/player IDs are nullable for legacy captures; mirror-generated IDs are separate. sourceScrapedAt is observation time; generatedAt is not a freshness claim.",
     "version": "1.1.0"
   },
   "servers": [
@@ -22,7 +22,9 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               }
             }
@@ -41,7 +43,9 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               }
             }
@@ -49,7 +53,6 @@
         }
       }
     },
-
     "/data/hierarchy/current_day/{sport}/props-index.json": {
       "get": {
         "summary": "Connector-safe props index (current_day)",
@@ -60,7 +63,9 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" },
+            "schema": {
+              "type": "string"
+            },
             "description": "Lowercase sport slug (e.g., nfl, nba, ncaaf)"
           }
         ],
@@ -68,7 +73,11 @@
           "200": {
             "description": "Sport props index",
             "content": {
-              "application/json": { "schema": { "$ref": "#/components/schemas/SportPropsIndex" } }
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SportPropsIndex"
+                }
+              }
             }
           }
         }
@@ -84,7 +93,9 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" },
+            "schema": {
+              "type": "string"
+            },
             "description": "Lowercase sport slug (e.g., nfl, nba, ncaaf)"
           }
         ],
@@ -92,20 +103,37 @@
           "200": {
             "description": "Sport props index",
             "content": {
-              "application/json": { "schema": { "$ref": "#/components/schemas/SportPropsIndex" } }
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SportPropsIndex"
+                }
+              }
             }
           }
         }
       }
     },
-
     "/data/hierarchy/current_day/{sport}/props-by-game/{gameId}.json": {
       "get": {
         "summary": "Connector-safe props by game (current_day)",
         "operationId": "getSportPropsByGameCurrentDay",
         "parameters": [
-          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
-          { "name": "gameId", "in": "path", "required": true, "schema": { "type": "string" } }
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -114,7 +142,9 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -127,8 +157,22 @@
         "summary": "Connector-safe props by game (tomorrow)",
         "operationId": "getSportPropsByGameTomorrow",
         "parameters": [
-          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
-          { "name": "gameId", "in": "path", "required": true, "schema": { "type": "string" } }
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "gameId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -137,7 +181,9 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -145,14 +191,27 @@
         }
       }
     },
-
     "/data/hierarchy/current_day/{sport}/props-by-slate/{slate}.json": {
       "get": {
         "summary": "Connector-safe props by slate (current_day)",
         "operationId": "getSportPropsBySlateCurrentDay",
         "parameters": [
-          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
-          { "name": "slate", "in": "path", "required": true, "schema": { "type": "string" } }
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "slate",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -161,7 +220,9 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -174,8 +235,22 @@
         "summary": "Connector-safe props by slate (tomorrow)",
         "operationId": "getSportPropsBySlateTomorrow",
         "parameters": [
-          { "name": "sport", "in": "path", "required": true, "schema": { "type": "string" } },
-          { "name": "slate", "in": "path", "required": true, "schema": { "type": "string" } }
+          {
+            "name": "sport",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "slate",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
         ],
         "responses": {
           "200": {
@@ -184,7 +259,9 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -192,7 +269,6 @@
         }
       }
     },
-
     "/data/prizepicks-nfl-tomorrow-top-50.json": {
       "get": {
         "summary": "NFL tomorrow top-50 (proof-of-scrape)",
@@ -202,7 +278,11 @@
           "200": {
             "description": "PrizePicksData payload",
             "content": {
-              "application/json": { "schema": { "$ref": "#/components/schemas/PrizePicksData" } }
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PrizePicksData"
+                }
+              }
             }
           }
         }
@@ -215,37 +295,76 @@
         "type": "object",
         "additionalProperties": true,
         "properties": {
-          "scrapedDate": { "type": "string" },
+          "scrapedDate": {
+            "type": "string"
+          },
           "props": {
             "type": "array",
-            "items": { "type": "object", "additionalProperties": true }
+            "items": {
+              "type": "object",
+              "additionalProperties": true
+            }
           }
         }
       },
       "SportPropsIndex": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["sport", "sportSlug", "games"],
+        "required": [
+          "sport",
+          "sportSlug",
+          "games"
+        ],
         "properties": {
-          "sport": { "type": "string" },
-          "sportSlug": { "type": "string" },
-          "dayBranch": { "type": "string" },
-          "gameCount": { "type": "integer" },
-          "propCount": { "type": "integer" },
+          "sport": {
+            "type": "string"
+          },
+          "sportSlug": {
+            "type": "string"
+          },
+          "dayBranch": {
+            "type": "string"
+          },
+          "gameCount": {
+            "type": "integer"
+          },
+          "propCount": {
+            "type": "integer"
+          },
           "games": {
             "type": "array",
             "items": {
               "type": "object",
               "additionalProperties": true,
-              "required": ["gameId", "path"],
+              "required": [
+                "gameId",
+                "path"
+              ],
               "properties": {
-                "gameId": { "type": "string" },
-                "slate": { "type": "string" },
-                "startTime": { "type": "string" },
-                "startTimeIso": { "type": "string" },
-                "teams": { "type": "array", "items": { "type": "string" } },
-                "propCount": { "type": "integer" },
-                "path": { "type": "string" }
+                "gameId": {
+                  "type": "string"
+                },
+                "slate": {
+                  "type": "string"
+                },
+                "startTime": {
+                  "type": "string"
+                },
+                "startTimeIso": {
+                  "type": "string"
+                },
+                "teams": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "propCount": {
+                  "type": "integer"
+                },
+                "path": {
+                  "type": "string"
+                }
               }
             }
           },
@@ -255,11 +374,44 @@
               "type": "object",
               "additionalProperties": true,
               "properties": {
-                "slate": { "type": "string" },
-                "propCount": { "type": "integer" },
-                "path": { "type": "string" }
+                "slate": {
+                  "type": "string"
+                },
+                "propCount": {
+                  "type": "integer"
+                },
+                "path": {
+                  "type": "string"
+                }
               }
             }
+          },
+          "sourcePath": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourcePayloadHash": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedAt": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "observedDate": {
+            "type": "string",
+            "format": "date"
+          },
+          "completeness": {
+            "type": "string",
+            "enum": [
+              "reported",
+              "legacy-unverified"
+            ]
           }
         }
       },
@@ -267,21 +419,125 @@
         "type": "object",
         "additionalProperties": true,
         "properties": {
-          "gameId": { "type": "string" },
-          "sport": { "type": "string" },
-          "startTimeIso": { "type": "string" },
-          "teams": { "type": "array", "items": { "type": "string" } }
+          "gameId": {
+            "type": "string"
+          },
+          "sport": {
+            "type": "string"
+          },
+          "startTimeIso": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "teams": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "sourceEventConflict": {
+            "type": "boolean"
+          },
+          "startTimeSelectionRule": {
+            "type": "string"
+          }
         }
       },
       "NormalizedProp": {
         "type": "object",
         "additionalProperties": true,
         "properties": {
-          "propId": { "type": "string" },
-          "gameId": { "type": "string" },
-          "playerId": { "type": "string" },
-          "stat": { "type": "string" },
-          "line": { "type": "number" }
+          "propId": {
+            "type": "string"
+          },
+          "gameId": {
+            "type": "string"
+          },
+          "playerId": {
+            "type": "string"
+          },
+          "stat": {
+            "type": "string"
+          },
+          "line": {
+            "type": "number"
+          },
+          "sourcePath": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourcePayloadHash": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedAt": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourcePointer": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceRecordId": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceRecordIdKind": {
+            "type": "string",
+            "nullable": true
+          },
+          "nativeProjectionId": {
+            "type": "string",
+            "nullable": true
+          },
+          "nativePlayerId": {
+            "type": "string",
+            "nullable": true
+          },
+          "providerStatus": {
+            "type": "string",
+            "nullable": true
+          },
+          "providerFetchedAt": {
+            "type": "string",
+            "nullable": true
+          },
+          "eventStartTimeIso": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceConflict": {
+            "type": "boolean"
+          },
+          "sourceEventConflict": {
+            "type": "boolean"
+          },
+          "eventTimeVerified": {
+            "type": "boolean"
+          },
+          "rank": {
+            "type": "number",
+            "nullable": true
+          },
+          "eventTimeSources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "sourcePointer": {
+                  "type": "string"
+                },
+                "startTimeIso": {
+                  "type": "string",
+                  "format": "date-time"
+                }
+              }
+            }
+          }
         }
       }
     }

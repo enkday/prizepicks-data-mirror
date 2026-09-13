@@ -45,16 +45,19 @@ jobs:
             npm install
           fi
 
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Verify mirror contracts without network calls
+        run: npm test
+
       - name: 🏃 Run PrizePicks scraper
         run: node scraper.js
 
       - name: 🧩 Build small Action slices
         run: node scripts/build_action_slices.js
-
-      - name: 🐍 Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
 
       - name: 📦 Install Python dependencies
         run: pip install -r requirements.txt
@@ -68,7 +71,7 @@ jobs:
       - name: 📊 Check if data changed
         id: check_changes
         run: |
-          if git diff --quiet data; then
+          if [ -z "$(git status --porcelain -- data)" ]; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT

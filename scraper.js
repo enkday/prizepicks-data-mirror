@@ -1,4 +1,3 @@
-const axios = require('axios');
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -41,6 +40,7 @@ async function axiosGetWithRetry(
   config,
   { maxAttempts = 6, baseDelayMs = 1500, minDelayMs = 0, maxDelayMs = 30000 } = {}
 ) {
+  const axios = require('axios');
   let lastError;
 
   for (let attempt = 1; attempt <= maxAttempts; attempt++) {
@@ -160,6 +160,8 @@ async function scrapePrizePicks() {
         const response = await fetchProjectionsForLeagueWithCooldown(leagueId, leagueName);
         
         const data = response.data;
+        const providerFetchedAt = new Date().toISOString();
+        assertCompleteProjectionPayload(data);
         // Build included maps per response (players, teams, games, etc.)
         const includedData = buildIncludedMap(data.included || []);
         // Collect all included objects for debugging
@@ -175,13 +177,14 @@ async function scrapePrizePicks() {
           data.data.forEach(projection => {
             const prop = parseProjection(projection, includedData, leagueName);
             if (prop) {
-              allProps.push(prop);
+              allProps.push({ ...prop, providerFetchedAt });
             }
           });
           console.log(`   ✅ Found ${data.data.length} ${leagueName} props`);
         }
 
-        leagueResults.push({ leagueName, ok: true, status: response.status, count: Array.isArray(data.data) ? data.data.length : 0 });
+        leagueResults.push({ leagueName, ok: true, status: response.status, count: data.data.length,
+          providerFetchedAt, endpoint: response.config?.url || null });
         
         // Add delay to avoid rate limiting (with jitter)
         await sleep(1500 + Math.floor(Math.random() * 900));
@@ -189,7 +192,8 @@ async function scrapePrizePicks() {
       } catch (error) {
         const status = error?.response?.status;
         console.log(`   ⚠️  ${leagueName} fetch failed:`, status ? `HTTP ${status}` : error.message);
-        leagueResults.push({ leagueName, ok: false, status: status ?? null, count: 0 });
+        leagueResults.push({ leagueName, ok: false, status: status ?? null, count: 0,
+          failedAt: new Date().toISOString(), errorCode: status ? `HTTP_${status}` : 'COLLECTION_FAILED' });
       }
     }
 
@@ -209,6 +213,7 @@ async function scrapePrizePicks() {
     const allData = {
       scrapedAt: new Date().toISOString(),
       scrapedDate: new Date().toLocaleDateString('en-US', { 
+        timeZone: 'America/Chicago',
         weekday: 'long', 
         year: 'numeric', 
         month: 'long', 
@@ -218,6 +223,9 @@ async function scrapePrizePicks() {
         timeZoneName: 'short'
       }),
       source: 'PrizePicks API',
+      leagueResults,
+      completeness: leagueResults.every(r => r.ok) ? 'complete' : 'partial',
+      coverage: 'standard-single-stat-active-curated',
       totalProps: allProps.length,
       props: allProps,
       included: allIncluded
@@ -236,7 +244,8 @@ async function scrapePrizePicks() {
     // Split into sport-specific files
     console.log(`\n📂 Creating sport-specific files...`);
     const SLICE_EXCLUDED_SPORTS = new Set(['soccer', 'golf']);
-    const bySport = {};
+    // Empty or failed leagues still replace yesterday's sport envelopes.
+    const bySport = Object.fromEntries(Object.keys(LEAGUES).map(sport => [sport.toLowerCase(), []]));
     allProps.forEach(prop => {
       const sport = prop.sport.toLowerCase();
       if (!bySport[sport]) bySport[sport] = [];
@@ -253,6 +262,7 @@ async function scrapePrizePicks() {
         scrapedDate: allData.scrapedDate,
         source: allData.source,
         sport: sport.toUpperCase(),
+        collectionStatus: leagueResults.find(r => r.leagueName.toLowerCase() === sport),
         totalProps: props.length,
         props: props
       };
@@ -297,6 +307,7 @@ async function scrapePrizePicks() {
             scrapedAt: allData.scrapedAt,
             scrapedDate: allData.scrapedDate,
             source: allData.source,
+            collectionStatus: leagueResults.find(r => r.leagueName.toLowerCase() === sport),
             sport: sport.toUpperCase(),
             day: label,
             totalProps: rangeProps.length,
@@ -316,6 +327,9 @@ async function scrapePrizePicks() {
 
           const teamDir = path.join(dataDir, `${sport}-${label}`);
           await fs.mkdir(teamDir, { recursive: true });
+          for (const entry of await fs.readdir(teamDir, { withFileTypes: true })) {
+            if (entry.isFile() && entry.name.endsWith('.json')) await fs.unlink(path.join(teamDir, entry.name));
+          }
           for (const [teamName, teamProps] of Object.entries(byTeam)) {
             const slug = slugifyTeam(teamName);
             if (!slug) continue;
@@ -324,6 +338,7 @@ async function scrapePrizePicks() {
               scrapedAt: allData.scrapedAt,
               scrapedDate: allData.scrapedDate,
               source: allData.source,
+              collectionStatus: leagueResults.find(r => r.leagueName.toLowerCase() === sport),
               sport: sport.toUpperCase(),
               day: label,
               team: teamName,
@@ -377,6 +392,7 @@ async function scrapePrizePicks() {
             scrapedAt: allData.scrapedAt,
             scrapedDate: allData.scrapedDate,
             source: allData.source,
+            collectionStatus: leagueResults.find(r => r.leagueName.toLowerCase() === sport),
             sport: sport.toUpperCase(),
             day: label,
             totalProps: dayProps.length,
@@ -395,6 +411,9 @@ async function scrapePrizePicks() {
 
           const teamDir = path.join(dataDir, `${sport}-${label}`);
           await fs.mkdir(teamDir, { recursive: true });
+          for (const entry of await fs.readdir(teamDir, { withFileTypes: true })) {
+            if (entry.isFile() && entry.name.endsWith('.json')) await fs.unlink(path.join(teamDir, entry.name));
+          }
           for (const [teamName, teamProps] of Object.entries(byTeam)) {
             const slug = slugifyTeam(teamName);
             if (!slug) continue;
@@ -403,6 +422,7 @@ async function scrapePrizePicks() {
               scrapedAt: allData.scrapedAt,
               scrapedDate: allData.scrapedDate,
               source: allData.source,
+              collectionStatus: leagueResults.find(r => r.leagueName.toLowerCase() === sport),
               sport: sport.toUpperCase(),
               day: label,
               team: teamName,
@@ -455,7 +475,7 @@ function getTeamInfo(projection, includedData) {
       const market = playerData.attributes?.market || null;
       const codeFromPlayer = playerData.attributes?.team || null;
       const nameFromPlayer = playerData.attributes?.team_name || null;
-      const teamId = playerData.relationships?.team?.data?.id;
+      const teamId = playerData.relationships?.team_data?.data?.id || playerData.relationships?.team?.data?.id;
       if (teamId) {
         const teamData = includedData.team?.[teamId];
         const attrs = teamData?.attributes || {};
@@ -610,7 +630,7 @@ function parseProjection(projection, includedData, leagueName) {
 
     const gameId = projection.relationships?.game?.data?.id || null;
     const gameData = gameId ? includedData.game?.[gameId] : null;
-    let opponentName = pickOpponentFromGame(gameData, teamName);
+    let opponentName = linkedOpponent(gameData, playerData, includedData) || pickOpponentFromGame(gameData, teamName);
     if (!opponentName) {
       opponentName = attrs.opponent || attrs.opponent_name || attrs.description || null;
     }
@@ -636,6 +656,9 @@ function parseProjection(projection, includedData, leagueName) {
     // Only include active props
     if (attrs.status === 'pre_game' || attrs.status === 'live') {
       return {
+        projectionId: projection.id || null,
+        playerId: playerId || null,
+        status: attrs.status,
         player: playerName,
         stat: statType,
         line: parseFloat(attrs.line_score),
@@ -674,4 +697,21 @@ if (require.main === module) {
     });
 }
 
-module.exports = { scrapePrizePicks };
+function assertCompleteProjectionPayload(data) {
+  if (!Array.isArray(data?.data)) throw new Error('Invalid projection array');
+  if (data.links?.next || data.meta?.next_page || data.meta?.total_pages > 1) {
+    throw new Error('Incomplete projection pagination; collection withheld');
+  }
+}
+
+function linkedOpponent(game, player, included) {
+  const teamId = player?.relationships?.team_data?.data?.id || player?.relationships?.team?.data?.id;
+  const home = game?.relationships?.home_team_data?.data?.id;
+  const away = game?.relationships?.away_team_data?.data?.id;
+  const opponentId = teamId === home ? away : teamId === away ? home : null;
+  const attrs = opponentId && included.team?.[opponentId]?.attributes;
+  return attrs ? (attrs.abbreviation || attrs.full_name || attrs.name) : null;
+}
+
+module.exports = { scrapePrizePicks, parseProjection, formatStartTimeToCentral,
+  getCstStartFields, assertCompleteProjectionPayload, linkedOpponent };

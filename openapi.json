@@ -2,7 +2,7 @@
   "openapi": "3.0.3",
   "info": {
     "title": "PrizePicks Data API",
-    "description": "Provides current and normalized PrizePicks prop bet data scraped daily",
+    "description": "Provides current and normalized PrizePicks prop bet data scraped daily\nHierarchy lineage fields refer to the exact local master acquisition. Native projection/player IDs are nullable for legacy captures; mirror-generated IDs are separate. sourceScrapedAt is observation time; generatedAt is not a freshness claim.",
     "version": "1.1.0"
   },
   "servers": [
@@ -323,7 +323,6 @@
         }
       }
     },
-
     "/data/nfl-today/{team}.json": {
       "get": {
         "summary": "Get NFL props for a team (today)",
@@ -334,7 +333,9 @@
             "name": "team",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" },
+            "schema": {
+              "type": "string"
+            },
             "description": "Team file slug (without .json), e.g. 'kansas-city-chiefs'"
           }
         ],
@@ -367,7 +368,9 @@
             "name": "team",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" },
+            "schema": {
+              "type": "string"
+            },
             "description": "Team file slug (without .json), e.g. 'kansas-city-chiefs'"
           }
         ],
@@ -390,7 +393,6 @@
         }
       }
     },
-
     "/data/hierarchy/current_day/games.json": {
       "get": {
         "summary": "Get normalized games for current day (CST)",
@@ -403,13 +405,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               }
             }
@@ -428,13 +434,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedTeam"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedTeam"
+                  }
                 }
               }
             }
@@ -453,13 +463,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedPlayer"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedPlayer"
+                  }
                 }
               }
             }
@@ -478,13 +492,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -503,13 +521,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedSlate"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedSlate"
+                  }
                 }
               }
             }
@@ -517,7 +539,6 @@
         }
       }
     },
-
     "/data/hierarchy/tomorrow/games.json": {
       "get": {
         "summary": "Get normalized games for tomorrow (CST)",
@@ -529,13 +550,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               }
             }
@@ -554,13 +579,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedTeam"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedTeam"
+                  }
                 }
               }
             }
@@ -579,13 +608,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedPlayer"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedPlayer"
+                  }
                 }
               }
             }
@@ -604,13 +637,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -629,13 +666,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedSlate"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedSlate"
+                  }
                 }
               }
             }
@@ -643,7 +684,6 @@
         }
       }
     },
-
     "/data/hierarchy/current_day/{sport}/props-index.json": {
       "get": {
         "summary": "Get per-game props index for current day (connector-safe)",
@@ -654,7 +694,9 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           }
         ],
         "responses": {
@@ -662,10 +704,14 @@
             "description": "Sport props index",
             "content": {
               "application/json": {
-                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+                "schema": {
+                  "$ref": "#/components/schemas/SportPropsIndex"
+                }
               },
               "text/plain": {
-                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+                "schema": {
+                  "$ref": "#/components/schemas/SportPropsIndex"
+                }
               }
             }
           }
@@ -682,7 +728,9 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           }
         ],
         "responses": {
@@ -690,10 +738,14 @@
             "description": "Sport props index",
             "content": {
               "application/json": {
-                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+                "schema": {
+                  "$ref": "#/components/schemas/SportPropsIndex"
+                }
               },
               "text/plain": {
-                "schema": { "$ref": "#/components/schemas/SportPropsIndex" }
+                "schema": {
+                  "$ref": "#/components/schemas/SportPropsIndex"
+                }
               }
             }
           }
@@ -710,13 +762,17 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           },
           {
             "name": "gameId",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           }
         ],
         "responses": {
@@ -726,13 +782,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -750,13 +810,17 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           },
           {
             "name": "gameId",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           }
         ],
         "responses": {
@@ -766,13 +830,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -790,13 +858,18 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           },
           {
             "name": "slate",
             "in": "path",
             "required": true,
-            "schema": { "type": "string", "description": "Slate slug such as early or late" }
+            "schema": {
+              "type": "string",
+              "description": "Slate slug such as early or late"
+            }
           }
         ],
         "responses": {
@@ -806,13 +879,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -830,13 +907,18 @@
             "name": "sport",
             "in": "path",
             "required": true,
-            "schema": { "type": "string" }
+            "schema": {
+              "type": "string"
+            }
           },
           {
             "name": "slate",
             "in": "path",
             "required": true,
-            "schema": { "type": "string", "description": "Slate slug such as early or late" }
+            "schema": {
+              "type": "string",
+              "description": "Slate slug such as early or late"
+            }
           }
         ],
         "responses": {
@@ -846,13 +928,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -860,7 +946,6 @@
         }
       }
     },
-
     "/data/hierarchy/archive/{date}/games.json": {
       "get": {
         "summary": "Get normalized games for an archived date (CST)",
@@ -870,7 +955,10 @@
             "name": "date",
             "in": "path",
             "required": true,
-            "schema": { "type": "string", "description": "Date as YYYY-MM-DD in CST" }
+            "schema": {
+              "type": "string",
+              "description": "Date as YYYY-MM-DD in CST"
+            }
           }
         ],
         "responses": {
@@ -880,13 +968,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedGame" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedGame"
+                  }
                 }
               }
             }
@@ -903,7 +995,10 @@
             "name": "date",
             "in": "path",
             "required": true,
-            "schema": { "type": "string", "description": "Date as YYYY-MM-DD in CST" }
+            "schema": {
+              "type": "string",
+              "description": "Date as YYYY-MM-DD in CST"
+            }
           }
         ],
         "responses": {
@@ -913,13 +1008,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedTeam"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedTeam" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedTeam"
+                  }
                 }
               }
             }
@@ -936,7 +1035,10 @@
             "name": "date",
             "in": "path",
             "required": true,
-            "schema": { "type": "string", "description": "Date as YYYY-MM-DD in CST" }
+            "schema": {
+              "type": "string",
+              "description": "Date as YYYY-MM-DD in CST"
+            }
           }
         ],
         "responses": {
@@ -946,13 +1048,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedPlayer"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedPlayer" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedPlayer"
+                  }
                 }
               }
             }
@@ -969,7 +1075,10 @@
             "name": "date",
             "in": "path",
             "required": true,
-            "schema": { "type": "string", "description": "Date as YYYY-MM-DD in CST" }
+            "schema": {
+              "type": "string",
+              "description": "Date as YYYY-MM-DD in CST"
+            }
           }
         ],
         "responses": {
@@ -979,13 +1088,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedProp" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedProp"
+                  }
                 }
               }
             }
@@ -1002,7 +1115,10 @@
             "name": "date",
             "in": "path",
             "required": true,
-            "schema": { "type": "string", "description": "Date as YYYY-MM-DD in CST" }
+            "schema": {
+              "type": "string",
+              "description": "Date as YYYY-MM-DD in CST"
+            }
           }
         ],
         "responses": {
@@ -1012,13 +1128,17 @@
               "application/json": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedSlate"
+                  }
                 }
               },
               "text/plain": {
                 "schema": {
                   "type": "array",
-                  "items": { "$ref": "#/components/schemas/NormalizedSlate" }
+                  "items": {
+                    "$ref": "#/components/schemas/NormalizedSlate"
+                  }
                 }
               }
             }
@@ -1061,95 +1181,330 @@
       "PropBet": {
         "type": "object",
         "properties": {
-          "player": { "type": "string", "description": "Player name" },
-          "Team": { "type": "string", "description": "Team name (market + mascot)" },
-          "stat": { "type": "string", "description": "Stat type" },
-          "line": { "type": "number", "description": "Over/under line value" },
-          "sport": { "type": "string", "description": "Sport" },
-          "Opponent": { "type": "string", "description": "Opponent name" },
-          "teamCode": { "type": "string", "description": "Team abbreviation/code when available" },
-          "opponentCode": { "type": "string", "description": "Opponent abbreviation/code when available" },
-          "startTime": { "type": "string", "description": "Game start time in CST formatted as MM/DD/YY HH:MM AM/PM CST" },
-          "startTimeIso": { "type": "string", "description": "ISO start time if provided" },
-          "oddsType": { "type": "string", "description": "Odds type" },
-          "gameId": { "type": "string", "description": "Game identifier from PrizePicks" },
-          "rank": { "type": "integer", "description": "PrizePicks-provided rank/order within the board" }
+          "player": {
+            "type": "string",
+            "description": "Player name"
+          },
+          "Team": {
+            "type": "string",
+            "description": "Team name (market + mascot)"
+          },
+          "stat": {
+            "type": "string",
+            "description": "Stat type"
+          },
+          "line": {
+            "type": "number",
+            "description": "Over/under line value"
+          },
+          "sport": {
+            "type": "string",
+            "description": "Sport"
+          },
+          "Opponent": {
+            "type": "string",
+            "description": "Opponent name"
+          },
+          "teamCode": {
+            "type": "string",
+            "description": "Team abbreviation/code when available"
+          },
+          "opponentCode": {
+            "type": "string",
+            "description": "Opponent abbreviation/code when available"
+          },
+          "startTime": {
+            "type": "string",
+            "description": "Game start time in CST formatted as MM/DD/YY HH:MM AM/PM CST"
+          },
+          "startTimeIso": {
+            "type": "string",
+            "description": "ISO start time if provided"
+          },
+          "oddsType": {
+            "type": "string",
+            "description": "Odds type"
+          },
+          "gameId": {
+            "type": "string",
+            "description": "Game identifier from PrizePicks"
+          },
+          "rank": {
+            "type": "integer",
+            "description": "PrizePicks-provided rank/order within the board"
+          },
+          "projectionId": {
+            "type": "string",
+            "nullable": true
+          },
+          "playerId": {
+            "type": "string",
+            "nullable": true
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "providerFetchedAt": {
+            "type": "string",
+            "nullable": true
+          }
         }
       },
       "NormalizedGame": {
         "type": "object",
         "properties": {
-          "gameId": { "type": "string" },
-          "sport": { "type": "string" },
-          "startTime": { "type": "string", "description": "CST time string MM/DD/YY HH:MM AM/PM CST" },
-          "teams": { "type": "array", "items": { "type": "string" } },
-          "slate": { "type": "string", "description": "Slate bucket (Early/Late)" },
-          "dayBranch": { "type": "string", "description": "current_day or tomorrow or archive date" }
+          "gameId": {
+            "type": "string"
+          },
+          "sport": {
+            "type": "string"
+          },
+          "startTime": {
+            "type": "string",
+            "description": "CST time string MM/DD/YY HH:MM AM/PM CST"
+          },
+          "teams": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "slate": {
+            "type": "string",
+            "description": "Slate bucket (Early/Late)"
+          },
+          "dayBranch": {
+            "type": "string",
+            "description": "current_day or tomorrow or archive date"
+          },
+          "startTimeIso": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "sourceEventConflict": {
+            "type": "boolean"
+          },
+          "startTimeSelectionRule": {
+            "type": "string"
+          }
         }
       },
       "NormalizedTeam": {
         "type": "object",
         "properties": {
-          "teamCode": { "type": "string" },
-          "teamName": { "type": "string" },
-          "sport": { "type": "string" }
+          "teamCode": {
+            "type": "string"
+          },
+          "teamName": {
+            "type": "string"
+          },
+          "sport": {
+            "type": "string"
+          }
         }
       },
       "NormalizedPlayer": {
         "type": "object",
         "properties": {
-          "playerId": { "type": "string" },
-          "playerName": { "type": "string" },
-          "teamCode": { "type": "string" },
-          "sport": { "type": "string" }
+          "playerId": {
+            "type": "string"
+          },
+          "playerName": {
+            "type": "string"
+          },
+          "teamCode": {
+            "type": "string"
+          },
+          "sport": {
+            "type": "string"
+          }
         }
       },
       "NormalizedProp": {
         "type": "object",
         "properties": {
-          "propId": { "type": "string" },
-          "gameId": { "type": "string" },
-          "playerId": { "type": "string" },
-          "stat": { "type": "string" },
-          "line": { "type": "number" },
-          "teamCode": { "type": "string" },
-          "opponentCode": { "type": "string" },
-          "oddsType": { "type": "string" },
-          "sport": { "type": "string" },
-          "startTime": { "type": "string" },
-          "startTimeIso": { "type": "string" },
-          "dayBranch": { "type": "string" }
+          "propId": {
+            "type": "string"
+          },
+          "gameId": {
+            "type": "string"
+          },
+          "playerId": {
+            "type": "string"
+          },
+          "stat": {
+            "type": "string"
+          },
+          "line": {
+            "type": "number"
+          },
+          "teamCode": {
+            "type": "string"
+          },
+          "opponentCode": {
+            "type": "string"
+          },
+          "oddsType": {
+            "type": "string"
+          },
+          "sport": {
+            "type": "string"
+          },
+          "startTime": {
+            "type": "string"
+          },
+          "startTimeIso": {
+            "type": "string"
+          },
+          "dayBranch": {
+            "type": "string"
+          },
+          "sourcePath": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourcePayloadHash": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedAt": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourcePointer": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceRecordId": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceRecordIdKind": {
+            "type": "string",
+            "nullable": true
+          },
+          "nativeProjectionId": {
+            "type": "string",
+            "nullable": true
+          },
+          "nativePlayerId": {
+            "type": "string",
+            "nullable": true
+          },
+          "providerStatus": {
+            "type": "string",
+            "nullable": true
+          },
+          "providerFetchedAt": {
+            "type": "string",
+            "nullable": true
+          },
+          "eventStartTimeIso": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceConflict": {
+            "type": "boolean"
+          },
+          "sourceEventConflict": {
+            "type": "boolean"
+          },
+          "eventTimeVerified": {
+            "type": "boolean"
+          },
+          "rank": {
+            "type": "number",
+            "nullable": true
+          },
+          "eventTimeSources": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "sourcePointer": {
+                  "type": "string"
+                },
+                "startTimeIso": {
+                  "type": "string",
+                  "format": "date-time"
+                }
+              }
+            }
+          }
         }
       },
       "NormalizedSlate": {
         "type": "object",
         "properties": {
-          "dayBranch": { "type": "string" },
-          "slate": { "type": "string" },
-          "gameIds": { "type": "array", "items": { "type": "string" } },
-          "totalProps": { "type": "integer" }
+          "dayBranch": {
+            "type": "string"
+          },
+          "slate": {
+            "type": "string"
+          },
+          "gameIds": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "totalProps": {
+            "type": "integer"
+          }
         }
       },
       "SportPropsIndex": {
         "type": "object",
         "properties": {
-          "sport": { "type": "string" },
-          "sportSlug": { "type": "string" },
-          "dayBranch": { "type": "string" },
-          "gameCount": { "type": "integer" },
-          "propCount": { "type": "integer" },
+          "sport": {
+            "type": "string"
+          },
+          "sportSlug": {
+            "type": "string"
+          },
+          "dayBranch": {
+            "type": "string"
+          },
+          "gameCount": {
+            "type": "integer"
+          },
+          "propCount": {
+            "type": "integer"
+          },
           "games": {
             "type": "array",
             "items": {
               "type": "object",
               "properties": {
-                "gameId": { "type": "string" },
-                "slate": { "type": "string" },
-                "startTime": { "type": "string" },
-                "startTimeIso": { "type": "string" },
-                "teams": { "type": "array", "items": { "type": "string" } },
-                "propCount": { "type": "integer" },
-                "path": { "type": "string" }
+                "gameId": {
+                  "type": "string"
+                },
+                "slate": {
+                  "type": "string"
+                },
+                "startTime": {
+                  "type": "string"
+                },
+                "startTimeIso": {
+                  "type": "string"
+                },
+                "teams": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "propCount": {
+                  "type": "integer"
+                },
+                "path": {
+                  "type": "string"
+                }
               }
             }
           },
@@ -1158,11 +1513,44 @@
             "items": {
               "type": "object",
               "properties": {
-                "slate": { "type": "string" },
-                "propCount": { "type": "integer" },
-                "path": { "type": "string" }
+                "slate": {
+                  "type": "string"
+                },
+                "propCount": {
+                  "type": "integer"
+                },
+                "path": {
+                  "type": "string"
+                }
               }
             }
+          },
+          "sourcePath": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourcePayloadHash": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedAt": {
+            "type": "string",
+            "nullable": true
+          },
+          "sourceScrapedDate": {
+            "type": "string",
+            "nullable": true
+          },
+          "observedDate": {
+            "type": "string",
+            "format": "date"
+          },
+          "completeness": {
+            "type": "string",
+            "enum": [
+              "reported",
+              "legacy-unverified"
+            ]
           }
         }
       }
