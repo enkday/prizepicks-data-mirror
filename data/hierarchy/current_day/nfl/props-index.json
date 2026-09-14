@@ -1,15 +1,15 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "c1bc63bef82901c6c68543062dfe699d4d097d0e0bbcc9b49311f82ec09ae8de",
-  "sourceScrapedAt": "2026-09-14T03:16:52.595Z",
-  "sourceScrapedDate": "Sunday, September 13, 2026 at 10:16 PM CDT",
+  "sourcePayloadHash": "ac3efe41e8cab66a14c3062e853ed126a48f856077da85952d713e632731d39e",
+  "sourceScrapedAt": "2026-09-14T12:09:34.896Z",
+  "sourceScrapedDate": "Monday, September 14, 2026 at 07:09 AM CDT",
   "observedDate": "2026-09-14",
   "completeness": "reported",
   "sport": "NFL",
   "sportSlug": "nfl",
-  "dayBranch": "tomorrow",
+  "dayBranch": "current_day",
   "gameCount": 1,
-  "propCount": 93,
+  "propCount": 94,
   "games": [
     {
       "gameId": "162492",
@@ -21,15 +21,15 @@
         "Denver Broncos",
         "Kansas City Chiefs"
       ],
-      "propCount": 93,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/162492.json"
+      "propCount": 94,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/162492.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 93,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
+      "propCount": 94,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
 }

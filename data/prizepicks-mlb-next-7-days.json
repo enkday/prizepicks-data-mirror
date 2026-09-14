@@ -1,24 +1,45 @@
 {
-  "scrapedAt": "2026-09-14T03:16:52.595Z",
-  "scrapedDate": "Sunday, September 13, 2026 at 10:16 PM CDT",
+  "scrapedAt": "2026-09-14T12:09:34.896Z",
+  "scrapedDate": "Monday, September 14, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "MLB",
     "ok": true,
     "status": 200,
-    "count": 167,
-    "sourceCount": 4350,
-    "acceptedCount": 167,
-    "excludedCount": 4183,
+    "count": 169,
+    "sourceCount": 5694,
+    "acceptedCount": 169,
+    "excludedCount": 5525,
     "rejectedCount": 0,
-    "publishedCount": 167,
-    "providerFetchedAt": "2026-09-14T03:16:50.546Z",
+    "publishedCount": 169,
+    "providerFetchedAt": "2026-09-14T12:09:33.174Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "MLB",
   "day": "next-7-days",
-  "totalProps": 167,
+  "totalProps": 169,
   "props": [
+    {
+      "projectionId": "14833152",
+      "playerId": "213218",
+      "status": "pre_game",
+      "player": "Gavin Williams",
+      "stat": "Pitcher Strikeouts",
+      "line": "8",
+      "sport": "MLB",
+      "startTime": "09/14/26 05:40 PM CST",
+      "startTimeCST": "09/14/26 05:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Guardians",
+      "teamCode": "CLE",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 113,
+      "gameId": "180195",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
     {
       "projectionId": "14833091",
       "playerId": "213218",
@@ -36,9 +57,9 @@
       "teamCode": "CLE",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 230,
+      "rank": 357,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833020",
@@ -57,9 +78,9 @@
       "teamCode": "CWS",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 368,
+      "rank": 501,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833051",
@@ -78,30 +99,9 @@
       "teamCode": "CWS",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 386,
+      "rank": 521,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833075",
-      "playerId": "309111",
-      "status": "pre_game",
-      "player": "Munetaka Murakami",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Cleveland Guardians",
-      "opponentCode": "CLE",
-      "rank": 399,
-      "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833095",
@@ -120,9 +120,9 @@
       "teamCode": "CWS",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 406,
+      "rank": 541,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833124",
@@ -141,9 +141,9 @@
       "teamCode": "CLE",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 415,
+      "rank": 549,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833127",
@@ -162,30 +162,9 @@
       "teamCode": "CWS",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 416,
+      "rank": 550,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833139",
-      "playerId": "310369",
-      "status": "pre_game",
-      "player": "Tristan Peters",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Cleveland Guardians",
-      "opponentCode": "CLE",
-      "rank": 422,
-      "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833140",
@@ -204,72 +183,9 @@
       "teamCode": "CWS",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 423,
+      "rank": 556,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833144",
-      "playerId": "244978",
-      "status": "pre_game",
-      "player": "Colson Montgomery",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Cleveland Guardians",
-      "opponentCode": "CLE",
-      "rank": 426,
-      "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833147",
-      "playerId": "193122",
-      "status": "pre_game",
-      "player": "Brayan Rocchio",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Guardians",
-      "teamCode": "CLE",
-      "Opponent": "Chicago White Sox",
-      "opponentCode": "CWS",
-      "rank": 427,
-      "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833149",
-      "playerId": "310369",
-      "status": "pre_game",
-      "player": "Tristan Peters",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Cleveland Guardians",
-      "opponentCode": "CLE",
-      "rank": 429,
-      "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833153",
@@ -288,9 +204,9 @@
       "teamCode": "CWS",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 432,
+      "rank": 562,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833967",
@@ -309,9 +225,9 @@
       "teamCode": "CLE",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 440,
+      "rank": 570,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14834019",
@@ -330,9 +246,72 @@
       "teamCode": "CWS",
       "Opponent": "Cleveland Guardians",
       "opponentCode": "CLE",
-      "rank": 447,
+      "rank": 577,
       "gameId": "180195",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14834339",
+      "playerId": "317289",
+      "status": "pre_game",
+      "player": "Patrick Bailey",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 05:40 PM CST",
+      "startTimeCST": "09/14/26 05:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Guardians",
+      "teamCode": "CLE",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 578,
+      "gameId": "180195",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14835211",
+      "playerId": "241087",
+      "status": "pre_game",
+      "player": "Kyle Teel",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 05:40 PM CST",
+      "startTimeCST": "09/14/26 05:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago White Sox",
+      "teamCode": "CWS",
+      "Opponent": "Cleveland Guardians",
+      "opponentCode": "CLE",
+      "rank": 580,
+      "gameId": "180195",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14835631",
+      "playerId": "67669",
+      "status": "pre_game",
+      "player": "José Ramírez",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 05:40 PM CST",
+      "startTimeCST": "09/14/26 05:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Guardians",
+      "teamCode": "CLE",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 583,
+      "gameId": "180195",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825236",
@@ -351,9 +330,9 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 452,
+      "rank": 607,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825195",
@@ -372,9 +351,30 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 471,
+      "rank": 640,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14830184",
+      "playerId": "67947",
+      "status": "pre_game",
+      "player": "Nick Lodolo",
+      "stat": "Pitcher Strikeouts",
+      "line": "4",
+      "sport": "MLB",
+      "startTime": "09/14/26 05:40 PM CST",
+      "startTimeCST": "09/14/26 05:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Reds",
+      "teamCode": "CIN",
+      "Opponent": "Los Angeles Dodgers",
+      "opponentCode": "LAD",
+      "rank": 670,
+      "gameId": "180194",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825491",
@@ -393,9 +393,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 570,
+      "rank": 740,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825488",
@@ -414,9 +414,9 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 681,
+      "rank": 861,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825527",
@@ -435,9 +435,9 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 689,
+      "rank": 869,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825303",
@@ -456,9 +456,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 772,
+      "rank": 963,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825336",
@@ -477,9 +477,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 784,
+      "rank": 975,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825344",
@@ -498,9 +498,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 789,
+      "rank": 980,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825376",
@@ -519,9 +519,9 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 810,
+      "rank": 1000,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825383",
@@ -540,9 +540,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 813,
+      "rank": 1003,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825386",
@@ -561,30 +561,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 815,
+      "rank": 1005,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14825399",
-      "playerId": "67732",
-      "status": "pre_game",
-      "player": "Will Smith",
-      "stat": "Runs",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Dodgers",
-      "teamCode": "LAD",
-      "Opponent": "Cincinnati Reds",
-      "opponentCode": "CIN",
-      "rank": 823,
-      "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825433",
@@ -603,9 +582,9 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 834,
+      "rank": 1022,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825439",
@@ -624,9 +603,9 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 838,
+      "rank": 1026,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825449",
@@ -645,30 +624,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 842,
+      "rank": 1030,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14825505",
-      "playerId": "309525",
-      "status": "pre_game",
-      "player": "Dane Myers",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Reds",
-      "teamCode": "CIN",
-      "Opponent": "Los Angeles Dodgers",
-      "opponentCode": "LAD",
-      "rank": 873,
-      "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825529",
@@ -687,9 +645,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 886,
+      "rank": 1071,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825530",
@@ -708,30 +666,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 887,
+      "rank": 1072,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14825531",
-      "playerId": "67590",
-      "status": "pre_game",
-      "player": "Freddie Freeman",
-      "stat": "Runs",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 05:40 PM CST",
-      "startTimeCST": "09/14/26 05:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T18:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Dodgers",
-      "teamCode": "LAD",
-      "Opponent": "Cincinnati Reds",
-      "opponentCode": "CIN",
-      "rank": 888,
-      "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14825532",
@@ -750,9 +687,9 @@
       "teamCode": "LAD",
       "Opponent": "Cincinnati Reds",
       "opponentCode": "CIN",
-      "rank": 889,
+      "rank": 1073,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14827133",
@@ -771,9 +708,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 917,
+      "rank": 1099,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14827170",
@@ -792,9 +729,9 @@
       "teamCode": "CIN",
       "Opponent": "Los Angeles Dodgers",
       "opponentCode": "LAD",
-      "rank": 919,
+      "rank": 1101,
       "gameId": "180194",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828374",
@@ -813,9 +750,51 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 931,
+      "rank": 1204,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14828383",
+      "playerId": "331811",
+      "status": "pre_game",
+      "player": "José Soriano",
+      "stat": "Pitcher Strikeouts",
+      "line": "5.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:07 PM CST",
+      "startTimeCST": "09/14/26 06:07 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Toronto Blue Jays",
+      "teamCode": "TOR",
+      "Opponent": "Detroit Tigers",
+      "opponentCode": "DET",
+      "rank": 1205,
+      "gameId": "180196",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14828316",
+      "playerId": "248720",
+      "status": "pre_game",
+      "player": "Troy Melton",
+      "stat": "Pitcher Strikeouts",
+      "line": "4",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:07 PM CST",
+      "startTimeCST": "09/14/26 06:07 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Tigers",
+      "teamCode": "DET",
+      "Opponent": "Toronto Blue Jays",
+      "opponentCode": "TOR",
+      "rank": 1255,
+      "gameId": "180196",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828308",
@@ -834,9 +813,9 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1213,
+      "rank": 1511,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828367",
@@ -855,9 +834,9 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1256,
+      "rank": 1554,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828371",
@@ -876,30 +855,9 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1257,
+      "rank": 1555,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14828386",
-      "playerId": "331584",
-      "status": "pre_game",
-      "player": "Josh Smith",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:07 PM CST",
-      "startTimeCST": "09/14/26 06:07 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Toronto Blue Jays",
-      "teamCode": "TOR",
-      "Opponent": "Detroit Tigers",
-      "opponentCode": "DET",
-      "rank": 1266,
-      "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828402",
@@ -918,30 +876,9 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1281,
+      "rank": 1578,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14828410",
-      "playerId": "331584",
-      "status": "pre_game",
-      "player": "Josh Smith",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:07 PM CST",
-      "startTimeCST": "09/14/26 06:07 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Toronto Blue Jays",
-      "teamCode": "TOR",
-      "Opponent": "Detroit Tigers",
-      "opponentCode": "DET",
-      "rank": 1287,
-      "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828426",
@@ -960,9 +897,9 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1300,
+      "rank": 1596,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828430",
@@ -981,9 +918,9 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1302,
+      "rank": 1598,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828483",
@@ -1002,9 +939,9 @@
       "teamCode": "DET",
       "Opponent": "Toronto Blue Jays",
       "opponentCode": "TOR",
-      "rank": 1323,
+      "rank": 1619,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828486",
@@ -1023,30 +960,9 @@
       "teamCode": "TOR",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 1324,
+      "rank": 1620,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14828493",
-      "playerId": "192760",
-      "status": "pre_game",
-      "player": "Colt Keith",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:07 PM CST",
-      "startTimeCST": "09/14/26 06:07 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Tigers",
-      "teamCode": "DET",
-      "Opponent": "Toronto Blue Jays",
-      "opponentCode": "TOR",
-      "rank": 1325,
-      "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828495",
@@ -1065,51 +981,9 @@
       "teamCode": "TOR",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 1326,
+      "rank": 1621,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14828519",
-      "playerId": "67560",
-      "status": "pre_game",
-      "player": "Riley Greene",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:07 PM CST",
-      "startTimeCST": "09/14/26 06:07 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Tigers",
-      "teamCode": "DET",
-      "Opponent": "Toronto Blue Jays",
-      "opponentCode": "TOR",
-      "rank": 1334,
-      "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14828526",
-      "playerId": "191208",
-      "status": "pre_game",
-      "player": "Dillon Dingler",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:07 PM CST",
-      "startTimeCST": "09/14/26 06:07 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Tigers",
-      "teamCode": "DET",
-      "Opponent": "Toronto Blue Jays",
-      "opponentCode": "TOR",
-      "rank": 1336,
-      "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828552",
@@ -1128,9 +1002,9 @@
       "teamCode": "TOR",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 1341,
+      "rank": 1631,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828567",
@@ -1149,9 +1023,9 @@
       "teamCode": "TOR",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 1343,
+      "rank": 1633,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833868",
@@ -1170,9 +1044,51 @@
       "teamCode": "TOR",
       "Opponent": "Detroit Tigers",
       "opponentCode": "DET",
-      "rank": 1384,
+      "rank": 1673,
       "gameId": "180196",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14835204",
+      "playerId": "309859",
+      "status": "pre_game",
+      "player": "Kevin McGonigle",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:07 PM CST",
+      "startTimeCST": "09/14/26 06:07 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Tigers",
+      "teamCode": "DET",
+      "Opponent": "Toronto Blue Jays",
+      "opponentCode": "TOR",
+      "rank": 1685,
+      "gameId": "180196",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14835208",
+      "playerId": "233407",
+      "status": "pre_game",
+      "player": "Gleyber Torres",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:07 PM CST",
+      "startTimeCST": "09/14/26 06:07 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:07:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Tigers",
+      "teamCode": "DET",
+      "Opponent": "Toronto Blue Jays",
+      "opponentCode": "TOR",
+      "rank": 1688,
+      "gameId": "180196",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828148",
@@ -1191,17 +1107,17 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1393,
+      "rank": 1775,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14830864",
+      "projectionId": "14837511",
       "playerId": "235562",
       "status": "pre_game",
       "player": "Brandon Young",
-      "stat": "Pitcher Strikeouts",
-      "line": "3.5",
+      "stat": "Hits Allowed",
+      "line": "4.5",
       "sport": "MLB",
       "startTime": "09/14/26 06:10 PM CST",
       "startTimeCST": "09/14/26 06:10 PM CST",
@@ -1212,9 +1128,30 @@
       "teamCode": "BAL",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 1476,
+      "rank": 1822,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14830864",
+      "playerId": "235562",
+      "status": "pre_game",
+      "player": "Brandon Young",
+      "stat": "Pitcher Strikeouts",
+      "line": "4",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:10 PM CST",
+      "startTimeCST": "09/14/26 06:10 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Orioles",
+      "teamCode": "BAL",
+      "Opponent": "New York Mets",
+      "opponentCode": "NYM",
+      "rank": 1824,
+      "gameId": "180197",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832152",
@@ -1233,9 +1170,9 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1477,
+      "rank": 1867,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14827936",
@@ -1254,9 +1191,9 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1557,
+      "rank": 1950,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828023",
@@ -1275,9 +1212,9 @@
       "teamCode": "BAL",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 1712,
+      "rank": 2107,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828032",
@@ -1296,16 +1233,16 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1714,
+      "rank": 2109,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14828080",
-      "playerId": "308577",
+      "projectionId": "14828048",
+      "playerId": "139591",
       "status": "pre_game",
-      "player": "Marcus Semien",
-      "stat": "Singles",
+      "player": "Francisco Alvarez",
+      "stat": "Hits",
       "line": "0.5",
       "sport": "MLB",
       "startTime": "09/14/26 06:10 PM CST",
@@ -1317,9 +1254,9 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1741,
+      "rank": 2119,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828104",
@@ -1338,9 +1275,9 @@
       "teamCode": "NL",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1754,
+      "rank": 2149,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828117",
@@ -1359,9 +1296,9 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1760,
+      "rank": 2154,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828133",
@@ -1380,9 +1317,9 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1769,
+      "rank": 2163,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828187",
@@ -1401,30 +1338,9 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1791,
+      "rank": 2185,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14828204",
-      "playerId": "67573",
-      "status": "pre_game",
-      "player": "Francisco Lindor",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:10 PM CST",
-      "startTimeCST": "09/14/26 06:10 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Mets",
-      "teamCode": "NYM",
-      "Opponent": "Baltimore Orioles",
-      "opponentCode": "BAL",
-      "rank": 1800,
-      "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828208",
@@ -1443,9 +1359,9 @@
       "teamCode": "NYM",
       "Opponent": "Baltimore Orioles",
       "opponentCode": "BAL",
-      "rank": 1803,
+      "rank": 2196,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14828238",
@@ -1464,9 +1380,9 @@
       "teamCode": "BAL",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 1814,
+      "rank": 2207,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14829073",
@@ -1485,9 +1401,51 @@
       "teamCode": "BAL",
       "Opponent": "New York Mets",
       "opponentCode": "NYM",
-      "rank": 1832,
+      "rank": 2225,
       "gameId": "180197",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14830185",
+      "playerId": "145365",
+      "status": "pre_game",
+      "player": "Colton Cowser",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:10 PM CST",
+      "startTimeCST": "09/14/26 06:10 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Orioles",
+      "teamCode": "BAL",
+      "Opponent": "New York Mets",
+      "opponentCode": "NYM",
+      "rank": 2226,
+      "gameId": "180197",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14826082",
+      "playerId": "331475",
+      "status": "pre_game",
+      "player": "Dean Kremer",
+      "stat": "Pitcher Strikeouts",
+      "line": "5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Twins",
+      "teamCode": "MIN",
+      "Opponent": "New York Yankees",
+      "opponentCode": "NYY",
+      "rank": 2399,
+      "gameId": "180199",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14826069",
@@ -1506,9 +1464,9 @@
       "teamCode": "NYY",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 1864,
+      "rank": 2406,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832987",
@@ -1527,9 +1485,9 @@
       "teamCode": "MIN",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1868,
+      "rank": 2408,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832773",
@@ -1548,30 +1506,9 @@
       "teamCode": "MIN",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 2218,
+      "rank": 2809,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14832789",
-      "playerId": "249101",
-      "status": "pre_game",
-      "player": "Ryan McMahon",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:40 PM CST",
-      "startTimeCST": "09/14/26 06:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Yankees",
-      "teamCode": "NYY",
-      "Opponent": "Minnesota Twins",
-      "opponentCode": "MIN",
-      "rank": 2226,
-      "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832806",
@@ -1590,9 +1527,9 @@
       "teamCode": "NYY",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 2236,
+      "rank": 2823,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832807",
@@ -1611,9 +1548,9 @@
       "teamCode": "MIN",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 2237,
+      "rank": 2824,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832813",
@@ -1632,9 +1569,9 @@
       "teamCode": "NYY",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 2238,
+      "rank": 2825,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832833",
@@ -1653,9 +1590,9 @@
       "teamCode": "NYY",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 2244,
+      "rank": 2830,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832843",
@@ -1674,9 +1611,9 @@
       "teamCode": "NYY",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 2250,
+      "rank": 2836,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832848",
@@ -1695,9 +1632,9 @@
       "teamCode": "NYY",
       "Opponent": "Minnesota Twins",
       "opponentCode": "MIN",
-      "rank": 2253,
+      "rank": 2839,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832858",
@@ -1716,9 +1653,9 @@
       "teamCode": "MIN",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 2258,
+      "rank": 2843,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832877",
@@ -1737,16 +1674,100 @@
       "teamCode": "MIN",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 2262,
+      "rank": 2847,
       "gameId": "180199",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14831930",
-      "playerId": "190726",
+      "projectionId": "14837276",
+      "playerId": "67620",
       "status": "pre_game",
-      "player": "Reynaldo López",
-      "stat": "Pitcher Strikeouts",
+      "player": "Aaron Judge",
+      "stat": "Runs",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 2875,
+      "gameId": "180199",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14838726",
+      "playerId": "309108",
+      "status": "pre_game",
+      "player": "Victor Caratini",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Twins",
+      "teamCode": "MIN",
+      "Opponent": "New York Yankees",
+      "opponentCode": "NYY",
+      "rank": 2891,
+      "gameId": "180199",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14840185",
+      "playerId": "67620",
+      "status": "pre_game",
+      "player": "Aaron Judge",
+      "stat": "Walks",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 2900,
+      "gameId": "180199",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14842005",
+      "playerId": "331442",
+      "status": "pre_game",
+      "player": "George Lombard Jr.",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "Minnesota Twins",
+      "opponentCode": "MIN",
+      "rank": 2901,
+      "gameId": "180199",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14831629",
+      "playerId": "325622",
+      "status": "pre_game",
+      "player": "David Peterson",
+      "stat": "Hits Allowed",
       "line": "5",
       "sport": "MLB",
       "startTime": "09/14/26 06:40 PM CST",
@@ -1754,13 +1775,13 @@
       "startDateCST": "2026-09-14",
       "startTimeIso": "2026-09-14T19:40:00.000-04:00",
       "oddsType": "standard",
-      "Team": "Atlanta Braves",
-      "teamCode": "ATL",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 2311,
+      "Team": "Chicago Cubs",
+      "teamCode": "CHC",
+      "Opponent": "Atlanta Braves",
+      "opponentCode": "ATL",
+      "rank": 2946,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831619",
@@ -1779,17 +1800,38 @@
       "teamCode": "ATL",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 2329,
+      "rank": 2953,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14831614",
+      "projectionId": "14831930",
+      "playerId": "190726",
+      "status": "pre_game",
+      "player": "Reynaldo López",
+      "stat": "Pitcher Strikeouts",
+      "line": "4.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Braves",
+      "teamCode": "ATL",
+      "Opponent": "Chicago Cubs",
+      "opponentCode": "CHC",
+      "rank": 2954,
+      "gameId": "180198",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14826225",
       "playerId": "325622",
       "status": "pre_game",
       "player": "David Peterson",
-      "stat": "Earned Runs Allowed",
-      "line": "2.5",
+      "stat": "Pitcher Strikeouts",
+      "line": "4",
       "sport": "MLB",
       "startTime": "09/14/26 06:40 PM CST",
       "startTimeCST": "09/14/26 06:40 PM CST",
@@ -1800,9 +1842,9 @@
       "teamCode": "CHC",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 2440,
+      "rank": 2974,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831618",
@@ -1821,9 +1863,9 @@
       "teamCode": "ATL",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 2441,
+      "rank": 3064,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14826992",
@@ -1842,51 +1884,9 @@
       "teamCode": "CHC",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 2533,
+      "rank": 3164,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14831622",
-      "playerId": "67555",
-      "status": "pre_game",
-      "player": "Ronald Acuña Jr.",
-      "stat": "Total Bases",
-      "line": "1.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:40 PM CST",
-      "startTimeCST": "09/14/26 06:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Braves",
-      "teamCode": "ATL",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 2542,
-      "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14826300",
-      "playerId": "67555",
-      "status": "pre_game",
-      "player": "Ronald Acuña Jr.",
-      "stat": "Runs",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:40 PM CST",
-      "startTimeCST": "09/14/26 06:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Braves",
-      "teamCode": "ATL",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 2664,
-      "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831623",
@@ -1905,9 +1905,9 @@
       "teamCode": "CHC",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 2722,
+      "rank": 3356,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831633",
@@ -1926,9 +1926,9 @@
       "teamCode": "CHC",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 2726,
+      "rank": 3360,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831922",
@@ -1947,9 +1947,9 @@
       "teamCode": "CHC",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 2735,
+      "rank": 3370,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831939",
@@ -1968,37 +1968,16 @@
       "teamCode": "ATL",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 2739,
+      "rank": 3372,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14831963",
-      "playerId": "309888",
-      "status": "pre_game",
-      "player": "Michael Conforto",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:40 PM CST",
-      "startTimeCST": "09/14/26 06:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Cubs",
-      "teamCode": "CHC",
-      "Opponent": "Atlanta Braves",
-      "opponentCode": "ATL",
-      "rank": 2740,
-      "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14831965",
+      "projectionId": "14831955",
       "playerId": "259884",
       "status": "pre_game",
       "player": "Ha-Seong Kim",
-      "stat": "Total Bases",
+      "stat": "Hits",
       "line": "0.5",
       "sport": "MLB",
       "startTime": "09/14/26 06:40 PM CST",
@@ -2010,9 +1989,9 @@
       "teamCode": "ATL",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 2741,
+      "rank": 3373,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831969",
@@ -2031,9 +2010,72 @@
       "teamCode": "ATL",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 2743,
+      "rank": 3375,
       "gameId": "180198",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14837367",
+      "playerId": "67555",
+      "status": "pre_game",
+      "player": "Ronald Acuña Jr.",
+      "stat": "Runs",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Braves",
+      "teamCode": "ATL",
+      "Opponent": "Chicago Cubs",
+      "opponentCode": "CHC",
+      "rank": 3393,
+      "gameId": "180198",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14839824",
+      "playerId": "127255",
+      "status": "pre_game",
+      "player": "Sean Murphy",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:40 PM CST",
+      "startTimeCST": "09/14/26 06:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Braves",
+      "teamCode": "ATL",
+      "Opponent": "Chicago Cubs",
+      "opponentCode": "CHC",
+      "rank": 3402,
+      "gameId": "180198",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14831552",
+      "playerId": "334895",
+      "status": "pre_game",
+      "player": "Quinn Mathews",
+      "stat": "Pitcher Strikeouts",
+      "line": "5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:45 PM CST",
+      "startTimeCST": "09/14/26 06:45 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "St. Louis Cardinals",
+      "teamCode": "STL",
+      "Opponent": "San Francisco Giants",
+      "opponentCode": "SF",
+      "rank": 3484,
+      "gameId": "180200",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833409",
@@ -2052,17 +2094,17 @@
       "teamCode": "STL",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 2777,
+      "rank": 3498,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14833867",
+      "projectionId": "14831472",
       "playerId": "213029",
       "status": "pre_game",
       "player": "Landen Roupp",
-      "stat": "Hits Allowed",
-      "line": "4.5",
+      "stat": "Pitcher Strikeouts",
+      "line": "4",
       "sport": "MLB",
       "startTime": "09/14/26 06:45 PM CST",
       "startTimeCST": "09/14/26 06:45 PM CST",
@@ -2073,9 +2115,9 @@
       "teamCode": "SF",
       "Opponent": "St. Louis Cardinals",
       "opponentCode": "STL",
-      "rank": 2779,
+      "rank": 3517,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833357",
@@ -2094,9 +2136,9 @@
       "teamCode": "SF",
       "Opponent": "St. Louis Cardinals",
       "opponentCode": "STL",
-      "rank": 3104,
+      "rank": 3888,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833371",
@@ -2115,9 +2157,9 @@
       "teamCode": "STL",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 3107,
+      "rank": 3890,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833392",
@@ -2136,30 +2178,9 @@
       "teamCode": "SF",
       "Opponent": "St. Louis Cardinals",
       "opponentCode": "STL",
-      "rank": 3117,
+      "rank": 3900,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833395",
-      "playerId": "319810",
-      "status": "pre_game",
-      "player": "Bryan Torres",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:45 PM CST",
-      "startTimeCST": "09/14/26 06:45 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "St. Louis Cardinals",
-      "teamCode": "STL",
-      "Opponent": "San Francisco Giants",
-      "opponentCode": "SF",
-      "rank": 3118,
-      "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833404",
@@ -2178,9 +2199,9 @@
       "teamCode": "STL",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 3123,
+      "rank": 3904,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833415",
@@ -2199,30 +2220,9 @@
       "teamCode": "SF",
       "Opponent": "St. Louis Cardinals",
       "opponentCode": "STL",
-      "rank": 3126,
+      "rank": 3907,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833416",
-      "playerId": "334495",
-      "status": "pre_game",
-      "player": "Turner Hill",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 06:45 PM CST",
-      "startTimeCST": "09/14/26 06:45 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco Giants",
-      "teamCode": "SF",
-      "Opponent": "St. Louis Cardinals",
-      "opponentCode": "STL",
-      "rank": 3127,
-      "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833425",
@@ -2241,9 +2241,9 @@
       "teamCode": "STL",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 3129,
+      "rank": 3909,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833434",
@@ -2262,9 +2262,9 @@
       "teamCode": "SF",
       "Opponent": "St. Louis Cardinals",
       "opponentCode": "STL",
-      "rank": 3132,
+      "rank": 3911,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833446",
@@ -2283,9 +2283,9 @@
       "teamCode": "STL",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 3138,
+      "rank": 3916,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833449",
@@ -2304,9 +2304,114 @@
       "teamCode": "STL",
       "Opponent": "San Francisco Giants",
       "opponentCode": "SF",
-      "rank": 3139,
+      "rank": 3917,
       "gameId": "180200",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14837489",
+      "playerId": "319810",
+      "status": "pre_game",
+      "player": "Bryan Torres",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:45 PM CST",
+      "startTimeCST": "09/14/26 06:45 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "St. Louis Cardinals",
+      "teamCode": "STL",
+      "Opponent": "San Francisco Giants",
+      "opponentCode": "SF",
+      "rank": 3940,
+      "gameId": "180200",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14839630",
+      "playerId": "145895",
+      "status": "pre_game",
+      "player": "José Fermín",
+      "stat": "Runs",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:45 PM CST",
+      "startTimeCST": "09/14/26 06:45 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "St. Louis Cardinals",
+      "teamCode": "STL",
+      "Opponent": "San Francisco Giants",
+      "opponentCode": "SF",
+      "rank": 3959,
+      "gameId": "180200",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14841070",
+      "playerId": "150141",
+      "status": "pre_game",
+      "player": "Masyn Winn",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:45 PM CST",
+      "startTimeCST": "09/14/26 06:45 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "St. Louis Cardinals",
+      "teamCode": "STL",
+      "Opponent": "San Francisco Giants",
+      "opponentCode": "SF",
+      "rank": 3965,
+      "gameId": "180200",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14841071",
+      "playerId": "241103",
+      "status": "pre_game",
+      "player": "Andrew Knizner",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:45 PM CST",
+      "startTimeCST": "09/14/26 06:45 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco Giants",
+      "teamCode": "SF",
+      "Opponent": "St. Louis Cardinals",
+      "opponentCode": "STL",
+      "rank": 3966,
+      "gameId": "180200",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14841073",
+      "playerId": "241103",
+      "status": "pre_game",
+      "player": "Andrew Knizner",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 06:45 PM CST",
+      "startTimeCST": "09/14/26 06:45 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T19:45:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco Giants",
+      "teamCode": "SF",
+      "Opponent": "St. Louis Cardinals",
+      "opponentCode": "STL",
+      "rank": 3967,
+      "gameId": "180200",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833233",
@@ -2325,17 +2430,17 @@
       "teamCode": "COL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3164,
+      "rank": 4039,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14833196",
+      "projectionId": "14827322",
       "playerId": "331510",
       "status": "pre_game",
       "player": "Casey Mize",
-      "stat": "Hits Allowed",
-      "line": "5.5",
+      "stat": "Pitcher Strikeouts",
+      "line": "4",
       "sport": "MLB",
       "startTime": "09/14/26 07:40 PM CST",
       "startTimeCST": "09/14/26 07:40 PM CST",
@@ -2346,9 +2451,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3175,
+      "rank": 4104,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833295",
@@ -2367,30 +2472,9 @@
       "teamCode": "COL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3232,
+      "rank": 4141,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14830146",
-      "playerId": "309171",
-      "status": "pre_game",
-      "player": "Jake McCarthy",
-      "stat": "Total Bases",
-      "line": "1.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 07:40 PM CST",
-      "startTimeCST": "09/14/26 07:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Colorado Rockies",
-      "teamCode": "COL",
-      "Opponent": "San Diego Padres",
-      "opponentCode": "SD",
-      "rank": 3365,
-      "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14830161",
@@ -2409,9 +2493,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3366,
+      "rank": 4296,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14830172",
@@ -2430,9 +2514,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3367,
+      "rank": 4297,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14830174",
@@ -2451,9 +2535,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3368,
+      "rank": 4298,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833222",
@@ -2472,9 +2556,9 @@
       "teamCode": "NL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3380,
+      "rank": 4308,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833258",
@@ -2493,30 +2577,9 @@
       "teamCode": "COL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3389,
+      "rank": 4317,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833323",
-      "playerId": "323115",
-      "status": "pre_game",
-      "player": "Cole Carrigg",
-      "stat": "Total Bases",
-      "line": "1.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 07:40 PM CST",
-      "startTimeCST": "09/14/26 07:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Colorado Rockies",
-      "teamCode": "COL",
-      "Opponent": "San Diego Padres",
-      "opponentCode": "SD",
-      "rank": 3409,
-      "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833193",
@@ -2535,30 +2598,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3548,
+      "rank": 4478,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833217",
-      "playerId": "323115",
-      "status": "pre_game",
-      "player": "Cole Carrigg",
-      "stat": "Runs",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 07:40 PM CST",
-      "startTimeCST": "09/14/26 07:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Colorado Rockies",
-      "teamCode": "COL",
-      "Opponent": "San Diego Padres",
-      "opponentCode": "SD",
-      "rank": 3555,
-      "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833232",
@@ -2577,9 +2619,9 @@
       "teamCode": "COL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3557,
+      "rank": 4485,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833240",
@@ -2598,9 +2640,9 @@
       "teamCode": "COL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3560,
+      "rank": 4488,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833245",
@@ -2619,9 +2661,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3562,
+      "rank": 4489,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833262",
@@ -2640,9 +2682,9 @@
       "teamCode": "COL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3569,
+      "rank": 4493,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833263",
@@ -2661,9 +2703,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3570,
+      "rank": 4494,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833278",
@@ -2682,9 +2724,9 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3573,
+      "rank": 4497,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833287",
@@ -2703,9 +2745,9 @@
       "teamCode": "NL",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 3575,
+      "rank": 4499,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833296",
@@ -2724,16 +2766,16 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3577,
+      "rank": 4501,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14833297",
-      "playerId": "67595",
+      "projectionId": "14834263",
+      "playerId": "139980",
       "status": "pre_game",
-      "player": "Jake Cronenworth",
-      "stat": "Singles",
+      "player": "Fernando Tatis Jr.",
+      "stat": "RBIs",
       "line": "0.5",
       "sport": "MLB",
       "startTime": "09/14/26 07:40 PM CST",
@@ -2745,15 +2787,15 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3578,
+      "rank": 4513,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14833304",
-      "playerId": "322663",
+      "projectionId": "14834998",
+      "playerId": "67595",
       "status": "pre_game",
-      "player": "Samad Taylor",
+      "player": "Jake Cronenworth",
       "stat": "Runs",
       "line": "0.5",
       "sport": "MLB",
@@ -2766,9 +2808,72 @@
       "teamCode": "SD",
       "Opponent": "Colorado Rockies",
       "opponentCode": "COL",
-      "rank": 3580,
+      "rank": 4514,
       "gameId": "180464",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14837666",
+      "playerId": "234683",
+      "status": "pre_game",
+      "player": "Zac Veen",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 07:40 PM CST",
+      "startTimeCST": "09/14/26 07:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Colorado Rockies",
+      "teamCode": "COL",
+      "Opponent": "San Diego Padres",
+      "opponentCode": "SD",
+      "rank": 4523,
+      "gameId": "180464",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14838563",
+      "playerId": "309910",
+      "status": "pre_game",
+      "player": "TJ Rumfield",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 07:40 PM CST",
+      "startTimeCST": "09/14/26 07:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Colorado Rockies",
+      "teamCode": "COL",
+      "Opponent": "San Diego Padres",
+      "opponentCode": "SD",
+      "rank": 4524,
+      "gameId": "180464",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14840720",
+      "playerId": "193123",
+      "status": "pre_game",
+      "player": "Jackson Merrill",
+      "stat": "RBIs",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 07:40 PM CST",
+      "startTimeCST": "09/14/26 07:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Diego Padres",
+      "teamCode": "SD",
+      "Opponent": "Colorado Rockies",
+      "opponentCode": "COL",
+      "rank": 4536,
+      "gameId": "180464",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831873",
@@ -2787,9 +2892,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3597,
+      "rank": 4600,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14831884",
@@ -2808,9 +2913,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 3601,
+      "rank": 4617,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833541",
@@ -2829,30 +2934,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 3618,
+      "rank": 4640,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833559",
-      "playerId": "68563",
-      "status": "pre_game",
-      "player": "Reid Detmers",
-      "stat": "Hits Allowed",
-      "line": "4.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:38 PM CST",
-      "startTimeCST": "09/14/26 08:38 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Angels",
-      "teamCode": "LAA",
-      "Opponent": "Seattle Mariners",
-      "opponentCode": "SEA",
-      "rank": 3619,
-      "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833550",
@@ -2871,30 +2955,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3797,
+      "rank": 4863,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833608",
-      "playerId": "337169",
-      "status": "pre_game",
-      "player": "Kade Anderson",
-      "stat": "Walks Allowed",
-      "line": "1.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:38 PM CST",
-      "startTimeCST": "09/14/26 08:38 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Mariners",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Angels",
-      "opponentCode": "LAA",
-      "rank": 3804,
-      "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832017",
@@ -2913,9 +2976,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3920,
+      "rank": 4999,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832018",
@@ -2934,9 +2997,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 3921,
+      "rank": 5000,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14832025",
@@ -2955,30 +3018,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3923,
+      "rank": 5002,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14832039",
-      "playerId": "324706",
-      "status": "pre_game",
-      "player": "Weston Wilson",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:38 PM CST",
-      "startTimeCST": "09/14/26 08:38 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Mariners",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Angels",
-      "opponentCode": "LAA",
-      "rank": 3930,
-      "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833571",
@@ -2997,9 +3039,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3963,
+      "rank": 5041,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833605",
@@ -3018,9 +3060,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3982,
+      "rank": 5059,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833606",
@@ -3039,51 +3081,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3983,
+      "rank": 5060,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833621",
-      "playerId": "67566",
-      "status": "pre_game",
-      "player": "Julio Rodríguez",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:38 PM CST",
-      "startTimeCST": "09/14/26 08:38 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Mariners",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Angels",
-      "opponentCode": "LAA",
-      "rank": 3988,
-      "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833622",
-      "playerId": "204405",
-      "status": "pre_game",
-      "player": "Randy Arozarena",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:38 PM CST",
-      "startTimeCST": "09/14/26 08:38 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Mariners",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Angels",
-      "opponentCode": "LAA",
-      "rank": 3989,
-      "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833624",
@@ -3102,30 +3102,9 @@
       "teamCode": "LAA",
       "Opponent": "Seattle Mariners",
       "opponentCode": "SEA",
-      "rank": 3991,
+      "rank": 5065,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833627",
-      "playerId": "67548",
-      "status": "pre_game",
-      "player": "Mike Trout",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:38 PM CST",
-      "startTimeCST": "09/14/26 08:38 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Angels",
-      "teamCode": "LAA",
-      "Opponent": "Seattle Mariners",
-      "opponentCode": "SEA",
-      "rank": 3992,
-      "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833636",
@@ -3144,30 +3123,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 3998,
+      "rank": 5072,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833715",
-      "playerId": "148013",
-      "status": "pre_game",
-      "player": "Dominic Canzone",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:38 PM CST",
-      "startTimeCST": "09/14/26 08:38 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Mariners",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Angels",
-      "opponentCode": "LAA",
-      "rank": 3999,
-      "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833873",
@@ -3186,9 +3144,51 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Angels",
       "opponentCode": "LAA",
-      "rank": 4000,
+      "rank": 5073,
       "gameId": "180465",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14834427",
+      "playerId": "324537",
+      "status": "pre_game",
+      "player": "Tyler Heineman",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:38 PM CST",
+      "startTimeCST": "09/14/26 08:38 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Angels",
+      "teamCode": "LAA",
+      "Opponent": "Seattle Mariners",
+      "opponentCode": "SEA",
+      "rank": 5085,
+      "gameId": "180465",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14839554",
+      "playerId": "313407",
+      "status": "pre_game",
+      "player": "Vaughn Grissom",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:38 PM CST",
+      "startTimeCST": "09/14/26 08:38 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:38:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Angels",
+      "teamCode": "LAA",
+      "Opponent": "Seattle Mariners",
+      "opponentCode": "SEA",
+      "rank": 5097,
+      "gameId": "180465",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14830672",
@@ -3207,9 +3207,9 @@
       "teamCode": "AZ",
       "Opponent": "Miami Marlins",
       "opponentCode": "MIA",
-      "rank": 4034,
+      "rank": 5226,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14830754",
@@ -3228,51 +3228,9 @@
       "teamCode": "MIA",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 4046,
+      "rank": 5238,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833693",
-      "playerId": "229085",
-      "status": "pre_game",
-      "player": "Corbin Burnes",
-      "stat": "Hits Allowed",
-      "line": "3.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:40 PM CST",
-      "startTimeCST": "09/14/26 08:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Diamondbacks",
-      "teamCode": "AZ",
-      "Opponent": "Miami Marlins",
-      "opponentCode": "MIA",
-      "rank": 4055,
-      "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833707",
-      "playerId": "67902",
-      "status": "pre_game",
-      "player": "Sandy Alcantara",
-      "stat": "Earned Runs Allowed",
-      "line": "2.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:40 PM CST",
-      "startTimeCST": "09/14/26 08:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Miami Marlins",
-      "teamCode": "MIA",
-      "Opponent": "Arizona Diamondbacks",
-      "opponentCode": "AZ",
-      "rank": 4097,
-      "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833686",
@@ -3291,30 +3249,9 @@
       "teamCode": "AZ",
       "Opponent": "Miami Marlins",
       "opponentCode": "MIA",
-      "rank": 4170,
+      "rank": 5420,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833694",
-      "playerId": "192365",
-      "status": "pre_game",
-      "player": "Corbin Carroll",
-      "stat": "Total Bases",
-      "line": "1.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:40 PM CST",
-      "startTimeCST": "09/14/26 08:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Diamondbacks",
-      "teamCode": "AZ",
-      "Opponent": "Miami Marlins",
-      "opponentCode": "MIA",
-      "rank": 4171,
-      "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833697",
@@ -3333,30 +3270,9 @@
       "teamCode": "AZ",
       "Opponent": "Miami Marlins",
       "opponentCode": "MIA",
-      "rank": 4173,
+      "rank": 5422,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833656",
-      "playerId": "331075",
-      "status": "pre_game",
-      "player": "Lars Nootbaar",
-      "stat": "Walks",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:40 PM CST",
-      "startTimeCST": "09/14/26 08:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Diamondbacks",
-      "teamCode": "AZ",
-      "Opponent": "Miami Marlins",
-      "opponentCode": "MIA",
-      "rank": 4322,
-      "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833660",
@@ -3375,30 +3291,9 @@
       "teamCode": "MIA",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 4324,
+      "rank": 5613,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833664",
-      "playerId": "205916",
-      "status": "pre_game",
-      "player": "Kyle Stowers",
-      "stat": "Runs",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:40 PM CST",
-      "startTimeCST": "09/14/26 08:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Miami Marlins",
-      "teamCode": "MIA",
-      "Opponent": "Arizona Diamondbacks",
-      "opponentCode": "AZ",
-      "rank": 4327,
-      "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833679",
@@ -3417,51 +3312,9 @@
       "teamCode": "AZ",
       "Opponent": "Miami Marlins",
       "opponentCode": "MIA",
-      "rank": 4335,
+      "rank": 5625,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833685",
-      "playerId": "192366",
-      "status": "pre_game",
-      "player": "Ketel Marte",
-      "stat": "Runs",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:40 PM CST",
-      "startTimeCST": "09/14/26 08:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Diamondbacks",
-      "teamCode": "AZ",
-      "Opponent": "Miami Marlins",
-      "opponentCode": "MIA",
-      "rank": 4337,
-      "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
-    },
-    {
-      "projectionId": "14833688",
-      "playerId": "192365",
-      "status": "pre_game",
-      "player": "Corbin Carroll",
-      "stat": "Runs",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/14/26 08:40 PM CST",
-      "startTimeCST": "09/14/26 08:40 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Diamondbacks",
-      "teamCode": "AZ",
-      "Opponent": "Miami Marlins",
-      "opponentCode": "MIA",
-      "rank": 4338,
-      "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
       "projectionId": "14833708",
@@ -3480,16 +3333,16 @@
       "teamCode": "MIA",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 4344,
+      "rank": 5632,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14833712",
-      "playerId": "192631",
+      "projectionId": "14833747",
+      "playerId": "192366",
       "status": "pre_game",
-      "player": "Geraldo Perdomo",
-      "stat": "Runs",
+      "player": "Ketel Marte",
+      "stat": "Singles",
       "line": "0.5",
       "sport": "MLB",
       "startTime": "09/14/26 08:40 PM CST",
@@ -3501,16 +3354,100 @@
       "teamCode": "AZ",
       "Opponent": "Miami Marlins",
       "opponentCode": "MIA",
-      "rank": 4346,
+      "rank": 5638,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     },
     {
-      "projectionId": "14834091",
-      "playerId": "241023",
+      "projectionId": "14833768",
+      "playerId": "309168",
       "status": "pre_game",
-      "player": "Heriberto Hernández",
-      "stat": "Runs",
+      "player": "Nolan Arenado",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Diamondbacks",
+      "teamCode": "AZ",
+      "Opponent": "Miami Marlins",
+      "opponentCode": "MIA",
+      "rank": 5642,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14833773",
+      "playerId": "242657",
+      "status": "pre_game",
+      "player": "Ildemaro Vargas",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Diamondbacks",
+      "teamCode": "AZ",
+      "Opponent": "Miami Marlins",
+      "opponentCode": "MIA",
+      "rank": 5644,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14833777",
+      "playerId": "331075",
+      "status": "pre_game",
+      "player": "Lars Nootbaar",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Diamondbacks",
+      "teamCode": "AZ",
+      "Opponent": "Miami Marlins",
+      "opponentCode": "MIA",
+      "rank": 5646,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14833807",
+      "playerId": "192631",
+      "status": "pre_game",
+      "player": "Geraldo Perdomo",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Diamondbacks",
+      "teamCode": "AZ",
+      "Opponent": "Miami Marlins",
+      "opponentCode": "MIA",
+      "rank": 5648,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14835615",
+      "playerId": "310430",
+      "status": "pre_game",
+      "player": "Deyvison De Los Santos",
+      "stat": "Total Bases",
       "line": "0.5",
       "sport": "MLB",
       "startTime": "09/14/26 08:40 PM CST",
@@ -3522,9 +3459,114 @@
       "teamCode": "MIA",
       "Opponent": "Arizona Diamondbacks",
       "opponentCode": "AZ",
-      "rank": 4350,
+      "rank": 5661,
       "gameId": "180466",
-      "providerFetchedAt": "2026-09-14T03:16:50.546Z"
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14835616",
+      "playerId": "310430",
+      "status": "pre_game",
+      "player": "Deyvison De Los Santos",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Miami Marlins",
+      "teamCode": "MIA",
+      "Opponent": "Arizona Diamondbacks",
+      "opponentCode": "AZ",
+      "rank": 5662,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14839143",
+      "playerId": "237888",
+      "status": "pre_game",
+      "player": "Jordan Lawlar",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Diamondbacks",
+      "teamCode": "AZ",
+      "Opponent": "Miami Marlins",
+      "opponentCode": "MIA",
+      "rank": 5686,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14839443",
+      "playerId": "237888",
+      "status": "pre_game",
+      "player": "Jordan Lawlar",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Diamondbacks",
+      "teamCode": "AZ",
+      "Opponent": "Miami Marlins",
+      "opponentCode": "MIA",
+      "rank": 5687,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14840725",
+      "playerId": "309106",
+      "status": "pre_game",
+      "player": "Esteury Ruiz",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Miami Marlins",
+      "teamCode": "MIA",
+      "Opponent": "Arizona Diamondbacks",
+      "opponentCode": "AZ",
+      "rank": 5690,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
+    },
+    {
+      "projectionId": "14840728",
+      "playerId": "309106",
+      "status": "pre_game",
+      "player": "Esteury Ruiz",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/14/26 08:40 PM CST",
+      "startTimeCST": "09/14/26 08:40 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Miami Marlins",
+      "teamCode": "MIA",
+      "Opponent": "Arizona Diamondbacks",
+      "opponentCode": "AZ",
+      "rank": 5691,
+      "gameId": "180466",
+      "providerFetchedAt": "2026-09-14T12:09:33.174Z"
     }
   ]
 }

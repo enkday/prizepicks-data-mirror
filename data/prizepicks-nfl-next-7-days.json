@@ -1,23 +1,23 @@
 {
-  "scrapedAt": "2026-09-14T03:16:52.595Z",
-  "scrapedDate": "Sunday, September 13, 2026 at 10:16 PM CDT",
+  "scrapedAt": "2026-09-14T12:09:34.896Z",
+  "scrapedDate": "Monday, September 14, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 102,
-    "sourceCount": 652,
-    "acceptedCount": 102,
-    "excludedCount": 550,
+    "count": 103,
+    "sourceCount": 693,
+    "acceptedCount": 103,
+    "excludedCount": 590,
     "rejectedCount": 0,
-    "publishedCount": 102,
-    "providerFetchedAt": "2026-09-14T03:15:39.293Z",
+    "publishedCount": 103,
+    "providerFetchedAt": "2026-09-14T12:08:25.175Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
-  "totalProps": 93,
+  "totalProps": 100,
   "props": [
     {
       "projectionId": "12379085",
@@ -36,9 +36,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 20,
+      "rank": 19,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "12379086",
@@ -59,7 +59,7 @@
       "opponentCode": "DEN",
       "rank": 22,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "12379250",
@@ -78,9 +78,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 71,
+      "rank": 73,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "12335694",
@@ -99,9 +99,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 82,
+      "rank": 84,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "13976991",
@@ -109,7 +109,7 @@
       "status": "pre_game",
       "player": "Rashee Rice",
       "stat": "Receiving Yards",
-      "line": "55.5",
+      "line": "54.5",
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -120,9 +120,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 83,
+      "rank": 86,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14265098",
@@ -141,30 +141,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 88,
+      "rank": 91,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
-    },
-    {
-      "projectionId": "12379503",
-      "playerId": "211246",
-      "status": "pre_game",
-      "player": "Courtland Sutton",
-      "stat": "Receiving Yards",
-      "line": "42.5",
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 110,
-      "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "12379502",
@@ -183,9 +162,30 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 111,
+      "rank": 114,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "12379503",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Receiving Yards",
+      "line": "41.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 115,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095845",
@@ -193,7 +193,7 @@
       "status": "pre_game",
       "player": "Xavier Worthy",
       "stat": "Receiving Yards",
-      "line": "35.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -204,9 +204,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 129,
+      "rank": 134,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339235",
@@ -225,9 +225,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 132,
+      "rank": 135,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339236",
@@ -246,9 +246,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 133,
+      "rank": 136,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381666",
@@ -267,9 +267,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 134,
+      "rank": 137,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14392060",
@@ -277,7 +277,7 @@
       "status": "pre_game",
       "player": "Patrick Mahomes",
       "stat": "Pass Attempts",
-      "line": "32.5",
+      "line": "33",
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -288,9 +288,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 141,
+      "rank": 145,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14585933",
@@ -309,9 +309,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 190,
+      "rank": 195,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14585936",
@@ -330,9 +330,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 205,
+      "rank": 208,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339411",
@@ -351,9 +351,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 206,
+      "rank": 209,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381665",
@@ -372,9 +372,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 207,
+      "rank": 210,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14602763",
@@ -393,9 +393,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 209,
+      "rank": 214,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095800",
@@ -414,9 +414,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 210,
+      "rank": 215,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095849",
@@ -435,9 +435,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 216,
+      "rank": 221,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095727",
@@ -456,9 +456,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 242,
+      "rank": 249,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339402",
@@ -477,9 +477,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 243,
+      "rank": 250,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14574997",
@@ -498,9 +498,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 245,
+      "rank": 251,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095803",
@@ -519,9 +519,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 247,
+      "rank": 253,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339219",
@@ -540,9 +540,30 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 248,
+      "rank": 254,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14265232",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 260,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14586386",
@@ -561,9 +582,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 255,
+      "rank": 262,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381223",
@@ -582,30 +603,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 257,
+      "rank": 265,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
-    },
-    {
-      "projectionId": "14265232",
-      "playerId": "211036",
-      "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "Rush Yards",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 258,
-      "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095770",
@@ -613,7 +613,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Longest Rush",
-      "line": "14.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
@@ -624,9 +624,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 259,
+      "rank": 266,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095837",
@@ -645,9 +645,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 260,
+      "rank": 267,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14265231",
@@ -666,30 +666,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 279,
+      "rank": 288,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
-    },
-    {
-      "projectionId": "14339206",
-      "playerId": "246531",
-      "status": "pre_game",
-      "player": "J.K. Dobbins",
-      "stat": "Longest Rush",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 281,
-      "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14645849",
@@ -708,9 +687,51 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 284,
+      "rank": 293,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14475704",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Rush Attempts",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 295,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14613936",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Longest Rush",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 296,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14645576",
@@ -729,30 +750,30 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 286,
+      "rank": 297,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
-      "projectionId": "14475704",
-      "playerId": "246531",
+      "projectionId": "14839802",
+      "playerId": "337714",
       "status": "pre_game",
-      "player": "J.K. Dobbins",
-      "stat": "Rush Attempts",
-      "line": "12",
+      "player": "Emmett Johnson",
+      "stat": "Rush Yards",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "09/14/26 07:15 PM CST",
       "startTimeCST": "09/14/26 07:15 PM CST",
       "startDateCST": "2026-09-14",
       "startTimeIso": "2026-09-14T20:15:00.000-04:00",
       "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 290,
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 300,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14759740",
@@ -771,9 +792,30 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 297,
+      "rank": 307,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14840187",
+      "playerId": "211964",
+      "status": "pre_game",
+      "player": "Marvin Mims Jr.",
+      "stat": "Receiving Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 308,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14645655",
@@ -792,9 +834,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 299,
+      "rank": 311,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14759739",
@@ -813,9 +855,30 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 304,
+      "rank": 316,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14095773",
+      "playerId": "320186",
+      "status": "pre_game",
+      "player": "Kenneth Walker III",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 321,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14095832",
@@ -834,9 +897,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 309,
+      "rank": 322,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339226",
@@ -855,9 +918,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 311,
+      "rank": 324,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339233",
@@ -876,30 +939,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 312,
+      "rank": 325,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
-    },
-    {
-      "projectionId": "14095773",
-      "playerId": "320186",
-      "status": "pre_game",
-      "player": "Kenneth Walker III",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 330,
-      "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14759737",
@@ -918,9 +960,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 342,
+      "rank": 358,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14308536",
@@ -939,51 +981,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 344,
+      "rank": 361,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
-    },
-    {
-      "projectionId": "13977057",
-      "playerId": "206325",
-      "status": "pre_game",
-      "player": "Harrison Butker",
-      "stat": "Kicking Points",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 346,
-      "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
-    },
-    {
-      "projectionId": "14645883",
-      "playerId": "246567",
-      "status": "pre_game",
-      "player": "RJ Harvey",
-      "stat": "Longest Rush",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 353,
-      "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14645906",
@@ -1002,9 +1002,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 354,
+      "rank": 371,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14759736",
@@ -1023,9 +1023,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 359,
+      "rank": 377,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14266086",
@@ -1044,9 +1044,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 360,
+      "rank": 379,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14352625",
@@ -1065,9 +1065,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 366,
+      "rank": 383,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14352626",
@@ -1086,9 +1086,30 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 367,
+      "rank": 384,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14392055",
+      "playerId": "244034",
+      "status": "pre_game",
+      "player": "Brashard Smith",
+      "stat": "Receiving Yards",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 385,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14601834",
@@ -1107,9 +1128,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 370,
+      "rank": 388,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14246275",
@@ -1128,9 +1149,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 379,
+      "rank": 398,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14353121",
@@ -1149,30 +1170,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 382,
+      "rank": 401,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
-    },
-    {
-      "projectionId": "14392055",
-      "playerId": "244034",
-      "status": "pre_game",
-      "player": "Brashard Smith",
-      "stat": "Receiving Yards",
-      "line": "5.5",
-      "sport": "NFL",
-      "startTime": "09/14/26 07:15 PM CST",
-      "startTimeCST": "09/14/26 07:15 PM CST",
-      "startDateCST": "2026-09-14",
-      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Denver Broncos",
-      "opponentCode": "DEN",
-      "rank": 383,
-      "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14392063",
@@ -1191,9 +1191,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 384,
+      "rank": 402,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14833643",
@@ -1212,9 +1212,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 399,
+      "rank": 416,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14265265",
@@ -1233,9 +1233,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 401,
+      "rank": 419,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14745855",
@@ -1254,9 +1254,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 421,
+      "rank": 438,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14759738",
@@ -1275,9 +1275,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 424,
+      "rank": 441,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14759741",
@@ -1296,9 +1296,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 425,
+      "rank": 442,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "13685193",
@@ -1317,9 +1317,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 426,
+      "rank": 446,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14306994",
@@ -1338,9 +1338,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 427,
+      "rank": 447,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14599988",
@@ -1359,9 +1359,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 428,
+      "rank": 448,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14745856",
@@ -1380,9 +1380,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 429,
+      "rank": 449,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339211",
@@ -1401,9 +1401,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 439,
+      "rank": 458,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14339218",
@@ -1422,9 +1422,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 440,
+      "rank": 459,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14353119",
@@ -1443,9 +1443,30 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 441,
+      "rank": 460,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14381664",
+      "playerId": "206295",
+      "status": "pre_game",
+      "player": "Patrick Mahomes",
+      "stat": "Rush Attempts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "09/14/26 07:15 PM CST",
+      "startTimeCST": "09/14/26 07:15 PM CST",
+      "startDateCST": "2026-09-14",
+      "startTimeIso": "2026-09-14T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 462,
+      "gameId": "162492",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14392058",
@@ -1464,9 +1485,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 443,
+      "rank": 463,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14475705",
@@ -1485,9 +1506,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 446,
+      "rank": 465,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14599990",
@@ -1506,9 +1527,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 452,
+      "rank": 471,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14761100",
@@ -1527,9 +1548,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 462,
+      "rank": 481,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14599989",
@@ -1548,9 +1569,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 470,
+      "rank": 489,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14677565",
@@ -1569,9 +1590,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 471,
+      "rank": 490,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14745419",
@@ -1590,9 +1611,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 472,
+      "rank": 491,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14586371",
@@ -1611,9 +1632,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 484,
+      "rank": 503,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14599997",
@@ -1632,9 +1653,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 486,
+      "rank": 505,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14599996",
@@ -1653,9 +1674,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 515,
+      "rank": 534,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14677566",
@@ -1674,9 +1695,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 528,
+      "rank": 546,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14745874",
@@ -1695,9 +1716,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 531,
+      "rank": 549,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14745875",
@@ -1716,9 +1737,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 532,
+      "rank": 550,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "12528882",
@@ -1737,9 +1758,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 539,
+      "rank": 559,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "12325681",
@@ -1758,9 +1779,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 540,
+      "rank": 560,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "12528948",
@@ -1779,9 +1800,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 542,
+      "rank": 562,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14645942",
@@ -1800,9 +1821,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 596,
+      "rank": 613,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14392084",
@@ -1821,9 +1842,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 604,
+      "rank": 628,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381675",
@@ -1842,9 +1863,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 605,
+      "rank": 629,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381179",
@@ -1863,9 +1884,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 608,
+      "rank": 632,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381227",
@@ -1884,9 +1905,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 610,
+      "rank": 634,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14392085",
@@ -1905,9 +1926,9 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 628,
+      "rank": 652,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381674",
@@ -1926,9 +1947,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 629,
+      "rank": 653,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381180",
@@ -1947,9 +1968,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 637,
+      "rank": 661,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     },
     {
       "projectionId": "14381226",
@@ -1968,9 +1989,135 @@
       "teamCode": "KC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 638,
+      "rank": 662,
       "gameId": "162492",
-      "providerFetchedAt": "2026-09-14T03:15:39.293Z"
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14745313",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Pass Yards",
+      "line": "227.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 680,
+      "gameId": "181621",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14745310",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Rush Yards",
+      "line": "26.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 681,
+      "gameId": "181621",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14745312",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Pass Yards",
+      "line": "242.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 686,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14745235",
+      "playerId": "320180",
+      "status": "pre_game",
+      "player": "Mike Evans",
+      "stat": "Receiving Yards",
+      "line": "50.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 687,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14745309",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Rush Yards",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 688,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
+    },
+    {
+      "projectionId": "14745236",
+      "playerId": "211247",
+      "status": "pre_game",
+      "player": "Jaxon Smith-Njigba",
+      "stat": "Receiving Yards",
+      "line": "83.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 689,
+      "gameId": "181629",
+      "providerFetchedAt": "2026-09-14T12:08:25.175Z"
     }
   ]
 }
