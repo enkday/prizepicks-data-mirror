@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-09-15T12:09:04.557Z",
+  "scrapedDate": "Tuesday, September 15, 2026 at 07:09 AM CDT",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NFL",
+    "ok": true,
+    "status": 200,
+    "count": 362,
+    "sourceCount": 1910,
+    "acceptedCount": 362,
+    "excludedCount": 1548,
+    "rejectedCount": 0,
+    "publishedCount": 362,
+    "providerFetchedAt": "2026-09-15T12:07:53.908Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NFL",
+  "day": "next-7-days",
+  "team": "Minnesota Vikings",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "14850144",
+      "playerId": "211229",
+      "status": "pre_game",
+      "player": "Justin Jefferson",
+      "stat": "Receiving Yards",
+      "line": "77.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 512,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+    }
+  ]
+}

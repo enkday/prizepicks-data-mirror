@@ -1,33 +1,9 @@
 [
   {
-    "gameId": "162492",
-    "sport": "NFL",
-    "startTime": "09/14/26 07:15 PM CDT",
-    "startTimeIso": "2026-09-14T19:15:00-05:00",
-    "teams": [
-      "Denver Broncos",
-      "Kansas City Chiefs"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-09-14T19:15:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Denver Broncos",
-        "Kansas City Chiefs"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "180195",
+    "gameId": "180469",
     "sport": "MLB",
-    "startTime": "09/14/26 05:40 PM CDT",
-    "startTimeIso": "2026-09-14T17:40:00-05:00",
+    "startTime": "09/15/26 05:40 PM CDT",
+    "startTimeIso": "2026-09-15T17:40:00-05:00",
     "teams": [
       "Chicago White Sox",
       "Cleveland Guardians"
@@ -35,7 +11,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T17:40:00-05:00"
+      "2026-09-15T17:40:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -48,10 +24,10 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180194",
+    "gameId": "180468",
     "sport": "MLB",
-    "startTime": "09/14/26 05:40 PM CDT",
-    "startTimeIso": "2026-09-14T17:40:00-05:00",
+    "startTime": "09/15/26 05:40 PM CDT",
+    "startTimeIso": "2026-09-15T17:40:00-05:00",
     "teams": [
       "Cincinnati Reds",
       "Los Angeles Dodgers"
@@ -59,7 +35,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T17:40:00-05:00"
+      "2026-09-15T17:40:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -72,10 +48,87 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180196",
+    "gameId": "180467",
     "sport": "MLB",
-    "startTime": "09/14/26 06:07 PM CDT",
-    "startTimeIso": "2026-09-14T18:07:00-05:00",
+    "startTime": "09/15/26 05:40 PM CDT",
+    "startTimeIso": "2026-09-15T17:40:00-05:00",
+    "teams": [
+      "Athletics",
+      "Oakland Athletics",
+      "Tampa Bay Rays"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-09-15T17:40:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Oakland Athletics",
+        "Tampa Bay Rays"
+      ],
+      [
+        "Athletics",
+        "Tampa Bay Rays"
+      ]
+    ],
+    "sourceEventConflict": true,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "180470",
+    "sport": "MLB",
+    "startTime": "09/15/26 05:40 PM CDT",
+    "startTimeIso": "2026-09-15T17:40:00-05:00",
+    "teams": [
+      "Milwaukee Brewers",
+      "Pittsburgh Pirates"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-09-15T17:40:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Milwaukee Brewers",
+        "Pittsburgh Pirates"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "180471",
+    "sport": "MLB",
+    "startTime": "09/15/26 05:45 PM CDT",
+    "startTimeIso": "2026-09-15T17:45:00-05:00",
+    "teams": [
+      "Philadelphia Phillies",
+      "Washington Nationals"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-09-15T17:45:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Philadelphia Phillies",
+        "Washington Nationals"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "180472",
+    "sport": "MLB",
+    "startTime": "09/15/26 06:07 PM CDT",
+    "startTimeIso": "2026-09-15T18:07:00-05:00",
     "teams": [
       "Detroit Tigers",
       "Toronto Blue Jays"
@@ -83,7 +136,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T18:07:00-05:00"
+      "2026-09-15T18:07:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -96,10 +149,10 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180197",
+    "gameId": "180473",
     "sport": "MLB",
-    "startTime": "09/14/26 06:10 PM CDT",
-    "startTimeIso": "2026-09-14T18:10:00-05:00",
+    "startTime": "09/15/26 06:10 PM CDT",
+    "startTimeIso": "2026-09-15T18:10:00-05:00",
     "teams": [
       "Baltimore Orioles",
       "NL National League",
@@ -108,7 +161,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T18:10:00-05:00"
+      "2026-09-15T18:10:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -125,34 +178,10 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180199",
+    "gameId": "180475",
     "sport": "MLB",
-    "startTime": "09/14/26 06:40 PM CDT",
-    "startTimeIso": "2026-09-14T18:40:00-05:00",
-    "teams": [
-      "Minnesota Twins",
-      "New York Yankees"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-09-14T18:40:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Minnesota Twins",
-        "New York Yankees"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "180198",
-    "sport": "MLB",
-    "startTime": "09/14/26 06:40 PM CDT",
-    "startTimeIso": "2026-09-14T18:40:00-05:00",
+    "startTime": "09/15/26 06:40 PM CDT",
+    "startTimeIso": "2026-09-15T18:40:00-05:00",
     "teams": [
       "Atlanta Braves",
       "Chicago Cubs"
@@ -160,7 +189,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T18:40:00-05:00"
+      "2026-09-15T18:40:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -173,10 +202,34 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180200",
+    "gameId": "180474",
     "sport": "MLB",
-    "startTime": "09/14/26 06:45 PM CDT",
-    "startTimeIso": "2026-09-14T18:45:00-05:00",
+    "startTime": "09/15/26 06:40 PM CDT",
+    "startTimeIso": "2026-09-15T18:40:00-05:00",
+    "teams": [
+      "Minnesota Twins",
+      "New York Yankees"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-09-15T18:40:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Minnesota Twins",
+        "New York Yankees"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "180476",
+    "sport": "MLB",
+    "startTime": "09/15/26 06:45 PM CDT",
+    "startTimeIso": "2026-09-15T18:45:00-05:00",
     "teams": [
       "San Francisco Giants",
       "St. Louis Cardinals"
@@ -184,7 +237,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T18:45:00-05:00"
+      "2026-09-15T18:45:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -197,10 +250,58 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180464",
+    "gameId": "180631",
     "sport": "MLB",
-    "startTime": "09/14/26 07:40 PM CDT",
-    "startTimeIso": "2026-09-14T19:40:00-05:00",
+    "startTime": "09/15/26 07:05 PM CDT",
+    "startTimeIso": "2026-09-15T19:05:00-05:00",
+    "teams": [
+      "Boston Red Sox",
+      "Texas Rangers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-09-15T19:05:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Boston Red Sox",
+        "Texas Rangers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "180632",
+    "sport": "MLB",
+    "startTime": "09/15/26 07:10 PM CDT",
+    "startTimeIso": "2026-09-15T19:10:00-05:00",
+    "teams": [
+      "Houston Astros",
+      "Kansas City Royals"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-09-15T19:10:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Houston Astros",
+        "Kansas City Royals"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "180633",
+    "sport": "MLB",
+    "startTime": "09/15/26 07:40 PM CDT",
+    "startTimeIso": "2026-09-15T19:40:00-05:00",
     "teams": [
       "Colorado Rockies",
       "NL National League",
@@ -209,7 +310,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T19:40:00-05:00"
+      "2026-09-15T19:40:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -226,10 +327,10 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180465",
+    "gameId": "180634",
     "sport": "MLB",
-    "startTime": "09/14/26 08:38 PM CDT",
-    "startTimeIso": "2026-09-14T20:38:00-05:00",
+    "startTime": "09/15/26 08:38 PM CDT",
+    "startTimeIso": "2026-09-15T20:38:00-05:00",
     "teams": [
       "Los Angeles Angels",
       "Seattle Mariners"
@@ -237,7 +338,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T20:38:00-05:00"
+      "2026-09-15T20:38:00-05:00"
     ],
     "teamPairObservations": [
       [
@@ -250,10 +351,10 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180466",
+    "gameId": "180635",
     "sport": "MLB",
-    "startTime": "09/14/26 08:40 PM CDT",
-    "startTimeIso": "2026-09-14T20:40:00-05:00",
+    "startTime": "09/15/26 08:40 PM CDT",
+    "startTimeIso": "2026-09-15T20:40:00-05:00",
     "teams": [
       "Arizona Diamondbacks",
       "Miami Marlins"
@@ -261,7 +362,7 @@
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-09-14T20:40:00-05:00"
+      "2026-09-15T20:40:00-05:00"
     ],
     "teamPairObservations": [
       [
