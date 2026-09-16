@@ -1,32 +1,32 @@
 {
-  "scrapedAt": "2026-09-15T12:09:04.557Z",
-  "scrapedDate": "Tuesday, September 15, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-16T12:08:47.335Z",
+  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 362,
-    "sourceCount": 1910,
-    "acceptedCount": 362,
-    "excludedCount": 1548,
+    "count": 667,
+    "sourceCount": 3995,
+    "acceptedCount": 667,
+    "excludedCount": 3328,
     "rejectedCount": 0,
-    "publishedCount": 362,
-    "providerFetchedAt": "2026-09-15T12:07:53.908Z",
+    "publishedCount": 667,
+    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 35,
+  "totalProps": 50,
   "props": [
     {
-      "projectionId": "14847179",
-      "playerId": "205163",
+      "projectionId": "14895758",
+      "playerId": "320271",
       "status": "pre_game",
-      "player": "Josh Allen",
-      "stat": "Pass Yards",
-      "line": "249.5",
+      "player": "DJ Moore",
+      "stat": "Receiving Yards",
+      "line": "57.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 22,
+      "rank": 1,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14847179",
+      "playerId": "205163",
+      "status": "pre_game",
+      "player": "Josh Allen",
+      "stat": "Pass Yards",
+      "line": "250.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 24,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847229",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "James Cook III",
       "stat": "Rush Yards",
-      "line": "75.5",
+      "line": "78.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 69,
+      "rank": 75,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850134",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "DJ Moore",
       "stat": "Receiving Yards",
-      "line": "60.5",
+      "line": "58.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 82,
+      "rank": 98,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847991",
@@ -100,9 +121,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 96,
+      "rank": 105,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14856842",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Khalil Shakir",
       "stat": "Receiving Yards",
-      "line": "44.5",
+      "line": "45.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 114,
+      "rank": 119,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847915",
@@ -142,9 +163,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 126,
+      "rank": 132,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847228",
@@ -163,9 +184,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 143,
+      "rank": 154,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847873",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Pass Attempts",
-      "line": "31.5",
+      "line": "31",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 144,
+      "rank": 156,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14860215",
@@ -205,16 +226,16 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 176,
+      "rank": 196,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
-      "projectionId": "14848024",
-      "playerId": "205163",
+      "projectionId": "14847855",
+      "playerId": "211117",
       "status": "pre_game",
-      "player": "Josh Allen",
-      "stat": "Pass Completions",
+      "player": "Dalton Kincaid",
+      "stat": "Longest Reception",
       "line": "21.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
@@ -226,17 +247,17 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 191,
+      "rank": 208,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
-      "projectionId": "14847855",
-      "playerId": "211117",
+      "projectionId": "14884331",
+      "playerId": "320271",
       "status": "pre_game",
-      "player": "Dalton Kincaid",
-      "stat": "Longest Reception",
-      "line": "20.5",
+      "player": "DJ Moore",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -247,9 +268,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 195,
+      "rank": 211,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14884333",
+      "playerId": "211117",
+      "status": "pre_game",
+      "player": "Dalton Kincaid",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 234,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14859934",
@@ -257,7 +299,7 @@
       "status": "pre_game",
       "player": "Khalil Shakir",
       "stat": "Longest Reception",
-      "line": "17.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -268,9 +310,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 221,
+      "rank": 241,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14884332",
+      "playerId": "211112",
+      "status": "pre_game",
+      "player": "Khalil Shakir",
+      "stat": "Receiving Yards in First 2 Receptions",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 244,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847866",
@@ -278,7 +341,7 @@
       "status": "pre_game",
       "player": "James Cook III",
       "stat": "Rush Attempts",
-      "line": "17",
+      "line": "18",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
       "startTimeCST": "09/17/26 07:15 PM CST",
@@ -289,9 +352,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 226,
+      "rank": 246,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14847934",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Receiving Yards",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 253,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847810",
@@ -310,30 +394,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 229,
+      "rank": 255,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
-    },
-    {
-      "projectionId": "14847934",
-      "playerId": "210711",
-      "status": "pre_game",
-      "player": "James Cook III",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "09/17/26 07:15 PM CST",
-      "startTimeCST": "09/17/26 07:15 PM CST",
-      "startDateCST": "2026-09-17",
-      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 232,
-      "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847777",
@@ -352,9 +415,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 241,
+      "rank": 270,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14877523",
@@ -373,9 +436,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 244,
+      "rank": 275,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14877524",
@@ -394,9 +457,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 246,
+      "rank": 276,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14877536",
@@ -404,6 +467,69 @@
       "status": "pre_game",
       "player": "Keon Coleman",
       "stat": "Receiving Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 280,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14879705",
+      "playerId": "212045",
+      "status": "pre_game",
+      "player": "Keon Coleman",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 285,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14895539",
+      "playerId": "246554",
+      "status": "pre_game",
+      "player": "Joshua Palmer",
+      "stat": "Longest Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 287,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14847796",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Longest Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "09/17/26 07:15 PM CST",
@@ -415,15 +541,78 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 256,
+      "rank": 290,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
-      "projectionId": "14847796",
-      "playerId": "210711",
+      "projectionId": "14879704",
+      "playerId": "320271",
       "status": "pre_game",
-      "player": "James Cook III",
+      "player": "DJ Moore",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 299,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14879708",
+      "playerId": "211117",
+      "status": "pre_game",
+      "player": "Dalton Kincaid",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 300,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14895385",
+      "playerId": "211930",
+      "status": "pre_game",
+      "player": "Dawson Knox",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 302,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14895462",
+      "playerId": "212045",
+      "status": "pre_game",
+      "player": "Keon Coleman",
       "stat": "Longest Reception",
       "line": "8.5",
       "sport": "NFL",
@@ -436,9 +625,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 259,
+      "rank": 312,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14848022",
@@ -457,9 +646,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 267,
+      "rank": 313,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14879707",
+      "playerId": "211112",
+      "status": "pre_game",
+      "player": "Khalil Shakir",
+      "stat": "Yards on First Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 318,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847819",
@@ -478,9 +688,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 273,
+      "rank": 321,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14865194",
@@ -499,9 +709,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 274,
+      "rank": 323,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14865195",
@@ -520,9 +730,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 282,
+      "rank": 330,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14865193",
@@ -541,9 +751,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 292,
+      "rank": 340,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14856840",
@@ -562,9 +772,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 297,
+      "rank": 350,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14879706",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Yards on First Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 356,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14864616",
@@ -583,9 +814,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 303,
+      "rank": 360,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14865221",
@@ -604,9 +835,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 335,
+      "rank": 399,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14884224",
+      "playerId": "211930",
+      "status": "pre_game",
+      "player": "Dawson Knox",
+      "stat": "Rec Targets",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 409,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847767",
@@ -625,9 +877,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 351,
+      "rank": 419,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14865679",
@@ -646,9 +898,51 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 362,
+      "rank": 430,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14884223",
+      "playerId": "212045",
+      "status": "pre_game",
+      "player": "Keon Coleman",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 437,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14884225",
+      "playerId": "246554",
+      "status": "pre_game",
+      "player": "Joshua Palmer",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:15 PM CST",
+      "startTimeCST": "09/17/26 07:15 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 438,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14841938",
@@ -667,9 +961,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 368,
+      "rank": 450,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847778",
@@ -688,9 +982,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 387,
+      "rank": 469,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847977",
@@ -698,7 +992,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Completion Percentage",
-      "line": "71.1",
+      "line": "66.2",
       "sport": "NFL",
       "startTime": "09/17/26 07:20 PM CST",
       "startTimeCST": "09/17/26 07:20 PM CST",
@@ -709,9 +1003,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 413,
+      "rank": 502,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847862",
@@ -730,9 +1024,30 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 416,
+      "rank": 508,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14847976",
+      "playerId": "205163",
+      "status": "pre_game",
+      "player": "Josh Allen",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "09/17/26 07:20 PM CST",
+      "startTimeCST": "09/17/26 07:20 PM CST",
+      "startDateCST": "2026-09-17",
+      "startTimeIso": "2026-09-17T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 520,
+      "gameId": "181041",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847929",
@@ -751,9 +1066,9 @@
       "teamCode": "BUF",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 428,
+      "rank": 523,
       "gameId": "181041",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     }
   ]
 }

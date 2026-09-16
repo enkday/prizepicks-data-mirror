@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-15T12:09:04.557Z",
-  "scrapedDate": "Tuesday, September 15, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-16T12:08:47.335Z",
+  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 362,
-    "sourceCount": 1910,
-    "acceptedCount": 362,
-    "excludedCount": 1548,
+    "count": 667,
+    "sourceCount": 3995,
+    "acceptedCount": 667,
+    "excludedCount": 3328,
     "rejectedCount": 0,
-    "publishedCount": 362,
-    "providerFetchedAt": "2026-09-15T12:07:53.908Z",
+    "publishedCount": 667,
+    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Green Bay Packers",
-  "totalProps": 21,
+  "totalProps": 25,
   "props": [
     {
       "projectionId": "14847187",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Pass Yards",
-      "line": "243.5",
+      "line": "244.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 968,
+      "rank": 1879,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850152",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Christian Watson",
       "stat": "Receiving Yards",
-      "line": "62.5",
+      "line": "63.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 992,
+      "rank": 1902,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850153",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Matthew Golden",
       "stat": "Receiving Yards",
-      "line": "45.5",
+      "line": "46.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1011,
+      "rank": 1921,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853186",
@@ -89,6 +89,27 @@
       "status": "pre_game",
       "player": "MarShawn Lloyd",
       "stat": "Rush Yards",
+      "line": "46.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 1922,
+      "gameId": "181619",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14850154",
+      "playerId": "212129",
+      "status": "pre_game",
+      "player": "Tucker Kraft",
+      "stat": "Receiving Yards",
       "line": "45.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -100,30 +121,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1012,
+      "rank": 1923,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
-    },
-    {
-      "projectionId": "14850154",
-      "playerId": "212129",
-      "status": "pre_game",
-      "player": "Tucker Kraft",
-      "stat": "Receiving Yards",
-      "line": "43.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1013,
-      "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853274",
@@ -142,9 +142,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1029,
+      "rank": 1939,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853116",
@@ -163,9 +163,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1030,
+      "rank": 1940,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853314",
@@ -184,9 +184,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1052,
+      "rank": 1962,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853312",
@@ -205,9 +205,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1056,
+      "rank": 1966,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853121",
@@ -226,9 +226,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1058,
+      "rank": 1968,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853280",
@@ -247,9 +247,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1075,
+      "rank": 1985,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853158",
@@ -268,9 +268,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1078,
+      "rank": 1989,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853266",
@@ -289,9 +289,30 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1081,
+      "rank": 1991,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14853197",
+      "playerId": "246576",
+      "status": "pre_game",
+      "player": "MarShawn Lloyd",
+      "stat": "Rush Attempts",
+      "line": "13",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 1995,
+      "gameId": "181619",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853182",
@@ -310,9 +331,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1087,
+      "rank": 1998,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847246",
@@ -320,7 +341,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Rush Yards",
-      "line": "8.5",
+      "line": "7.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -331,9 +352,30 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1093,
+      "rank": 2004,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14897068",
+      "playerId": "336518",
+      "status": "pre_game",
+      "player": "Trey Smack",
+      "stat": "Kicking Points",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2010,
+      "gameId": "181619",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853225",
@@ -352,9 +394,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1100,
+      "rank": 2011,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853240",
@@ -373,9 +415,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1102,
+      "rank": 2013,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853380",
@@ -394,9 +436,30 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1104,
+      "rank": 2015,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14853343",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2034,
+      "gameId": "181619",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853102",
@@ -415,9 +478,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1124,
+      "rank": 2035,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853137",
@@ -436,9 +499,9 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1137,
+      "rank": 2048,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14853181",
@@ -457,9 +520,30 @@
       "teamCode": "GB",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1164,
+      "rank": 2076,
       "gameId": "181619",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14885828",
+      "playerId": "246576",
+      "status": "pre_game",
+      "player": "MarShawn Lloyd",
+      "stat": "Player Touchdowns",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2080,
+      "gameId": "181619",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     }
   ]
 }

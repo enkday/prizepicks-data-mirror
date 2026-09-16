@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-15T12:09:04.557Z",
-  "scrapedDate": "Tuesday, September 15, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-16T12:08:47.335Z",
+  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 362,
-    "sourceCount": 1910,
-    "acceptedCount": 362,
-    "excludedCount": 1548,
+    "count": 667,
+    "sourceCount": 3995,
+    "acceptedCount": 667,
+    "excludedCount": 3328,
     "rejectedCount": 0,
-    "publishedCount": 362,
-    "providerFetchedAt": "2026-09-15T12:07:53.908Z",
+    "publishedCount": 667,
+    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 13,
+  "totalProps": 19,
   "props": [
     {
       "projectionId": "14847182",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Baker Mayfield",
       "stat": "Pass Yards",
-      "line": "229.5",
+      "line": "227.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1170,
+      "rank": 2087,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847234",
@@ -58,9 +58,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1187,
+      "rank": 2108,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850138",
@@ -79,9 +79,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1195,
+      "rank": 2116,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850139",
@@ -100,17 +100,17 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1210,
+      "rank": 2132,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
-      "projectionId": "14868917",
-      "playerId": "210869",
+      "projectionId": "14869028",
+      "playerId": "211073",
       "status": "pre_game",
-      "player": "Cade Otton",
-      "stat": "Receiving Yards",
-      "line": "31.5",
+      "player": "Baker Mayfield",
+      "stat": "Longest Completion",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -121,9 +121,51 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1227,
+      "rank": 2148,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14868917",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Receiving Yards",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2150,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14868789",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Pass Attempts",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2174,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869047",
@@ -142,9 +184,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1251,
+      "rank": 2178,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868962",
@@ -163,9 +205,30 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1262,
+      "rank": 2189,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14894495",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Pass Completions",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2200,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847235",
@@ -184,9 +247,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1273,
+      "rank": 2201,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869056",
@@ -205,9 +268,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1277,
+      "rank": 2206,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868940",
@@ -226,9 +289,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1280,
+      "rank": 2209,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869030",
@@ -247,9 +310,9 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1283,
+      "rank": 2211,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868832",
@@ -268,9 +331,30 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1284,
+      "rank": 2212,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14868862",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2217,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869034",
@@ -289,9 +373,51 @@
       "teamCode": "TB",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1292,
+      "rank": 2221,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14868804",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Pass TDs",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2261,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14885830",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Player Touchdowns",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2290,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     }
   ]
 }

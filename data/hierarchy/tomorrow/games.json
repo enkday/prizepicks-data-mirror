@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "gameId": "181041",
+    "sport": "NFL",
+    "startTime": "09/17/26 07:15 PM CDT",
+    "startTimeIso": "2026-09-17T19:15:00-05:00",
+    "teams": [
+      "Buffalo Bills",
+      "Detroit Lions"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-09-17T19:15:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Buffalo Bills",
+        "Detroit Lions"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "180826",
+    "sport": "NCAAF",
+    "startTime": "09/17/26 06:30 PM CDT",
+    "startTimeIso": "2026-09-17T18:30:00-05:00",
+    "teams": [
+      "Pittsburgh Panthers",
+      "Syracuse Orange"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-09-17T18:30:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Pittsburgh Panthers",
+        "Syracuse Orange"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  }
+]

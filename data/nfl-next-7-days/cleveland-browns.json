@@ -1,18 +1,18 @@
 {
-  "scrapedAt": "2026-09-15T12:09:04.557Z",
-  "scrapedDate": "Tuesday, September 15, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-16T12:08:47.335Z",
+  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 362,
-    "sourceCount": 1910,
-    "acceptedCount": 362,
-    "excludedCount": 1548,
+    "count": 667,
+    "sourceCount": 3995,
+    "acceptedCount": 667,
+    "excludedCount": 3328,
     "rejectedCount": 0,
-    "publishedCount": 362,
-    "providerFetchedAt": "2026-09-15T12:07:53.908Z",
+    "publishedCount": 667,
+    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
@@ -37,9 +37,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1174,
+      "rank": 2093,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847233",
@@ -58,9 +58,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1196,
+      "rank": 2117,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869068",
@@ -79,9 +79,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1225,
+      "rank": 2149,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869007",
@@ -100,9 +100,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1226,
+      "rank": 2151,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868997",
@@ -110,27 +110,6 @@
       "status": "pre_game",
       "player": "Denzel Boston",
       "stat": "Receiving Yards",
-      "line": "30.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 1228,
-      "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
-    },
-    {
-      "projectionId": "14868842",
-      "playerId": "210838",
-      "status": "pre_game",
-      "player": "Deshaun Watson",
-      "stat": "Pass Attempts",
       "line": "29.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -142,9 +121,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1230,
+      "rank": 2166,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850137",
@@ -163,15 +142,36 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1247,
+      "rank": 2171,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14868842",
+      "playerId": "210838",
+      "status": "pre_game",
+      "player": "Deshaun Watson",
+      "stat": "Pass Attempts",
+      "line": "28.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 2172,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869069",
       "playerId": "320255",
       "status": "pre_game",
-      "player": "KC Concepcion",
+      "player": "KC Concepcion Jr.",
       "stat": "Receiving Yards",
       "line": "28.5",
       "sport": "NFL",
@@ -184,9 +184,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1248,
+      "rank": 2173,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868821",
@@ -205,9 +205,51 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1250,
+      "rank": 2177,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14868982",
+      "playerId": "210838",
+      "status": "pre_game",
+      "player": "Deshaun Watson",
+      "stat": "Pass Completions",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 2202,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14868994",
+      "playerId": "246549",
+      "status": "pre_game",
+      "player": "Harold Fannin Jr.",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cleveland Browns",
+      "teamCode": "CLE",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 2203,
+      "gameId": "181620",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869021",
@@ -226,15 +268,15 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1275,
+      "rank": 2204,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14869046",
       "playerId": "320255",
       "status": "pre_game",
-      "player": "KC Concepcion",
+      "player": "KC Concepcion Jr.",
       "stat": "Longest Reception",
       "line": "15.5",
       "sport": "NFL",
@@ -247,9 +289,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1276,
+      "rank": 2205,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868989",
@@ -268,17 +310,17 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1281,
+      "rank": 2210,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
-      "projectionId": "14868994",
-      "playerId": "246549",
+      "projectionId": "14877996",
+      "playerId": "246550",
       "status": "pre_game",
-      "player": "Harold Fannin Jr.",
-      "stat": "Longest Reception",
-      "line": "14.5",
+      "player": "Quinshon Judkins",
+      "stat": "Rush Attempts",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -289,9 +331,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1282,
+      "rank": 2213,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868840",
@@ -310,30 +352,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1285,
+      "rank": 2214,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
-    },
-    {
-      "projectionId": "14877996",
-      "playerId": "246550",
-      "status": "pre_game",
-      "player": "Quinshon Judkins",
-      "stat": "Rush Attempts",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 1286,
-      "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868849",
@@ -352,9 +373,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1287,
+      "rank": 2215,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868890",
@@ -373,15 +394,15 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1290,
+      "rank": 2219,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868843",
       "playerId": "320255",
       "status": "pre_game",
-      "player": "KC Concepcion",
+      "player": "KC Concepcion Jr.",
       "stat": "Rush Yards",
       "line": "8.5",
       "sport": "NFL",
@@ -394,9 +415,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1293,
+      "rank": 2222,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868926",
@@ -415,36 +436,15 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1297,
+      "rank": 2226,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
-    },
-    {
-      "projectionId": "14871143",
-      "playerId": "258752",
-      "status": "pre_game",
-      "player": "Andre Szmyt",
-      "stat": "Kicking Points",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 1310,
-      "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14868904",
       "playerId": "320255",
       "status": "pre_game",
-      "player": "KC Concepcion",
+      "player": "KC Concepcion Jr.",
       "stat": "Receptions",
       "line": "2.5",
       "sport": "NFL",
@@ -457,9 +457,9 @@
       "teamCode": "CLE",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1324,
+      "rank": 2252,
       "gameId": "181620",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     }
   ]
 }

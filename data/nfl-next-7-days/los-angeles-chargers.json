@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-15T12:09:04.557Z",
-  "scrapedDate": "Tuesday, September 15, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-16T12:08:47.335Z",
+  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 362,
-    "sourceCount": 1910,
-    "acceptedCount": 362,
-    "excludedCount": 1548,
+    "count": 667,
+    "sourceCount": 3995,
+    "acceptedCount": 667,
+    "excludedCount": 3328,
     "rejectedCount": 0,
-    "publishedCount": 362,
-    "providerFetchedAt": "2026-09-15T12:07:53.908Z",
+    "publishedCount": 667,
+    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 11,
+  "totalProps": 12,
   "props": [
     {
       "projectionId": "14847195",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Pass Yards",
-      "line": "214.5",
+      "line": "223.5",
       "sport": "NFL",
       "startTime": "09/20/26 03:05 PM CST",
       "startTimeCST": "09/20/26 03:05 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1395,
+      "rank": 2615,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847260",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Omarion Hampton",
       "stat": "Rush Yards",
-      "line": "61.5",
+      "line": "65.5",
       "sport": "NFL",
       "startTime": "09/20/26 03:05 PM CST",
       "startTimeCST": "09/20/26 03:05 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1399,
+      "rank": 2640,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14862817",
@@ -79,9 +79,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1408,
+      "rank": 2659,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14862819",
@@ -100,9 +100,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1415,
+      "rank": 2667,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847259",
@@ -121,9 +121,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1418,
+      "rank": 2672,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14877988",
@@ -142,51 +142,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1424,
+      "rank": 2678,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
-    },
-    {
-      "projectionId": "14862789",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Receiving Yards",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:05 PM CST",
-      "startTimeCST": "09/20/26 03:05 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 1426,
-      "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
-    },
-    {
-      "projectionId": "14877983",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Rush Attempts",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:05 PM CST",
-      "startTimeCST": "09/20/26 03:05 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 1427,
-      "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14862757",
@@ -194,6 +152,27 @@
       "status": "pre_game",
       "player": "Omarion Hampton",
       "stat": "Longest Rush",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 2686,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14862789",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Receiving Yards",
       "line": "14.5",
       "sport": "NFL",
       "startTime": "09/20/26 03:05 PM CST",
@@ -205,9 +184,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1429,
+      "rank": 2691,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14862760",
@@ -226,9 +205,9 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1431,
+      "rank": 2697,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14862770",
@@ -247,9 +226,51 @@
       "teamCode": "LAC",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 1433,
+      "rank": 2700,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14894100",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Pass TDs",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 2718,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14884981",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Rush TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 2743,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     }
   ]
 }

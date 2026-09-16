@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-15T12:09:04.557Z",
-  "scrapedDate": "Tuesday, September 15, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-16T12:08:47.335Z",
+  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 362,
-    "sourceCount": 1910,
-    "acceptedCount": 362,
-    "excludedCount": 1548,
+    "count": 667,
+    "sourceCount": 3995,
+    "acceptedCount": 667,
+    "excludedCount": 3328,
     "rejectedCount": 0,
-    "publishedCount": 362,
-    "providerFetchedAt": "2026-09-15T12:07:53.908Z",
+    "publishedCount": 667,
+    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Pittsburgh Steelers",
-  "totalProps": 6,
+  "totalProps": 8,
   "props": [
     {
       "projectionId": "14847180",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Aaron Rodgers",
       "stat": "Pass Yards",
-      "line": "216.5",
+      "line": "206.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "PIT",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 469,
+      "rank": 795,
       "gameId": "181621",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850135",
@@ -58,9 +58,9 @@
       "teamCode": "PIT",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 470,
+      "rank": 823,
       "gameId": "181621",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847232",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Rico Dowdle",
       "stat": "Rush Yards",
-      "line": "43.5",
+      "line": "42.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "PIT",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 471,
+      "rank": 824,
       "gameId": "181621",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847231",
@@ -100,9 +100,9 @@
       "teamCode": "PIT",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 472,
+      "rank": 825,
       "gameId": "181621",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14850136",
@@ -121,9 +121,51 @@
       "teamCode": "PIT",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 473,
+      "rank": 827,
       "gameId": "181621",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14907665",
+      "playerId": "247910",
+      "status": "pre_game",
+      "player": "Aaron Rodgers",
+      "stat": "Pass Attempts",
+      "line": "34.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 837,
+      "gameId": "181621",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+    },
+    {
+      "projectionId": "14911030",
+      "playerId": "247910",
+      "status": "pre_game",
+      "player": "Aaron Rodgers",
+      "stat": "Pass Completions",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 864,
+      "gameId": "181621",
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     },
     {
       "projectionId": "14847230",
@@ -142,9 +184,9 @@
       "teamCode": "PIT",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 484,
+      "rank": 893,
       "gameId": "181621",
-      "providerFetchedAt": "2026-09-15T12:07:53.908Z"
+      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
     }
   ]
 }
