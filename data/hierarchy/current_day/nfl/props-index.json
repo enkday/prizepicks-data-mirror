@@ -1,15 +1,15 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "5b04b40cc451e252e5cb8bb49f33663453902839e50de2c867f640cb901e7fc9",
-  "sourceScrapedAt": "2026-09-16T12:08:47.335Z",
-  "sourceScrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
+  "sourcePayloadHash": "885691649e80d2b188a915fd2942d6102c97b56d89f2fc8db0f6f287c5e0c603",
+  "sourceScrapedAt": "2026-09-17T12:09:39.589Z",
+  "sourceScrapedDate": "Thursday, September 17, 2026 at 07:09 AM CDT",
   "observedDate": "2026-09-17",
   "completeness": "reported",
   "sport": "NFL",
   "sportSlug": "nfl",
-  "dayBranch": "tomorrow",
+  "dayBranch": "current_day",
   "gameCount": 1,
-  "propCount": 96,
+  "propCount": 105,
   "games": [
     {
       "gameId": "181041",
@@ -21,15 +21,15 @@
         "Buffalo Bills",
         "Detroit Lions"
       ],
-      "propCount": 96,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/181041.json"
+      "propCount": 105,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/181041.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 96,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
+      "propCount": 105,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
 }

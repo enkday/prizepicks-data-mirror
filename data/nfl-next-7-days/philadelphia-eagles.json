@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-16T12:08:47.335Z",
-  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-17T12:09:39.589Z",
+  "scrapedDate": "Thursday, September 17, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 667,
-    "sourceCount": 3995,
-    "acceptedCount": 667,
-    "excludedCount": 3328,
+    "count": 896,
+    "sourceCount": 5879,
+    "acceptedCount": 896,
+    "excludedCount": 4983,
     "rejectedCount": 0,
-    "publishedCount": 667,
-    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
+    "publishedCount": 896,
+    "providerFetchedAt": "2026-09-17T12:08:24.404Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 22,
+  "totalProps": 27,
   "props": [
     {
       "projectionId": "14847185",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jalen Hurts",
       "stat": "Pass Yards",
-      "line": "207.5",
+      "line": "206.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1209,
+      "rank": 1635,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14847243",
@@ -58,9 +58,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1230,
+      "rank": 1671,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14850147",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "DeVonta Smith",
       "stat": "Receiving Yards",
-      "line": "63.5",
+      "line": "60.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1237,
+      "rank": 1684,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14850149",
@@ -100,9 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1259,
+      "rank": 1720,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867924",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Jalen Hurts",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1275,
+      "rank": 1739,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14847242",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Jalen Hurts",
       "stat": "Rush Yards",
-      "line": "33.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -142,9 +142,30 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1276,
+      "rank": 1749,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14868017",
+      "playerId": "336585",
+      "status": "pre_game",
+      "player": "Dontayvion Wicks",
+      "stat": "Receiving Yards",
+      "line": "29.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 1764,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867775",
@@ -163,30 +184,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1300,
+      "rank": 1774,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
-    },
-    {
-      "projectionId": "14868017",
-      "playerId": "336585",
-      "status": "pre_game",
-      "player": "Dontayvion Wicks",
-      "stat": "Receiving Yards",
-      "line": "27.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1301,
-      "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867762",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "DeVonta Smith",
       "stat": "Longest Reception",
-      "line": "24.5",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1303,
+      "rank": 1793,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14868004",
@@ -215,7 +215,7 @@
       "status": "pre_game",
       "player": "Makai Lemon",
       "stat": "Receiving Yards",
-      "line": "20.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -226,9 +226,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1308,
+      "rank": 1796,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867869",
@@ -247,9 +247,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1331,
+      "rank": 1827,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867892",
@@ -268,9 +268,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1332,
+      "rank": 1830,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867798",
@@ -289,9 +289,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1333,
+      "rank": 1832,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867764",
@@ -310,9 +310,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1335,
+      "rank": 1836,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867893",
@@ -331,16 +331,16 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1339,
+      "rank": 1841,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
-      "projectionId": "14850148",
-      "playerId": "206302",
+      "projectionId": "14867825",
+      "playerId": "320257",
       "status": "pre_game",
-      "player": "Saquon Barkley",
-      "stat": "Receiving Yards",
+      "player": "Makai Lemon",
+      "stat": "Longest Reception",
       "line": "13.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -352,9 +352,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1344,
+      "rank": 1868,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867862",
@@ -373,17 +373,17 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1345,
+      "rank": 1869,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
-      "projectionId": "14867825",
-      "playerId": "320257",
+      "projectionId": "14850148",
+      "playerId": "206302",
       "status": "pre_game",
-      "player": "Makai Lemon",
-      "stat": "Longest Reception",
-      "line": "12.5",
+      "player": "Saquon Barkley",
+      "stat": "Receiving Yards",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -394,9 +394,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1346,
+      "rank": 1880,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867774",
@@ -404,7 +404,7 @@
       "status": "pre_game",
       "player": "Saquon Barkley",
       "stat": "Longest Reception",
-      "line": "9.5",
+      "line": "7.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -415,9 +415,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1353,
+      "rank": 1905,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14870955",
@@ -436,9 +436,114 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1367,
+      "rank": 1909,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14947227",
+      "playerId": "210339",
+      "status": "pre_game",
+      "player": "DeVonta Smith",
+      "stat": "Rec Targets",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 1912,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14953074",
+      "playerId": "210338",
+      "status": "pre_game",
+      "player": "Dallas Goedert",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 1955,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14947228",
+      "playerId": "206302",
+      "status": "pre_game",
+      "player": "Saquon Barkley",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 1971,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14949212",
+      "playerId": "336585",
+      "status": "pre_game",
+      "player": "Dontayvion Wicks",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 1972,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14937798",
+      "playerId": "206302",
+      "status": "pre_game",
+      "player": "Saquon Barkley",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 1976,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14867811",
@@ -457,9 +562,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1414,
+      "rank": 1984,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14885829",
@@ -478,9 +583,9 @@
       "teamCode": "PHI",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1448,
+      "rank": 2024,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     }
   ]
 }

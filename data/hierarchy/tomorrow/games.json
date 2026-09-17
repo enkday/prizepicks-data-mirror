@@ -1,46 +1,51 @@
 [
   {
-    "gameId": "181041",
-    "sport": "NFL",
-    "startTime": "09/17/26 07:15 PM CDT",
-    "startTimeIso": "2026-09-17T19:15:00-05:00",
+    "gameId": "181042",
+    "sport": "NCAAF",
+    "startTime": "09/18/26 06:30 PM CDT",
+    "startTimeIso": "2026-09-18T18:30:00-05:00",
     "teams": [
-      "Buffalo Bills",
-      "Detroit Lions"
+      "MIA",
+      "Miami (FL) Hurricanes",
+      "Wake Forest Demon Deacons"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-09-17T19:15:00-05:00"
+      "2026-09-18T18:30:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Buffalo Bills",
-        "Detroit Lions"
+        "MIA",
+        "Wake Forest Demon Deacons"
+      ],
+      [
+        "Miami (FL) Hurricanes",
+        "Wake Forest Demon Deacons"
       ]
     ],
-    "sourceEventConflict": false,
+    "sourceEventConflict": true,
     "eventTimeVerified": true,
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "180826",
+    "gameId": "181043",
     "sport": "NCAAF",
-    "startTime": "09/17/26 06:30 PM CDT",
-    "startTimeIso": "2026-09-17T18:30:00-05:00",
+    "startTime": "09/18/26 07:00 PM CDT",
+    "startTimeIso": "2026-09-18T19:00:00-05:00",
     "teams": [
-      "Pittsburgh Panthers",
-      "Syracuse Orange"
+      "Houston Cougars",
+      "Texas Tech Red Raiders"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-09-17T18:30:00-05:00"
+      "2026-09-18T19:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Pittsburgh Panthers",
-        "Syracuse Orange"
+        "Houston Cougars",
+        "Texas Tech Red Raiders"
       ]
     ],
     "sourceEventConflict": false,

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-16T12:08:47.335Z",
-  "scrapedDate": "Wednesday, September 16, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-17T12:09:39.589Z",
+  "scrapedDate": "Thursday, September 17, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 667,
-    "sourceCount": 3995,
-    "acceptedCount": 667,
-    "excludedCount": 3328,
+    "count": 896,
+    "sourceCount": 5879,
+    "acceptedCount": 896,
+    "excludedCount": 4983,
     "rejectedCount": 0,
-    "publishedCount": 667,
-    "providerFetchedAt": "2026-09-16T12:08:33.176Z",
+    "publishedCount": 896,
+    "providerFetchedAt": "2026-09-17T12:08:24.404Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Indianapolis Colts",
-  "totalProps": 22,
+  "totalProps": 29,
   "props": [
     {
       "projectionId": "14847200",
@@ -37,9 +37,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3353,
+      "rank": 5175,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14847269",
@@ -58,9 +58,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3383,
+      "rank": 5208,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14850174",
@@ -79,9 +79,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3423,
+      "rank": 5255,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14893261",
@@ -100,9 +100,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3424,
+      "rank": 5257,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14893260",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Josh Downs",
       "stat": "Receiving Yards",
-      "line": "36.5",
+      "line": "38.5",
       "sport": "NFL",
       "startTime": "09/20/26 07:20 PM CST",
       "startTimeCST": "09/20/26 07:20 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3446,
+      "rank": 5278,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14904508",
@@ -142,17 +142,17 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3453,
+      "rank": 5285,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
-      "projectionId": "14850175",
-      "playerId": "336466",
+      "projectionId": "14947021",
+      "playerId": "246519",
       "status": "pre_game",
-      "player": "Keenan Allen",
-      "stat": "Receiving Yards",
-      "line": "29.5",
+      "player": "Daniel Jones",
+      "stat": "Longest Completion",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "09/20/26 07:20 PM CST",
       "startTimeCST": "09/20/26 07:20 PM CST",
@@ -163,9 +163,30 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3459,
+      "rank": 5289,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14850175",
+      "playerId": "336466",
+      "status": "pre_game",
+      "player": "Keenan Allen",
+      "stat": "Receiving Yards",
+      "line": "30.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5290,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14896618",
@@ -184,9 +205,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3502,
+      "rank": 5341,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14904504",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Daniel Jones",
       "stat": "Pass Completions",
-      "line": "21.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "09/20/26 07:20 PM CST",
       "startTimeCST": "09/20/26 07:20 PM CST",
@@ -205,17 +226,17 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3504,
+      "rank": 5347,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
-      "projectionId": "14896395",
+      "projectionId": "14964523",
       "playerId": "206321",
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Rush Attempts",
-      "line": "19.5",
+      "line": "19",
       "sport": "NFL",
       "startTime": "09/20/26 07:20 PM CST",
       "startTimeCST": "09/20/26 07:20 PM CST",
@@ -226,30 +247,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3526,
+      "rank": 5377,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
-    },
-    {
-      "projectionId": "14896569",
-      "playerId": "246563",
-      "status": "pre_game",
-      "player": "Tyler Warren",
-      "stat": "Longest Reception",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 07:20 PM CST",
-      "startTimeCST": "09/20/26 07:20 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Indianapolis Colts",
-      "teamCode": "IND",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 3540,
-      "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14850176",
@@ -268,16 +268,16 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3546,
+      "rank": 5387,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
-      "projectionId": "14896391",
-      "playerId": "206321",
+      "projectionId": "14896569",
+      "playerId": "246563",
       "status": "pre_game",
-      "player": "Jonathan Taylor",
-      "stat": "Longest Rush",
+      "player": "Tyler Warren",
+      "stat": "Longest Reception",
       "line": "16.5",
       "sport": "NFL",
       "startTime": "09/20/26 07:20 PM CST",
@@ -289,9 +289,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3550,
+      "rank": 5389,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14896606",
@@ -299,6 +299,27 @@
       "status": "pre_game",
       "player": "Josh Downs",
       "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5390,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14896391",
+      "playerId": "206321",
+      "status": "pre_game",
+      "player": "Jonathan Taylor",
+      "stat": "Longest Rush",
       "line": "15.5",
       "sport": "NFL",
       "startTime": "09/20/26 07:20 PM CST",
@@ -310,9 +331,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3553,
+      "rank": 5391,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14896601",
@@ -320,7 +341,7 @@
       "status": "pre_game",
       "player": "Keenan Allen",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "09/20/26 07:20 PM CST",
       "startTimeCST": "09/20/26 07:20 PM CST",
@@ -331,9 +352,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3560,
+      "rank": 5410,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14896393",
@@ -352,9 +373,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3573,
+      "rank": 5418,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14889470",
@@ -373,9 +394,135 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3580,
+      "rank": 5431,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14947203",
+      "playerId": "246563",
+      "status": "pre_game",
+      "player": "Tyler Warren",
+      "stat": "Rec Targets",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5446,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14948751",
+      "playerId": "246519",
+      "status": "pre_game",
+      "player": "Daniel Jones",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5447,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14947204",
+      "playerId": "154212",
+      "status": "pre_game",
+      "player": "Josh Downs",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5449,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14947202",
+      "playerId": "153128",
+      "status": "pre_game",
+      "player": "Alec Pierce",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5460,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14947205",
+      "playerId": "336466",
+      "status": "pre_game",
+      "player": "Keenan Allen",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5461,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+    },
+    {
+      "projectionId": "14893281",
+      "playerId": "246563",
+      "status": "pre_game",
+      "player": "Tyler Warren",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 07:20 PM CST",
+      "startTimeCST": "09/20/26 07:20 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5467,
+      "gameId": "181900",
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14893290",
@@ -394,9 +541,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3621,
+      "rank": 5479,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14896649",
@@ -415,9 +562,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3634,
+      "rank": 5495,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14893263",
@@ -436,9 +583,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3640,
+      "rank": 5502,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14900482",
@@ -457,9 +604,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3695,
+      "rank": 5561,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     },
     {
       "projectionId": "14904592",
@@ -478,9 +625,9 @@
       "teamCode": "IND",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 3697,
+      "rank": 5563,
       "gameId": "181900",
-      "providerFetchedAt": "2026-09-16T12:08:33.176Z"
+      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
     }
   ]
 }
