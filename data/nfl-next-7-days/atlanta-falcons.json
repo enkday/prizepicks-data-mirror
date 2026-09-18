@@ -1,32 +1,32 @@
 {
-  "scrapedAt": "2026-09-17T12:09:39.589Z",
-  "scrapedDate": "Thursday, September 17, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-18T12:09:06.682Z",
+  "scrapedDate": "Friday, September 18, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 896,
-    "sourceCount": 5879,
-    "acceptedCount": 896,
-    "excludedCount": 4983,
+    "count": 1149,
+    "sourceCount": 6668,
+    "acceptedCount": 1149,
+    "excludedCount": 5519,
     "rejectedCount": 0,
-    "publishedCount": 896,
-    "providerFetchedAt": "2026-09-17T12:08:24.404Z",
+    "publishedCount": 1149,
+    "providerFetchedAt": "2026-09-18T12:07:55.431Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 16,
+  "totalProps": 22,
   "props": [
     {
-      "projectionId": "14847238",
-      "playerId": "206319",
+      "projectionId": "14981612",
+      "playerId": "343571",
       "status": "pre_game",
-      "player": "Bijan Robinson",
-      "stat": "Rush Yards",
-      "line": "84.5",
+      "player": "Jake Bailey",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2067,
+      "rank": 4,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14847238",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards",
+      "line": "83.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1895,
+      "gameId": "181623",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14850142",
@@ -58,9 +79,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2088,
+      "rank": 1919,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14850143",
@@ -79,9 +100,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2106,
+      "rank": 1942,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14894988",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Kyle Pitts Sr.",
       "stat": "Receiving Yards",
-      "line": "31.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -100,9 +121,30 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2127,
+      "rank": 1972,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14949639",
+      "playerId": "336715",
+      "status": "pre_game",
+      "player": "Brian Robinson Jr.",
+      "stat": "Rush Yards",
+      "line": "25.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1995,
+      "gameId": "181623",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14895020",
@@ -121,17 +163,17 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2159,
+      "rank": 2011,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14949639",
-      "playerId": "336715",
+      "projectionId": "14894943",
+      "playerId": "206319",
       "status": "pre_game",
-      "player": "Brian Robinson Jr.",
-      "stat": "Rush Yards",
-      "line": "22.5",
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -142,9 +184,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2160,
+      "rank": 2014,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14894992",
@@ -152,7 +194,7 @@
       "status": "pre_game",
       "player": "Drake London",
       "stat": "Longest Reception",
-      "line": "20.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -163,9 +205,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2165,
+      "rank": 2015,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14894942",
@@ -184,9 +226,30 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2185,
+      "rank": 2043,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14894925",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Longest Rush",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2057,
+      "gameId": "181623",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14894947",
@@ -205,9 +268,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2190,
+      "rank": 2059,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14894984",
@@ -215,7 +278,7 @@
       "status": "pre_game",
       "player": "Kyle Pitts Sr.",
       "stat": "Longest Reception",
-      "line": "15.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -226,9 +289,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2191,
+      "rank": 2062,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14895016",
@@ -247,9 +310,30 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2194,
+      "rank": 2063,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14950150",
+      "playerId": "336715",
+      "status": "pre_game",
+      "player": "Brian Robinson Jr.",
+      "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2109,
+      "gameId": "181623",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14947188",
@@ -268,9 +352,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2218,
+      "rank": 2117,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14947187",
@@ -289,9 +373,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2222,
+      "rank": 2122,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14894921",
@@ -310,16 +394,16 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2234,
+      "rank": 2135,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14954942",
-      "playerId": "211628",
+      "projectionId": "14995311",
+      "playerId": "210640",
       "status": "pre_game",
-      "player": "Drake London",
-      "stat": "Receptions",
+      "player": "Kyle Pitts Sr.",
+      "stat": "Rec Targets",
       "line": "4.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -331,9 +415,51 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2238,
+      "rank": 2141,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14894954",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.4",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2142,
+      "gameId": "181623",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14981594",
+      "playerId": "343571",
+      "status": "pre_game",
+      "player": "Jake Bailey",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2143,
+      "gameId": "181623",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14900481",
@@ -352,9 +478,9 @@
       "teamCode": "ATL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2296,
+      "rank": 2209,
       "gameId": "181623",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     }
   ]
 }

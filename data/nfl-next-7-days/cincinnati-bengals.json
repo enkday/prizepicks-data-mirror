@@ -1,25 +1,46 @@
 {
-  "scrapedAt": "2026-09-17T12:09:39.589Z",
-  "scrapedDate": "Thursday, September 17, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-18T12:09:06.682Z",
+  "scrapedDate": "Friday, September 18, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 896,
-    "sourceCount": 5879,
-    "acceptedCount": 896,
-    "excludedCount": 4983,
+    "count": 1149,
+    "sourceCount": 6668,
+    "acceptedCount": 1149,
+    "excludedCount": 5519,
     "rejectedCount": 0,
-    "publishedCount": 896,
-    "providerFetchedAt": "2026-09-17T12:08:24.404Z",
+    "publishedCount": 1149,
+    "providerFetchedAt": "2026-09-18T12:07:55.431Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cincinnati Bengals",
-  "totalProps": 32,
+  "totalProps": 44,
   "props": [
+    {
+      "projectionId": "14981608",
+      "playerId": "213283",
+      "status": "pre_game",
+      "player": "Ryan Rehkow",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
     {
       "projectionId": "14847191",
       "playerId": "210964",
@@ -37,9 +58,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 618,
+      "rank": 21,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14850159",
@@ -58,9 +79,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 648,
+      "rank": 56,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14847253",
@@ -79,9 +100,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 665,
+      "rank": 79,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14850161",
@@ -100,9 +121,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 666,
+      "rank": 80,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14897029",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Longest Completion",
-      "line": "38.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -121,16 +142,16 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 690,
+      "rank": 105,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14896889",
-      "playerId": "150731",
+      "projectionId": "14896796",
+      "playerId": "212331",
       "status": "pre_game",
-      "player": "Ja'Marr Chase",
-      "stat": "Longest Reception",
+      "player": "Mike Gesicki",
+      "stat": "Receiving Yards",
       "line": "25.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -142,16 +163,16 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 713,
+      "rank": 143,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14896796",
-      "playerId": "212331",
+      "projectionId": "14896889",
+      "playerId": "150731",
       "status": "pre_game",
-      "player": "Mike Gesicki",
-      "stat": "Receiving Yards",
+      "player": "Ja'Marr Chase",
+      "stat": "Longest Reception",
       "line": "24.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 714,
+      "rank": 145,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896768",
@@ -184,9 +205,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 717,
+      "rank": 154,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14850160",
@@ -205,17 +226,17 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 718,
+      "rank": 157,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14963317",
-      "playerId": "174609",
+      "projectionId": "14963990",
+      "playerId": "211234",
       "status": "pre_game",
-      "player": "Andrei Iosivas",
-      "stat": "Receiving Yards",
-      "line": "15.5",
+      "player": "Chase Brown",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -226,9 +247,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 738,
+      "rank": 179,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896770",
@@ -236,6 +257,27 @@
       "status": "pre_game",
       "player": "Samaje Perine",
       "stat": "Rush Yards",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 194,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14963317",
+      "playerId": "174609",
+      "status": "pre_game",
+      "player": "Andrei Iosivas",
+      "stat": "Receiving Yards",
       "line": "14.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -247,9 +289,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 739,
+      "rank": 202,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14963321",
@@ -268,9 +310,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 743,
+      "rank": 203,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896794",
@@ -289,9 +331,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 744,
+      "rank": 210,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896922",
@@ -310,9 +352,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 746,
+      "rank": 213,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14963314",
@@ -331,17 +373,17 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 749,
+      "rank": 219,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14896927",
-      "playerId": "211234",
+      "projectionId": "14980310",
+      "playerId": "152593",
       "status": "pre_game",
-      "player": "Chase Brown",
-      "stat": "Longest Reception",
-      "line": "9.5",
+      "player": "Tee Higgins",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -352,9 +394,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 753,
+      "rank": 220,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14947193",
@@ -373,9 +415,51 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 755,
+      "rank": 227,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14980308",
+      "playerId": "150731",
+      "status": "pre_game",
+      "player": "Ja'Marr Chase",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 231,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14986798",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 238,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14847252",
@@ -394,9 +478,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 759,
+      "rank": 239,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896786",
@@ -415,9 +499,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 763,
+      "rank": 246,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14897033",
@@ -436,9 +520,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 766,
+      "rank": 248,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896782",
@@ -457,9 +541,30 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 770,
+      "rank": 254,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14896791",
+      "playerId": "249686",
+      "status": "pre_game",
+      "player": "Samaje Perine",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 255,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14939463",
@@ -478,9 +583,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 771,
+      "rank": 256,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14947194",
@@ -499,9 +604,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 773,
+      "rank": 257,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14949028",
@@ -520,9 +625,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 776,
+      "rank": 259,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896753",
@@ -541,9 +646,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 777,
+      "rank": 265,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14896778",
@@ -562,16 +667,16 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 778,
+      "rank": 266,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14947428",
-      "playerId": "249686",
+      "projectionId": "14980309",
+      "playerId": "211234",
       "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Rush Attempts",
+      "player": "Chase Brown",
+      "stat": "Yards on First Reception",
       "line": "4.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
@@ -583,9 +688,30 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 785,
+      "rank": 280,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14995319",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 286,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14937797",
@@ -604,9 +730,72 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 786,
+      "rank": 289,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14981584",
+      "playerId": "213283",
+      "status": "pre_game",
+      "player": "Ryan Rehkow",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 291,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14995320",
+      "playerId": "212331",
+      "status": "pre_game",
+      "player": "Mike Gesicki",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 293,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14963989",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.8",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 294,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14955278",
@@ -625,9 +814,72 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 796,
+      "rank": 304,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14896765",
+      "playerId": "212331",
+      "status": "pre_game",
+      "player": "Mike Gesicki",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 313,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14980397",
+      "playerId": "214027",
+      "status": "pre_game",
+      "player": "Erick All Jr.",
+      "stat": "Receiving Yards",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 318,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+    },
+    {
+      "projectionId": "14995321",
+      "playerId": "174609",
+      "status": "pre_game",
+      "player": "Andrei Iosivas",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 326,
+      "gameId": "181622",
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14894914",
@@ -646,9 +898,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 811,
+      "rank": 334,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
       "projectionId": "14963309",
@@ -667,17 +919,17 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 819,
+      "rank": 341,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     },
     {
-      "projectionId": "14897028",
-      "playerId": "210964",
+      "projectionId": "14986753",
+      "playerId": "211165",
       "status": "pre_game",
-      "player": "Joe Burrow",
-      "stat": "INT",
-      "line": "0.5",
+      "player": "Evan McPherson",
+      "stat": "FG Made",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -688,9 +940,9 @@
       "teamCode": "CIN",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 842,
+      "rank": 350,
       "gameId": "181622",
-      "providerFetchedAt": "2026-09-17T12:08:24.404Z"
+      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
     }
   ]
 }

@@ -1,34 +1,61 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "885691649e80d2b188a915fd2942d6102c97b56d89f2fc8db0f6f287c5e0c603",
-  "sourceScrapedAt": "2026-09-17T12:09:39.589Z",
-  "sourceScrapedDate": "Thursday, September 17, 2026 at 07:09 AM CDT",
-  "observedDate": "2026-09-17",
+  "sourcePayloadHash": "f01fbb99ad081f6e2345e92e47d95bc521363b1097b324134cd9e9df293de5bf",
+  "sourceScrapedAt": "2026-09-18T12:09:06.682Z",
+  "sourceScrapedDate": "Friday, September 18, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-09-18",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 27,
+  "gameCount": 3,
+  "propCount": 76,
   "games": [
     {
-      "gameId": "180826",
+      "gameId": "181042",
       "slate": "Late",
-      "startTime": "09/17/26 06:30 PM CDT",
-      "startTimeIso": "2026-09-17T18:30:00-05:00",
+      "startTime": "09/18/26 06:30 PM CDT",
+      "startTimeIso": "2026-09-18T18:30:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Pittsburgh Panthers",
-        "Syracuse Orange"
+        "MIA",
+        "Miami (FL) Hurricanes",
+        "Wake Forest Demon Deacons"
       ],
-      "propCount": 27,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/180826.json"
+      "propCount": 29,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/181042.json"
+    },
+    {
+      "gameId": "181043",
+      "slate": "Late",
+      "startTime": "09/18/26 07:00 PM CDT",
+      "startTimeIso": "2026-09-18T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Houston Cougars",
+        "Texas Tech Red Raiders"
+      ],
+      "propCount": 44,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/181043.json"
+    },
+    {
+      "gameId": "183364",
+      "slate": "Late",
+      "startTime": "09/18/26 09:30 PM CDT",
+      "startTimeIso": "2026-09-18T21:30:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Oregon Ducks",
+        "Portland State Vikings"
+      ],
+      "propCount": 3,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/183364.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 27,
+      "propCount": 76,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
