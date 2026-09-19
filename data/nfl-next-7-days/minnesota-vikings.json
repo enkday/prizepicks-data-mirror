@@ -1,18 +1,18 @@
 {
-  "scrapedAt": "2026-09-18T12:09:06.682Z",
-  "scrapedDate": "Friday, September 18, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-19T12:08:41.093Z",
+  "scrapedDate": "Saturday, September 19, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1149,
-    "sourceCount": 6668,
-    "acceptedCount": 1149,
-    "excludedCount": 5519,
+    "count": 1281,
+    "sourceCount": 8510,
+    "acceptedCount": 1281,
+    "excludedCount": 7229,
     "rejectedCount": 0,
-    "publishedCount": 1149,
-    "providerFetchedAt": "2026-09-18T12:07:55.431Z",
+    "publishedCount": 1281,
+    "providerFetchedAt": "2026-09-19T12:07:25.470Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
@@ -37,9 +37,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 3,
+      "rank": 7,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883097",
@@ -58,9 +58,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 927,
+      "rank": 1258,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14850144",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Justin Jefferson",
       "stat": "Receiving Yards",
-      "line": "74.5",
+      "line": "80.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 962,
+      "rank": 1291,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883113",
@@ -100,9 +100,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 979,
+      "rank": 1310,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883186",
@@ -121,30 +121,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 981,
+      "rank": 1313,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
-    },
-    {
-      "projectionId": "14883106",
-      "playerId": "263362",
-      "status": "pre_game",
-      "player": "Carson Wentz",
-      "stat": "Longest Completion",
-      "line": "36.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1030,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883274",
@@ -152,7 +131,7 @@
       "status": "pre_game",
       "player": "Jordan Addison",
       "stat": "Receiving Yards",
-      "line": "36.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -163,9 +142,30 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1031,
+      "rank": 1360,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+    },
+    {
+      "projectionId": "14883106",
+      "playerId": "263362",
+      "status": "pre_game",
+      "player": "Carson Wentz",
+      "stat": "Longest Completion",
+      "line": "35.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1368,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883107",
@@ -184,9 +184,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1050,
+      "rank": 1384,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883231",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "T.J. Hockenson",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1079,
+      "rank": 1398,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883188",
@@ -226,9 +226,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1083,
+      "rank": 1414,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883094",
@@ -247,9 +247,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1119,
+      "rank": 1454,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883250",
@@ -268,30 +268,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1124,
+      "rank": 1458,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
-    },
-    {
-      "projectionId": "14974723",
-      "playerId": "336525",
-      "status": "pre_game",
-      "player": "Jauan Jennings",
-      "stat": "Receiving Yards",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1143,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883268",
@@ -310,17 +289,17 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1146,
+      "rank": 1478,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
-      "projectionId": "14883213",
-      "playerId": "210958",
+      "projectionId": "15020255",
+      "playerId": "344001",
       "status": "pre_game",
-      "player": "Aaron Jones Sr.",
-      "stat": "Rush Attempts",
-      "line": "15.5",
+      "player": "DeeJay Dallas",
+      "stat": "Rush Yards",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -331,9 +310,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1156,
+      "rank": 1486,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883228",
@@ -352,9 +331,30 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1157,
+      "rank": 1489,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+    },
+    {
+      "projectionId": "14883213",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Rush Attempts",
+      "line": "15",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1495,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883178",
@@ -373,9 +373,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1163,
+      "rank": 1498,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883180",
@@ -383,7 +383,7 @@
       "status": "pre_game",
       "player": "T.J. Hockenson",
       "stat": "Longest Reception",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -394,30 +394,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1184,
+      "rank": 1499,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
-    },
-    {
-      "projectionId": "14977226",
-      "playerId": "336525",
-      "status": "pre_game",
-      "player": "Jauan Jennings",
-      "stat": "Longest Reception",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1188,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14963125",
@@ -425,7 +404,7 @@
       "status": "pre_game",
       "player": "Josh Oliver",
       "stat": "Receiving Yards",
-      "line": "11.5",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -436,9 +415,30 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1203,
+      "rank": 1530,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+    },
+    {
+      "projectionId": "14963124",
+      "playerId": "212257",
+      "status": "pre_game",
+      "player": "Josh Oliver",
+      "stat": "Longest Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1551,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14980322",
@@ -457,9 +457,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1212,
+      "rank": 1552,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14947217",
@@ -467,7 +467,7 @@
       "status": "pre_game",
       "player": "Justin Jefferson",
       "stat": "Rec Targets",
-      "line": "9",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -478,30 +478,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1236,
+      "rank": 1560,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
-    },
-    {
-      "projectionId": "14963124",
-      "playerId": "212257",
-      "status": "pre_game",
-      "player": "Josh Oliver",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1241,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14974663",
@@ -520,9 +499,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1242,
+      "rank": 1591,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14980323",
@@ -541,9 +520,30 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1253,
+      "rank": 1605,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+    },
+    {
+      "projectionId": "15020260",
+      "playerId": "344001",
+      "status": "pre_game",
+      "player": "DeeJay Dallas",
+      "stat": "Longest Rush",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1607,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883096",
@@ -562,17 +562,17 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1257,
+      "rank": 1609,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
-      "projectionId": "14901526",
+      "projectionId": "14901406",
       "playerId": "211229",
       "status": "pre_game",
       "player": "Justin Jefferson",
       "stat": "Receptions",
-      "line": "6",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -583,9 +583,30 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1266,
+      "rank": 1610,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+    },
+    {
+      "projectionId": "14947218",
+      "playerId": "210852",
+      "status": "pre_game",
+      "player": "Jordan Addison",
+      "stat": "Rec Targets",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1634,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14995344",
@@ -604,30 +625,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1283,
+      "rank": 1637,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
-    },
-    {
-      "projectionId": "14947218",
-      "playerId": "210852",
-      "status": "pre_game",
-      "player": "Jordan Addison",
-      "stat": "Rec Targets",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1288,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883254",
@@ -635,7 +635,7 @@
       "status": "pre_game",
       "player": "Aaron Jones Sr.",
       "stat": "Rush Yards Per Carry",
-      "line": "4",
+      "line": "3.7",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -646,9 +646,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1299,
+      "rank": 1662,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14883204",
@@ -667,9 +667,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1306,
+      "rank": 1669,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14981593",
@@ -688,17 +688,17 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1320,
+      "rank": 1682,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
-      "projectionId": "14937800",
-      "playerId": "210852",
+      "projectionId": "15018919",
+      "playerId": "210958",
       "status": "pre_game",
-      "player": "Jordan Addison",
-      "stat": "Receptions",
-      "line": "3",
+      "player": "Aaron Jones Sr.",
+      "stat": "Yards on First Rush Attempt",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -709,30 +709,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1326,
+      "rank": 1689,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
-    },
-    {
-      "projectionId": "14995345",
-      "playerId": "336525",
-      "status": "pre_game",
-      "player": "Jauan Jennings",
-      "stat": "Rec Targets",
-      "line": "3",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 1327,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14975414",
@@ -751,9 +730,30 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1340,
+      "rank": 1708,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+    },
+    {
+      "projectionId": "15017734",
+      "playerId": "263362",
+      "status": "pre_game",
+      "player": "Carson Wentz",
+      "stat": "Sacks Taken",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1717,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14995346",
@@ -772,9 +772,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1346,
+      "rank": 1719,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14882471",
@@ -793,9 +793,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1356,
+      "rank": 1729,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14937519",
@@ -814,9 +814,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1396,
+      "rank": 1781,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     },
     {
       "projectionId": "14975379",
@@ -835,9 +835,9 @@
       "teamCode": "MIN",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1401,
+      "rank": 1786,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-18T12:07:55.431Z"
+      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
     }
   ]
 }
