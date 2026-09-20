@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-19T12:08:41.093Z",
-  "scrapedDate": "Saturday, September 19, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-20T12:08:47.666Z",
+  "scrapedDate": "Sunday, September 20, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1281,
-    "sourceCount": 8510,
-    "acceptedCount": 1281,
-    "excludedCount": 7229,
+    "count": 1342,
+    "sourceCount": 9391,
+    "acceptedCount": 1342,
+    "excludedCount": 8049,
     "rejectedCount": 0,
-    "publishedCount": 1281,
-    "providerFetchedAt": "2026-09-19T12:07:25.470Z",
+    "publishedCount": 1342,
+    "providerFetchedAt": "2026-09-20T12:07:33.666Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Chicago Bears",
-  "totalProps": 48,
+  "totalProps": 49,
   "props": [
     {
       "projectionId": "14847184",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Caleb Williams",
       "stat": "Pass Yards",
-      "line": "228.5",
+      "line": "229.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1249,
+      "rank": 1399,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870850",
@@ -58,9 +58,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1311,
+      "rank": 1459,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847240",
@@ -79,9 +79,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1312,
+      "rank": 1461,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850146",
@@ -100,9 +100,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1328,
+      "rank": 1477,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850145",
@@ -121,9 +121,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1329,
+      "rank": 1478,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14950714",
@@ -142,9 +142,30 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1361,
+      "rank": 1512,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14870786",
+      "playerId": "210552",
+      "status": "pre_game",
+      "player": "Caleb Williams",
+      "stat": "Longest Completion",
+      "line": "38.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1518,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870707",
@@ -163,30 +184,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1365,
+      "rank": 1519,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14870786",
-      "playerId": "210552",
-      "status": "pre_game",
-      "player": "Caleb Williams",
-      "stat": "Longest Completion",
-      "line": "37.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 1366,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870708",
@@ -205,9 +205,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1383,
+      "rank": 1536,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847239",
@@ -226,9 +226,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1410,
+      "rank": 1565,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14960893",
@@ -247,9 +247,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1436,
+      "rank": 1590,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870802",
@@ -268,9 +268,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1437,
+      "rank": 1592,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870834",
@@ -289,9 +289,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1440,
+      "rank": 1595,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870808",
@@ -310,9 +310,30 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1444,
+      "rank": 1600,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14950713",
+      "playerId": "211241",
+      "status": "pre_game",
+      "player": "Rome Odunze",
+      "stat": "Longest Reception",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1601,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870831",
@@ -331,30 +352,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1453,
+      "rank": 1609,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14950713",
-      "playerId": "211241",
-      "status": "pre_game",
-      "player": "Rome Odunze",
-      "stat": "Longest Reception",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 1461,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870771",
@@ -373,30 +373,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1488,
+      "rank": 1649,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14960884",
-      "playerId": "336734",
-      "status": "pre_game",
-      "player": "Kalif Raymond",
-      "stat": "Longest Reception",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 1492,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14928625",
@@ -415,9 +394,30 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1500,
+      "rank": 1661,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14960884",
+      "playerId": "336734",
+      "status": "pre_game",
+      "player": "Kalif Raymond",
+      "stat": "Longest Reception",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1662,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870810",
@@ -436,9 +436,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1520,
+      "rank": 1681,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870734",
@@ -457,9 +457,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1527,
+      "rank": 1688,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870765",
@@ -478,30 +478,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1528,
+      "rank": 1689,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14870827",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Receiving Yards",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 1539,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980324",
@@ -520,9 +499,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1545,
+      "rank": 1705,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870774",
@@ -541,9 +520,30 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1549,
+      "rank": 1710,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14870827",
+      "playerId": "210665",
+      "status": "pre_game",
+      "player": "D'Andre Swift",
+      "stat": "Receiving Yards",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1711,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870785",
@@ -562,9 +562,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1557,
+      "rank": 1723,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980325",
@@ -583,9 +583,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1565,
+      "rank": 1733,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980326",
@@ -604,30 +604,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1566,
+      "rank": 1734,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14870750",
-      "playerId": "246525",
-      "status": "pre_game",
-      "player": "Kyle Monangai",
-      "stat": "Rush Attempts",
-      "line": "9",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 1583,
-      "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870724",
@@ -646,9 +625,30 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1585,
+      "rank": 1753,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14870750",
+      "playerId": "246525",
+      "status": "pre_game",
+      "player": "Kyle Monangai",
+      "stat": "Rush Attempts",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1754,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14976998",
@@ -667,9 +667,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1594,
+      "rank": 1760,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870725",
@@ -688,9 +688,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1599,
+      "rank": 1772,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947192",
@@ -709,9 +709,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1612,
+      "rank": 1791,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947191",
@@ -730,9 +730,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1618,
+      "rank": 1801,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14982939",
@@ -751,9 +751,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1635,
+      "rank": 1825,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995315",
@@ -772,9 +772,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1636,
+      "rank": 1826,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15018333",
@@ -793,9 +793,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1659,
+      "rank": 1850,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870833",
@@ -803,7 +803,7 @@
       "status": "pre_game",
       "player": "D'Andre Swift",
       "stat": "Rush Yards Per Carry",
-      "line": "4",
+      "line": "4.2",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -814,9 +814,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1660,
+      "rank": 1854,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995318",
@@ -835,9 +835,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1685,
+      "rank": 1877,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15018920",
@@ -856,9 +856,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1690,
+      "rank": 1882,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15016152",
@@ -877,9 +877,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1696,
+      "rank": 1891,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995317",
@@ -898,9 +898,30 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1711,
+      "rank": 1906,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14870710",
+      "playerId": "210552",
+      "status": "pre_game",
+      "player": "Caleb Williams",
+      "stat": "Pass TDs",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1916,
+      "gameId": "181624",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870761",
@@ -919,9 +940,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1721,
+      "rank": 1918,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995316",
@@ -940,9 +961,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1740,
+      "rank": 1936,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15016306",
@@ -961,9 +982,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1749,
+      "rank": 1946,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847241",
@@ -982,9 +1003,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1761,
+      "rank": 1960,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14884984",
@@ -1003,9 +1024,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1778,
+      "rank": 1978,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15007606",
@@ -1024,9 +1045,9 @@
       "teamCode": "CHI",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1792,
+      "rank": 1990,
       "gameId": "181624",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     }
   ]
 }

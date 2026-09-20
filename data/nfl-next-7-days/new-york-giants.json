@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-19T12:08:41.093Z",
-  "scrapedDate": "Saturday, September 19, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-20T12:08:47.666Z",
+  "scrapedDate": "Sunday, September 20, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1281,
-    "sourceCount": 8510,
-    "acceptedCount": 1281,
-    "excludedCount": 7229,
+    "count": 1342,
+    "sourceCount": 9391,
+    "acceptedCount": 1342,
+    "excludedCount": 8049,
     "rejectedCount": 0,
-    "publishedCount": 1281,
-    "providerFetchedAt": "2026-09-19T12:07:25.470Z",
+    "publishedCount": 1342,
+    "providerFetchedAt": "2026-09-20T12:07:33.666Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 36,
+  "totalProps": 43,
   "props": [
     {
       "projectionId": "15017235",
@@ -37,9 +37,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8052,
+      "rank": 8868,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15018287",
@@ -58,9 +58,93 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8057,
+      "rank": 8877,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15042327",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Rush Yards",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:15 PM CST",
+      "startTimeCST": "09/21/26 07:15 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 8878,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15042378",
+      "playerId": "336247",
+      "status": "pre_game",
+      "player": "Darnell Mooney",
+      "stat": "Receiving Yards",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:15 PM CST",
+      "startTimeCST": "09/21/26 07:15 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 8881,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15042384",
+      "playerId": "336247",
+      "status": "pre_game",
+      "player": "Darnell Mooney",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:15 PM CST",
+      "startTimeCST": "09/21/26 07:15 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 8891,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15042328",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Longest Rush",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:15 PM CST",
+      "startTimeCST": "09/21/26 07:15 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 8892,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15018942",
@@ -79,9 +163,72 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8063,
+      "rank": 8896,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15042329",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Longest Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:15 PM CST",
+      "startTimeCST": "09/21/26 07:15 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 8897,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15042335",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Rush Attempts",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:15 PM CST",
+      "startTimeCST": "09/21/26 07:15 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 8898,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15042337",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Receiving Yards",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:15 PM CST",
+      "startTimeCST": "09/21/26 07:15 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 8899,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15020859",
@@ -100,9 +247,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8064,
+      "rank": 8913,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15018945",
@@ -121,9 +268,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8068,
+      "rank": 8917,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15020858",
@@ -142,9 +289,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8078,
+      "rank": 8929,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14981672",
@@ -163,9 +310,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8096,
+      "rank": 8971,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847201",
@@ -184,9 +331,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8118,
+      "rank": 8993,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871968",
@@ -194,7 +341,7 @@
       "status": "pre_game",
       "player": "Jaxson Dart",
       "stat": "Completion Percentage",
-      "line": "66.1",
+      "line": "63.9",
       "sport": "NFL",
       "startTime": "09/21/26 07:20 PM CST",
       "startTimeCST": "09/21/26 07:20 PM CST",
@@ -205,9 +352,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8162,
+      "rank": 9042,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850177",
@@ -226,9 +373,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8165,
+      "rank": 9043,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847271",
@@ -247,9 +394,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8179,
+      "rank": 9058,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850178",
@@ -268,9 +415,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8196,
+      "rank": 9074,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871915",
@@ -289,9 +436,30 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8220,
+      "rank": 9096,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14847270",
+      "playerId": "249007",
+      "status": "pre_game",
+      "player": "Jaxson Dart",
+      "stat": "Rush Yards",
+      "line": "31.5",
+      "sport": "NFL",
+      "startTime": "09/21/26 07:20 PM CST",
+      "startTimeCST": "09/21/26 07:20 PM CST",
+      "startDateCST": "2026-09-21",
+      "startTimeIso": "2026-09-21T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LAR",
+      "rank": 9104,
+      "gameId": "182079",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871823",
@@ -310,30 +478,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8231,
+      "rank": 9107,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14847270",
-      "playerId": "249007",
-      "status": "pre_game",
-      "player": "Jaxson Dart",
-      "stat": "Rush Yards",
-      "line": "29.5",
-      "sport": "NFL",
-      "startTime": "09/21/26 07:20 PM CST",
-      "startTimeCST": "09/21/26 07:20 PM CST",
-      "startDateCST": "2026-09-21",
-      "startTimeIso": "2026-09-21T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LAR",
-      "rank": 8232,
-      "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871953",
@@ -352,9 +499,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8270,
+      "rank": 9145,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871920",
@@ -373,9 +520,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8279,
+      "rank": 9154,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871903",
@@ -394,9 +541,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8299,
+      "rank": 9177,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871914",
@@ -415,9 +562,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8301,
+      "rank": 9178,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871877",
@@ -436,9 +583,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8334,
+      "rank": 9209,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871878",
@@ -457,9 +604,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8335,
+      "rank": 9210,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14889693",
@@ -478,9 +625,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8339,
+      "rank": 9215,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871941",
@@ -499,9 +646,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8346,
+      "rank": 9225,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980376",
@@ -520,9 +667,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8350,
+      "rank": 9229,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980379",
@@ -541,9 +688,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8366,
+      "rank": 9243,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871836",
@@ -562,9 +709,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8376,
+      "rank": 9255,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947224",
@@ -583,9 +730,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8379,
+      "rank": 9259,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14889690",
@@ -604,9 +751,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8396,
+      "rank": 9277,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947225",
@@ -625,9 +772,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8401,
+      "rank": 9280,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850179",
@@ -646,9 +793,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8402,
+      "rank": 9281,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14889061",
@@ -667,9 +814,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8406,
+      "rank": 9285,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14889454",
@@ -688,9 +835,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8417,
+      "rank": 9294,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14871912",
@@ -698,7 +845,7 @@
       "status": "pre_game",
       "player": "Cam Skattebo",
       "stat": "Rush Yards Per Carry",
-      "line": "4",
+      "line": "4.1",
       "sport": "NFL",
       "startTime": "09/21/26 07:20 PM CST",
       "startTimeCST": "09/21/26 07:20 PM CST",
@@ -709,9 +856,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8422,
+      "rank": 9300,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14981606",
@@ -730,9 +877,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8423,
+      "rank": 9301,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14981898",
@@ -751,9 +898,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 8433,
+      "rank": 9313,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14939117",
@@ -772,9 +919,9 @@
       "teamCode": "NYG",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LAR",
-      "rank": 8463,
+      "rank": 9344,
       "gameId": "182079",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     }
   ]
 }

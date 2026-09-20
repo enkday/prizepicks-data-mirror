@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-19T12:08:41.093Z",
-  "scrapedDate": "Saturday, September 19, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-20T12:08:47.666Z",
+  "scrapedDate": "Sunday, September 20, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1281,
-    "sourceCount": 8510,
-    "acceptedCount": 1281,
-    "excludedCount": 7229,
+    "count": 1342,
+    "sourceCount": 9391,
+    "acceptedCount": 1342,
+    "excludedCount": 8049,
     "rejectedCount": 0,
-    "publishedCount": 1281,
-    "providerFetchedAt": "2026-09-19T12:07:25.470Z",
+    "publishedCount": 1342,
+    "providerFetchedAt": "2026-09-20T12:07:33.666Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tennessee Titans",
-  "totalProps": 45,
+  "totalProps": 47,
   "props": [
     {
       "projectionId": "14847186",
@@ -37,9 +37,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1839,
+      "rank": 2039,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867979",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Cam Ward",
       "stat": "Completion Percentage",
-      "line": "56.9",
+      "line": "60",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1894,
+      "rank": 2086,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847245",
@@ -79,9 +79,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1919,
+      "rank": 2116,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850150",
@@ -100,9 +100,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1920,
+      "rank": 2117,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850151",
@@ -121,30 +121,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1932,
+      "rank": 2129,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14867960",
-      "playerId": "246529",
-      "status": "pre_game",
-      "player": "Cam Ward",
-      "stat": "Longest Completion",
-      "line": "33.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1944,
-      "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867770",
@@ -163,9 +142,30 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1948,
+      "rank": 2145,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14867960",
+      "playerId": "246529",
+      "status": "pre_game",
+      "player": "Cam Ward",
+      "stat": "Longest Completion",
+      "line": "32.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2147,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867933",
@@ -184,9 +184,30 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2009,
+      "rank": 2208,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14867949",
+      "playerId": "320254",
+      "status": "pre_game",
+      "player": "Carnell Tate",
+      "stat": "Longest Reception",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2214,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867926",
@@ -205,51 +226,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2028,
+      "rank": 2229,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14867949",
-      "playerId": "320254",
-      "status": "pre_game",
-      "player": "Carnell Tate",
-      "stat": "Longest Reception",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 2030,
-      "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14963278",
-      "playerId": "210631",
-      "status": "pre_game",
-      "player": "Calvin Ridley",
-      "stat": "Receiving Yards",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 12:00 PM CST",
-      "startTimeCST": "09/20/26 12:00 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 2040,
-      "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14877987",
@@ -268,9 +247,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2050,
+      "rank": 2248,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867776",
@@ -289,9 +268,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2056,
+      "rank": 2255,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867854",
@@ -310,9 +289,30 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2062,
+      "rank": 2261,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14963278",
+      "playerId": "210631",
+      "status": "pre_game",
+      "player": "Calvin Ridley",
+      "stat": "Receiving Yards",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2263,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867777",
@@ -331,9 +331,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2065,
+      "rank": 2265,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14963269",
@@ -352,9 +352,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2079,
+      "rank": 2280,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867840",
@@ -373,9 +373,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2104,
+      "rank": 2306,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847244",
@@ -394,9 +394,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2111,
+      "rank": 2314,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867739",
@@ -415,9 +415,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2112,
+      "rank": 2315,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14896495",
@@ -436,9 +436,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2113,
+      "rank": 2316,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980330",
@@ -457,9 +457,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2118,
+      "rank": 2321,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15020306",
@@ -478,9 +478,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2120,
+      "rank": 2325,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867907",
@@ -499,9 +499,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2128,
+      "rank": 2334,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867956",
@@ -520,9 +520,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2129,
+      "rank": 2335,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980331",
@@ -541,9 +541,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2165,
+      "rank": 2367,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15020300",
@@ -562,9 +562,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2169,
+      "rank": 2372,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867761",
@@ -583,9 +583,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2171,
+      "rank": 2379,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867822",
@@ -604,9 +604,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2174,
+      "rank": 2382,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870954",
@@ -625,9 +625,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2188,
+      "rank": 2403,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947238",
@@ -646,9 +646,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2190,
+      "rank": 2405,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947237",
@@ -667,9 +667,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2194,
+      "rank": 2422,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867880",
@@ -688,9 +688,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2203,
+      "rank": 2430,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14981588",
@@ -709,9 +709,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2213,
+      "rank": 2450,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995368",
@@ -730,17 +730,17 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2244,
+      "rank": 2481,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
-      "projectionId": "14867948",
-      "playerId": "210676",
+      "projectionId": "14937664",
+      "playerId": "320254",
       "status": "pre_game",
-      "player": "Tony Pollard",
-      "stat": "Rush Yards Per Carry",
-      "line": "3.6",
+      "player": "Carnell Tate",
+      "stat": "Receptions",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "09/20/26 12:00 PM CST",
       "startTimeCST": "09/20/26 12:00 PM CST",
@@ -751,9 +751,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2245,
+      "rank": 2491,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14981859",
@@ -772,9 +772,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2262,
+      "rank": 2500,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15018922",
@@ -793,9 +793,30 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2266,
+      "rank": 2503,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14867948",
+      "playerId": "210676",
+      "status": "pre_game",
+      "player": "Tony Pollard",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.3",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2519,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867868",
@@ -814,9 +835,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2276,
+      "rank": 2520,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995367",
@@ -835,9 +856,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2277,
+      "rank": 2521,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867851",
@@ -856,9 +877,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2281,
+      "rank": 2525,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15020295",
@@ -877,9 +898,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2298,
+      "rank": 2542,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "15020308",
@@ -898,9 +919,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2299,
+      "rank": 2543,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995366",
@@ -919,9 +940,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2303,
+      "rank": 2553,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14870959",
@@ -940,9 +961,30 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2317,
+      "rank": 2567,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14963268",
+      "playerId": "210631",
+      "status": "pre_game",
+      "player": "Calvin Ridley",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 12:00 PM CST",
+      "startTimeCST": "09/20/26 12:00 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2571,
+      "gameId": "181625",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14867747",
@@ -961,9 +1003,9 @@
       "teamCode": "TEN",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2362,
+      "rank": 2611,
       "gameId": "181625",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     }
   ]
 }

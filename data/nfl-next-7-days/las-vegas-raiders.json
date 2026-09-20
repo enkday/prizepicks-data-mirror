@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-19T12:08:41.093Z",
-  "scrapedDate": "Saturday, September 19, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-20T12:08:47.666Z",
+  "scrapedDate": "Sunday, September 20, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1281,
-    "sourceCount": 8510,
-    "acceptedCount": 1281,
-    "excludedCount": 7229,
+    "count": 1342,
+    "sourceCount": 9391,
+    "acceptedCount": 1342,
+    "excludedCount": 8049,
     "rejectedCount": 0,
-    "publishedCount": 1281,
-    "providerFetchedAt": "2026-09-19T12:07:25.470Z",
+    "publishedCount": 1342,
+    "providerFetchedAt": "2026-09-20T12:07:33.666Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Las Vegas Raiders",
-  "totalProps": 24,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "14981625",
@@ -37,9 +37,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4720,
+      "rank": 5200,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14952750",
@@ -58,9 +58,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4722,
+      "rank": 5202,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847194",
@@ -79,9 +79,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5373,
+      "rank": 5861,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14862827",
@@ -100,9 +100,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5410,
+      "rank": 5905,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14847258",
@@ -121,9 +121,72 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5411,
+      "rank": 5906,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14982148",
+      "playerId": "212146",
+      "status": "pre_game",
+      "player": "Michael Mayer",
+      "stat": "Receiving Yards",
+      "line": "44.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5933,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14982168",
+      "playerId": "211965",
+      "status": "pre_game",
+      "player": "Tre Tucker",
+      "stat": "Receiving Yards",
+      "line": "36.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5959,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14982159",
+      "playerId": "336592",
+      "status": "pre_game",
+      "player": "Jalen Nailor",
+      "stat": "Receiving Yards",
+      "line": "32.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5972,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14862797",
@@ -142,9 +205,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5455,
+      "rank": 5974,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14862773",
@@ -163,9 +226,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5461,
+      "rank": 5981,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14850165",
@@ -184,17 +247,17 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5479,
+      "rank": 6007,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
-      "projectionId": "14899014",
-      "playerId": "246538",
+      "projectionId": "14982013",
+      "playerId": "246541",
       "status": "pre_game",
-      "player": "Ashton Jeanty",
-      "stat": "Rush Yards in First 5 Attempts",
-      "line": "19.5",
+      "player": "Jack Bech",
+      "stat": "Receiving Yards",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "09/20/26 03:05 PM CST",
       "startTimeCST": "09/20/26 03:05 PM CST",
@@ -205,9 +268,30 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5519,
+      "rank": 6019,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14899014",
+      "playerId": "246538",
+      "status": "pre_game",
+      "player": "Ashton Jeanty",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6042,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14862825",
@@ -226,9 +310,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5535,
+      "rank": 6071,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14944367",
@@ -247,9 +331,51 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5537,
+      "rank": 6073,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14982117",
+      "playerId": "336592",
+      "status": "pre_game",
+      "player": "Jalen Nailor",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6078,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14982145",
+      "playerId": "211965",
+      "status": "pre_game",
+      "player": "Tre Tucker",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6079,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14899016",
@@ -268,9 +394,30 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5545,
+      "rank": 6084,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14982153",
+      "playerId": "212146",
+      "status": "pre_game",
+      "player": "Michael Mayer",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6086,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14899001",
@@ -289,9 +436,30 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5555,
+      "rank": 6093,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14982009",
+      "playerId": "246541",
+      "status": "pre_game",
+      "player": "Jack Bech",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6110,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14899005",
@@ -310,9 +478,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5578,
+      "rank": 6123,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14982096",
@@ -331,9 +499,30 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5608,
+      "rank": 6172,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15068480",
+      "playerId": "212146",
+      "status": "pre_game",
+      "player": "Michael Mayer",
+      "stat": "Rec Targets",
+      "line": "8",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6181,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14862826",
@@ -352,9 +541,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5620,
+      "rank": 6199,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14949038",
@@ -373,9 +562,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5629,
+      "rank": 6220,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14980351",
@@ -394,9 +583,30 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5632,
+      "rank": 6222,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15068478",
+      "playerId": "211965",
+      "status": "pre_game",
+      "player": "Tre Tucker",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6244,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947211",
@@ -415,9 +625,51 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5640,
+      "rank": 6245,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15047365",
+      "playerId": "336598",
+      "status": "pre_game",
+      "player": "Mike Washington Jr.",
+      "stat": "Rush Attempts",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6247,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15068479",
+      "playerId": "336592",
+      "status": "pre_game",
+      "player": "Jalen Nailor",
+      "stat": "Rec Targets",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6248,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14937801",
@@ -436,9 +688,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5658,
+      "rank": 6267,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14981596",
@@ -457,9 +709,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5660,
+      "rank": 6269,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14899015",
@@ -467,7 +719,7 @@
       "status": "pre_game",
       "player": "Ashton Jeanty",
       "stat": "Rush Yards Per Carry",
-      "line": "3.6",
+      "line": "3.8",
       "sport": "NFL",
       "startTime": "09/20/26 03:05 PM CST",
       "startTimeCST": "09/20/26 03:05 PM CST",
@@ -478,9 +730,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5665,
+      "rank": 6274,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14981864",
@@ -499,9 +751,9 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5708,
+      "rank": 6334,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14846857",
@@ -520,9 +772,30 @@
       "teamCode": "LV",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5742,
+      "rank": 6374,
       "gameId": "181626",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15049804",
+      "playerId": "153660",
+      "status": "pre_game",
+      "player": "Maxx Crosby",
+      "stat": "Sacks",
+      "line": "0.25",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:05 PM CST",
+      "startTimeCST": "09/20/26 03:05 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 6436,
+      "gameId": "181626",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     }
   ]
 }

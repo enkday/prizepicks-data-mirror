@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-19T12:08:41.093Z",
-  "scrapedDate": "Saturday, September 19, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-20T12:08:47.666Z",
+  "scrapedDate": "Sunday, September 20, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1281,
-    "sourceCount": 8510,
-    "acceptedCount": 1281,
-    "excludedCount": 7229,
+    "count": 1342,
+    "sourceCount": 9391,
+    "acceptedCount": 1342,
+    "excludedCount": 8049,
     "rejectedCount": 0,
-    "publishedCount": 1281,
-    "providerFetchedAt": "2026-09-19T12:07:25.470Z",
+    "publishedCount": 1342,
+    "providerFetchedAt": "2026-09-20T12:07:33.666Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 44,
+  "totalProps": 45,
   "props": [
     {
       "projectionId": "14745312",
@@ -37,9 +37,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6388,
+      "rank": 7087,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14859852",
@@ -58,9 +58,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6434,
+      "rank": 7134,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14940923",
@@ -79,9 +79,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6447,
+      "rank": 7147,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14745235",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Mike Evans",
       "stat": "Receiving Yards",
-      "line": "48.5",
+      "line": "49.5",
       "sport": "NFL",
       "startTime": "09/20/26 03:25 PM CST",
       "startTimeCST": "09/20/26 03:25 PM CST",
@@ -100,30 +100,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6468,
+      "rank": 7156,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14940920",
-      "playerId": "211086",
-      "status": "pre_game",
-      "player": "George Kittle",
-      "stat": "Receiving Yards",
-      "line": "41.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:25 PM CST",
-      "startTimeCST": "09/20/26 03:25 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6483,
-      "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14940919",
@@ -142,9 +121,30 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6486,
+      "rank": 7186,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14940920",
+      "playerId": "211086",
+      "status": "pre_game",
+      "player": "George Kittle",
+      "stat": "Receiving Yards",
+      "line": "40.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 7187,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14859833",
@@ -163,9 +163,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6505,
+      "rank": 7205,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14940927",
@@ -184,9 +184,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6506,
+      "rank": 7206,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14940929",
@@ -205,9 +205,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6521,
+      "rank": 7222,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14898796",
@@ -226,9 +226,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6555,
+      "rank": 7257,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14940922",
@@ -247,9 +247,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6567,
+      "rank": 7268,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14898816",
@@ -268,9 +268,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6588,
+      "rank": 7289,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943605",
@@ -289,9 +289,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6589,
+      "rank": 7290,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14859784",
@@ -310,30 +310,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6594,
+      "rank": 7294,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14943687",
-      "playerId": "246594",
-      "status": "pre_game",
-      "player": "Demarcus Robinson",
-      "stat": "Longest Reception",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:25 PM CST",
-      "startTimeCST": "09/20/26 03:25 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6616,
-      "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943575",
@@ -352,9 +331,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6628,
+      "rank": 7330,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943654",
@@ -373,9 +352,51 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6629,
+      "rank": 7331,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14943687",
+      "playerId": "246594",
+      "status": "pre_game",
+      "player": "Demarcus Robinson",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 7332,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14943547",
+      "playerId": "206315",
+      "status": "pre_game",
+      "player": "Christian McCaffrey",
+      "stat": "Longest Rush",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 7342,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943590",
@@ -394,9 +415,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6638,
+      "rank": 7343,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943767",
@@ -415,30 +436,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6639,
+      "rank": 7344,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14943547",
-      "playerId": "206315",
-      "status": "pre_game",
-      "player": "Christian McCaffrey",
-      "stat": "Longest Rush",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:25 PM CST",
-      "startTimeCST": "09/20/26 03:25 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6645,
-      "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14745309",
@@ -457,9 +457,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6654,
+      "rank": 7355,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943745",
@@ -478,9 +478,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6658,
+      "rank": 7360,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943533",
@@ -499,9 +499,30 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6675,
+      "rank": 7380,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14943705",
+      "playerId": "336246",
+      "status": "pre_game",
+      "player": "Kaelon Black",
+      "stat": "Rush Attempts",
+      "line": "9",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 7433,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14859929",
@@ -520,17 +541,17 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6720,
+      "rank": 7435,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
-      "projectionId": "14943705",
-      "playerId": "336246",
+      "projectionId": "14859860",
+      "playerId": "262227",
       "status": "pre_game",
-      "player": "Kaelon Black",
-      "stat": "Rush Attempts",
-      "line": "8.5",
+      "player": "Eddy Pineiro",
+      "stat": "Kicking Points",
+      "line": "8",
       "sport": "NFL",
       "startTime": "09/20/26 03:25 PM CST",
       "startTimeCST": "09/20/26 03:25 PM CST",
@@ -541,9 +562,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6725,
+      "rank": 7446,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943689",
@@ -562,9 +583,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6732,
+      "rank": 7451,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943692",
@@ -583,9 +604,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6733,
+      "rank": 7452,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943694",
@@ -604,9 +625,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6734,
+      "rank": 7453,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943683",
@@ -625,9 +646,30 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6744,
+      "rank": 7469,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14943763",
+      "playerId": "211085",
+      "status": "pre_game",
+      "player": "Deebo Samuel Sr.",
+      "stat": "Rush Yards",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 7471,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947232",
@@ -646,9 +688,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6748,
+      "rank": 7478,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947233",
@@ -667,30 +709,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6749,
+      "rank": 7479,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14943763",
-      "playerId": "211085",
-      "status": "pre_game",
-      "player": "Deebo Samuel Sr.",
-      "stat": "Rush Yards",
-      "line": "5.5",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:25 PM CST",
-      "startTimeCST": "09/20/26 03:25 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6759,
-      "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947234",
@@ -709,9 +730,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6769,
+      "rank": 7501,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14947235",
@@ -730,9 +751,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6770,
+      "rank": 7502,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14948141",
@@ -751,9 +772,30 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6771,
+      "rank": 7503,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "14943599",
+      "playerId": "206315",
+      "status": "pre_game",
+      "player": "Christian McCaffrey",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.2",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 7530,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14859826",
@@ -772,30 +814,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6795,
+      "rank": 7531,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14943599",
-      "playerId": "206315",
-      "status": "pre_game",
-      "player": "Christian McCaffrey",
-      "stat": "Rush Yards Per Carry",
-      "line": "4",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:25 PM CST",
-      "startTimeCST": "09/20/26 03:25 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6796,
-      "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14948142",
@@ -814,30 +835,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6812,
+      "rank": 7548,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
-    },
-    {
-      "projectionId": "14949905",
-      "playerId": "211085",
-      "status": "pre_game",
-      "player": "Deebo Samuel Sr.",
-      "stat": "Receptions",
-      "line": "3",
-      "sport": "NFL",
-      "startTime": "09/20/26 03:25 PM CST",
-      "startTimeCST": "09/20/26 03:25 PM CST",
-      "startDateCST": "2026-09-20",
-      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 6830,
-      "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14995361",
@@ -856,9 +856,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6834,
+      "rank": 7573,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943562",
@@ -877,9 +877,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6846,
+      "rank": 7585,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14943573",
@@ -898,9 +898,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6847,
+      "rank": 7586,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14941776",
@@ -919,9 +919,9 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6857,
+      "rank": 7603,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     },
     {
       "projectionId": "14884982",
@@ -940,9 +940,30 @@
       "teamCode": "SF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 6924,
+      "rank": 7670,
       "gameId": "181630",
-      "providerFetchedAt": "2026-09-19T12:07:25.470Z"
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
+    },
+    {
+      "projectionId": "15019037",
+      "playerId": "212290",
+      "status": "pre_game",
+      "player": "Nick Bosa",
+      "stat": "Sacks",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "09/20/26 03:25 PM CST",
+      "startTimeCST": "09/20/26 03:25 PM CST",
+      "startDateCST": "2026-09-20",
+      "startTimeIso": "2026-09-20T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 7697,
+      "gameId": "181630",
+      "providerFetchedAt": "2026-09-20T12:07:33.666Z"
     }
   ]
 }
