@@ -1,25 +1,46 @@
 {
-  "scrapedAt": "2026-09-21T12:10:07.217Z",
-  "scrapedDate": "Monday, September 21, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-09-22T12:10:16.266Z",
+  "scrapedDate": "Tuesday, September 22, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 128,
-    "sourceCount": 869,
-    "acceptedCount": 128,
-    "excludedCount": 741,
+    "count": 287,
+    "sourceCount": 1511,
+    "acceptedCount": 287,
+    "excludedCount": 1224,
     "rejectedCount": 0,
-    "publishedCount": 128,
-    "providerFetchedAt": "2026-09-21T12:08:07.566Z",
+    "publishedCount": 287,
+    "providerFetchedAt": "2026-09-22T12:08:06.210Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 2,
+  "totalProps": 4,
   "props": [
+    {
+      "projectionId": "15020913",
+      "playerId": "205163",
+      "status": "pre_game",
+      "player": "Josh Allen",
+      "stat": "Pass Yards",
+      "line": "240.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 473,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+    },
     {
       "projectionId": "15020924",
       "playerId": "210711",
@@ -37,9 +58,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 838,
+      "rank": 486,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-21T12:08:07.566Z"
+      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
     },
     {
       "projectionId": "15020925",
@@ -58,9 +79,30 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 839,
+      "rank": 489,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-21T12:08:07.566Z"
+      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+    },
+    {
+      "projectionId": "15089877",
+      "playerId": "153664",
+      "status": "pre_game",
+      "player": "Greg Rousseau",
+      "stat": "Sacks",
+      "line": "0.25",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 526,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
     }
   ]
 }
