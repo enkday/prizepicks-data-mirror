@@ -1,0 +1,35 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "e3b3ab5739ab65e3066c328558d32fa4f93dce1056e1821826f2a2d87485295c",
+  "sourceScrapedAt": "2026-09-23T12:09:57.184Z",
+  "sourceScrapedDate": "Wednesday, September 23, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-09-24",
+  "completeness": "reported",
+  "sport": "NFL",
+  "sportSlug": "nfl",
+  "dayBranch": "tomorrow",
+  "gameCount": 1,
+  "propCount": 84,
+  "games": [
+    {
+      "gameId": "182713",
+      "slate": "Late",
+      "startTime": "09/24/26 07:15 PM CDT",
+      "startTimeIso": "2026-09-24T19:15:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Atlanta Falcons",
+        "Green Bay Packers"
+      ],
+      "propCount": 84,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/182713.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 84,
+      "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
+    }
+  ]
+}

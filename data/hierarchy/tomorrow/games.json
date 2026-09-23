@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "gameId": "182713",
+    "sport": "NFL",
+    "startTime": "09/24/26 07:15 PM CDT",
+    "startTimeIso": "2026-09-24T19:15:00-05:00",
+    "teams": [
+      "Atlanta Falcons",
+      "Green Bay Packers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-09-24T19:15:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Atlanta Falcons",
+        "Green Bay Packers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "182503",
+    "sport": "NCAAF",
+    "startTime": "09/24/26 06:30 PM CDT",
+    "startTimeIso": "2026-09-24T18:30:00-05:00",
+    "teams": [
+      "Coastal Carolina Chanticleers",
+      "Liberty Flames"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-09-24T18:30:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Coastal Carolina Chanticleers",
+        "Liberty Flames"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  }
+]

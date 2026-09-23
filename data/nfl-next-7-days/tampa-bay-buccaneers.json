@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-22T12:10:16.266Z",
-  "scrapedDate": "Tuesday, September 22, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-09-23T12:09:57.184Z",
+  "scrapedDate": "Wednesday, September 23, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 287,
-    "sourceCount": 1511,
-    "acceptedCount": 287,
-    "excludedCount": 1224,
+    "count": 703,
+    "sourceCount": 4392,
+    "acceptedCount": 703,
+    "excludedCount": 3689,
     "rejectedCount": 0,
-    "publishedCount": 287,
-    "providerFetchedAt": "2026-09-22T12:08:06.210Z",
+    "publishedCount": 703,
+    "providerFetchedAt": "2026-09-23T12:08:47.621Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 15,
+  "totalProps": 20,
   "props": [
     {
       "projectionId": "15089395",
@@ -37,9 +37,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 865,
+      "rank": 2964,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15089589",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Rush Yards",
-      "line": "61.5",
+      "line": "59.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 884,
+      "rank": 2983,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15089726",
@@ -79,9 +79,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 894,
+      "rank": 2993,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15106911",
@@ -100,9 +100,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 916,
+      "rank": 3021,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15089727",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Cade Otton",
       "stat": "Receiving Yards",
-      "line": "34.5",
+      "line": "32.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 917,
+      "rank": 3024,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15089728",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Chris Godwin Jr.",
       "stat": "Receiving Yards",
-      "line": "33.5",
+      "line": "32.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 919,
+      "rank": 3025,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15106816",
@@ -163,9 +163,30 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 921,
+      "rank": 3027,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+    },
+    {
+      "projectionId": "15106927",
+      "playerId": "246561",
+      "status": "pre_game",
+      "player": "Emeka Egbuka",
+      "stat": "Longest Reception",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3055,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15089590",
@@ -184,9 +205,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 960,
+      "rank": 3081,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15106995",
@@ -205,30 +226,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 961,
+      "rank": 3082,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
-    },
-    {
-      "projectionId": "15106873",
-      "playerId": "210869",
-      "status": "pre_game",
-      "player": "Cade Otton",
-      "stat": "Longest Reception",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 964,
-      "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15106918",
@@ -247,17 +247,17 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 965,
+      "rank": 3085,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
-      "projectionId": "15107108",
-      "playerId": "212264",
+      "projectionId": "15106873",
+      "playerId": "210869",
       "status": "pre_game",
-      "player": "Bucky Irving",
-      "stat": "Rush Attempts",
-      "line": "13.5",
+      "player": "Cade Otton",
+      "stat": "Longest Reception",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -268,9 +268,72 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 968,
+      "rank": 3086,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+    },
+    {
+      "projectionId": "15107105",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Longest Rush",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3092,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+    },
+    {
+      "projectionId": "15107108",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Rush Attempts",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3093,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+    },
+    {
+      "projectionId": "15106795",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Longest Rush",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3094,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15106857",
@@ -289,9 +352,9 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 969,
+      "rank": 3095,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15106790",
@@ -310,9 +373,30 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 988,
+      "rank": 3124,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+    },
+    {
+      "projectionId": "15106842",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3127,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     },
     {
       "projectionId": "15106931",
@@ -331,9 +415,30 @@
       "teamCode": "TB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1025,
+      "rank": 3176,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-22T12:08:06.210Z"
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+    },
+    {
+      "projectionId": "15128488",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3182,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
     }
   ]
 }
