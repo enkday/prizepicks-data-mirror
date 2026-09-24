@@ -1,15 +1,15 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "e3b3ab5739ab65e3066c328558d32fa4f93dce1056e1821826f2a2d87485295c",
-  "sourceScrapedAt": "2026-09-23T12:09:57.184Z",
-  "sourceScrapedDate": "Wednesday, September 23, 2026 at 07:09 AM CDT",
+  "sourcePayloadHash": "e566bcdb6be913eb7547af918067a28fd47d2d9341d48fcd0208e14b0389b6c4",
+  "sourceScrapedAt": "2026-09-24T12:09:54.484Z",
+  "sourceScrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
   "observedDate": "2026-09-24",
   "completeness": "reported",
   "sport": "NFL",
   "sportSlug": "nfl",
-  "dayBranch": "tomorrow",
+  "dayBranch": "current_day",
   "gameCount": 1,
-  "propCount": 84,
+  "propCount": 104,
   "games": [
     {
       "gameId": "182713",
@@ -21,15 +21,15 @@
         "Atlanta Falcons",
         "Green Bay Packers"
       ],
-      "propCount": 84,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/182713.json"
+      "propCount": 104,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/182713.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 84,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
+      "propCount": 104,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
 }

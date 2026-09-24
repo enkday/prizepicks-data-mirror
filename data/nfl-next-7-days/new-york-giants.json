@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-23T12:09:57.184Z",
-  "scrapedDate": "Wednesday, September 23, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-24T12:09:54.484Z",
+  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 703,
-    "sourceCount": 4392,
-    "acceptedCount": 703,
-    "excludedCount": 3689,
+    "count": 894,
+    "sourceCount": 6020,
+    "acceptedCount": 894,
+    "excludedCount": 5126,
     "rejectedCount": 0,
-    "publishedCount": 703,
-    "providerFetchedAt": "2026-09-23T12:08:47.621Z",
+    "publishedCount": 894,
+    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 21,
+  "totalProps": 24,
   "props": [
     {
       "projectionId": "15140528",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Pass Yards",
-      "line": "200.5",
+      "line": "208.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1539,
+      "rank": 2071,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15140709",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Receiving Yards",
+      "line": "55.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2122,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140697",
@@ -58,30 +79,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1565,
+      "rank": 2123,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15140709",
-      "playerId": "206972",
-      "status": "pre_game",
-      "player": "Malik Nabers",
-      "stat": "Receiving Yards",
-      "line": "53.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1566,
-      "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140808",
@@ -100,9 +100,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1583,
+      "rank": 2146,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140695",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Longest Completion",
-      "line": "35.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1602,
+      "rank": 2167,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140519",
@@ -142,9 +142,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1605,
+      "rank": 2176,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140752",
@@ -163,9 +163,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1630,
+      "rank": 2210,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140739",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Malik Nabers",
       "stat": "Longest Reception",
-      "line": "21.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1635,
+      "rank": 2224,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140669",
@@ -205,9 +205,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1660,
+      "rank": 2262,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140662",
@@ -226,9 +226,30 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1663,
+      "rank": 2264,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15177028",
+      "playerId": "336247",
+      "status": "pre_game",
+      "player": "Darnell Mooney",
+      "stat": "Receiving Yards",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2267,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140658",
@@ -247,9 +268,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1666,
+      "rank": 2268,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140681",
@@ -257,7 +278,7 @@
       "status": "pre_game",
       "player": "Cam Skattebo",
       "stat": "Rush Attempts",
-      "line": "15",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -268,17 +289,17 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1668,
+      "rank": 2276,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15140649",
-      "playerId": "246533",
+      "projectionId": "15177021",
+      "playerId": "336247",
       "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Receiving Yards",
-      "line": "13.5",
+      "player": "Darnell Mooney",
+      "stat": "Longest Reception",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -289,9 +310,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1673,
+      "rank": 2279,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140567",
@@ -310,17 +331,17 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1676,
+      "rank": 2304,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15140663",
+      "projectionId": "15140649",
       "playerId": "246533",
       "status": "pre_game",
       "player": "Cam Skattebo",
-      "stat": "Longest Reception",
-      "line": "9.5",
+      "stat": "Receiving Yards",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -331,9 +352,51 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1685,
+      "rank": 2310,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15140663",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2339,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15182065",
+      "playerId": "212258",
+      "status": "pre_game",
+      "player": "Theo Johnson",
+      "stat": "Receiving Yards",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2341,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140577",
@@ -341,6 +404,48 @@
       "status": "pre_game",
       "player": "Dominic Zvada",
       "stat": "Kicking Points",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2344,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15182064",
+      "playerId": "212258",
+      "status": "pre_game",
+      "player": "Theo Johnson",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2346,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15140721",
+      "playerId": "279456",
+      "status": "pre_game",
+      "player": "Jameis Winston",
+      "stat": "Rush Yards",
       "line": "6.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
@@ -352,9 +457,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1694,
+      "rank": 2352,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15140694",
@@ -362,7 +467,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Longest Rush",
-      "line": "5.5",
+      "line": "4.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -373,30 +478,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1708,
+      "rank": 2370,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15140721",
-      "playerId": "279456",
-      "status": "pre_game",
-      "player": "Jameis Winston",
-      "stat": "Rush Yards",
-      "line": "5.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1709,
-      "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15142328",
@@ -415,9 +499,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1711,
+      "rank": 2371,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15142327",
@@ -436,30 +520,9 @@
       "teamCode": "NYG",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1732,
+      "rank": 2404,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15140573",
-      "playerId": "336475",
-      "status": "pre_game",
-      "player": "Dominic Zvada",
-      "stat": "FG Made",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1741,
-      "gameId": "183611",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     }
   ]
 }

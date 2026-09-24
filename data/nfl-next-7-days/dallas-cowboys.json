@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-23T12:09:57.184Z",
-  "scrapedDate": "Wednesday, September 23, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-24T12:09:54.484Z",
+  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 703,
-    "sourceCount": 4392,
-    "acceptedCount": 703,
-    "excludedCount": 3689,
+    "count": 894,
+    "sourceCount": 6020,
+    "acceptedCount": 894,
+    "excludedCount": 5126,
     "rejectedCount": 0,
-    "publishedCount": 703,
-    "providerFetchedAt": "2026-09-23T12:08:47.621Z",
+    "publishedCount": 894,
+    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Dallas Cowboys",
-  "totalProps": 24,
+  "totalProps": 30,
   "props": [
     {
       "projectionId": "15089397",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Yards",
-      "line": "268.5",
+      "line": "266.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3623,
+      "rank": 5045,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089730",
@@ -58,9 +58,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3662,
+      "rank": 5084,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089733",
@@ -79,9 +79,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3677,
+      "rank": 5108,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089594",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Rush Yards",
-      "line": "59.5",
+      "line": "58.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3678,
+      "rank": 5117,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15104008",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Attempts",
-      "line": "37",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -121,9 +121,51 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3703,
+      "rank": 5156,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15104155",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Longest Completion",
+      "line": "36.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5157,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15132463",
+      "playerId": "216863",
+      "status": "pre_game",
+      "player": "Ryan Flournoy",
+      "stat": "Receiving Yards",
+      "line": "29.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5182,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089731",
@@ -142,16 +184,16 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3722,
+      "rank": 5186,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15109923",
-      "playerId": "211072",
+      "projectionId": "15104088",
+      "playerId": "211139",
       "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Pass Completions",
+      "player": "CeeDee Lamb",
+      "stat": "Longest Reception",
       "line": "25.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
@@ -163,17 +205,17 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3728,
+      "rank": 5194,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15104088",
-      "playerId": "211139",
+      "projectionId": "15109923",
+      "playerId": "211072",
       "status": "pre_game",
-      "player": "CeeDee Lamb",
-      "stat": "Longest Reception",
-      "line": "23.5",
+      "player": "Dak Prescott",
+      "stat": "Pass Completions",
+      "line": "25",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -184,9 +226,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3737,
+      "rank": 5197,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15104069",
@@ -194,7 +236,7 @@
       "status": "pre_game",
       "player": "George Pickens",
       "stat": "Longest Reception",
-      "line": "21.5",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -205,9 +247,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3744,
+      "rank": 5208,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089732",
@@ -215,7 +257,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Receiving Yards",
-      "line": "16.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -226,9 +268,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3766,
+      "rank": 5243,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15104077",
@@ -236,7 +278,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Rush Attempts",
-      "line": "14",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -247,9 +289,72 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3779,
+      "rank": 5253,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15132462",
+      "playerId": "216863",
+      "status": "pre_game",
+      "player": "Ryan Flournoy",
+      "stat": "Longest Reception",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5260,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15104025",
+      "playerId": "210877",
+      "status": "pre_game",
+      "player": "Jake Ferguson",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5265,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15104065",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Longest Rush",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5266,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089593",
@@ -268,30 +373,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3784,
+      "rank": 5272,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15104025",
-      "playerId": "210877",
-      "status": "pre_game",
-      "player": "Jake Ferguson",
-      "stat": "Longest Reception",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:25 PM CST",
-      "startTimeCST": "09/27/26 03:25 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3785,
-      "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15128160",
@@ -299,7 +383,7 @@
       "status": "pre_game",
       "player": "CeeDee Lamb",
       "stat": "Rec Targets",
-      "line": "10.5",
+      "line": "10",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -310,9 +394,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3790,
+      "rank": 5281,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15104100",
@@ -320,7 +404,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Longest Reception",
-      "line": "8.5",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -331,9 +415,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3799,
+      "rank": 5284,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15128161",
@@ -341,6 +425,27 @@
       "status": "pre_game",
       "player": "George Pickens",
       "stat": "Rec Targets",
+      "line": "8",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5298,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15104129",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Longest Rush",
       "line": "7.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
@@ -352,9 +457,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3808,
+      "rank": 5300,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15111233",
@@ -362,7 +467,7 @@
       "status": "pre_game",
       "player": "CeeDee Lamb",
       "stat": "Receptions",
-      "line": "7",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -373,9 +478,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3809,
+      "rank": 5310,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15121001",
@@ -394,9 +499,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3822,
+      "rank": 5327,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15128163",
@@ -415,9 +520,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3831,
+      "rank": 5338,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15128162",
@@ -436,30 +541,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3832,
+      "rank": 5340,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15104050",
-      "playerId": "211072",
-      "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Rush Attempts",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:25 PM CST",
-      "startTimeCST": "09/27/26 03:25 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3833,
-      "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15111302",
@@ -478,9 +562,51 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3838,
+      "rank": 5348,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15163328",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Receptions",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5355,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15165450",
+      "playerId": "211166",
+      "status": "pre_game",
+      "player": "Brandon Aubrey",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5381,
+      "gameId": "183615",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15104125",
@@ -499,9 +625,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3887,
+      "rank": 5408,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15118829",
@@ -520,9 +646,9 @@
       "teamCode": "DAL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3888,
+      "rank": 5410,
       "gameId": "183615",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     }
   ]
 }

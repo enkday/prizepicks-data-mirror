@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-23T12:09:57.184Z",
-  "scrapedDate": "Wednesday, September 23, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-24T12:09:54.484Z",
+  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 703,
-    "sourceCount": 4392,
-    "acceptedCount": 703,
-    "excludedCount": 3689,
+    "count": 894,
+    "sourceCount": 6020,
+    "acceptedCount": 894,
+    "excludedCount": 5126,
     "rejectedCount": 0,
-    "publishedCount": 703,
-    "providerFetchedAt": "2026-09-23T12:08:47.621Z",
+    "publishedCount": 894,
+    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New Orleans Saints",
-  "totalProps": 16,
+  "totalProps": 15,
   "props": [
     {
       "projectionId": "15089399",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Pass Yards",
-      "line": "249.5",
+      "line": "252.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3425,
+      "rank": 4776,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089735",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Chris Olave",
       "stat": "Receiving Yards",
-      "line": "75.5",
+      "line": "76.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3451,
+      "rank": 4809,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089736",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Devaughn Vele",
       "stat": "Receiving Yards",
-      "line": "43.5",
+      "line": "46.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3470,
+      "rank": 4837,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15134852",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3482,
+      "rank": 4856,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15134687",
@@ -110,6 +110,27 @@
       "status": "pre_game",
       "player": "Juwan Johnson",
       "stat": "Receiving Yards",
+      "line": "34.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:25 PM CST",
+      "startTimeCST": "09/27/26 03:25 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4860,
+      "gameId": "183616",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15134850",
+      "playerId": "246565",
+      "status": "pre_game",
+      "player": "Tyler Shough",
+      "stat": "Pass Attempts",
       "line": "33.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
@@ -121,30 +142,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3485,
+      "rank": 4861,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15134850",
-      "playerId": "246565",
-      "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "Pass Attempts",
-      "line": "32.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:25 PM CST",
-      "startTimeCST": "09/27/26 03:25 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3488,
-      "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15134634",
@@ -163,17 +163,17 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3508,
+      "rank": 4889,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15134871",
+      "projectionId": "15179567",
       "playerId": "246565",
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Pass Completions",
-      "line": "22.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3513,
+      "rank": 4898,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15134679",
@@ -205,9 +205,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3529,
+      "rank": 4916,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089597",
@@ -226,9 +226,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3532,
+      "rank": 4922,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15134673",
@@ -247,17 +247,17 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3533,
+      "rank": 4923,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15134651",
-      "playerId": "153107",
+      "projectionId": "15181899",
+      "playerId": "338784",
       "status": "pre_game",
-      "player": "Juwan Johnson",
-      "stat": "Receptions",
-      "line": "3.5",
+      "player": "Noah Fant",
+      "stat": "Receiving Yards",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -268,17 +268,17 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3559,
+      "rank": 4943,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15125527",
-      "playerId": "246565",
+      "projectionId": "15181898",
+      "playerId": "338784",
       "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "Pass TDs",
-      "line": "1.5",
+      "player": "Noah Fant",
+      "stat": "Longest Reception",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:25 PM CST",
       "startTimeCST": "09/27/26 03:25 PM CST",
@@ -289,9 +289,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3571,
+      "rank": 4945,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15128185",
@@ -310,30 +310,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3573,
+      "rank": 4991,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15148746",
-      "playerId": "246565",
-      "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "INT",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:25 PM CST",
-      "startTimeCST": "09/27/26 03:25 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3606,
-      "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089874",
@@ -352,9 +331,9 @@
       "teamCode": "NO",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3607,
+      "rank": 5030,
       "gameId": "183616",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     }
   ]
 }

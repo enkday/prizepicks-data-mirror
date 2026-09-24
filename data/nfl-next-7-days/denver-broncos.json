@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-23T12:09:57.184Z",
-  "scrapedDate": "Wednesday, September 23, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-24T12:09:54.484Z",
+  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 703,
-    "sourceCount": 4392,
-    "acceptedCount": 703,
-    "excludedCount": 3689,
+    "count": 894,
+    "sourceCount": 6020,
+    "acceptedCount": 894,
+    "excludedCount": 5126,
     "rejectedCount": 0,
-    "publishedCount": 703,
-    "providerFetchedAt": "2026-09-23T12:08:47.621Z",
+    "publishedCount": 894,
+    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Denver Broncos",
-  "totalProps": 22,
+  "totalProps": 25,
   "props": [
     {
       "projectionId": "15089400",
@@ -37,9 +37,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3913,
+      "rank": 5438,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089738",
@@ -58,9 +58,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3943,
+      "rank": 5482,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089737",
@@ -79,30 +79,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3961,
+      "rank": 5500,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15131983",
-      "playerId": "211036",
-      "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "Longest Completion",
-      "line": "34.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 07:20 PM CST",
-      "startTimeCST": "09/27/26 07:20 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 3974,
-      "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15127341",
@@ -121,9 +100,30 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3976,
+      "rank": 5524,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15131983",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Longest Completion",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 07:20 PM CST",
+      "startTimeCST": "09/27/26 07:20 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 5525,
+      "gameId": "183821",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15132312",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Pat Bryant",
       "stat": "Receiving Yards",
-      "line": "26.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "09/27/26 07:20 PM CST",
       "startTimeCST": "09/27/26 07:20 PM CST",
@@ -142,30 +142,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3998,
+      "rank": 5560,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15132323",
-      "playerId": "246530",
-      "status": "pre_game",
-      "player": "Evan Engram",
-      "stat": "Receiving Yards",
-      "line": "23.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 07:20 PM CST",
-      "startTimeCST": "09/27/26 07:20 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4008,
-      "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15124907",
@@ -173,27 +152,6 @@
       "status": "pre_game",
       "player": "Jaylen Waddle",
       "stat": "Longest Reception",
-      "line": "22.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 07:20 PM CST",
-      "startTimeCST": "09/27/26 07:20 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4010,
-      "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
-    },
-    {
-      "projectionId": "15127345",
-      "playerId": "211036",
-      "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "Pass Completions",
       "line": "21.5",
       "sport": "NFL",
       "startTime": "09/27/26 07:20 PM CST",
@@ -205,17 +163,17 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4014,
+      "rank": 5564,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15132315",
-      "playerId": "211246",
+      "projectionId": "15132323",
+      "playerId": "246530",
       "status": "pre_game",
-      "player": "Courtland Sutton",
-      "stat": "Longest Reception",
-      "line": "18.5",
+      "player": "Evan Engram",
+      "stat": "Receiving Yards",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "09/27/26 07:20 PM CST",
       "startTimeCST": "09/27/26 07:20 PM CST",
@@ -226,9 +184,51 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4030,
+      "rank": 5566,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15127345",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Pass Completions",
+      "line": "21",
+      "sport": "NFL",
+      "startTime": "09/27/26 07:20 PM CST",
+      "startTimeCST": "09/27/26 07:20 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 5568,
+      "gameId": "183821",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15132315",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 07:20 PM CST",
+      "startTimeCST": "09/27/26 07:20 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 5599,
+      "gameId": "183821",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15122114",
@@ -247,9 +247,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4035,
+      "rank": 5600,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15132318",
@@ -268,9 +268,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4040,
+      "rank": 5603,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15132314",
@@ -289,9 +289,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4044,
+      "rank": 5613,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15131964",
@@ -310,9 +310,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4062,
+      "rank": 5639,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15128165",
@@ -331,16 +331,16 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4066,
+      "rank": 5649,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15124929",
-      "playerId": "211686",
+      "projectionId": "15181909",
+      "playerId": "212263",
       "status": "pre_game",
-      "player": "Wil Lutz",
-      "stat": "Kicking Points",
+      "player": "Adam Trautman",
+      "stat": "Receiving Yards",
       "line": "6.5",
       "sport": "NFL",
       "startTime": "09/27/26 07:20 PM CST",
@@ -352,17 +352,17 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4070,
+      "rank": 5652,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
-      "projectionId": "15132313",
+      "projectionId": "15165729",
       "playerId": "211246",
       "status": "pre_game",
       "player": "Courtland Sutton",
-      "stat": "Receptions",
-      "line": "3.5",
+      "stat": "Rec Targets",
+      "line": "6",
       "sport": "NFL",
       "startTime": "09/27/26 07:20 PM CST",
       "startTimeCST": "09/27/26 07:20 PM CST",
@@ -373,9 +373,51 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4091,
+      "rank": 5655,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15181921",
+      "playerId": "212263",
+      "status": "pre_game",
+      "player": "Adam Trautman",
+      "stat": "Longest Reception",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 07:20 PM CST",
+      "startTimeCST": "09/27/26 07:20 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 5664,
+      "gameId": "183821",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15163329",
+      "playerId": "320281",
+      "status": "pre_game",
+      "player": "Jaylen Waddle",
+      "stat": "Receptions",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "09/27/26 07:20 PM CST",
+      "startTimeCST": "09/27/26 07:20 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 5665,
+      "gameId": "183821",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15132317",
@@ -394,9 +436,30 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4098,
+      "rank": 5691,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+    },
+    {
+      "projectionId": "15168750",
+      "playerId": "246566",
+      "status": "pre_game",
+      "player": "Pat Bryant",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 07:20 PM CST",
+      "startTimeCST": "09/27/26 07:20 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 5695,
+      "gameId": "183821",
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15124926",
@@ -415,9 +478,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4109,
+      "rank": 5706,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15131974",
@@ -436,9 +499,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4149,
+      "rank": 5748,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089872",
@@ -457,9 +520,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4152,
+      "rank": 5754,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     },
     {
       "projectionId": "15089875",
@@ -478,9 +541,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4153,
+      "rank": 5755,
       "gameId": "183821",
-      "providerFetchedAt": "2026-09-23T12:08:47.621Z"
+      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
     }
   ]
 }
