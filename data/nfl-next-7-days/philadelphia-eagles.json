@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-24T12:09:54.484Z",
-  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-25T12:09:57.122Z",
+  "scrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 894,
-    "sourceCount": 6020,
-    "acceptedCount": 894,
-    "excludedCount": 5126,
+    "count": 1038,
+    "sourceCount": 6760,
+    "acceptedCount": 1038,
+    "excludedCount": 5722,
     "rejectedCount": 0,
-    "publishedCount": 894,
-    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
+    "publishedCount": 1038,
+    "providerFetchedAt": "2026-09-25T12:08:45.520Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 27,
+  "totalProps": 32,
   "props": [
     {
       "projectionId": "15128221",
@@ -37,9 +37,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5756,
+      "rank": 6472,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089401",
@@ -58,30 +58,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5766,
+      "rank": 6482,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15127143",
-      "playerId": "206302",
-      "status": "pre_game",
-      "player": "Saquon Barkley",
-      "stat": "Rush Yards",
-      "line": "73.5",
-      "sport": "NFL",
-      "startTime": "09/28/26 07:15 PM CST",
-      "startTimeCST": "09/28/26 07:15 PM CST",
-      "startDateCST": "2026-09-28",
-      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 5794,
-      "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089739",
@@ -100,9 +79,51 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5795,
+      "rank": 6513,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15127143",
+      "playerId": "206302",
+      "status": "pre_game",
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards",
+      "line": "72.5",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6515,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15107915",
+      "playerId": "206300",
+      "status": "pre_game",
+      "player": "Jalen Hurts",
+      "stat": "Completion Percentage",
+      "line": "63.6",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6521,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105303",
@@ -121,9 +142,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5822,
+      "rank": 6546,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105279",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Jalen Hurts",
       "stat": "Longest Completion",
-      "line": "39.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "09/28/26 07:15 PM CST",
       "startTimeCST": "09/28/26 07:15 PM CST",
@@ -142,30 +163,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5829,
+      "rank": 6563,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15105398",
-      "playerId": "320257",
-      "status": "pre_game",
-      "player": "Makai Lemon",
-      "stat": "Receiving Yards",
-      "line": "30.5",
-      "sport": "NFL",
-      "startTime": "09/28/26 07:15 PM CST",
-      "startTimeCST": "09/28/26 07:15 PM CST",
-      "startDateCST": "2026-09-28",
-      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 5844,
-      "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105288",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Jalen Hurts",
       "stat": "Pass Attempts",
-      "line": "28.5",
+      "line": "28",
       "sport": "NFL",
       "startTime": "09/28/26 07:15 PM CST",
       "startTimeCST": "09/28/26 07:15 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5864,
+      "rank": 6586,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089599",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Jalen Hurts",
       "stat": "Rush Yards",
-      "line": "25.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "09/28/26 07:15 PM CST",
       "startTimeCST": "09/28/26 07:15 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5868,
+      "rank": 6591,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105321",
@@ -215,7 +215,7 @@
       "status": "pre_game",
       "player": "DeVonta Smith",
       "stat": "Longest Reception",
-      "line": "25.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "09/28/26 07:15 PM CST",
       "startTimeCST": "09/28/26 07:15 PM CST",
@@ -226,9 +226,30 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5870,
+      "rank": 6593,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15105398",
+      "playerId": "320257",
+      "status": "pre_game",
+      "player": "Makai Lemon",
+      "stat": "Receiving Yards",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6599,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105291",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Dontayvion Wicks",
       "stat": "Longest Reception",
-      "line": "19.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "09/28/26 07:15 PM CST",
       "startTimeCST": "09/28/26 07:15 PM CST",
@@ -247,30 +268,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5886,
+      "rank": 6600,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15105394",
-      "playerId": "320257",
-      "status": "pre_game",
-      "player": "Makai Lemon",
-      "stat": "Longest Reception",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "09/28/26 07:15 PM CST",
-      "startTimeCST": "09/28/26 07:15 PM CST",
-      "startDateCST": "2026-09-28",
-      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 5902,
-      "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105396",
@@ -289,9 +289,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5903,
+      "rank": 6627,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15130120",
@@ -310,9 +310,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5904,
+      "rank": 6629,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15166936",
@@ -331,16 +331,16 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5923,
+      "rank": 6645,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15127149",
-      "playerId": "206302",
+      "projectionId": "15105394",
+      "playerId": "320257",
       "status": "pre_game",
-      "player": "Saquon Barkley",
-      "stat": "Receiving Yards",
+      "player": "Makai Lemon",
+      "stat": "Longest Reception",
       "line": "13.5",
       "sport": "NFL",
       "startTime": "09/28/26 07:15 PM CST",
@@ -352,9 +352,51 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5925,
+      "rank": 6650,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15127149",
+      "playerId": "206302",
+      "status": "pre_game",
+      "player": "Saquon Barkley",
+      "stat": "Receiving Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6654,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15178377",
+      "playerId": "336583",
+      "status": "pre_game",
+      "player": "Johnny Mundt",
+      "stat": "Receiving Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6655,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105287",
@@ -373,17 +415,17 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5929,
+      "rank": 6657,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15178377",
+      "projectionId": "15178384",
       "playerId": "336583",
       "status": "pre_game",
       "player": "Johnny Mundt",
-      "stat": "Receiving Yards",
-      "line": "11.5",
+      "stat": "Longest Reception",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "09/28/26 07:15 PM CST",
       "startTimeCST": "09/28/26 07:15 PM CST",
@@ -394,9 +436,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5930,
+      "rank": 6665,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15166937",
@@ -415,30 +457,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5939,
+      "rank": 6673,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15178384",
-      "playerId": "336583",
-      "status": "pre_game",
-      "player": "Johnny Mundt",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "09/28/26 07:15 PM CST",
-      "startTimeCST": "09/28/26 07:15 PM CST",
-      "startDateCST": "2026-09-28",
-      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 5940,
-      "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15128166",
@@ -457,9 +478,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5941,
+      "rank": 6675,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105286",
@@ -478,9 +499,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5946,
+      "rank": 6680,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105283",
@@ -499,9 +520,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5953,
+      "rank": 6687,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15128167",
@@ -520,9 +541,51 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5961,
+      "rank": 6694,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15130123",
+      "playerId": "206302",
+      "status": "pre_game",
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.3",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6700,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15196930",
+      "playerId": "220163",
+      "status": "pre_game",
+      "player": "Braden Mann",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6701,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15163330",
@@ -541,9 +604,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5974,
+      "rank": 6712,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15105392",
@@ -562,9 +625,9 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5978,
+      "rank": 6716,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154209",
@@ -583,9 +646,51 @@
       "teamCode": "PHI",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5980,
+      "rank": 6719,
       "gameId": "184005",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15190952",
+      "playerId": "336583",
+      "status": "pre_game",
+      "player": "Johnny Mundt",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6736,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15196931",
+      "playerId": "220163",
+      "status": "pre_game",
+      "player": "Braden Mann",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/28/26 07:15 PM CST",
+      "startTimeCST": "09/28/26 07:15 PM CST",
+      "startDateCST": "2026-09-28",
+      "startTimeIso": "2026-09-28T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 6737,
+      "gameId": "184005",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     }
   ]
 }

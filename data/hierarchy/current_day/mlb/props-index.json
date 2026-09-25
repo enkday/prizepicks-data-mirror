@@ -1,185 +1,237 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "e566bcdb6be913eb7547af918067a28fd47d2d9341d48fcd0208e14b0389b6c4",
-  "sourceScrapedAt": "2026-09-24T12:09:54.484Z",
-  "sourceScrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
-  "observedDate": "2026-09-24",
+  "sourcePayloadHash": "9d472ec48a6e66ac605fce1acc228d947d328dd6614605233faf6cc59c8f58f1",
+  "sourceScrapedAt": "2026-09-25T12:09:57.122Z",
+  "sourceScrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-09-25",
   "completeness": "reported",
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "current_day",
-  "gameCount": 12,
-  "propCount": 194,
+  "gameCount": 16,
+  "propCount": 264,
   "games": [
     {
-      "gameId": "182513",
+      "gameId": "183626",
       "slate": "Early",
-      "startTime": "09/24/26 11:35 AM CDT",
-      "startTimeIso": "2026-09-24T11:35:00-05:00",
+      "startTime": "09/25/26 12:05 PM CDT",
+      "startTimeIso": "2026-09-25T12:05:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Pittsburgh Pirates",
-        "St. Louis Cardinals"
+        "Boston Red Sox",
+        "Chicago Cubs"
       ],
-      "propCount": 16,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182513.json"
+      "propCount": 8,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/183626.json"
     },
     {
-      "gameId": "182514",
-      "slate": "Early",
-      "startTime": "09/24/26 01:10 PM CDT",
-      "startTimeIso": "2026-09-24T13:10:00-05:00",
+      "gameId": "182969",
+      "slate": "Late",
+      "startTime": "09/25/26 03:05 PM CDT",
+      "startTimeIso": "2026-09-25T15:05:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Chicago White Sox",
-        "Kansas City Royals"
+        "Baltimore Orioles",
+        "New York Yankees"
       ],
       "propCount": 17,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182514.json"
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182969.json"
     },
     {
-      "gameId": "182515",
-      "slate": "Early",
-      "startTime": "09/24/26 01:20 PM CDT",
-      "startTimeIso": "2026-09-24T13:20:00-05:00",
+      "gameId": "182722",
+      "slate": "Late",
+      "startTime": "09/25/26 05:40 PM CDT",
+      "startTimeIso": "2026-09-25T17:40:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Chicago Cubs",
-        "Miami Marlins"
+        "Philadelphia Phillies",
+        "Tampa Bay Rays"
       ],
-      "propCount": 16,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182515.json"
+      "propCount": 19,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182722.json"
     },
     {
-      "gameId": "182516",
-      "slate": "Early",
-      "startTime": "09/24/26 01:35 PM CDT",
-      "startTimeIso": "2026-09-24T13:35:00-05:00",
+      "gameId": "182723",
+      "slate": "Late",
+      "startTime": "09/25/26 05:40 PM CDT",
+      "startTimeIso": "2026-09-25T17:40:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Detroit Tigers",
+        "Pittsburgh Pirates"
+      ],
+      "propCount": 13,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182723.json"
+    },
+    {
+      "gameId": "182724",
+      "slate": "Late",
+      "startTime": "09/25/26 05:45 PM CDT",
+      "startTimeIso": "2026-09-25T17:45:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "NL National League",
         "New York Mets",
-        "Texas Rangers"
-      ],
-      "propCount": 22,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182516.json"
-    },
-    {
-      "gameId": "182517",
-      "slate": "Early",
-      "startTime": "09/24/26 02:10 PM CDT",
-      "startTimeIso": "2026-09-24T14:10:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Arizona Diamondbacks",
-        "Colorado Rockies"
-      ],
-      "propCount": 22,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182517.json"
-    },
-    {
-      "gameId": "182518",
-      "slate": "Late",
-      "startTime": "09/24/26 05:05 PM CDT",
-      "startTimeIso": "2026-09-24T17:05:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Milwaukee Brewers",
-        "Philadelphia Phillies"
+        "Washington Nationals"
       ],
       "propCount": 13,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182518.json"
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182724.json"
     },
     {
-      "gameId": "182519",
+      "gameId": "182725",
       "slate": "Late",
-      "startTime": "09/24/26 05:45 PM CDT",
-      "startTimeIso": "2026-09-24T17:45:00-05:00",
+      "startTime": "09/25/26 06:05 PM CDT",
+      "startTimeIso": "2026-09-25T18:05:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Boston Red Sox",
-        "Cleveland Guardians"
+        "Baltimore Orioles",
+        "New York Yankees"
       ],
-      "propCount": 13,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182519.json"
+      "propCount": 14,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182725.json"
     },
     {
-      "gameId": "182520",
+      "gameId": "182726",
       "slate": "Late",
-      "startTime": "09/24/26 06:05 PM CDT",
-      "startTimeIso": "2026-09-24T18:05:00-05:00",
+      "startTime": "09/25/26 06:07 PM CDT",
+      "startTimeIso": "2026-09-25T18:07:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "New York Yankees",
-        "Tampa Bay Rays"
+        "Cincinnati Reds",
+        "NL National League",
+        "Toronto Blue Jays"
       ],
-      "propCount": 18,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182520.json"
+      "propCount": 17,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182726.json"
     },
     {
-      "gameId": "182521",
+      "gameId": "182728",
       "slate": "Late",
-      "startTime": "09/24/26 06:15 PM CDT",
-      "startTimeIso": "2026-09-24T18:15:00-05:00",
+      "startTime": "09/25/26 06:10 PM CDT",
+      "startTimeIso": "2026-09-25T18:10:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Atlanta Braves",
-        "Cincinnati Reds",
-        "NL National League"
+        "Miami Marlins"
       ],
-      "propCount": 16,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182521.json"
+      "propCount": 17,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182728.json"
     },
     {
-      "gameId": "182719",
+      "gameId": "182729",
       "slate": "Late",
-      "startTime": "09/24/26 08:40 PM CDT",
-      "startTimeIso": "2026-09-24T20:40:00-05:00",
+      "startTime": "09/25/26 06:40 PM CDT",
+      "startTimeIso": "2026-09-25T18:40:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Chicago White Sox",
+        "Colorado Rockies"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182729.json"
+    },
+    {
+      "gameId": "182730",
+      "slate": "Late",
+      "startTime": "09/25/26 06:40 PM CDT",
+      "startTimeIso": "2026-09-25T18:40:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Cleveland Guardians",
+        "Kansas City Royals"
+      ],
+      "propCount": 17,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182730.json"
+    },
+    {
+      "gameId": "182731",
+      "slate": "Late",
+      "startTime": "09/25/26 06:40 PM CDT",
+      "startTimeIso": "2026-09-25T18:40:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Milwaukee Brewers",
+        "St. Louis Cardinals"
+      ],
+      "propCount": 19,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182731.json"
+    },
+    {
+      "gameId": "182955",
+      "slate": "Late",
+      "startTime": "09/25/26 07:10 PM CDT",
+      "startTimeIso": "2026-09-25T19:10:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Minnesota Twins",
+        "Texas Rangers"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182955.json"
+    },
+    {
+      "gameId": "182956",
+      "slate": "Late",
+      "startTime": "09/25/26 08:40 PM CDT",
+      "startTimeIso": "2026-09-25T20:40:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Athletics",
         "Houston Astros",
         "Oakland Athletics"
       ],
-      "propCount": 21,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182719.json"
+      "propCount": 20,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182956.json"
     },
     {
-      "gameId": "182720",
+      "gameId": "182957",
       "slate": "Late",
-      "startTime": "09/24/26 08:40 PM CDT",
-      "startTimeIso": "2026-09-24T20:40:00-05:00",
+      "startTime": "09/25/26 08:40 PM CDT",
+      "startTimeIso": "2026-09-25T20:40:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Arizona Diamondbacks",
+        "San Diego Padres"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182957.json"
+    },
+    {
+      "gameId": "182958",
+      "slate": "Late",
+      "startTime": "09/25/26 09:10 PM CDT",
+      "startTimeIso": "2026-09-25T21:10:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Los Angeles Angels",
         "Seattle Mariners"
       ],
-      "propCount": 11,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182720.json"
+      "propCount": 15,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182958.json"
     },
     {
-      "gameId": "182721",
+      "gameId": "182959",
       "slate": "Late",
-      "startTime": "09/24/26 09:10 PM CDT",
-      "startTimeIso": "2026-09-24T21:10:00-05:00",
+      "startTime": "09/25/26 09:15 PM CDT",
+      "startTimeIso": "2026-09-25T21:15:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Los Angeles Dodgers",
-        "San Diego Padres"
+        "San Francisco Giants"
       ],
-      "propCount": 9,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/182721.json"
+      "propCount": 21,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/182959.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 93,
+      "propCount": 8,
       "path": "/data/hierarchy/current_day/mlb/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 101,
+      "propCount": 256,
       "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
     }
   ]

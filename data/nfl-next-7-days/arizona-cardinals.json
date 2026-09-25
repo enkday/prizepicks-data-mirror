@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-24T12:09:54.484Z",
-  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-25T12:09:57.122Z",
+  "scrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 894,
-    "sourceCount": 6020,
-    "acceptedCount": 894,
-    "excludedCount": 5126,
+    "count": 1038,
+    "sourceCount": 6760,
+    "acceptedCount": 1038,
+    "excludedCount": 5722,
     "rejectedCount": 0,
-    "publishedCount": 894,
-    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
+    "publishedCount": 1038,
+    "providerFetchedAt": "2026-09-25T12:08:45.520Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Arizona Cardinals",
-  "totalProps": 33,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "15089393",
@@ -37,9 +37,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4438,
+      "rank": 4779,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089718",
@@ -58,9 +58,30 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4469,
+      "rank": 4825,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15124858",
+      "playerId": "269085",
+      "status": "pre_game",
+      "player": "Jacoby Brissett",
+      "stat": "Completion Percentage",
+      "line": "66.2",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4826,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089720",
@@ -79,9 +100,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4504,
+      "rank": 4868,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089585",
@@ -100,9 +121,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4525,
+      "rank": 4892,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124845",
@@ -110,6 +131,27 @@
       "status": "pre_game",
       "player": "Jacoby Brissett",
       "stat": "Longest Completion",
+      "line": "34.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4897,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15153460",
+      "playerId": "336277",
+      "status": "pre_game",
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
       "line": "33.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -121,9 +163,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4535,
+      "rank": 4905,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124826",
@@ -142,30 +184,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4537,
+      "rank": 4906,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15153460",
-      "playerId": "336277",
-      "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Rush Yards",
-      "line": "32.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4538,
-      "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089719",
@@ -184,30 +205,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4542,
+      "rank": 4912,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15125185",
-      "playerId": "336551",
-      "status": "pre_game",
-      "player": "Kendrick Bourne",
-      "stat": "Receiving Yards",
-      "line": "26.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4567,
-      "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124853",
@@ -226,15 +226,36 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4574,
+      "rank": 4955,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125204",
       "playerId": "211118",
       "status": "pre_game",
       "player": "Trey McBride",
+      "stat": "Longest Reception",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4956,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15124989",
+      "playerId": "210815",
+      "status": "pre_game",
+      "player": "Michael Wilson",
       "stat": "Longest Reception",
       "line": "19.5",
       "sport": "NFL",
@@ -247,17 +268,17 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4587,
+      "rank": 4966,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15124829",
-      "playerId": "320302",
+      "projectionId": "15125185",
+      "playerId": "336551",
       "status": "pre_game",
-      "player": "Jeremiyah Love",
+      "player": "Kendrick Bourne",
       "stat": "Receiving Yards",
-      "line": "18.5",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -268,30 +289,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4605,
+      "rank": 4971,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15124989",
-      "playerId": "210815",
-      "status": "pre_game",
-      "player": "Michael Wilson",
-      "stat": "Longest Reception",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4606,
-      "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125177",
@@ -299,7 +299,7 @@
       "status": "pre_game",
       "player": "Marvin Harrison Jr.",
       "stat": "Longest Reception",
-      "line": "15.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -310,16 +310,16 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4614,
+      "rank": 4992,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15125169",
-      "playerId": "336551",
+      "projectionId": "15124829",
+      "playerId": "320302",
       "status": "pre_game",
-      "player": "Kendrick Bourne",
-      "stat": "Longest Reception",
+      "player": "Jeremiyah Love",
+      "stat": "Receiving Yards",
       "line": "14.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -331,16 +331,16 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4619,
+      "rank": 5002,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15124830",
-      "playerId": "320302",
+      "projectionId": "15125169",
+      "playerId": "336551",
       "status": "pre_game",
-      "player": "Jeremiyah Love",
-      "stat": "Longest Rush",
+      "player": "Kendrick Bourne",
+      "stat": "Longest Reception",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -352,16 +352,16 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4626,
+      "rank": 5027,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15089586",
-      "playerId": "269085",
+      "projectionId": "15124830",
+      "playerId": "320302",
       "status": "pre_game",
-      "player": "Jacoby Brissett",
-      "stat": "Rush Yards",
+      "player": "Jeremiyah Love",
+      "stat": "Longest Rush",
       "line": "11.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -373,9 +373,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4630,
+      "rank": 5031,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124824",
@@ -394,9 +394,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4635,
+      "rank": 5036,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124834",
@@ -415,9 +415,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4637,
+      "rank": 5038,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15164479",
@@ -436,9 +436,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4638,
+      "rank": 5041,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154181",
@@ -457,37 +457,16 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4648,
+      "rank": 5049,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15164478",
-      "playerId": "336277",
+      "projectionId": "15089586",
+      "playerId": "269085",
       "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Receiving Yards",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 4649,
-      "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15164793",
-      "playerId": "336277",
-      "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Rush Attempts",
+      "player": "Jacoby Brissett",
+      "stat": "Rush Yards",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -499,16 +478,37 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4655,
+      "rank": 5062,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15164863",
+      "projectionId": "15164793",
       "playerId": "336277",
       "status": "pre_game",
       "player": "Tyler Allgeier",
-      "stat": "Longest Reception",
+      "stat": "Rush Attempts",
+      "line": "8",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5070,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15164478",
+      "playerId": "336277",
+      "status": "pre_game",
+      "player": "Tyler Allgeier",
+      "stat": "Receiving Yards",
       "line": "7.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -520,9 +520,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4663,
+      "rank": 5074,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15163326",
@@ -541,16 +541,16 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4666,
+      "rank": 5078,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15154183",
-      "playerId": "210815",
+      "projectionId": "15164863",
+      "playerId": "336277",
       "status": "pre_game",
-      "player": "Michael Wilson",
-      "stat": "Rec Targets",
+      "player": "Tyler Allgeier",
+      "stat": "Longest Reception",
       "line": "6.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -562,9 +562,30 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4671,
+      "rank": 5082,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15154183",
+      "playerId": "210815",
+      "status": "pre_game",
+      "player": "Michael Wilson",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5083,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124831",
@@ -583,9 +604,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4673,
+      "rank": 5084,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125232",
@@ -604,9 +625,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4679,
+      "rank": 5090,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154182",
@@ -625,9 +646,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4688,
+      "rank": 5112,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15163325",
@@ -646,15 +667,57 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4689,
+      "rank": 5113,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15164834",
-      "playerId": "336551",
+      "projectionId": "15196904",
+      "playerId": "260610",
       "status": "pre_game",
-      "player": "Kendrick Bourne",
+      "player": "Blake Gillikin",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5115,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15167334",
+      "playerId": "320302",
+      "status": "pre_game",
+      "player": "Jeremiyah Love",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.6",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5116,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15124839",
+      "playerId": "320302",
+      "status": "pre_game",
+      "player": "Jeremiyah Love",
       "stat": "Receptions",
       "line": "2.5",
       "sport": "NFL",
@@ -667,9 +730,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4711,
+      "rank": 5133,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15164475",
@@ -688,9 +751,30 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4727,
+      "rank": 5161,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15196921",
+      "playerId": "260610",
+      "status": "pre_game",
+      "player": "Blake Gillikin",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5166,
+      "gameId": "183614",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15155264",
@@ -709,9 +793,9 @@
       "teamCode": "ARI",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4732,
+      "rank": 5167,
       "gameId": "183614",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     }
   ]
 }

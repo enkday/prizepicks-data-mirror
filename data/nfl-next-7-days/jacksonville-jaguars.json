@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-24T12:09:54.484Z",
-  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-25T12:09:57.122Z",
+  "scrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 894,
-    "sourceCount": 6020,
-    "acceptedCount": 894,
-    "excludedCount": 5126,
+    "count": 1038,
+    "sourceCount": 6760,
+    "acceptedCount": 1038,
+    "excludedCount": 5722,
     "rejectedCount": 0,
-    "publishedCount": 894,
-    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
+    "publishedCount": 1038,
+    "providerFetchedAt": "2026-09-25T12:08:45.520Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 34,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "15089392",
@@ -37,9 +37,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3607,
+      "rank": 3714,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089715",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Parker Washington",
       "stat": "Receiving Yards",
-      "line": "62.5",
+      "line": "63.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3655,
+      "rank": 3762,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15125064",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Completion Percentage",
+      "line": "60",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 3765,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089583",
@@ -79,9 +100,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3669,
+      "rank": 3779,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089716",
@@ -100,9 +121,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3728,
+      "rank": 3835,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125014",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Longest Completion",
-      "line": "37.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3729,
+      "rank": 3836,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124947",
@@ -142,9 +163,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3737,
+      "rank": 3845,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125081",
@@ -163,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3738,
+      "rank": 3846,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089717",
@@ -184,9 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3773,
+      "rank": 3881,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124953",
@@ -205,9 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3785,
+      "rank": 3900,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124948",
@@ -226,9 +247,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3789,
+      "rank": 3904,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124993",
@@ -247,9 +268,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3793,
+      "rank": 3908,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125021",
@@ -257,7 +278,7 @@
       "status": "pre_game",
       "player": "Brian Thomas Jr.",
       "stat": "Longest Reception",
-      "line": "19.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -268,9 +289,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3798,
+      "rank": 3946,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125044",
@@ -289,9 +310,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3824,
+      "rank": 3950,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089584",
@@ -310,30 +331,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3832,
+      "rank": 3956,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15124955",
-      "playerId": "213935",
-      "status": "pre_game",
-      "player": "Brenton Strange",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 3839,
-      "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124938",
@@ -352,9 +352,30 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3848,
+      "rank": 3988,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15124955",
+      "playerId": "213935",
+      "status": "pre_game",
+      "player": "Brenton Strange",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 3989,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125067",
@@ -373,9 +394,30 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3857,
+      "rank": 3995,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15124936",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4017,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125030",
@@ -394,30 +436,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3883,
+      "rank": 4021,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15127864",
-      "playerId": "210950",
-      "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Longest Rush",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 3886,
-      "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124934",
@@ -436,9 +457,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3896,
+      "rank": 4047,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124965",
@@ -457,9 +478,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3904,
+      "rank": 4054,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15136250",
@@ -478,9 +499,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3913,
+      "rank": 4065,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154192",
@@ -499,9 +520,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3914,
+      "rank": 4066,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125034",
@@ -520,9 +541,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3934,
+      "rank": 4082,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154193",
@@ -541,9 +562,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3950,
+      "rank": 4099,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154194",
@@ -562,9 +583,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3951,
+      "rank": 4100,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15163317",
@@ -583,9 +604,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3953,
+      "rank": 4102,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154196",
@@ -604,9 +625,51 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3966,
+      "rank": 4118,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15196897",
+      "playerId": "213279",
+      "status": "pre_game",
+      "player": "Logan Cooke",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4120,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15125092",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.9",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4122,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15163315",
@@ -625,9 +688,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3983,
+      "rank": 4152,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15163316",
@@ -646,9 +709,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3984,
+      "rank": 4153,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154195",
@@ -667,9 +730,51 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4002,
+      "rank": 4172,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15197429",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Sacks Taken",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4173,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15125024",
+      "playerId": "211198",
+      "status": "pre_game",
+      "player": "Cam Little",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4181,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15125069",
@@ -688,9 +793,9 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4011,
+      "rank": 4183,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15129848",
@@ -709,9 +814,72 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4017,
+      "rank": 4189,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15190727",
+      "playerId": "338095",
+      "status": "pre_game",
+      "player": "Nate Boerkircher",
+      "stat": "Receiving Yards",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4196,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15190731",
+      "playerId": "338095",
+      "status": "pre_game",
+      "player": "Nate Boerkircher",
+      "stat": "Longest Reception",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4197,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15196918",
+      "playerId": "213279",
+      "status": "pre_game",
+      "player": "Logan Cooke",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4200,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15124932",
@@ -730,9 +898,51 @@
       "teamCode": "JAC",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4050,
+      "rank": 4232,
       "gameId": "183610",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15190733",
+      "playerId": "249893",
+      "status": "pre_game",
+      "player": "LeQuint Allen Jr.",
+      "stat": "Receptions",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4248,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15190765",
+      "playerId": "338095",
+      "status": "pre_game",
+      "player": "Nate Boerkircher",
+      "stat": "Receptions",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4251,
+      "gameId": "183610",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     }
   ]
 }

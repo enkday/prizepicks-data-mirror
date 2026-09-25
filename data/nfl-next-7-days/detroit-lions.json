@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-24T12:09:54.484Z",
-  "scrapedDate": "Thursday, September 24, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-25T12:09:57.122Z",
+  "scrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 894,
-    "sourceCount": 6020,
-    "acceptedCount": 894,
-    "excludedCount": 5126,
+    "count": 1038,
+    "sourceCount": 6760,
+    "acceptedCount": 1038,
+    "excludedCount": 5722,
     "rejectedCount": 0,
-    "publishedCount": 894,
-    "providerFetchedAt": "2026-09-24T12:08:38.936Z",
+    "publishedCount": 1038,
+    "providerFetchedAt": "2026-09-25T12:08:45.520Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Detroit Lions",
-  "totalProps": 37,
+  "totalProps": 38,
   "props": [
     {
       "projectionId": "15020912",
@@ -37,9 +37,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2478,
+      "rank": 2254,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15020926",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jahmyr Gibbs",
       "stat": "Rush Yards",
-      "line": "86.5",
+      "line": "87.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2523,
+      "rank": 2301,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15020918",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Amon-Ra St. Brown",
       "stat": "Receiving Yards",
-      "line": "75.5",
+      "line": "77.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2528,
+      "rank": 2312,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15095061",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Completion Percentage",
+      "line": "69.2",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2324,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15020919",
@@ -100,9 +121,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2554,
+      "rank": 2339,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15020920",
@@ -121,9 +142,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2569,
+      "rank": 2353,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15020921",
@@ -142,9 +163,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2593,
+      "rank": 2378,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094912",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Longest Completion",
-      "line": "34.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2596,
+      "rank": 2379,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094785",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Pass Attempts",
-      "line": "33.5",
+      "line": "33",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2599,
+      "rank": 2387,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094975",
@@ -205,9 +226,30 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2641,
+      "rank": 2437,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15094848",
+      "playerId": "210887",
+      "status": "pre_game",
+      "player": "Jameson Williams",
+      "stat": "Longest Reception",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2440,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094890",
@@ -226,30 +268,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2645,
+      "rank": 2441,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15094848",
-      "playerId": "210887",
-      "status": "pre_game",
-      "player": "Jameson Williams",
-      "stat": "Longest Reception",
-      "line": "21.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2647,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094885",
@@ -257,7 +278,7 @@
       "status": "pre_game",
       "player": "Jahmyr Gibbs",
       "stat": "Rush Attempts",
-      "line": "18",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -268,16 +289,16 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2686,
+      "rank": 2482,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15095009",
-      "playerId": "246575",
+      "projectionId": "15094754",
+      "playerId": "206307",
       "status": "pre_game",
-      "player": "Isaac TeSlaa",
-      "stat": "Receiving Yards",
+      "player": "Jahmyr Gibbs",
+      "stat": "Longest Rush",
       "line": "17.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
@@ -289,30 +310,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2689,
+      "rank": 2488,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15094754",
-      "playerId": "206307",
-      "status": "pre_game",
-      "player": "Jahmyr Gibbs",
-      "stat": "Longest Rush",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2693,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094884",
@@ -331,9 +331,30 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2694,
+      "rank": 2492,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15095009",
+      "playerId": "246575",
+      "status": "pre_game",
+      "player": "Isaac TeSlaa",
+      "stat": "Receiving Yards",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2496,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094927",
@@ -352,30 +373,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2701,
+      "rank": 2501,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15181984",
-      "playerId": "216875",
-      "status": "pre_game",
-      "player": "Sione Vaki",
-      "stat": "Rush Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2704,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094864",
@@ -383,7 +383,7 @@
       "status": "pre_game",
       "player": "Isaac TeSlaa",
       "stat": "Longest Reception",
-      "line": "13.5",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -394,9 +394,30 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2708,
+      "rank": 2529,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15181984",
+      "playerId": "216875",
+      "status": "pre_game",
+      "player": "Sione Vaki",
+      "stat": "Rush Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2532,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154186",
@@ -415,9 +436,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2730,
+      "rank": 2553,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15128170",
@@ -436,30 +457,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2741,
+      "rank": 2577,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15181980",
-      "playerId": "216875",
-      "status": "pre_game",
-      "player": "Sione Vaki",
-      "stat": "Longest Rush",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2747,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094769",
@@ -478,30 +478,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2749,
+      "rank": 2581,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15154187",
-      "playerId": "210887",
-      "status": "pre_game",
-      "player": "Jameson Williams",
-      "stat": "Rec Targets",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2754,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154188",
@@ -520,9 +499,30 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2755,
+      "rank": 2588,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15154187",
+      "playerId": "210887",
+      "status": "pre_game",
+      "player": "Jameson Williams",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2592,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15154189",
@@ -541,9 +541,30 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2767,
+      "rank": 2602,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15095032",
+      "playerId": "206307",
+      "status": "pre_game",
+      "player": "Jahmyr Gibbs",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.7",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2605,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15140511",
@@ -562,30 +583,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2770,
+      "rank": 2607,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15140512",
-      "playerId": "206307",
-      "status": "pre_game",
-      "player": "Jahmyr Gibbs",
-      "stat": "Receptions",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2771,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15094897",
@@ -604,9 +604,51 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2776,
+      "rank": 2620,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15211634",
+      "playerId": "216875",
+      "status": "pre_game",
+      "player": "Sione Vaki",
+      "stat": "Rush Attempts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2638,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15196895",
+      "playerId": "214541",
+      "status": "pre_game",
+      "player": "Jack Fox",
+      "stat": "Punts",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2641,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15181982",
@@ -614,7 +656,7 @@
       "status": "pre_game",
       "player": "Sione Vaki",
       "stat": "Longest Reception",
-      "line": "3.5",
+      "line": "2.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -625,30 +667,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2790,
+      "rank": 2659,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15181983",
-      "playerId": "216875",
-      "status": "pre_game",
-      "player": "Sione Vaki",
-      "stat": "Receiving Yards",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2791,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15155263",
@@ -667,17 +688,17 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2812,
+      "rank": 2662,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
-      "projectionId": "15094859",
-      "playerId": "246575",
+      "projectionId": "15197438",
+      "playerId": "206305",
       "status": "pre_game",
-      "player": "Isaac TeSlaa",
-      "stat": "Receptions",
-      "line": "1.5",
+      "player": "Jared Goff",
+      "stat": "Sacks Taken",
+      "line": "2",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -688,9 +709,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2820,
+      "rank": 2663,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15120868",
@@ -709,9 +730,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2823,
+      "rank": 2673,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15128173",
@@ -730,9 +751,30 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2826,
+      "rank": 2676,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+    },
+    {
+      "projectionId": "15181983",
+      "playerId": "216875",
+      "status": "pre_game",
+      "player": "Sione Vaki",
+      "stat": "Receiving Yards",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2680,
+      "gameId": "183606",
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15089134",
@@ -751,9 +793,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2835,
+      "rank": 2692,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     },
     {
       "projectionId": "15176455",
@@ -772,30 +814,9 @@
       "teamCode": "DET",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2861,
+      "rank": 2717,
       "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
-    },
-    {
-      "projectionId": "15180900",
-      "playerId": "206305",
-      "status": "pre_game",
-      "player": "Jared Goff",
-      "stat": "Rush Yards",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2864,
-      "gameId": "183606",
-      "providerFetchedAt": "2026-09-24T12:08:38.936Z"
+      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
     }
   ]
 }
