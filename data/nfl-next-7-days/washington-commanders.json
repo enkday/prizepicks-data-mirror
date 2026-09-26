@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-25T12:09:57.122Z",
-  "scrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-26T12:08:49.096Z",
+  "scrapedDate": "Saturday, September 26, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1038,
-    "sourceCount": 6760,
-    "acceptedCount": 1038,
-    "excludedCount": 5722,
+    "count": 1244,
+    "sourceCount": 8109,
+    "acceptedCount": 1244,
+    "excludedCount": 6865,
     "rejectedCount": 0,
-    "publishedCount": 1038,
-    "providerFetchedAt": "2026-09-25T12:08:45.520Z",
+    "publishedCount": 1244,
+    "providerFetchedAt": "2026-09-26T12:07:32.597Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 31,
+  "totalProps": 33,
   "props": [
     {
       "projectionId": "15089389",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Marcus Mariota",
       "stat": "Pass Yards",
-      "line": "172.5",
+      "line": "170.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 532,
+      "rank": 590,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15134908",
+      "playerId": "216996",
+      "status": "pre_game",
+      "player": "Marcus Mariota",
+      "stat": "Completion Percentage",
+      "line": "57.9",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 629,
+      "gameId": "183605",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15089709",
@@ -58,9 +79,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 571,
+      "rank": 646,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15089579",
@@ -79,9 +100,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 573,
+      "rank": 649,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15089710",
@@ -100,9 +121,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 593,
+      "rank": 674,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122152",
@@ -121,9 +142,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 600,
+      "rank": 682,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15134904",
@@ -142,9 +163,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 608,
+      "rank": 690,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122082",
@@ -163,30 +184,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 640,
+      "rank": 732,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15135008",
-      "playerId": "336581",
-      "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Rush Yards",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 653,
-      "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122375",
@@ -205,9 +205,51 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 667,
+      "rank": 771,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15135008",
+      "playerId": "336581",
+      "status": "pre_game",
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 773,
+      "gameId": "183605",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15135087",
+      "playerId": "252771",
+      "status": "pre_game",
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 775,
+      "gameId": "183605",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15205963",
@@ -215,6 +257,27 @@
       "status": "pre_game",
       "player": "Marcus Mariota",
       "stat": "Pass Completions",
+      "line": "17",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 778,
+      "gameId": "183605",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15135009",
+      "playerId": "336581",
+      "status": "pre_game",
+      "player": "Rachaad White",
+      "stat": "Receiving Yards",
       "line": "16.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
@@ -226,9 +289,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 675,
+      "rank": 780,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122367",
@@ -247,30 +310,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 676,
+      "rank": 782,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15135009",
-      "playerId": "336581",
-      "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 680,
-      "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15181873",
@@ -289,9 +331,30 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 685,
+      "rank": 791,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15245247",
+      "playerId": "211279",
+      "status": "pre_game",
+      "player": "Terry McLaurin",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 824,
+      "gameId": "183605",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15135082",
@@ -310,9 +373,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 701,
+      "rank": 825,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122150",
@@ -331,9 +394,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 702,
+      "rank": 826,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122164",
@@ -352,9 +415,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 703,
+      "rank": 827,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15181875",
@@ -373,9 +436,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 704,
+      "rank": 829,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15135006",
@@ -394,17 +457,17 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 712,
+      "rank": 840,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
-      "projectionId": "15135010",
-      "playerId": "336581",
+      "projectionId": "15245246",
+      "playerId": "336578",
       "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Longest Rush",
-      "line": "8.5",
+      "player": "Stefon Diggs",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -415,9 +478,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 726,
+      "rank": 868,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15181946",
@@ -436,9 +499,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 729,
+      "rank": 877,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15181947",
@@ -457,9 +520,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 734,
+      "rank": 886,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15125265",
@@ -478,9 +541,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 742,
+      "rank": 898,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193168",
@@ -499,9 +562,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 754,
+      "rank": 908,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193169",
@@ -520,9 +583,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 755,
+      "rank": 909,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15196902",
@@ -541,9 +604,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 757,
+      "rank": 913,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15199077",
@@ -562,9 +625,30 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 767,
+      "rank": 938,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15135086",
+      "playerId": "252771",
+      "status": "pre_game",
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.8",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 939,
+      "gameId": "183605",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15197430",
@@ -583,51 +667,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 781,
+      "rank": 953,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15135086",
-      "playerId": "252771",
-      "status": "pre_game",
-      "player": "Jacory Croskey-Merritt",
-      "stat": "Rush Yards Per Carry",
-      "line": "3.3",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 784,
-      "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15195029",
-      "playerId": "346119",
-      "status": "pre_game",
-      "player": "Antonio Williams",
-      "stat": "Receptions",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 812,
-      "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15135081",
@@ -646,9 +688,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 845,
+      "rank": 1030,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15166929",
@@ -667,9 +709,9 @@
       "teamCode": "WAS",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 846,
+      "rank": 1031,
       "gameId": "183605",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     }
   ]
 }

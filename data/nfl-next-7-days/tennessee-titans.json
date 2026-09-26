@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-25T12:09:57.122Z",
-  "scrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-26T12:08:49.096Z",
+  "scrapedDate": "Saturday, September 26, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1038,
-    "sourceCount": 6760,
-    "acceptedCount": 1038,
-    "excludedCount": 5722,
+    "count": 1244,
+    "sourceCount": 8109,
+    "acceptedCount": 1244,
+    "excludedCount": 6865,
     "rejectedCount": 0,
-    "publishedCount": 1038,
-    "providerFetchedAt": "2026-09-25T12:08:45.520Z",
+    "publishedCount": 1244,
+    "providerFetchedAt": "2026-09-26T12:07:32.597Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tennessee Titans",
-  "totalProps": 38,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "15089390",
@@ -37,9 +37,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1788,
+      "rank": 2111,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15141753",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Cam Ward",
       "stat": "Completion Percentage",
-      "line": "58.7",
+      "line": "57.4",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1839,
+      "rank": 2166,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15089580",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Tony Pollard",
       "stat": "Rush Yards",
-      "line": "50.5",
+      "line": "51.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1844,
+      "rank": 2168,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15089711",
@@ -100,9 +100,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1883,
+      "rank": 2209,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140701",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Cam Ward",
       "stat": "Longest Completion",
-      "line": "32.5",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -121,30 +121,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1891,
+      "rank": 2216,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15089712",
-      "playerId": "320275",
-      "status": "pre_game",
-      "player": "Wan'Dale Robinson",
-      "stat": "Receiving Yards",
-      "line": "31.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 1892,
-      "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140521",
@@ -152,7 +131,7 @@
       "status": "pre_game",
       "player": "Cam Ward",
       "stat": "Pass Attempts",
-      "line": "31.5",
+      "line": "31",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -163,9 +142,30 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1893,
+      "rank": 2219,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15089712",
+      "playerId": "320275",
+      "status": "pre_game",
+      "player": "Wan'Dale Robinson",
+      "stat": "Receiving Yards",
+      "line": "30.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2220,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140719",
@@ -184,9 +184,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1940,
+      "rank": 2273,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140632",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Tyjae Spears",
       "stat": "Rush Yards",
-      "line": "19.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -205,9 +205,30 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1948,
+      "rank": 2312,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15140657",
+      "playerId": "210676",
+      "status": "pre_game",
+      "player": "Tony Pollard",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2313,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140654",
@@ -226,9 +247,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1977,
+      "rank": 2315,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140690",
@@ -247,9 +268,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1980,
+      "rank": 2317,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140723",
@@ -268,9 +289,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1992,
+      "rank": 2330,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140795",
@@ -289,9 +310,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1993,
+      "rank": 2331,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140823",
@@ -310,17 +331,17 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1994,
+      "rank": 2332,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
-      "projectionId": "15142234",
-      "playerId": "210676",
+      "projectionId": "15140583",
+      "playerId": "211245",
       "status": "pre_game",
-      "player": "Tony Pollard",
-      "stat": "Rush Attempts",
-      "line": "13",
+      "player": "Tyjae Spears",
+      "stat": "Receiving Yards",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -331,9 +352,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2022,
+      "rank": 2356,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140708",
@@ -341,7 +362,7 @@
       "status": "pre_game",
       "player": "Calvin Ridley",
       "stat": "Longest Reception",
-      "line": "12.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -352,9 +373,30 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2024,
+      "rank": 2358,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15142234",
+      "playerId": "210676",
+      "status": "pre_game",
+      "player": "Tony Pollard",
+      "stat": "Rush Attempts",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2360,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15142393",
@@ -373,9 +415,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2027,
+      "rank": 2369,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15089581",
@@ -394,9 +436,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2032,
+      "rank": 2376,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140689",
@@ -415,9 +457,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2034,
+      "rank": 2378,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140751",
@@ -436,16 +478,16 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2035,
+      "rank": 2379,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
-      "projectionId": "15141943",
-      "playerId": "211245",
+      "projectionId": "15245262",
+      "playerId": "320254",
       "status": "pre_game",
-      "player": "Tyjae Spears",
-      "stat": "Longest Rush",
+      "player": "Carnell Tate",
+      "stat": "Yards on First Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
@@ -457,9 +499,72 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2045,
+      "rank": 2419,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15141943",
+      "playerId": "211245",
+      "status": "pre_game",
+      "player": "Tyjae Spears",
+      "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2432,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15245263",
+      "playerId": "320275",
+      "status": "pre_game",
+      "player": "Wan'Dale Robinson",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2434,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15140684",
+      "playerId": "211245",
+      "status": "pre_game",
+      "player": "Tyjae Spears",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2438,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15182456",
@@ -478,9 +583,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2085,
+      "rank": 2443,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140605",
@@ -499,9 +604,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2093,
+      "rank": 2451,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140734",
@@ -520,30 +625,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2094,
+      "rank": 2452,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15141763",
-      "playerId": "211245",
-      "status": "pre_game",
-      "player": "Tyjae Spears",
-      "stat": "Rush Attempts",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 2096,
-      "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15181348",
@@ -562,9 +646,30 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2098,
+      "rank": 2456,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15141763",
+      "playerId": "211245",
+      "status": "pre_game",
+      "player": "Tyjae Spears",
+      "stat": "Rush Attempts",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2474,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193164",
@@ -583,9 +688,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2115,
+      "rank": 2476,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193165",
@@ -604,9 +709,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2118,
+      "rank": 2478,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15196886",
@@ -625,9 +730,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2120,
+      "rank": 2480,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15140637",
@@ -635,7 +740,7 @@
       "status": "pre_game",
       "player": "Tony Pollard",
       "stat": "Rush Yards Per Carry",
-      "line": "3.6",
+      "line": "3.7",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -646,9 +751,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2142,
+      "rank": 2517,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15141762",
@@ -667,9 +772,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2153,
+      "rank": 2530,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15183056",
@@ -688,9 +793,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2156,
+      "rank": 2533,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193166",
@@ -709,30 +814,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2162,
+      "rank": 2539,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15197436",
-      "playerId": "246529",
-      "status": "pre_game",
-      "player": "Cam Ward",
-      "stat": "Sacks Taken",
-      "line": "3",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 2163,
-      "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15183250",
@@ -751,9 +835,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2178,
+      "rank": 2558,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193167",
@@ -772,9 +856,30 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2185,
+      "rank": 2565,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15228850",
+      "playerId": "249803",
+      "status": "pre_game",
+      "player": "Elic Ayomanor",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2568,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15142370",
@@ -793,9 +898,30 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2198,
+      "rank": 2584,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15228849",
+      "playerId": "210676",
+      "status": "pre_game",
+      "player": "Tony Pollard",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 2595,
+      "gameId": "183611",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15141757",
@@ -814,9 +940,9 @@
       "teamCode": "TEN",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2234,
+      "rank": 2630,
       "gameId": "183611",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     }
   ]
 }

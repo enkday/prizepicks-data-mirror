@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-25T12:09:57.122Z",
-  "scrapedDate": "Friday, September 25, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-26T12:08:49.096Z",
+  "scrapedDate": "Saturday, September 26, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1038,
-    "sourceCount": 6760,
-    "acceptedCount": 1038,
-    "excludedCount": 5722,
+    "count": 1244,
+    "sourceCount": 8109,
+    "acceptedCount": 1244,
+    "excludedCount": 6865,
     "rejectedCount": 0,
-    "publishedCount": 1038,
-    "providerFetchedAt": "2026-09-25T12:08:45.520Z",
+    "publishedCount": 1244,
+    "providerFetchedAt": "2026-09-26T12:07:32.597Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 32,
+  "totalProps": 34,
   "props": [
     {
       "projectionId": "15020913",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Pass Yards",
-      "line": "240.5",
+      "line": "241.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 54,
+      "rank": 55,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15020924",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "James Cook III",
       "stat": "Rush Yards",
-      "line": "79.5",
+      "line": "78.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 92,
+      "rank": 100,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122339",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Completion Percentage",
-      "line": "71.9",
+      "line": "69.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 102,
+      "rank": 106,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15132391",
@@ -100,9 +100,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 127,
+      "rank": 130,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15120420",
@@ -121,9 +121,30 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 133,
+      "rank": 135,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15168696",
+      "playerId": "211112",
+      "status": "pre_game",
+      "player": "Khalil Shakir",
+      "stat": "Receiving Yards",
+      "line": "43.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 152,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15126417",
@@ -142,30 +163,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 150,
+      "rank": 153,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15168696",
-      "playerId": "211112",
-      "status": "pre_game",
-      "player": "Khalil Shakir",
-      "stat": "Receiving Yards",
-      "line": "41.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 152,
-      "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15020925",
@@ -184,9 +184,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 171,
+      "rank": 172,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122342",
@@ -205,9 +205,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 184,
+      "rank": 187,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15132480",
@@ -226,9 +226,30 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 231,
+      "rank": 236,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15121910",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 238,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15127097",
@@ -247,9 +268,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 233,
+      "rank": 239,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15122333",
@@ -268,9 +289,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 235,
+      "rank": 242,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15126403",
@@ -289,9 +310,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 269,
+      "rank": 279,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15168704",
@@ -310,9 +331,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 272,
+      "rank": 282,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15167775",
@@ -331,9 +352,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 273,
+      "rank": 283,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15126362",
@@ -341,7 +362,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Longest Rush",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -352,9 +373,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 310,
+      "rank": 302,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15132571",
@@ -362,7 +383,7 @@
       "status": "pre_game",
       "player": "James Cook III",
       "stat": "Receiving Yards",
-      "line": "11.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -373,9 +394,72 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 324,
+      "rank": 335,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15245239",
+      "playerId": "320271",
+      "status": "pre_game",
+      "player": "DJ Moore",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 336,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15245238",
+      "playerId": "211117",
+      "status": "pre_game",
+      "player": "Dalton Kincaid",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 360,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+    },
+    {
+      "projectionId": "15132570",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 367,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15168699",
@@ -394,9 +478,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 347,
+      "rank": 368,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15168706",
@@ -415,30 +499,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 348,
+      "rank": 369,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15121909",
-      "playerId": "205163",
-      "status": "pre_game",
-      "player": "Josh Allen",
-      "stat": "Rush Attempts",
-      "line": "8",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 353,
-      "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15126406",
@@ -457,36 +520,15 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 354,
+      "rank": 373,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
-      "projectionId": "15196938",
-      "playerId": "210711",
+      "projectionId": "15193128",
+      "playerId": "211117",
       "status": "pre_game",
-      "player": "James Cook III",
-      "stat": "Longest Reception",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 362,
-      "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
-    },
-    {
-      "projectionId": "15128156",
-      "playerId": "320271",
-      "status": "pre_game",
-      "player": "DJ Moore",
+      "player": "Dalton Kincaid",
       "stat": "Rec Targets",
       "line": "6",
       "sport": "NFL",
@@ -499,15 +541,15 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 372,
+      "rank": 392,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
-      "projectionId": "15193128",
-      "playerId": "211117",
+      "projectionId": "15128156",
+      "playerId": "320271",
       "status": "pre_game",
-      "player": "Dalton Kincaid",
+      "player": "DJ Moore",
       "stat": "Rec Targets",
       "line": "5.5",
       "sport": "NFL",
@@ -520,9 +562,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 385,
+      "rank": 398,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193129",
@@ -541,9 +583,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 386,
+      "rank": 406,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15121911",
@@ -551,7 +593,7 @@
       "status": "pre_game",
       "player": "James Cook III",
       "stat": "Rush Yards Per Carry",
-      "line": "4.5",
+      "line": "4.8",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -562,9 +604,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 392,
+      "rank": 410,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15199076",
@@ -583,9 +625,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 403,
+      "rank": 432,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15196893",
@@ -604,9 +646,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 431,
+      "rank": 464,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15193127",
@@ -625,9 +667,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 448,
+      "rank": 481,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15126540",
@@ -646,9 +688,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 464,
+      "rank": 498,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15197427",
@@ -667,9 +709,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 469,
+      "rank": 503,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     },
     {
       "projectionId": "15089877",
@@ -688,9 +730,9 @@
       "teamCode": "BUF",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 510,
+      "rank": 564,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-25T12:08:45.520Z"
+      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
     }
   ]
 }
