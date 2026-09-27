@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-26T12:08:49.096Z",
-  "scrapedDate": "Saturday, September 26, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-27T12:09:06.992Z",
+  "scrapedDate": "Sunday, September 27, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1244,
-    "sourceCount": 8109,
-    "acceptedCount": 1244,
-    "excludedCount": 6865,
+    "count": 1293,
+    "sourceCount": 9012,
+    "acceptedCount": 1293,
+    "excludedCount": 7719,
     "rejectedCount": 0,
-    "publishedCount": 1244,
-    "providerFetchedAt": "2026-09-26T12:07:32.597Z",
+    "publishedCount": 1293,
+    "providerFetchedAt": "2026-09-27T12:07:56.913Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 40,
+  "totalProps": 41,
   "props": [
     {
       "projectionId": "15089387",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Pass Yards",
-      "line": "225.5",
+      "line": "228.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 60,
+      "rank": 61,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126380",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Completion Percentage",
-      "line": "61.9",
+      "line": "63.9",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 117,
+      "rank": 114,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15089701",
+      "playerId": "211424",
+      "status": "pre_game",
+      "player": "Ladd McConkey",
+      "stat": "Receiving Yards",
+      "line": "59.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 119,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15089575",
@@ -79,30 +100,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 128,
+      "rank": 126,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
-    },
-    {
-      "projectionId": "15089701",
-      "playerId": "211424",
-      "status": "pre_game",
-      "player": "Ladd McConkey",
-      "stat": "Receiving Yards",
-      "line": "57.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 129,
-      "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15176192",
@@ -121,9 +121,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 170,
+      "rank": 173,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15120278",
@@ -142,9 +142,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 171,
+      "rank": 175,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126418",
@@ -152,7 +152,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Longest Completion",
-      "line": "34.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -163,9 +163,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 174,
+      "rank": 176,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15120388",
@@ -184,9 +184,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 183,
+      "rank": 186,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15127716",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Pass Attempts",
-      "line": "31",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 186,
+      "rank": 188,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15121665",
@@ -226,9 +226,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 241,
+      "rank": 245,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126361",
@@ -247,9 +247,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 243,
+      "rank": 247,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15125584",
@@ -268,9 +268,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 246,
+      "rank": 249,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15089574",
@@ -289,9 +289,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 248,
+      "rank": 251,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126415",
@@ -299,7 +299,7 @@
       "status": "pre_game",
       "player": "Quentin Johnston",
       "stat": "Longest Reception",
-      "line": "17.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
       "startTimeCST": "09/27/26 12:00 PM CST",
@@ -310,9 +310,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 280,
+      "rank": 278,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126387",
@@ -331,9 +331,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 287,
+      "rank": 289,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15176201",
@@ -352,9 +352,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 288,
+      "rank": 290,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126368",
@@ -373,9 +373,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 293,
+      "rank": 295,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126377",
@@ -394,9 +394,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 303,
+      "rank": 304,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15195313",
@@ -415,9 +415,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 315,
+      "rank": 317,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15089703",
@@ -436,9 +436,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 331,
+      "rank": 335,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126537",
@@ -457,9 +457,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 343,
+      "rank": 349,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15245237",
@@ -478,12 +478,12 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 359,
+      "rank": 364,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
-      "projectionId": "15126393",
+      "projectionId": "15176210",
       "playerId": "244038",
       "status": "pre_game",
       "player": "Omarion Hampton",
@@ -499,9 +499,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 378,
+      "rank": 390,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15236390",
@@ -520,9 +520,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 382,
+      "rank": 392,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15128157",
@@ -541,9 +541,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 385,
+      "rank": 399,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126538",
@@ -562,9 +562,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 391,
+      "rank": 412,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15128158",
@@ -583,9 +583,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 408,
+      "rank": 436,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15193151",
@@ -604,16 +604,16 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 409,
+      "rank": 437,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
-      "projectionId": "15121662",
-      "playerId": "244038",
+      "projectionId": "15128120",
+      "playerId": "211058",
       "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Rush Yards Per Carry",
+      "player": "Justin Herbert",
+      "stat": "Rush Attempts",
       "line": "4",
       "sport": "NFL",
       "startTime": "09/27/26 12:00 PM CST",
@@ -625,9 +625,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 430,
+      "rank": 463,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15128159",
@@ -646,9 +646,30 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 431,
+      "rank": 464,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15121662",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.7",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 466,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15196894",
@@ -667,30 +688,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 448,
+      "rank": 482,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
-    },
-    {
-      "projectionId": "15197426",
-      "playerId": "211058",
-      "status": "pre_game",
-      "player": "Justin Herbert",
-      "stat": "Sacks Taken",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 12:00 PM CST",
-      "startTimeCST": "09/27/26 12:00 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 449,
-      "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15236394",
@@ -709,9 +709,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 460,
+      "rank": 494,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15236395",
@@ -730,9 +730,30 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 461,
+      "rank": 495,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15267784",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Yards on First Rush Attempt",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 12:00 PM CST",
+      "startTimeCST": "09/27/26 12:00 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 499,
+      "gameId": "183609",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15120999",
@@ -751,9 +772,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 463,
+      "rank": 504,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15228826",
@@ -772,9 +793,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 485,
+      "rank": 531,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15196916",
@@ -793,9 +814,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 502,
+      "rank": 547,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15089782",
@@ -814,9 +835,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 535,
+      "rank": 580,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15121655",
@@ -835,9 +856,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 540,
+      "rank": 585,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15126358",
@@ -856,9 +877,9 @@
       "teamCode": "LAC",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 542,
+      "rank": 587,
       "gameId": "183609",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     }
   ]
 }

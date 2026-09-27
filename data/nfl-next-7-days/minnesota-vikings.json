@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-26T12:08:49.096Z",
-  "scrapedDate": "Saturday, September 26, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-09-27T12:09:06.992Z",
+  "scrapedDate": "Sunday, September 27, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1244,
-    "sourceCount": 8109,
-    "acceptedCount": 1244,
-    "excludedCount": 6865,
+    "count": 1293,
+    "sourceCount": 9012,
+    "acceptedCount": 1293,
+    "excludedCount": 7719,
     "rejectedCount": 0,
-    "publishedCount": 1244,
-    "providerFetchedAt": "2026-09-26T12:07:32.597Z",
+    "publishedCount": 1293,
+    "providerFetchedAt": "2026-09-27T12:07:56.913Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Minnesota Vikings",
-  "totalProps": 38,
+  "totalProps": 43,
   "props": [
     {
       "projectionId": "15106807",
@@ -37,9 +37,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5030,
+      "rank": 5570,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15089724",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Justin Jefferson",
       "stat": "Receiving Yards",
-      "line": "71.5",
+      "line": "72.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5074,
+      "rank": 5614,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15107043",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Kyler Murray",
       "stat": "Completion Percentage",
-      "line": "66.1",
+      "line": "63.9",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5086,
+      "rank": 5627,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15089588",
@@ -100,9 +100,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5098,
+      "rank": 5637,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15107015",
@@ -121,9 +121,30 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5141,
+      "rank": 5683,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15106990",
+      "playerId": "320283",
+      "status": "pre_game",
+      "player": "Kyler Murray",
+      "stat": "Longest Completion",
+      "line": "31.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 5694,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15089725",
@@ -142,30 +163,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5156,
+      "rank": 5699,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
-    },
-    {
-      "projectionId": "15106990",
-      "playerId": "320283",
-      "status": "pre_game",
-      "player": "Kyler Murray",
-      "stat": "Longest Completion",
-      "line": "30.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 5157,
-      "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15167181",
@@ -184,9 +184,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5158,
+      "rank": 5703,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106950",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Justin Jefferson",
       "stat": "Longest Reception",
-      "line": "22.5",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5208,
+      "rank": 5754,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106776",
@@ -226,9 +226,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5211,
+      "rank": 5758,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106850",
@@ -247,9 +247,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5248,
+      "rank": 5796,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106905",
@@ -268,9 +268,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5250,
+      "rank": 5798,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106980",
@@ -289,30 +289,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5253,
+      "rank": 5801,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
-    },
-    {
-      "projectionId": "15106831",
-      "playerId": "210958",
-      "status": "pre_game",
-      "player": "Aaron Jones Sr.",
-      "stat": "Rush Attempts",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 5267,
-      "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106860",
@@ -331,9 +310,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5268,
+      "rank": 5817,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106890",
@@ -352,16 +331,16 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5269,
+      "rank": 5819,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
-      "projectionId": "15106789",
+      "projectionId": "15106831",
       "playerId": "210958",
       "status": "pre_game",
       "player": "Aaron Jones Sr.",
-      "stat": "Longest Rush",
+      "stat": "Rush Attempts",
       "line": "13.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -373,9 +352,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5295,
+      "rank": 5844,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15107060",
@@ -383,6 +362,27 @@
       "status": "pre_game",
       "player": "Aaron Jones Sr.",
       "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 5845,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15106789",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Longest Rush",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -394,9 +394,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5302,
+      "rank": 5850,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106894",
@@ -404,7 +404,7 @@
       "status": "pre_game",
       "player": "Jauan Jennings",
       "stat": "Longest Reception",
-      "line": "10.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -415,9 +415,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5315,
+      "rank": 5859,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106921",
@@ -436,30 +436,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5316,
+      "rank": 5867,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
-    },
-    {
-      "projectionId": "15209383",
-      "playerId": "320283",
-      "status": "pre_game",
-      "player": "Kyler Murray",
-      "stat": "Longest Rush",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "09/27/26 03:05 PM CST",
-      "startTimeCST": "09/27/26 03:05 PM CST",
-      "startDateCST": "2026-09-27",
-      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 5320,
-      "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15245276",
@@ -478,9 +457,30 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5321,
+      "rank": 5871,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15106825",
+      "playerId": "320283",
+      "status": "pre_game",
+      "player": "Kyler Murray",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 5876,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106888",
@@ -499,9 +499,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5356,
+      "rank": 5911,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15107003",
@@ -520,9 +520,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5357,
+      "rank": 5912,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15154198",
@@ -541,9 +541,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5359,
+      "rank": 5914,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15245277",
@@ -562,9 +562,30 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5361,
+      "rank": 5917,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15128151",
+      "playerId": "211417",
+      "status": "pre_game",
+      "player": "Will Reichard",
+      "stat": "Kicking Points",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 5941,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15245716",
@@ -583,9 +604,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5386,
+      "rank": 5959,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15154199",
@@ -604,9 +625,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5402,
+      "rank": 5981,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15154200",
@@ -625,9 +646,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5403,
+      "rank": 5982,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15196903",
@@ -646,9 +667,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5435,
+      "rank": 6016,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15106975",
@@ -656,7 +677,7 @@
       "status": "pre_game",
       "player": "Aaron Jones Sr.",
       "stat": "Rush Yards Per Carry",
-      "line": "3.6",
+      "line": "3.8",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
       "startTimeCST": "09/27/26 03:05 PM CST",
@@ -667,9 +688,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5436,
+      "rank": 6018,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15153909",
@@ -688,9 +709,30 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5448,
+      "rank": 6028,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15267794",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Yards on First Rush Attempt",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 6054,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15199078",
@@ -709,9 +751,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5469,
+      "rank": 6058,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15228833",
@@ -730,9 +772,9 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5490,
+      "rank": 6080,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15228834",
@@ -751,9 +793,30 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5491,
+      "rank": 6081,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15262002",
+      "playerId": "320283",
+      "status": "pre_game",
+      "player": "Kyler Murray",
+      "stat": "Sacks Taken",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 6083,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15228835",
@@ -772,9 +835,30 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5494,
+      "rank": 6087,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15164284",
+      "playerId": "211417",
+      "status": "pre_game",
+      "player": "Will Reichard",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 6106,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
       "projectionId": "15128486",
@@ -793,16 +877,16 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5563,
+      "rank": 6154,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     },
     {
-      "projectionId": "15170753",
-      "playerId": "261573",
+      "projectionId": "15169995",
+      "playerId": "320283",
       "status": "pre_game",
-      "player": "Dallas Turner",
-      "stat": "Sacks",
+      "player": "Kyler Murray",
+      "stat": "INT",
       "line": "0.5",
       "sport": "NFL",
       "startTime": "09/27/26 03:05 PM CST",
@@ -814,9 +898,30 @@
       "teamCode": "MIN",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 5575,
+      "rank": 6159,
       "gameId": "183613",
-      "providerFetchedAt": "2026-09-26T12:07:32.597Z"
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
+    },
+    {
+      "projectionId": "15170753",
+      "playerId": "261573",
+      "status": "pre_game",
+      "player": "Dallas Turner",
+      "stat": "Sacks",
+      "line": "0.25",
+      "sport": "NFL",
+      "startTime": "09/27/26 03:05 PM CST",
+      "startTimeCST": "09/27/26 03:05 PM CST",
+      "startDateCST": "2026-09-27",
+      "startTimeIso": "2026-09-27T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 6186,
+      "gameId": "183613",
+      "providerFetchedAt": "2026-09-27T12:07:56.913Z"
     }
   ]
 }
