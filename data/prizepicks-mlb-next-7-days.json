@@ -1,24 +1,45 @@
 {
-  "scrapedAt": "2026-09-28T12:10:49.328Z",
-  "scrapedDate": "Monday, September 28, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-09-29T12:09:26.901Z",
+  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "MLB",
     "ok": true,
     "status": 200,
-    "count": 70,
-    "sourceCount": 1787,
-    "acceptedCount": 70,
-    "excludedCount": 1717,
+    "count": 77,
+    "sourceCount": 2236,
+    "acceptedCount": 77,
+    "excludedCount": 2159,
     "rejectedCount": 0,
-    "publishedCount": 70,
-    "providerFetchedAt": "2026-09-28T12:10:47.644Z",
+    "publishedCount": 77,
+    "providerFetchedAt": "2026-09-29T12:09:24.983Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "MLB",
   "day": "next-7-days",
-  "totalProps": 70,
+  "totalProps": 77,
   "props": [
+    {
+      "projectionId": "15314370",
+      "playerId": "189310",
+      "status": "pre_game",
+      "player": "Chris Sale",
+      "stat": "Pitches Thrown",
+      "line": "98.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 01:00 PM CST",
+      "startTimeCST": "09/29/26 01:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Braves",
+      "teamCode": "ATL",
+      "Opponent": "Philadelphia Phillies",
+      "opponentCode": "PHI",
+      "rank": 55,
+      "gameId": "190447",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
     {
       "projectionId": "15300817",
       "playerId": "189310",
@@ -36,30 +57,9 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 9,
+      "rank": 65,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15297810",
-      "playerId": "189310",
-      "status": "pre_game",
-      "player": "Chris Sale",
-      "stat": "Hits Allowed",
-      "line": "4.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 01:00 PM CST",
-      "startTimeCST": "09/29/26 01:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Braves",
-      "teamCode": "ATL",
-      "Opponent": "Philadelphia Phillies",
-      "opponentCode": "PHI",
-      "rank": 31,
-      "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297671",
@@ -78,30 +78,9 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 170,
+      "rank": 239,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15297497",
-      "playerId": "74759",
-      "status": "pre_game",
-      "player": "Edmundo Sosa",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 01:00 PM CST",
-      "startTimeCST": "09/29/26 01:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Phillies",
-      "teamCode": "PHI",
-      "Opponent": "Atlanta Braves",
-      "opponentCode": "ATL",
-      "rank": 319,
-      "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297525",
@@ -120,9 +99,9 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 326,
+      "rank": 406,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297848",
@@ -141,30 +120,9 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 365,
+      "rank": 445,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15297954",
-      "playerId": "68832",
-      "status": "pre_game",
-      "player": "Michael Harris II",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 01:00 PM CST",
-      "startTimeCST": "09/29/26 01:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Braves",
-      "teamCode": "ATL",
-      "Opponent": "Philadelphia Phillies",
-      "opponentCode": "PHI",
-      "rank": 380,
-      "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297973",
@@ -183,9 +141,9 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 385,
+      "rank": 464,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15298089",
@@ -204,9 +162,9 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 403,
+      "rank": 482,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15298157",
@@ -225,9 +183,9 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 420,
+      "rank": 500,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15298172",
@@ -246,9 +204,9 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 423,
+      "rank": 503,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15298184",
@@ -267,9 +225,9 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 424,
+      "rank": 504,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299639",
@@ -288,9 +246,9 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 426,
+      "rank": 506,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299640",
@@ -309,51 +267,9 @@
       "teamCode": "PHI",
       "Opponent": "Atlanta Braves",
       "opponentCode": "ATL",
-      "rank": 427,
+      "rank": 507,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15302346",
-      "playerId": "127255",
-      "status": "pre_game",
-      "player": "Sean Murphy",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 01:00 PM CST",
-      "startTimeCST": "09/29/26 01:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Braves",
-      "teamCode": "ATL",
-      "Opponent": "Philadelphia Phillies",
-      "opponentCode": "PHI",
-      "rank": 436,
-      "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15302347",
-      "playerId": "127255",
-      "status": "pre_game",
-      "player": "Sean Murphy",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 01:00 PM CST",
-      "startTimeCST": "09/29/26 01:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Braves",
-      "teamCode": "ATL",
-      "Opponent": "Philadelphia Phillies",
-      "opponentCode": "PHI",
-      "rank": 437,
-      "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15305900",
@@ -372,9 +288,72 @@
       "teamCode": "ATL",
       "Opponent": "Philadelphia Phillies",
       "opponentCode": "PHI",
-      "rank": 457,
+      "rank": 537,
       "gameId": "190447",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15307057",
+      "playerId": "310126",
+      "status": "pre_game",
+      "player": "Mike Yastrzemski",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 01:00 PM CST",
+      "startTimeCST": "09/29/26 01:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Braves",
+      "teamCode": "ATL",
+      "Opponent": "Philadelphia Phillies",
+      "opponentCode": "PHI",
+      "rank": 544,
+      "gameId": "190447",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15310663",
+      "playerId": "229771",
+      "status": "pre_game",
+      "player": "Jesús Luzardo",
+      "stat": "Earned Runs Allowed",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 01:00 PM CST",
+      "startTimeCST": "09/29/26 01:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Phillies",
+      "teamCode": "PHI",
+      "Opponent": "Atlanta Braves",
+      "opponentCode": "ATL",
+      "rank": 547,
+      "gameId": "190447",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15310935",
+      "playerId": "310126",
+      "status": "pre_game",
+      "player": "Mike Yastrzemski",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 01:00 PM CST",
+      "startTimeCST": "09/29/26 01:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T14:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Braves",
+      "teamCode": "ATL",
+      "Opponent": "Philadelphia Phillies",
+      "opponentCode": "PHI",
+      "rank": 550,
+      "gameId": "190447",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299485",
@@ -393,9 +372,9 @@
       "teamCode": "HOU",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 641,
+      "rank": 809,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299359",
@@ -414,9 +393,9 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 754,
+      "rank": 928,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299361",
@@ -435,30 +414,9 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 756,
+      "rank": 930,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15299362",
-      "playerId": "323131",
-      "status": "pre_game",
-      "player": "Braden Montgomery",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 04:00 PM CST",
-      "startTimeCST": "09/29/26 04:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Houston Astros",
-      "opponentCode": "HOU",
-      "rank": 757,
-      "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299371",
@@ -477,9 +435,9 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 761,
+      "rank": 934,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299378",
@@ -498,30 +456,9 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 763,
+      "rank": 936,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15299379",
-      "playerId": "309111",
-      "status": "pre_game",
-      "player": "Munetaka Murakami",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 04:00 PM CST",
-      "startTimeCST": "09/29/26 04:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Houston Astros",
-      "opponentCode": "HOU",
-      "rank": 764,
-      "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299402",
@@ -540,9 +477,9 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 777,
+      "rank": 949,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299410",
@@ -561,16 +498,16 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 782,
+      "rank": 955,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
-      "projectionId": "15299426",
-      "playerId": "241087",
+      "projectionId": "15299432",
+      "playerId": "234485",
       "status": "pre_game",
-      "player": "Kyle Teel",
-      "stat": "Walks",
+      "player": "Cam Smith",
+      "stat": "Hits",
       "line": "0.5",
       "sport": "MLB",
       "startTime": "09/29/26 04:00 PM CST",
@@ -578,13 +515,13 @@
       "startDateCST": "2026-09-29",
       "startTimeIso": "2026-09-29T17:00:00.000-04:00",
       "oddsType": "standard",
-      "Team": "Chicago White Sox",
-      "teamCode": "CWS",
-      "Opponent": "Houston Astros",
-      "opponentCode": "HOU",
-      "rank": 786,
+      "Team": "Houston Astros",
+      "teamCode": "HOU",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 964,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299439",
@@ -603,9 +540,51 @@
       "teamCode": "HOU",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 797,
+      "rank": 971,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15299460",
+      "playerId": "234485",
+      "status": "pre_game",
+      "player": "Cam Smith",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 04:00 PM CST",
+      "startTimeCST": "09/29/26 04:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Astros",
+      "teamCode": "HOU",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 984,
+      "gameId": "190448",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15299481",
+      "playerId": "329024",
+      "status": "pre_game",
+      "player": "Lucas Spence",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 04:00 PM CST",
+      "startTimeCST": "09/29/26 04:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Astros",
+      "teamCode": "HOU",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 999,
+      "gameId": "190448",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299482",
@@ -624,9 +603,9 @@
       "teamCode": "HOU",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 824,
+      "rank": 1000,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299487",
@@ -645,9 +624,9 @@
       "teamCode": "HOU",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 826,
+      "rank": 1002,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299491",
@@ -666,30 +645,9 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 828,
+      "rank": 1004,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15299527",
-      "playerId": "67700",
-      "status": "pre_game",
-      "player": "Yordan Alvarez",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 04:00 PM CST",
-      "startTimeCST": "09/29/26 04:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Astros",
-      "teamCode": "HOU",
-      "Opponent": "Chicago White Sox",
-      "opponentCode": "CWS",
-      "rank": 854,
-      "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299528",
@@ -708,9 +666,9 @@
       "teamCode": "HOU",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 855,
+      "rank": 1026,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299530",
@@ -729,9 +687,9 @@
       "teamCode": "HOU",
       "Opponent": "Chicago White Sox",
       "opponentCode": "CWS",
-      "rank": 857,
+      "rank": 1028,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15301799",
@@ -750,9 +708,9 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 878,
+      "rank": 1045,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15303671",
@@ -771,9 +729,93 @@
       "teamCode": "CWS",
       "Opponent": "Houston Astros",
       "opponentCode": "HOU",
-      "rank": 882,
+      "rank": 1048,
       "gameId": "190448",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15308126",
+      "playerId": "86985",
+      "status": "pre_game",
+      "player": "Yainer Diaz",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 04:00 PM CST",
+      "startTimeCST": "09/29/26 04:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Astros",
+      "teamCode": "HOU",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 1050,
+      "gameId": "190448",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15313823",
+      "playerId": "236737",
+      "status": "pre_game",
+      "player": "AJ Blubaugh",
+      "stat": "Earned Runs Allowed",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 04:00 PM CST",
+      "startTimeCST": "09/29/26 04:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Astros",
+      "teamCode": "HOU",
+      "Opponent": "Chicago White Sox",
+      "opponentCode": "CWS",
+      "rank": 1069,
+      "gameId": "190448",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15315038",
+      "playerId": "343019",
+      "status": "pre_game",
+      "player": "Hagen Smith",
+      "stat": "Walks Allowed",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 04:00 PM CST",
+      "startTimeCST": "09/29/26 04:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T17:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago White Sox",
+      "teamCode": "CWS",
+      "Opponent": "Houston Astros",
+      "opponentCode": "HOU",
+      "rank": 1074,
+      "gameId": "190448",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15314371",
+      "playerId": "246085",
+      "status": "pre_game",
+      "player": "Cam Schlittler",
+      "stat": "Pitches Thrown",
+      "line": "96.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "Boston Red Sox",
+      "opponentCode": "BOS",
+      "rank": 1138,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297546",
@@ -792,9 +834,30 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 886,
+      "rank": 1145,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15311412",
+      "playerId": "260658",
+      "status": "pre_game",
+      "player": "Payton Tolle",
+      "stat": "Pitching Outs",
+      "line": "17",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Red Sox",
+      "teamCode": "BOS",
+      "Opponent": "New York Yankees",
+      "opponentCode": "NYY",
+      "rank": 1146,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297541",
@@ -813,30 +876,51 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 893,
+      "rank": 1160,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
-      "projectionId": "15297936",
-      "playerId": "246085",
+      "projectionId": "15309391",
+      "playerId": "260658",
       "status": "pre_game",
-      "player": "Cam Schlittler",
-      "stat": "Hits Allowed",
-      "line": "3.5",
+      "player": "Payton Tolle",
+      "stat": "Pitcher Strikeouts",
+      "line": "7",
       "sport": "MLB",
       "startTime": "09/29/26 07:00 PM CST",
       "startTimeCST": "09/29/26 07:00 PM CST",
       "startDateCST": "2026-09-29",
       "startTimeIso": "2026-09-29T20:00:00.000-04:00",
       "oddsType": "standard",
-      "Team": "New York Yankees",
-      "teamCode": "NYY",
-      "Opponent": "Boston Red Sox",
-      "opponentCode": "BOS",
-      "rank": 961,
+      "Team": "Boston Red Sox",
+      "teamCode": "BOS",
+      "Opponent": "New York Yankees",
+      "opponentCode": "NYY",
+      "rank": 1161,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15309368",
+      "playerId": "260658",
+      "status": "pre_game",
+      "player": "Payton Tolle",
+      "stat": "Hits Allowed",
+      "line": "4.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Red Sox",
+      "teamCode": "BOS",
+      "Opponent": "New York Yankees",
+      "opponentCode": "NYY",
+      "rank": 1207,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297415",
@@ -855,9 +939,30 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 1034,
+      "rank": 1324,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15310137",
+      "playerId": "260658",
+      "status": "pre_game",
+      "player": "Payton Tolle",
+      "stat": "Walks Allowed",
+      "line": "1.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Red Sox",
+      "teamCode": "BOS",
+      "Opponent": "New York Yankees",
+      "opponentCode": "NYY",
+      "rank": 1434,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297602",
@@ -876,9 +981,9 @@
       "teamCode": "BOS",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1181,
+      "rank": 1477,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297639",
@@ -897,9 +1002,9 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 1191,
+      "rank": 1487,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297731",
@@ -918,9 +1023,30 @@
       "teamCode": "BOS",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1222,
+      "rank": 1518,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15297767",
+      "playerId": "331442",
+      "status": "pre_game",
+      "player": "George Lombard Jr.",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "Boston Red Sox",
+      "opponentCode": "BOS",
+      "rank": 1530,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297842",
@@ -939,9 +1065,30 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 1255,
+      "rank": 1552,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15297850",
+      "playerId": "331442",
+      "status": "pre_game",
+      "player": "George Lombard Jr.",
+      "stat": "Hits",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "Boston Red Sox",
+      "opponentCode": "BOS",
+      "rank": 1555,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297876",
@@ -960,9 +1107,9 @@
       "teamCode": "BOS",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1262,
+      "rank": 1560,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297891",
@@ -981,9 +1128,9 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 1264,
+      "rank": 1562,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15298311",
@@ -1002,30 +1149,9 @@
       "teamCode": "BOS",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1300,
+      "rank": 1598,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15299252",
-      "playerId": "233316",
-      "status": "pre_game",
-      "player": "Paul Goldschmidt",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 07:00 PM CST",
-      "startTimeCST": "09/29/26 07:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Yankees",
-      "teamCode": "NYY",
-      "Opponent": "Boston Red Sox",
-      "opponentCode": "BOS",
-      "rank": 1305,
-      "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15299869",
@@ -1044,9 +1170,9 @@
       "teamCode": "BOS",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1313,
+      "rank": 1607,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15300626",
@@ -1065,9 +1191,9 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 1316,
+      "rank": 1610,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15300627",
@@ -1086,9 +1212,9 @@
       "teamCode": "NYY",
       "Opponent": "Boston Red Sox",
       "opponentCode": "BOS",
-      "rank": 1317,
+      "rank": 1611,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15300654",
@@ -1107,9 +1233,30 @@
       "teamCode": "BOS",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1318,
+      "rank": 1612,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15301560",
+      "playerId": "308707",
+      "status": "pre_game",
+      "player": "Caleb Durbin",
+      "stat": "Total Bases",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Red Sox",
+      "teamCode": "BOS",
+      "Opponent": "New York Yankees",
+      "opponentCode": "NYY",
+      "rank": 1617,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15301817",
@@ -1128,9 +1275,30 @@
       "teamCode": "BOS",
       "Opponent": "New York Yankees",
       "opponentCode": "NYY",
-      "rank": 1323,
+      "rank": 1618,
       "gameId": "189977",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15310134",
+      "playerId": "67620",
+      "status": "pre_game",
+      "player": "Aaron Judge",
+      "stat": "Walks",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 07:00 PM CST",
+      "startTimeCST": "09/29/26 07:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Yankees",
+      "teamCode": "NYY",
+      "Opponent": "Boston Red Sox",
+      "opponentCode": "BOS",
+      "rank": 1647,
+      "gameId": "189977",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15298392",
@@ -1149,9 +1317,30 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1361,
+      "rank": 1740,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15315036",
+      "playerId": "229351",
+      "status": "pre_game",
+      "player": "Matthew Boyd",
+      "stat": "Pitcher Strikeouts",
+      "line": "4",
+      "sport": "MLB",
+      "startTime": "09/29/26 09:00 PM CST",
+      "startTimeCST": "09/29/26 09:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Cubs",
+      "teamCode": "CHC",
+      "Opponent": "San Diego Padres",
+      "opponentCode": "SD",
+      "rank": 1770,
+      "gameId": "190303",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297105",
@@ -1170,9 +1359,9 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1479,
+      "rank": 1904,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297111",
@@ -1191,16 +1380,37 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1480,
+      "rank": 1905,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
-      "projectionId": "15297085",
-      "playerId": "233461",
+      "projectionId": "15315014",
+      "playerId": "229351",
       "status": "pre_game",
-      "player": "Gavin Sheets",
-      "stat": "Total Bases",
+      "player": "Matthew Boyd",
+      "stat": "Earned Runs Allowed",
+      "line": "1.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 09:00 PM CST",
+      "startTimeCST": "09/29/26 09:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Cubs",
+      "teamCode": "CHC",
+      "Opponent": "San Diego Padres",
+      "opponentCode": "SD",
+      "rank": 2018,
+      "gameId": "190303",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15297067",
+      "playerId": "139980",
+      "status": "pre_game",
+      "player": "Fernando Tatis Jr.",
+      "stat": "Runs",
       "line": "0.5",
       "sport": "MLB",
       "startTime": "09/29/26 09:00 PM CST",
@@ -1212,9 +1422,9 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1646,
+      "rank": 2070,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297089",
@@ -1233,30 +1443,9 @@
       "teamCode": "CHC",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 1650,
+      "rank": 2087,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15297103",
-      "playerId": "233461",
-      "status": "pre_game",
-      "player": "Gavin Sheets",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 09:00 PM CST",
-      "startTimeCST": "09/29/26 09:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Diego Padres",
-      "teamCode": "SD",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 1662,
-      "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297107",
@@ -1275,9 +1464,9 @@
       "teamCode": "CHC",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 1664,
+      "rank": 2100,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297115",
@@ -1296,9 +1485,9 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1671,
+      "rank": 2107,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297116",
@@ -1317,51 +1506,9 @@
       "teamCode": "CHC",
       "Opponent": "San Diego Padres",
       "opponentCode": "SD",
-      "rank": 1672,
+      "rank": 2108,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15297130",
-      "playerId": "79873",
-      "status": "pre_game",
-      "player": "Luis Campusano",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 09:00 PM CST",
-      "startTimeCST": "09/29/26 09:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Diego Padres",
-      "teamCode": "SD",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 1684,
-      "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15297138",
-      "playerId": "79873",
-      "status": "pre_game",
-      "player": "Luis Campusano",
-      "stat": "Hits",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 09:00 PM CST",
-      "startTimeCST": "09/29/26 09:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Diego Padres",
-      "teamCode": "SD",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 1691,
-      "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15297140",
@@ -1380,9 +1527,9 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1692,
+      "rank": 2126,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15298087",
@@ -1401,51 +1548,9 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1746,
+      "rank": 2167,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15298149",
-      "playerId": "338092",
-      "status": "pre_game",
-      "player": "Dustin Harris",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 09:00 PM CST",
-      "startTimeCST": "09/29/26 09:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Diego Padres",
-      "teamCode": "SD",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 1755,
-      "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
-    },
-    {
-      "projectionId": "15298181",
-      "playerId": "193123",
-      "status": "pre_game",
-      "player": "Jackson Merrill",
-      "stat": "Singles",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "09/29/26 09:00 PM CST",
-      "startTimeCST": "09/29/26 09:00 PM CST",
-      "startDateCST": "2026-09-29",
-      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Diego Padres",
-      "teamCode": "SD",
-      "Opponent": "Chicago Cubs",
-      "opponentCode": "CHC",
-      "rank": 1759,
-      "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15301831",
@@ -1464,9 +1569,9 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1766,
+      "rank": 2186,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     },
     {
       "projectionId": "15301834",
@@ -1485,9 +1590,51 @@
       "teamCode": "SD",
       "Opponent": "Chicago Cubs",
       "opponentCode": "CHC",
-      "rank": 1767,
+      "rank": 2187,
       "gameId": "190303",
-      "providerFetchedAt": "2026-09-28T12:10:47.644Z"
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15308179",
+      "playerId": "127204",
+      "status": "pre_game",
+      "player": "Xander Bogaerts",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 09:00 PM CST",
+      "startTimeCST": "09/29/26 09:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Diego Padres",
+      "teamCode": "SD",
+      "Opponent": "Chicago Cubs",
+      "opponentCode": "CHC",
+      "rank": 2219,
+      "gameId": "190303",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
+    },
+    {
+      "projectionId": "15314959",
+      "playerId": "139980",
+      "status": "pre_game",
+      "player": "Fernando Tatis Jr.",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "09/29/26 09:00 PM CST",
+      "startTimeCST": "09/29/26 09:00 PM CST",
+      "startDateCST": "2026-09-29",
+      "startTimeIso": "2026-09-29T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Diego Padres",
+      "teamCode": "SD",
+      "Opponent": "Chicago Cubs",
+      "opponentCode": "CHC",
+      "rank": 2223,
+      "gameId": "190303",
+      "providerFetchedAt": "2026-09-29T12:09:24.983Z"
     }
   ]
 }

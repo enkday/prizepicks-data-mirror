@@ -1,15 +1,15 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "bf460b3d727c85001924417e6e1ccb5ce2fd1b7a2aa269da5502aee9273aa3d2",
-  "sourceScrapedAt": "2026-09-28T12:10:49.328Z",
-  "sourceScrapedDate": "Monday, September 28, 2026 at 07:10 AM CDT",
+  "sourcePayloadHash": "12e7f52f2e8a9dcd9d5d6823e8645ad681aaea4864b15f57df3bc9cec09fd537",
+  "sourceScrapedAt": "2026-09-29T12:09:26.901Z",
+  "sourceScrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
   "observedDate": "2026-09-29",
   "completeness": "reported",
   "sport": "MLB",
   "sportSlug": "mlb",
-  "dayBranch": "tomorrow",
+  "dayBranch": "current_day",
   "gameCount": 4,
-  "propCount": 70,
+  "propCount": 77,
   "games": [
     {
       "gameId": "190447",
@@ -21,8 +21,8 @@
         "Atlanta Braves",
         "Philadelphia Phillies"
       ],
-      "propCount": 17,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/190447.json"
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/190447.json"
     },
     {
       "gameId": "190448",
@@ -34,8 +34,8 @@
         "Chicago White Sox",
         "Houston Astros"
       ],
-      "propCount": 19,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/190448.json"
+      "propCount": 21,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/190448.json"
     },
     {
       "gameId": "189977",
@@ -47,8 +47,8 @@
         "Boston Red Sox",
         "New York Yankees"
       ],
-      "propCount": 17,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/189977.json"
+      "propCount": 24,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/189977.json"
     },
     {
       "gameId": "190303",
@@ -60,20 +60,20 @@
         "Chicago Cubs",
         "San Diego Padres"
       ],
-      "propCount": 17,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/190303.json"
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/190303.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 17,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-slate/early.json"
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/mlb/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 53,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-slate/late.json"
+      "propCount": 61,
+      "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
     }
   ]
 }

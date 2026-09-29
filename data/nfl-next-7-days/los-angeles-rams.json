@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-09-29T12:09:26.901Z",
+  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NFL",
+    "ok": true,
+    "status": 200,
+    "count": 432,
+    "sourceCount": 2622,
+    "acceptedCount": 432,
+    "excludedCount": 2190,
+    "rejectedCount": 0,
+    "publishedCount": 432,
+    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NFL",
+  "day": "next-7-days",
+  "team": "Los Angeles Rams",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "15310279",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Pass Yards",
+      "line": "249.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 923,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+    }
+  ]
+}
