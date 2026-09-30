@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-29T12:09:26.901Z",
-  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-30T12:10:43.351Z",
+  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 432,
-    "sourceCount": 2622,
-    "acceptedCount": 432,
-    "excludedCount": 2190,
+    "count": 719,
+    "sourceCount": 4688,
+    "acceptedCount": 719,
+    "excludedCount": 3969,
     "rejectedCount": 0,
-    "publishedCount": 432,
-    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "publishedCount": 719,
+    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Detroit Lions",
-  "totalProps": 23,
+  "totalProps": 33,
   "props": [
     {
       "projectionId": "15310298",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Pass Yards",
-      "line": "261.5",
+      "line": "262.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2344,
+      "rank": 4054,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310471",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jahmyr Gibbs",
       "stat": "Rush Yards",
-      "line": "98.5",
+      "line": "96.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2374,
+      "rank": 4094,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310637",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Amon-Ra St. Brown",
       "stat": "Receiving Yards",
-      "line": "78.5",
+      "line": "76.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -79,9 +79,51 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2384,
+      "rank": 4106,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15322505",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Completion Percentage",
+      "line": "68.1",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4119,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15310638",
+      "playerId": "210887",
+      "status": "pre_game",
+      "player": "Jameson Williams",
+      "stat": "Receiving Yards",
+      "line": "49.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4134,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310640",
@@ -100,30 +142,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2413,
+      "rank": 4142,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15310638",
-      "playerId": "210887",
-      "status": "pre_game",
-      "player": "Jameson Williams",
-      "stat": "Receiving Yards",
-      "line": "47.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 07:20 PM CST",
-      "startTimeCST": "10/04/26 07:20 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 2414,
-      "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317912",
@@ -142,9 +163,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2430,
+      "rank": 4164,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310639",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Jahmyr Gibbs",
       "stat": "Receiving Yards",
-      "line": "34.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2431,
+      "rank": 4166,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317872",
@@ -184,9 +205,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2432,
+      "rank": 4169,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317928",
@@ -205,9 +226,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2457,
+      "rank": 4203,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318086",
@@ -226,9 +247,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2458,
+      "rank": 4206,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318072",
@@ -247,9 +268,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2460,
+      "rank": 4208,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317990",
@@ -268,9 +289,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2470,
+      "rank": 4221,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317906",
@@ -289,9 +310,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2476,
+      "rank": 4227,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318018",
@@ -299,7 +320,7 @@
       "status": "pre_game",
       "player": "Sam LaPorta",
       "stat": "Longest Reception",
-      "line": "17.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -310,9 +331,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2478,
+      "rank": 4228,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15321937",
@@ -331,9 +352,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2479,
+      "rank": 4233,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317971",
@@ -352,9 +373,51 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2483,
+      "rank": 4243,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15327009",
+      "playerId": "246575",
+      "status": "pre_game",
+      "player": "Isaac TeSlaa",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4251,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329289",
+      "playerId": "206309",
+      "status": "pre_game",
+      "player": "Amon-Ra St. Brown",
+      "stat": "Rec Targets",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4266,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317880",
@@ -373,9 +436,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2500,
+      "rank": 4270,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317974",
@@ -394,9 +457,72 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2506,
+      "rank": 4276,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329291",
+      "playerId": "206311",
+      "status": "pre_game",
+      "player": "Sam LaPorta",
+      "stat": "Rec Targets",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4283,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329290",
+      "playerId": "210887",
+      "status": "pre_game",
+      "player": "Jameson Williams",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4291,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329292",
+      "playerId": "206307",
+      "status": "pre_game",
+      "player": "Jahmyr Gibbs",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4292,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15321931",
@@ -415,9 +541,30 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2522,
+      "rank": 4297,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15321933",
+      "playerId": "206311",
+      "status": "pre_game",
+      "player": "Sam LaPorta",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4298,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317916",
@@ -425,6 +572,48 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Longest Rush",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4303,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15326947",
+      "playerId": "210887",
+      "status": "pre_game",
+      "player": "Jameson Williams",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4311,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329293",
+      "playerId": "246575",
+      "status": "pre_game",
+      "player": "Isaac TeSlaa",
+      "stat": "Rec Targets",
       "line": "2.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
@@ -436,9 +625,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2533,
+      "rank": 4325,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310470",
@@ -457,9 +646,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2544,
+      "rank": 4328,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317945",
@@ -478,9 +667,9 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2552,
+      "rank": 4336,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15321898",
@@ -499,9 +688,30 @@
       "teamCode": "DET",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 2557,
+      "rank": 4342,
       "gameId": "185210",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15328157",
+      "playerId": "206309",
+      "status": "pre_game",
+      "player": "Amon-Ra St. Brown",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 4372,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     }
   ]
 }

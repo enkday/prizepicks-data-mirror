@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-29T12:09:26.901Z",
-  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-30T12:10:43.351Z",
+  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 432,
-    "sourceCount": 2622,
-    "acceptedCount": 432,
-    "excludedCount": 2190,
+    "count": 719,
+    "sourceCount": 4688,
+    "acceptedCount": 719,
+    "excludedCount": 3969,
     "rejectedCount": 0,
-    "publishedCount": 432,
-    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "publishedCount": 719,
+    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 20,
+  "totalProps": 19,
   "props": [
     {
       "projectionId": "15317180",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jalon Daniels",
       "stat": "Pass Yards",
-      "line": "176.5",
+      "line": "170.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1656,
+      "rank": 2505,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15317215",
+      "playerId": "348383",
+      "status": "pre_game",
+      "player": "Jalon Daniels",
+      "stat": "Completion Percentage",
+      "line": "59.3",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 2530,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310453",
@@ -58,9 +79,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1680,
+      "rank": 2531,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310620",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Emeka Egbuka",
       "stat": "Receiving Yards",
-      "line": "52.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -79,9 +100,30 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1682,
+      "rank": 2556,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15317022",
+      "playerId": "348383",
+      "status": "pre_game",
+      "player": "Jalon Daniels",
+      "stat": "Rush Yards",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 2559,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317185",
@@ -89,27 +131,6 @@
       "status": "pre_game",
       "player": "Jalon Daniels",
       "stat": "Longest Completion",
-      "line": "31.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 1709,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15317085",
-      "playerId": "210869",
-      "status": "pre_game",
-      "player": "Cade Otton",
-      "stat": "Receiving Yards",
       "line": "30.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1710,
+      "rank": 2560,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317030",
@@ -142,30 +163,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1711,
+      "rank": 2561,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15317022",
-      "playerId": "348383",
-      "status": "pre_game",
-      "player": "Jalon Daniels",
-      "stat": "Rush Yards",
-      "line": "27.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 1728,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317127",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Chris Godwin Jr.",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -184,9 +184,30 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1729,
+      "rank": 2578,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15317085",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Receiving Yards",
+      "line": "25.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 2579,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317058",
@@ -205,9 +226,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1750,
+      "rank": 2600,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15319865",
@@ -226,9 +247,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1751,
+      "rank": 2601,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317036",
@@ -247,9 +268,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1754,
+      "rank": 2604,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317110",
@@ -268,9 +289,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1755,
+      "rank": 2605,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317142",
@@ -289,9 +310,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1756,
+      "rank": 2606,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317196",
@@ -310,9 +331,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1757,
+      "rank": 2607,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317017",
@@ -331,9 +352,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1758,
+      "rank": 2608,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317031",
@@ -341,7 +362,7 @@
       "status": "pre_game",
       "player": "Jalon Daniels",
       "stat": "Longest Rush",
-      "line": "11.5",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -352,9 +373,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1759,
+      "rank": 2609,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317064",
@@ -373,30 +394,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1764,
+      "rank": 2614,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15317053",
-      "playerId": "348383",
-      "status": "pre_game",
-      "player": "Jalon Daniels",
-      "stat": "Rush Attempts",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 1770,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317095",
@@ -415,30 +415,9 @@
       "teamCode": "TB",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 1797,
+      "rank": 2648,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15317088",
-      "playerId": "152992",
-      "status": "pre_game",
-      "player": "Chase McLaughlin",
-      "stat": "FG Made",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 1800,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     }
   ]
 }

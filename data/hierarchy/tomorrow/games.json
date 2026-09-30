@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "gameId": "184469",
+    "sport": "NFL",
+    "startTime": "10/01/26 07:15 PM CDT",
+    "startTimeIso": "2026-10-01T19:15:00-05:00",
+    "teams": [
+      "Cleveland Browns",
+      "Pittsburgh Steelers"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-01T19:15:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Cleveland Browns",
+        "Pittsburgh Steelers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "184471",
+    "sport": "NCAAF",
+    "startTime": "10/01/26 08:00 PM CDT",
+    "startTimeIso": "2026-10-01T20:00:00-05:00",
+    "teams": [
+      "North Texas Mean Green",
+      "Tulsa Golden Hurricane"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-01T20:00:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "North Texas Mean Green",
+        "Tulsa Golden Hurricane"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  }
+]

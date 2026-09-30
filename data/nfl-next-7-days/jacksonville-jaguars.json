@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-29T12:09:26.901Z",
-  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-30T12:10:43.351Z",
+  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 432,
-    "sourceCount": 2622,
-    "acceptedCount": 432,
-    "excludedCount": 2190,
+    "count": 719,
+    "sourceCount": 4688,
+    "acceptedCount": 719,
+    "excludedCount": 3969,
     "rejectedCount": 0,
-    "publishedCount": 432,
-    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "publishedCount": 719,
+    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 24,
+  "totalProps": 27,
   "props": [
     {
       "projectionId": "15310280",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": "262.5",
+      "line": "264.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 944,
+      "rank": 1698,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310601",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Parker Washington",
       "stat": "Receiving Yards",
-      "line": "69.5",
+      "line": "72.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 979,
+      "rank": 1734,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15317694",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Completion Percentage",
+      "line": "64.2",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 1746,
+      "gameId": "185003",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310438",
@@ -79,30 +100,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1001,
+      "rank": 1758,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15317587",
-      "playerId": "210950",
-      "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Longest Completion",
-      "line": "38.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 1039,
-      "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310602",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Jakobi Meyers",
       "stat": "Receiving Yards",
-      "line": "37.5",
+      "line": "40.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -121,9 +121,30 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1040,
+      "rank": 1777,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15317587",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Longest Completion",
+      "line": "39.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 1782,
+      "gameId": "185003",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317589",
@@ -142,9 +163,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1044,
+      "rank": 1801,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317571",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Brenton Strange",
       "stat": "Receiving Yards",
-      "line": "32.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1045,
+      "rank": 1802,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317593",
@@ -184,9 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1071,
+      "rank": 1829,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317563",
@@ -205,9 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1075,
+      "rank": 1832,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15319058",
@@ -226,9 +247,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1083,
+      "rank": 1843,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317570",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Jakobi Meyers",
       "stat": "Longest Reception",
-      "line": "20.5",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -247,9 +268,30 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1085,
+      "rank": 1849,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15317599",
+      "playerId": "336495",
+      "status": "pre_game",
+      "player": "Chris Rodriguez Jr.",
+      "stat": "Rush Yards",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 1850,
+      "gameId": "185003",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317562",
@@ -268,30 +310,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1110,
+      "rank": 1875,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15317599",
-      "playerId": "336495",
-      "status": "pre_game",
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Rush Yards",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Cincinnati Bengals",
-      "opponentCode": "CIN",
-      "rank": 1111,
-      "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310437",
@@ -310,9 +331,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1112,
+      "rank": 1876,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317572",
@@ -331,9 +352,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1115,
+      "rank": 1879,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317462",
@@ -352,9 +373,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1123,
+      "rank": 1894,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317618",
@@ -373,9 +394,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1124,
+      "rank": 1895,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317641",
@@ -394,9 +415,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1128,
+      "rank": 1898,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317642",
@@ -415,9 +436,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1132,
+      "rank": 1905,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317567",
@@ -436,9 +457,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1138,
+      "rank": 1914,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317640",
@@ -457,9 +478,30 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1140,
+      "rank": 1916,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329297",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Rec Targets",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 1917,
+      "gameId": "185003",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317578",
@@ -478,17 +520,17 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1149,
+      "rank": 1927,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
-      "projectionId": "15317646",
-      "playerId": "336495",
+      "projectionId": "15329298",
+      "playerId": "277422",
       "status": "pre_game",
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Rush Attempts",
-      "line": "4.5",
+      "player": "Jakobi Meyers",
+      "stat": "Rec Targets",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -499,9 +541,9 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1169,
+      "rank": 1941,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317635",
@@ -520,9 +562,30 @@
       "teamCode": "JAC",
       "Opponent": "Cincinnati Bengals",
       "opponentCode": "CIN",
-      "rank": 1177,
+      "rank": 1955,
       "gameId": "185003",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15328153",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Cincinnati Bengals",
+      "opponentCode": "CIN",
+      "rank": 2019,
+      "gameId": "185003",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     }
   ]
 }

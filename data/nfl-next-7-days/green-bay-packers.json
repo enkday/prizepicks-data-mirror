@@ -1,18 +1,18 @@
 {
-  "scrapedAt": "2026-09-29T12:09:26.901Z",
-  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-30T12:10:43.351Z",
+  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 432,
-    "sourceCount": 2622,
-    "acceptedCount": 432,
-    "excludedCount": 2190,
+    "count": 719,
+    "sourceCount": 4688,
+    "acceptedCount": 719,
+    "excludedCount": 3969,
     "rejectedCount": 0,
-    "publishedCount": 432,
-    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "publishedCount": 719,
+    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Pass Yards",
-      "line": "232.5",
+      "line": "246.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1650,
+      "rank": 2491,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15267002",
@@ -58,17 +58,17 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1672,
+      "rank": 2521,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
-      "projectionId": "15267001",
-      "playerId": "246577",
+      "projectionId": "15317192",
+      "playerId": "206301",
       "status": "pre_game",
-      "player": "Matthew Golden",
-      "stat": "Receiving Yards",
-      "line": "56.5",
+      "player": "Jordan Love",
+      "stat": "Completion Percentage",
+      "line": "60.6",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1681,
+      "rank": 2522,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15267001",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Receiving Yards",
+      "line": "57.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 2532,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317164",
@@ -100,9 +121,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1706,
+      "rank": 2555,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317203",
@@ -121,9 +142,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1707,
+      "rank": 2557,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317103",
@@ -142,9 +163,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1708,
+      "rank": 2558,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317166",
@@ -163,9 +184,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1732,
+      "rank": 2582,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317084",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Matthew Golden",
       "stat": "Longest Reception",
-      "line": "21.5",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1733,
+      "rank": 2583,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317087",
@@ -205,9 +226,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1734,
+      "rank": 2584,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317189",
@@ -226,9 +247,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1752,
+      "rank": 2602,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317172",
@@ -247,9 +268,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1772,
+      "rank": 2621,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317018",
@@ -268,9 +289,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1780,
+      "rank": 2631,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317021",
@@ -289,15 +310,15 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1781,
+      "rank": 2632,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
-      "projectionId": "15317118",
-      "playerId": "210337",
+      "projectionId": "15321310",
+      "playerId": "246577",
       "status": "pre_game",
-      "player": "Christian Watson",
+      "player": "Matthew Golden",
       "stat": "Receptions",
       "line": "4.5",
       "sport": "NFL",
@@ -310,30 +331,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1782,
+      "rank": 2633,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15317043",
-      "playerId": "206301",
-      "status": "pre_game",
-      "player": "Jordan Love",
-      "stat": "Pass TDs",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 1799,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15317092",
@@ -352,9 +352,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 1801,
+      "rank": 2652,
       "gameId": "185009",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     }
   ]
 }

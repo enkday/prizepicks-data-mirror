@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-29T12:09:26.901Z",
-  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-30T12:10:43.351Z",
+  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 432,
-    "sourceCount": 2622,
-    "acceptedCount": 432,
-    "excludedCount": 2190,
+    "count": 719,
+    "sourceCount": 4688,
+    "acceptedCount": 719,
+    "excludedCount": 3969,
     "rejectedCount": 0,
-    "publishedCount": 432,
-    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "publishedCount": 719,
+    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 16,
+  "totalProps": 21,
   "props": [
     {
       "projectionId": "15310278",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Marcus Mariota",
       "stat": "Pass Yards",
-      "line": "211.5",
+      "line": "212.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -37,17 +37,17 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 481,
+      "rank": 583,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
-      "projectionId": "15310954",
-      "playerId": "252771",
+      "projectionId": "15315383",
+      "playerId": "216996",
       "status": "pre_game",
-      "player": "Jacory Croskey-Merritt",
-      "stat": "Rush Yards",
-      "line": "54.5",
+      "player": "Marcus Mariota",
+      "stat": "Completion Percentage",
+      "line": "63.9",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -58,9 +58,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 536,
+      "rank": 632,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310599",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Terry McLaurin",
       "stat": "Receiving Yards",
-      "line": "53.5",
+      "line": "55.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -79,9 +79,30 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 537,
+      "rank": 642,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15310954",
+      "playerId": "252771",
+      "status": "pre_game",
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards",
+      "line": "55.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 643,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310600",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Stefon Diggs",
       "stat": "Receiving Yards",
-      "line": "36.5",
+      "line": "41.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -100,9 +121,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 566,
+      "rank": 659,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316878",
@@ -121,9 +142,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 568,
+      "rank": 676,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314910",
@@ -142,9 +163,30 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 575,
+      "rank": 686,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15310435",
+      "playerId": "216996",
+      "status": "pre_game",
+      "player": "Marcus Mariota",
+      "stat": "Rush Yards",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 706,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316801",
@@ -163,9 +205,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 607,
+      "rank": 719,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15315378",
@@ -173,7 +215,7 @@
       "status": "pre_game",
       "player": "Marcus Mariota",
       "stat": "Pass Completions",
-      "line": "18.5",
+      "line": "19",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -184,9 +226,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 628,
+      "rank": 748,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316803",
@@ -205,9 +247,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 630,
+      "rank": 749,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314883",
@@ -226,9 +268,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 643,
+      "rank": 773,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316876",
@@ -247,9 +289,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 644,
+      "rank": 779,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316890",
@@ -268,9 +310,51 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 650,
+      "rank": 785,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329304",
+      "playerId": "211279",
+      "status": "pre_game",
+      "player": "Terry McLaurin",
+      "stat": "Rec Targets",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 812,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329303",
+      "playerId": "336578",
+      "status": "pre_game",
+      "player": "Stefon Diggs",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 818,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316796",
@@ -289,9 +373,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 670,
+      "rank": 824,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15311572",
@@ -310,9 +394,30 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 671,
+      "rank": 829,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329664",
+      "playerId": "336578",
+      "status": "pre_game",
+      "player": "Stefon Diggs",
+      "stat": "Receptions",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 836,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316811",
@@ -331,9 +436,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 687,
+      "rank": 846,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15316814",
@@ -352,9 +457,9 @@
       "teamCode": "WAS",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 688,
+      "rank": 847,
       "gameId": "185001",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     }
   ]
 }

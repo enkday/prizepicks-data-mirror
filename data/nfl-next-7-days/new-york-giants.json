@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-29T12:09:26.901Z",
-  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-30T12:10:43.351Z",
+  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 432,
-    "sourceCount": 2622,
-    "acceptedCount": 432,
-    "excludedCount": 2190,
+    "count": 719,
+    "sourceCount": 4688,
+    "acceptedCount": 719,
+    "excludedCount": 3969,
     "rejectedCount": 0,
-    "publishedCount": 432,
-    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "publishedCount": 719,
+    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 23,
+  "totalProps": 22,
   "props": [
     {
       "projectionId": "15314039",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Pass Yards",
-      "line": "231.5",
+      "line": "232.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1250,
+      "rank": 2029,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310443",
@@ -58,17 +58,17 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1278,
+      "rank": 2056,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
-      "projectionId": "15310609",
-      "playerId": "206972",
+      "projectionId": "15314176",
+      "playerId": "279456",
       "status": "pre_game",
-      "player": "Malik Nabers",
-      "stat": "Receiving Yards",
-      "line": "52.5",
+      "player": "Jameis Winston",
+      "stat": "Completion Percentage",
+      "line": "61.9",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1286,
+      "rank": 2057,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15310609",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Receiving Yards",
+      "line": "54.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 2067,
+      "gameId": "185002",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310610",
@@ -100,9 +121,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1303,
+      "rank": 2085,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314175",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Longest Completion",
-      "line": "35.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1324,
+      "rank": 2104,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314030",
@@ -142,9 +163,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1327,
+      "rank": 2108,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314298",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Malachi Fields",
       "stat": "Receiving Yards",
-      "line": "30.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1328,
+      "rank": 2109,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314255",
@@ -173,6 +194,27 @@
       "status": "pre_game",
       "player": "Darnell Mooney",
       "stat": "Receiving Yards",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 2134,
+      "gameId": "185002",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15314118",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Longest Reception",
       "line": "23.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
@@ -184,51 +226,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1354,
+      "rank": 2135,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15314118",
-      "playerId": "206972",
-      "status": "pre_game",
-      "player": "Malik Nabers",
-      "stat": "Longest Reception",
-      "line": "22.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1355,
-      "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15314185",
-      "playerId": "279456",
-      "status": "pre_game",
-      "player": "Jameis Winston",
-      "stat": "Pass Completions",
-      "line": "20.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1358,
-      "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314217",
@@ -247,17 +247,17 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1359,
+      "rank": 2140,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
-      "projectionId": "15314155",
-      "playerId": "246533",
+      "projectionId": "15314185",
+      "playerId": "279456",
       "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Rush Attempts",
-      "line": "17.5",
+      "player": "Jameis Winston",
+      "stat": "Pass Completions",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -268,9 +268,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1381,
+      "rank": 2154,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314156",
@@ -289,9 +289,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1382,
+      "rank": 2162,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314188",
@@ -310,9 +310,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1383,
+      "rank": 2163,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314232",
@@ -320,7 +320,7 @@
       "status": "pre_game",
       "player": "Darnell Mooney",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -331,9 +331,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1387,
+      "rank": 2166,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314082",
@@ -352,9 +352,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1388,
+      "rank": 2170,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314060",
@@ -373,9 +373,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1392,
+      "rank": 2172,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314513",
@@ -394,9 +394,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1406,
+      "rank": 2186,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314194",
@@ -415,9 +415,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1418,
+      "rank": 2198,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314029",
@@ -436,9 +436,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1420,
+      "rank": 2201,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314049",
@@ -457,9 +457,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1421,
+      "rank": 2202,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15314512",
@@ -478,30 +478,9 @@
       "teamCode": "NYG",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 1441,
+      "rank": 2223,
       "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15319054",
-      "playerId": "336475",
-      "status": "pre_game",
-      "player": "Dominic Zvada",
-      "stat": "FG Made",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 1457,
-      "gameId": "185002",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     }
   ]
 }

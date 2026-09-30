@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-29T12:09:26.901Z",
-  "scrapedDate": "Tuesday, September 29, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-09-30T12:10:43.351Z",
+  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 432,
-    "sourceCount": 2622,
-    "acceptedCount": 432,
-    "excludedCount": 2190,
+    "count": 719,
+    "sourceCount": 4688,
+    "acceptedCount": 719,
+    "excludedCount": 3969,
     "rejectedCount": 0,
-    "publishedCount": 432,
-    "providerFetchedAt": "2026-09-29T12:09:12.409Z",
+    "publishedCount": 719,
+    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Dallas Cowboys",
-  "totalProps": 17,
+  "totalProps": 23,
   "props": [
     {
       "projectionId": "15310283",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Yards",
-      "line": "261.5",
+      "line": "271.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 747,
+      "rank": 922,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310611",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "CeeDee Lamb",
       "stat": "Receiving Yards",
-      "line": "80.5",
+      "line": "76.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 760,
+      "rank": 968,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310612",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "George Pickens",
       "stat": "Receiving Yards",
-      "line": "65.5",
+      "line": "68.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 769,
+      "rank": 978,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15318377",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Completion Percentage",
+      "line": "67.1",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 979,
+      "gameId": "185005",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310444",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Rush Yards",
-      "line": "63.5",
+      "line": "61.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -100,30 +121,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 770,
+      "rank": 982,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
-    },
-    {
-      "projectionId": "15318267",
-      "playerId": "211072",
-      "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Pass Attempts",
-      "line": "36.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 795,
-      "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318429",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -142,9 +142,51 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 796,
+      "rank": 1036,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15318267",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Pass Attempts",
+      "line": "35.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1041,
+      "gameId": "185005",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15333450",
+      "playerId": "216863",
+      "status": "pre_game",
+      "player": "Ryan Flournoy",
+      "stat": "Receiving Yards",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1044,
+      "gameId": "185005",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310613",
@@ -152,7 +194,7 @@
       "status": "pre_game",
       "player": "Jake Ferguson",
       "stat": "Receiving Yards",
-      "line": "28.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -163,9 +205,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 811,
+      "rank": 1077,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318273",
@@ -173,7 +215,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Completions",
-      "line": "23.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -184,9 +226,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 815,
+      "rank": 1078,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318417",
@@ -194,7 +236,7 @@
       "status": "pre_game",
       "player": "CeeDee Lamb",
       "stat": "Longest Reception",
-      "line": "23.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -205,9 +247,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 816,
+      "rank": 1081,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318372",
@@ -226,9 +268,51 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 817,
+      "rank": 1087,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15329382",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Rush Attempts",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1119,
+      "gameId": "185005",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15339096",
+      "playerId": "216863",
+      "status": "pre_game",
+      "player": "Ryan Flournoy",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1124,
+      "gameId": "185005",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310614",
@@ -247,9 +331,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 834,
+      "rank": 1138,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318357",
@@ -268,9 +352,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 836,
+      "rank": 1140,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318358",
@@ -289,9 +373,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 837,
+      "rank": 1141,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15310445",
@@ -299,7 +383,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Rush Yards",
-      "line": "12.5",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -310,9 +394,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 838,
+      "rank": 1161,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318305",
@@ -331,9 +415,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 845,
+      "rank": 1164,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318309",
@@ -352,9 +436,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 851,
+      "rank": 1182,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     },
     {
       "projectionId": "15318342",
@@ -373,9 +457,51 @@
       "teamCode": "DAL",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 887,
+      "rank": 1255,
       "gameId": "185005",
-      "providerFetchedAt": "2026-09-29T12:09:12.409Z"
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15318349",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Pass TDs",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1256,
+      "gameId": "185005",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+    },
+    {
+      "projectionId": "15337104",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "INT",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1293,
+      "gameId": "185005",
+      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
     }
   ]
 }
