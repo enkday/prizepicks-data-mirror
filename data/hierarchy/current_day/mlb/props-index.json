@@ -1,78 +1,34 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "3c7f0e7ee5c8ad5a8cfab73c056aebbf1f2bb72cd293c15c840093acd73a9ea0",
-  "sourceScrapedAt": "2026-09-30T12:10:43.351Z",
-  "sourceScrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
-  "observedDate": "2026-09-30",
+  "sourcePayloadHash": "7ed5950cc7eab4e0afa78fda3781cac7936c091657d9d98480704d47136ed618",
+  "sourceScrapedAt": "2026-10-01T12:09:56.594Z",
+  "sourceScrapedDate": "Thursday, October 1, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-10-01",
   "completeness": "reported",
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "current_day",
-  "gameCount": 4,
-  "propCount": 64,
+  "gameCount": 1,
+  "propCount": 14,
   "games": [
     {
-      "gameId": "190449",
-      "slate": "Early",
-      "startTime": "09/30/26 01:00 PM CDT",
-      "startTimeIso": "2026-09-30T13:00:00-05:00",
+      "gameId": "191051",
+      "slate": "Late",
+      "startTime": "10/01/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-01T19:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Atlanta Braves",
         "Philadelphia Phillies"
       ],
-      "propCount": 13,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/190449.json"
-    },
-    {
-      "gameId": "190450",
-      "slate": "Late",
-      "startTime": "09/30/26 04:00 PM CDT",
-      "startTimeIso": "2026-09-30T16:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Chicago White Sox",
-        "Houston Astros"
-      ],
-      "propCount": 20,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/190450.json"
-    },
-    {
-      "gameId": "189978",
-      "slate": "Late",
-      "startTime": "09/30/26 07:00 PM CDT",
-      "startTimeIso": "2026-09-30T19:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Boston Red Sox",
-        "New York Yankees"
-      ],
-      "propCount": 12,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/189978.json"
-    },
-    {
-      "gameId": "190304",
-      "slate": "Late",
-      "startTime": "09/30/26 09:00 PM CDT",
-      "startTimeIso": "2026-09-30T21:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Chicago Cubs",
-        "San Diego Padres"
-      ],
-      "propCount": 19,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/190304.json"
+      "propCount": 14,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/191051.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 13,
-      "path": "/data/hierarchy/current_day/mlb/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 51,
+      "propCount": 14,
       "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
     }
   ]

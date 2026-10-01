@@ -1,15 +1,15 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "3c7f0e7ee5c8ad5a8cfab73c056aebbf1f2bb72cd293c15c840093acd73a9ea0",
-  "sourceScrapedAt": "2026-09-30T12:10:43.351Z",
-  "sourceScrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
+  "sourcePayloadHash": "7ed5950cc7eab4e0afa78fda3781cac7936c091657d9d98480704d47136ed618",
+  "sourceScrapedAt": "2026-10-01T12:09:56.594Z",
+  "sourceScrapedDate": "Thursday, October 1, 2026 at 07:09 AM CDT",
   "observedDate": "2026-10-01",
   "completeness": "reported",
   "sport": "NFL",
   "sportSlug": "nfl",
-  "dayBranch": "tomorrow",
+  "dayBranch": "current_day",
   "gameCount": 1,
-  "propCount": 91,
+  "propCount": 100,
   "games": [
     {
       "gameId": "184469",
@@ -21,15 +21,15 @@
         "Cleveland Browns",
         "Pittsburgh Steelers"
       ],
-      "propCount": 91,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/184469.json"
+      "propCount": 100,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/184469.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 91,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
+      "propCount": 100,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
 }

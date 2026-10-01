@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-09-30T12:10:43.351Z",
-  "scrapedDate": "Wednesday, September 30, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-01T12:09:56.594Z",
+  "scrapedDate": "Thursday, October 1, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 719,
-    "sourceCount": 4688,
-    "acceptedCount": 719,
-    "excludedCount": 3969,
+    "count": 1001,
+    "sourceCount": 6965,
+    "acceptedCount": 1001,
+    "excludedCount": 5964,
     "rejectedCount": 0,
-    "publishedCount": 719,
-    "providerFetchedAt": "2026-09-30T12:09:29.349Z",
+    "publishedCount": 1001,
+    "providerFetchedAt": "2026-10-01T12:09:26.314Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 20,
+  "totalProps": 28,
   "props": [
     {
       "projectionId": "15266981",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Michael Penix Jr.",
       "stat": "Pass Yards",
-      "line": "218.5",
+      "line": "224.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4397,
+      "rank": 6583,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15266980",
@@ -58,9 +58,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4429,
+      "rank": 6622,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15266983",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Drake London",
       "stat": "Receiving Yards",
-      "line": "72.5",
+      "line": "78.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4437,
+      "rank": 6628,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15340614",
+      "playerId": "216845",
+      "status": "pre_game",
+      "player": "Michael Penix Jr.",
+      "stat": "Completion Percentage",
+      "line": "67.2",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6642,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15266982",
@@ -100,9 +121,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4499,
+      "rank": 6696,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331873",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Michael Penix Jr.",
       "stat": "Longest Completion",
-      "line": "33.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4503,
+      "rank": 6699,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15341680",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Brian Robinson Jr.",
       "stat": "Rush Yards",
-      "line": "32.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4506,
+      "rank": 6704,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331860",
@@ -163,9 +184,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4510,
+      "rank": 6707,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331946",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Kyle Pitts Sr.",
       "stat": "Receiving Yards",
-      "line": "26.5",
+      "line": "28.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4538,
+      "rank": 6734,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331913",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Drake London",
       "stat": "Longest Reception",
-      "line": "22.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4548,
+      "rank": 6741,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331875",
@@ -226,9 +247,30 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4552,
+      "rank": 6756,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15358810",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Rush Attempts",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6781,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331902",
@@ -247,9 +289,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4573,
+      "rank": 6785,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331865",
@@ -268,9 +310,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4580,
+      "rank": 6796,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331870",
@@ -278,7 +320,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -289,30 +331,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4581,
+      "rank": 6799,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
-    },
-    {
-      "projectionId": "15331901",
-      "playerId": "336730",
-      "status": "pre_game",
-      "player": "Jahan Dotson",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/05/26 07:15 PM CST",
-      "startTimeCST": "10/05/26 07:15 PM CST",
-      "startDateCST": "2026-10-05",
-      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 4582,
-      "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331943",
@@ -331,17 +352,17 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4583,
+      "rank": 6803,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
-      "projectionId": "15341635",
-      "playerId": "336714",
+      "projectionId": "15331901",
+      "playerId": "336730",
       "status": "pre_game",
-      "player": "Austin Hooper",
-      "stat": "Receiving Yards",
-      "line": "14.5",
+      "player": "Jahan Dotson",
+      "stat": "Longest Reception",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/05/26 07:15 PM CST",
       "startTimeCST": "10/05/26 07:15 PM CST",
@@ -352,9 +373,72 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4585,
+      "rank": 6813,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15341635",
+      "playerId": "336714",
+      "status": "pre_game",
+      "player": "Austin Hooper",
+      "stat": "Receiving Yards",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6825,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15356669",
+      "playerId": "211628",
+      "status": "pre_game",
+      "player": "Drake London",
+      "stat": "Rec Targets",
+      "line": "9",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6842,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15356668",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6862,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331858",
@@ -373,9 +457,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4613,
+      "rank": 6864,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15331863",
@@ -394,9 +478,9 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4614,
+      "rank": 6865,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15341692",
@@ -415,9 +499,72 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4630,
+      "rank": 6886,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15350990",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6889,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15356671",
+      "playerId": "210640",
+      "status": "pre_game",
+      "player": "Kyle Pitts Sr.",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6890,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15356672",
+      "playerId": "336730",
+      "status": "pre_game",
+      "player": "Jahan Dotson",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6907,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     },
     {
       "projectionId": "15342985",
@@ -436,9 +583,30 @@
       "teamCode": "ATL",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 4687,
+      "rank": 6959,
       "gameId": "185425",
-      "providerFetchedAt": "2026-09-30T12:09:29.349Z"
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+    },
+    {
+      "projectionId": "15358178",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Rush TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/05/26 07:15 PM CST",
+      "startTimeCST": "10/05/26 07:15 PM CST",
+      "startDateCST": "2026-10-05",
+      "startTimeIso": "2026-10-05T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 6962,
+      "gameId": "185425",
+      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
     }
   ]
 }

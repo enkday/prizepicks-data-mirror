@@ -1,0 +1,48 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "7ed5950cc7eab4e0afa78fda3781cac7936c091657d9d98480704d47136ed618",
+  "sourceScrapedAt": "2026-10-01T12:09:56.594Z",
+  "sourceScrapedDate": "Thursday, October 1, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-10-01",
+  "completeness": "reported",
+  "sport": "NCAAF",
+  "sportSlug": "ncaaf",
+  "dayBranch": "current_day",
+  "gameCount": 2,
+  "propCount": 59,
+  "games": [
+    {
+      "gameId": "184267",
+      "slate": "Late",
+      "startTime": "10/01/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-01T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "New Mexico State Aggies",
+        "Western Kentucky Hilltoppers"
+      ],
+      "propCount": 19,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/184267.json"
+    },
+    {
+      "gameId": "184471",
+      "slate": "Late",
+      "startTime": "10/01/26 08:00 PM CDT",
+      "startTimeIso": "2026-10-01T20:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "North Texas Mean Green",
+        "Tulsa Golden Hurricane"
+      ],
+      "propCount": 40,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/184471.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 59,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
+    }
+  ]
+}

@@ -1,22 +1,51 @@
 [
   {
-    "gameId": "184469",
-    "sport": "NFL",
-    "startTime": "10/01/26 07:15 PM CDT",
-    "startTimeIso": "2026-10-01T19:15:00-05:00",
+    "gameId": "184473",
+    "sport": "NCAAF",
+    "startTime": "10/02/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-02T18:00:00-05:00",
     "teams": [
-      "Cleveland Browns",
-      "Pittsburgh Steelers"
+      "Adrian Bulldogs",
+      "Pittsburgh Panthers",
+      "Virginia Tech Hokies"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-01T19:15:00-05:00"
+      "2026-10-02T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Cleveland Browns",
-        "Pittsburgh Steelers"
+        "Pittsburgh Panthers",
+        "Virginia Tech Hokies"
+      ],
+      [
+        "Adrian Bulldogs",
+        "Virginia Tech Hokies"
+      ]
+    ],
+    "sourceEventConflict": true,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "184472",
+    "sport": "NCAAF",
+    "startTime": "10/02/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-02T18:00:00-05:00",
+    "teams": [
+      "Delaware Blue Hens",
+      "Liberty Flames"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-02T18:00:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Delaware Blue Hens",
+        "Liberty Flames"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,23 +53,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "184471",
+    "gameId": "184474",
     "sport": "NCAAF",
-    "startTime": "10/01/26 08:00 PM CDT",
-    "startTimeIso": "2026-10-01T20:00:00-05:00",
+    "startTime": "10/02/26 07:00 PM CDT",
+    "startTimeIso": "2026-10-02T19:00:00-05:00",
     "teams": [
-      "North Texas Mean Green",
-      "Tulsa Golden Hurricane"
+      "Northwestern Wildcats",
+      "Penn State Nittany Lions"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-01T20:00:00-05:00"
+      "2026-10-02T19:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "North Texas Mean Green",
-        "Tulsa Golden Hurricane"
+        "Northwestern Wildcats",
+        "Penn State Nittany Lions"
       ]
     ],
     "sourceEventConflict": false,
