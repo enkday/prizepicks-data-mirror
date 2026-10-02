@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-01T12:09:56.594Z",
-  "scrapedDate": "Thursday, October 1, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-02T12:10:35.262Z",
+  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1001,
-    "sourceCount": 6965,
-    "acceptedCount": 1001,
-    "excludedCount": 5964,
+    "count": 1054,
+    "sourceCount": 7276,
+    "acceptedCount": 1054,
+    "excludedCount": 6222,
     "rejectedCount": 0,
-    "publishedCount": 1001,
-    "providerFetchedAt": "2026-10-01T12:09:26.314Z",
+    "publishedCount": 1054,
+    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Chicago Bears",
-  "totalProps": 36,
+  "totalProps": 27,
   "props": [
     {
       "projectionId": "15329777",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Tyson Bagent",
       "stat": "Pass Yards",
-      "line": "201.5",
+      "line": "199.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -37,30 +37,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1585,
+      "rank": 1054,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329814",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Rush Yards",
-      "line": "66.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1634,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329959",
@@ -79,9 +58,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1635,
+      "rank": 1093,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329915",
@@ -100,38 +79,17 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1669,
+      "rank": 1121,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
-      "projectionId": "15329821",
-      "playerId": "246525",
+      "projectionId": "15329920",
+      "playerId": "246522",
       "status": "pre_game",
-      "player": "Kyle Monangai",
-      "stat": "Rush Yards",
-      "line": "38.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1692,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329931",
-      "playerId": "211241",
-      "status": "pre_game",
-      "player": "Rome Odunze",
+      "player": "Colston Loveland",
       "stat": "Receiving Yards",
-      "line": "32.5",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -142,9 +100,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1703,
+      "rank": 1152,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329906",
@@ -163,9 +121,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1704,
+      "rank": 1156,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329907",
@@ -184,15 +142,15 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1705,
+      "rank": 1157,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
-      "projectionId": "15329920",
-      "playerId": "246522",
+      "projectionId": "15329931",
+      "playerId": "211241",
       "status": "pre_game",
-      "player": "Colston Loveland",
+      "player": "Rome Odunze",
       "stat": "Receiving Yards",
       "line": "31.5",
       "sport": "NFL",
@@ -205,9 +163,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1706,
+      "rank": 1158,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329776",
@@ -226,30 +184,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1709,
+      "rank": 1162,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329808",
-      "playerId": "246526",
-      "status": "pre_game",
-      "player": "Luther Burden III",
-      "stat": "Longest Reception",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1765,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329956",
@@ -268,9 +205,30 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1778,
+      "rank": 1219,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15329808",
+      "playerId": "246526",
+      "status": "pre_game",
+      "player": "Luther Burden III",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 1235,
+      "gameId": "185006",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329846",
@@ -289,9 +247,30 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1797,
+      "rank": 1238,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15329800",
+      "playerId": "246522",
+      "status": "pre_game",
+      "player": "Colston Loveland",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 1242,
+      "gameId": "185006",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329799",
@@ -310,72 +289,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1806,
+      "rank": 1245,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329800",
-      "playerId": "246522",
-      "status": "pre_game",
-      "player": "Colston Loveland",
-      "stat": "Longest Reception",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1807,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329855",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Longest Rush",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1808,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329863",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1810,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15361342",
@@ -394,30 +310,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1818,
+      "rank": 1255,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15370270",
-      "playerId": "246525",
-      "status": "pre_game",
-      "player": "Kyle Monangai",
-      "stat": "Longest Rush",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1847,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329826",
@@ -436,9 +331,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1855,
+      "rank": 1291,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329874",
@@ -457,9 +352,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1858,
+      "rank": 1292,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329770",
@@ -478,17 +373,17 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1879,
+      "rank": 1308,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
-      "projectionId": "15329771",
-      "playerId": "210665",
+      "projectionId": "15350848",
+      "playerId": "211162",
       "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Longest Reception",
-      "line": "8.5",
+      "player": "Cairo Santos",
+      "stat": "Kicking Points",
+      "line": "7",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -499,9 +394,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1880,
+      "rank": 1324,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356685",
@@ -509,7 +404,7 @@
       "status": "pre_game",
       "player": "Luther Burden III",
       "stat": "Rec Targets",
-      "line": "6",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -520,9 +415,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1902,
+      "rank": 1331,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356688",
@@ -541,9 +436,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1911,
+      "rank": 1344,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356693",
@@ -562,51 +457,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1912,
+      "rank": 1345,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329787",
-      "playerId": "246525",
-      "status": "pre_game",
-      "player": "Kyle Monangai",
-      "stat": "Longest Reception",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1913,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15329922",
-      "playerId": "246525",
-      "status": "pre_game",
-      "player": "Kyle Monangai",
-      "stat": "Receiving Yards",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1915,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356687",
@@ -625,17 +478,17 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1922,
+      "rank": 1351,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
-      "projectionId": "15329954",
-      "playerId": "210665",
+      "projectionId": "15371905",
+      "playerId": "246522",
       "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Rush Yards Per Carry",
-      "line": "4",
+      "player": "Colston Loveland",
+      "stat": "Receptions",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -646,9 +499,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1930,
+      "rank": 1379,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15329861",
@@ -667,30 +520,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1950,
+      "rank": 1383,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15356690",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Rec Targets",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1960,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15347855",
@@ -709,9 +541,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1977,
+      "rank": 1408,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356691",
@@ -730,30 +562,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1981,
+      "rank": 1412,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15331562",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Anytime TDs",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2007,
-      "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15358797",
@@ -772,9 +583,9 @@
       "teamCode": "CHI",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2018,
+      "rank": 1445,
       "gameId": "185006",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     }
   ]
 }

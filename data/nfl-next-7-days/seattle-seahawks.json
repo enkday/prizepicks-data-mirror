@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-01T12:09:56.594Z",
-  "scrapedDate": "Thursday, October 1, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-02T12:10:35.262Z",
+  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1001,
-    "sourceCount": 6965,
-    "acceptedCount": 1001,
-    "excludedCount": 5964,
+    "count": 1054,
+    "sourceCount": 7276,
+    "acceptedCount": 1054,
+    "excludedCount": 6222,
     "rejectedCount": 0,
-    "publishedCount": 1001,
-    "providerFetchedAt": "2026-10-01T12:09:26.314Z",
+    "publishedCount": 1054,
+    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Seattle Seahawks",
-  "totalProps": 33,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "15310293",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Sam Darnold",
       "stat": "Pass Yards",
-      "line": "232.5",
+      "line": "234.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4924,
+      "rank": 4910,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15310627",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jaxon Smith-Njigba",
       "stat": "Receiving Yards",
-      "line": "90.5",
+      "line": "91.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4954,
+      "rank": 4941,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15332201",
@@ -79,30 +79,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4962,
+      "rank": 4952,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15337414",
-      "playerId": "320307",
-      "status": "pre_game",
-      "player": "Jadarian Price",
-      "stat": "Rush Yards",
-      "line": "40.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 03:25 PM CST",
-      "startTimeCST": "10/04/26 03:25 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 5001,
-      "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15337420",
@@ -110,7 +89,7 @@
       "status": "pre_game",
       "player": "Emanuel Wilson",
       "stat": "Rush Yards",
-      "line": "40.5",
+      "line": "44.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -121,9 +100,30 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5002,
+      "rank": 4990,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15337414",
+      "playerId": "320307",
+      "status": "pre_game",
+      "player": "Jadarian Price",
+      "stat": "Rush Yards",
+      "line": "41.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4994,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15332199",
@@ -142,9 +142,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5019,
+      "rank": 5018,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15317374",
@@ -152,7 +152,7 @@
       "status": "pre_game",
       "player": "AJ Barner",
       "stat": "Receiving Yards",
-      "line": "30.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -163,9 +163,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5032,
+      "rank": 5029,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15332190",
@@ -184,9 +184,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5033,
+      "rank": 5034,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15317370",
@@ -205,9 +205,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5059,
+      "rank": 5060,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15317350",
@@ -226,9 +226,30 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5064,
+      "rank": 5066,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15317260",
+      "playerId": "277137",
+      "status": "pre_game",
+      "player": "Rashid Shaheed",
+      "stat": "Receiving Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5084,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15332198",
@@ -247,17 +268,17 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5080,
+      "rank": 5085,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
-      "projectionId": "15317260",
-      "playerId": "277137",
+      "projectionId": "15317346",
+      "playerId": "215430",
       "status": "pre_game",
-      "player": "Rashid Shaheed",
-      "stat": "Receiving Yards",
-      "line": "20.5",
+      "player": "AJ Barner",
+      "stat": "Longest Reception",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -268,9 +289,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5082,
+      "rank": 5129,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15317264",
@@ -289,30 +310,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5121,
+      "rank": 5133,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15317346",
-      "playerId": "215430",
-      "status": "pre_game",
-      "player": "AJ Barner",
-      "stat": "Longest Reception",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 03:25 PM CST",
-      "startTimeCST": "10/04/26 03:25 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 5122,
-      "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15317342",
@@ -331,9 +331,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5125,
+      "rank": 5136,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15346251",
@@ -352,9 +352,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5152,
+      "rank": 5167,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15347524",
@@ -373,9 +373,30 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5153,
+      "rank": 5168,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15376252",
+      "playerId": "246598",
+      "status": "pre_game",
+      "player": "Tory Horton",
+      "stat": "Receiving Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5175,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15339313",
@@ -394,9 +415,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5173,
+      "rank": 5188,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356755",
@@ -415,9 +436,51 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5174,
+      "rank": 5189,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15380305",
+      "playerId": "320307",
+      "status": "pre_game",
+      "player": "Jadarian Price",
+      "stat": "Rush Attempts",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5209,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15379429",
+      "playerId": "246598",
+      "status": "pre_game",
+      "player": "Tory Horton",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5214,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15317330",
@@ -436,16 +499,16 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5192,
+      "rank": 5215,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
-      "projectionId": "15339309",
-      "playerId": "320307",
+      "projectionId": "15376241",
+      "playerId": "264169",
       "status": "pre_game",
-      "player": "Jadarian Price",
-      "stat": "Longest Reception",
+      "player": "George Holani",
+      "stat": "Receiving Yards",
       "line": "7.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
@@ -457,9 +520,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5198,
+      "rank": 5224,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15350075",
@@ -478,9 +541,30 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5199,
+      "rank": 5227,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15339309",
+      "playerId": "320307",
+      "status": "pre_game",
+      "player": "Jadarian Price",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5234,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15310461",
@@ -499,30 +583,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5211,
+      "rank": 5243,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15332191",
-      "playerId": "246597",
-      "status": "pre_game",
-      "player": "Sam Darnold",
-      "stat": "Longest Rush",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 03:25 PM CST",
-      "startTimeCST": "10/04/26 03:25 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 5224,
-      "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356758",
@@ -541,17 +604,17 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5233,
+      "rank": 5275,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
-      "projectionId": "15339326",
-      "playerId": "336243",
+      "projectionId": "15378544",
+      "playerId": "214540",
       "status": "pre_game",
-      "player": "Emanuel Wilson",
-      "stat": "Rush Yards Per Carry",
-      "line": "3.7",
+      "player": "Michael Dickson",
+      "stat": "Punts",
+      "line": "4",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -562,51 +625,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5234,
+      "rank": 5276,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15339310",
-      "playerId": "336243",
-      "status": "pre_game",
-      "player": "Emanuel Wilson",
-      "stat": "Longest Reception",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 03:25 PM CST",
-      "startTimeCST": "10/04/26 03:25 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 5247,
-      "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
-    },
-    {
-      "projectionId": "15339312",
-      "playerId": "336243",
-      "status": "pre_game",
-      "player": "Emanuel Wilson",
-      "stat": "Receiving Yards",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 03:25 PM CST",
-      "startTimeCST": "10/04/26 03:25 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 5248,
-      "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15356757",
@@ -625,9 +646,30 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5249,
+      "rank": 5289,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15378222",
+      "playerId": "246597",
+      "status": "pre_game",
+      "player": "Sam Darnold",
+      "stat": "Longest Rush",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5295,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15350074",
@@ -646,9 +688,30 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5255,
+      "rank": 5301,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15377668",
+      "playerId": "277137",
+      "status": "pre_game",
+      "player": "Rashid Shaheed",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5303,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15317484",
@@ -667,9 +730,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5280,
+      "rank": 5334,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15346252",
@@ -688,9 +751,30 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5285,
+      "rank": 5338,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+    },
+    {
+      "projectionId": "15378624",
+      "playerId": "214540",
+      "status": "pre_game",
+      "player": "Michael Dickson",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5344,
+      "gameId": "185011",
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     },
     {
       "projectionId": "15328155",
@@ -709,9 +793,9 @@
       "teamCode": "SEA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 5308,
+      "rank": 5369,
       "gameId": "185011",
-      "providerFetchedAt": "2026-10-01T12:09:26.314Z"
+      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
     }
   ]
 }

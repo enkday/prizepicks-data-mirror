@@ -1,70 +1,51 @@
 [
   {
-    "gameId": "184469",
-    "sport": "NFL",
-    "startTime": "10/01/26 07:15 PM CDT",
-    "startTimeIso": "2026-10-01T19:15:00-05:00",
-    "teams": [
-      "Cleveland Browns",
-      "Pittsburgh Steelers"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-01T19:15:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Cleveland Browns",
-        "Pittsburgh Steelers"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "184267",
+    "gameId": "184473",
     "sport": "NCAAF",
-    "startTime": "10/01/26 07:00 PM CDT",
-    "startTimeIso": "2026-10-01T19:00:00-05:00",
+    "startTime": "10/02/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-02T18:00:00-05:00",
     "teams": [
-      "New Mexico State Aggies",
-      "Western Kentucky Hilltoppers"
+      "Adrian Bulldogs",
+      "Pittsburgh Panthers",
+      "Virginia Tech Hokies"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-01T19:00:00-05:00"
+      "2026-10-02T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "New Mexico State Aggies",
-        "Western Kentucky Hilltoppers"
+        "Pittsburgh Panthers",
+        "Virginia Tech Hokies"
+      ],
+      [
+        "Adrian Bulldogs",
+        "Virginia Tech Hokies"
       ]
     ],
-    "sourceEventConflict": false,
+    "sourceEventConflict": true,
     "eventTimeVerified": true,
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "184471",
+    "gameId": "184472",
     "sport": "NCAAF",
-    "startTime": "10/01/26 08:00 PM CDT",
-    "startTimeIso": "2026-10-01T20:00:00-05:00",
+    "startTime": "10/02/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-02T18:00:00-05:00",
     "teams": [
-      "North Texas Mean Green",
-      "Tulsa Golden Hurricane"
+      "Delaware Blue Hens",
+      "Liberty Flames"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-01T20:00:00-05:00"
+      "2026-10-02T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "North Texas Mean Green",
-        "Tulsa Golden Hurricane"
+        "Delaware Blue Hens",
+        "Liberty Flames"
       ]
     ],
     "sourceEventConflict": false,
@@ -72,23 +53,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "191051",
-    "sport": "MLB",
-    "startTime": "10/01/26 07:00 PM CDT",
-    "startTimeIso": "2026-10-01T19:00:00-05:00",
+    "gameId": "184474",
+    "sport": "NCAAF",
+    "startTime": "10/02/26 07:00 PM CDT",
+    "startTimeIso": "2026-10-02T19:00:00-05:00",
     "teams": [
-      "Atlanta Braves",
-      "Philadelphia Phillies"
+      "Northwestern Wildcats",
+      "Penn State Nittany Lions"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-01T19:00:00-05:00"
+      "2026-10-02T19:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Atlanta Braves",
-        "Philadelphia Phillies"
+        "Northwestern Wildcats",
+        "Penn State Nittany Lions"
       ]
     ],
     "sourceEventConflict": false,
