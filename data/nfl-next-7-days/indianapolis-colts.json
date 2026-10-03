@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1054,
-    "sourceCount": 7276,
-    "acceptedCount": 1054,
-    "excludedCount": 6222,
+    "count": 1248,
+    "sourceCount": 8498,
+    "acceptedCount": 1248,
+    "excludedCount": 7250,
     "rejectedCount": 0,
-    "publishedCount": 1054,
-    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
+    "publishedCount": 1248,
+    "providerFetchedAt": "2026-10-03T13:39:00.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Indianapolis Colts",
-  "totalProps": 34,
+  "totalProps": 41,
   "props": [
     {
       "projectionId": "15310277",
@@ -37,9 +37,30 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 17,
+      "rank": 19,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15388870",
+      "playerId": "246519",
+      "status": "pre_game",
+      "player": "Daniel Jones",
+      "stat": "Passer Rating",
+      "line": "98.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 51,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310434",
@@ -60,7 +81,7 @@
       "opponentCode": "WAS",
       "rank": 53,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15314888",
@@ -68,7 +89,28 @@
       "status": "pre_game",
       "player": "Daniel Jones",
       "stat": "Completion Percentage",
-      "line": "65.1",
+      "line": "68.3",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 72,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15310598",
+      "playerId": "154212",
+      "status": "pre_game",
+      "player": "Josh Downs",
+      "stat": "Receiving Yards",
+      "line": "63.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -81,28 +123,7 @@
       "opponentCode": "WAS",
       "rank": 73,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15310598",
-      "playerId": "154212",
-      "status": "pre_game",
-      "player": "Josh Downs",
-      "stat": "Receiving Yards",
-      "line": "62.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 08:30 AM CST",
-      "startTimeCST": "10/04/26 08:30 AM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Indianapolis Colts",
-      "teamCode": "IND",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 74,
-      "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310597",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Tyler Warren",
       "stat": "Receiving Yards",
-      "line": "45.5",
+      "line": "51.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -121,9 +142,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 102,
+      "rank": 82,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15311574",
@@ -142,9 +163,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 131,
+      "rank": 114,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15316887",
@@ -163,9 +184,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 133,
+      "rank": 116,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15314902",
@@ -184,9 +205,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 139,
+      "rank": 123,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15316797",
@@ -205,9 +226,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 191,
+      "rank": 163,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15314836",
@@ -226,9 +247,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 197,
+      "rank": 167,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15315382",
@@ -247,9 +268,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 198,
+      "rank": 170,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310596",
@@ -268,9 +289,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 200,
+      "rank": 172,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15316858",
@@ -289,9 +310,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 235,
+      "rank": 196,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15316795",
@@ -310,9 +331,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 241,
+      "rank": 204,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15316884",
@@ -331,17 +352,17 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 244,
+      "rank": 206,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15327522",
-      "playerId": "346777",
+      "projectionId": "15368968",
+      "playerId": "247909",
       "status": "pre_game",
-      "player": "Darius Slayton",
+      "player": "Laquon Treadwell",
       "stat": "Receiving Yards",
-      "line": "15.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -352,9 +373,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 252,
+      "rank": 223,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15327520",
@@ -373,15 +394,15 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 276,
+      "rank": 233,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15368968",
-      "playerId": "247909",
+      "projectionId": "15327522",
+      "playerId": "346777",
       "status": "pre_game",
-      "player": "Laquon Treadwell",
+      "player": "Darius Slayton",
       "stat": "Receiving Yards",
       "line": "13.5",
       "sport": "NFL",
@@ -394,9 +415,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 278,
+      "rank": 234,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377362",
@@ -415,9 +436,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 288,
+      "rank": 245,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310888",
@@ -436,17 +457,17 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 290,
+      "rank": 246,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15316846",
+      "projectionId": "15317471",
       "playerId": "206321",
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Longest Reception",
-      "line": "11.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -457,9 +478,51 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 293,
+      "rank": 250,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400442",
+      "playerId": "154212",
+      "status": "pre_game",
+      "player": "Josh Downs",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 272,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400444",
+      "playerId": "336466",
+      "status": "pre_game",
+      "player": "Keenan Allen",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 273,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15316885",
@@ -478,9 +541,30 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 320,
+      "rank": 280,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400443",
+      "playerId": "246563",
+      "status": "pre_game",
+      "player": "Tyler Warren",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 281,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329294",
@@ -499,9 +583,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 322,
+      "rank": 282,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329295",
@@ -520,9 +604,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 323,
+      "rank": 283,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15339214",
@@ -541,17 +625,17 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 326,
+      "rank": 286,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15368969",
-      "playerId": "336463",
+      "projectionId": "15311573",
+      "playerId": "246563",
       "status": "pre_game",
-      "player": "Seth McGowan",
-      "stat": "Rush Yards",
-      "line": "6.5",
+      "player": "Tyler Warren",
+      "stat": "Receptions",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
       "startTimeCST": "10/04/26 08:30 AM CST",
@@ -562,9 +646,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 338,
+      "rank": 301,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329296",
@@ -583,9 +667,30 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 350,
+      "rank": 303,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15368969",
+      "playerId": "336463",
+      "status": "pre_game",
+      "player": "Seth McGowan",
+      "stat": "Rush Yards",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 307,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329663",
@@ -604,9 +709,30 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 355,
+      "rank": 308,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15391118",
+      "playerId": "336463",
+      "status": "pre_game",
+      "player": "Seth McGowan",
+      "stat": "Longest Rush",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 322,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15314901",
@@ -625,9 +751,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 370,
+      "rank": 335,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15378527",
@@ -646,16 +772,16 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 397,
+      "rank": 364,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15376771",
-      "playerId": "336463",
+      "projectionId": "15318957",
+      "playerId": "206321",
       "status": "pre_game",
-      "player": "Seth McGowan",
-      "stat": "Rush Attempts",
+      "player": "Jonathan Taylor",
+      "stat": "Receptions",
       "line": "2.5",
       "sport": "NFL",
       "startTime": "10/04/26 08:30 AM CST",
@@ -667,9 +793,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 412,
+      "rank": 370,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15379405",
@@ -688,9 +814,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 417,
+      "rank": 380,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15314827",
@@ -709,9 +835,9 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 422,
+      "rank": 386,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377650",
@@ -730,9 +856,30 @@
       "teamCode": "IND",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 437,
+      "rank": 398,
       "gameId": "185001",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15389214",
+      "playerId": "206321",
+      "status": "pre_game",
+      "player": "Jonathan Taylor",
+      "stat": "Anytime TDs",
+      "line": "1",
+      "sport": "NFL",
+      "startTime": "10/04/26 08:30 AM CST",
+      "startTimeCST": "10/04/26 08:30 AM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 415,
+      "gameId": "185001",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     }
   ]
 }

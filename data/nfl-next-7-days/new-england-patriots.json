@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1054,
-    "sourceCount": 7276,
-    "acceptedCount": 1054,
-    "excludedCount": 6222,
+    "count": 1248,
+    "sourceCount": 8498,
+    "acceptedCount": 1248,
+    "excludedCount": 7250,
     "rejectedCount": 0,
-    "publishedCount": 1054,
-    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
+    "publishedCount": 1248,
+    "providerFetchedAt": "2026-10-03T13:39:00.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New England Patriots",
-  "totalProps": 37,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "15310288",
@@ -37,17 +37,17 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4011,
+      "rank": 4643,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15318748",
+      "projectionId": "15388884",
       "playerId": "215664",
       "status": "pre_game",
       "player": "Drake Maye",
-      "stat": "Completion Percentage",
-      "line": "67.2",
+      "stat": "Passer Rating",
+      "line": "92.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4068,
+      "rank": 4678,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15318748",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Completion Percentage",
+      "line": "63.9",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 4704,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310622",
@@ -79,9 +100,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4107,
+      "rank": 4743,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329766",
@@ -100,9 +121,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4110,
+      "rank": 4747,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310621",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Romeo Doubs",
       "stat": "Receiving Yards",
-      "line": "39.5",
+      "line": "40.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4111,
+      "rank": 4749,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318680",
@@ -142,9 +163,30 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4134,
+      "rank": 4777,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15329765",
+      "playerId": "210968",
+      "status": "pre_game",
+      "player": "Rhamondre Stevenson",
+      "stat": "Rush Yards",
+      "line": "32.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 4785,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310623",
@@ -163,30 +205,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4144,
+      "rank": 4788,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15329765",
-      "playerId": "210968",
-      "status": "pre_game",
-      "player": "Rhamondre Stevenson",
-      "stat": "Rush Yards",
-      "line": "31.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 4145,
-      "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318560",
@@ -205,9 +226,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4148,
+      "rank": 4789,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318648",
@@ -226,9 +247,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4179,
+      "rank": 4822,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310454",
@@ -247,9 +268,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4183,
+      "rank": 4826,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318666",
@@ -268,9 +289,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4212,
+      "rank": 4857,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318590",
@@ -289,9 +310,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4222,
+      "rank": 4868,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318653",
@@ -310,9 +331,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4224,
+      "rank": 4870,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330733",
@@ -331,9 +352,30 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4247,
+      "rank": 4896,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15318586",
+      "playerId": "210966",
+      "status": "pre_game",
+      "player": "Hunter Henry",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 4910,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318599",
@@ -352,30 +394,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4261,
+      "rank": 4911,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15318586",
-      "playerId": "210966",
-      "status": "pre_game",
-      "player": "Hunter Henry",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "Buffalo Bills",
-      "opponentCode": "BUF",
-      "rank": 4265,
-      "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318580",
@@ -394,9 +415,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4294,
+      "rank": 4945,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332175",
@@ -415,9 +436,30 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4298,
+      "rank": 4948,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15389790",
+      "playerId": "246542",
+      "status": "pre_game",
+      "player": "Kyle Williams",
+      "stat": "Receiving Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 4952,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15331400",
@@ -436,17 +478,17 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4310,
+      "rank": 4962,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15334861",
-      "playerId": "246546",
+      "projectionId": "15331409",
+      "playerId": "210968",
       "status": "pre_game",
-      "player": "TreVeyon Henderson",
-      "stat": "Rush Attempts",
-      "line": "10",
+      "player": "Rhamondre Stevenson",
+      "stat": "Longest Reception",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -457,16 +499,58 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4316,
+      "rank": 4963,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15331409",
-      "playerId": "210968",
+      "projectionId": "15400484",
+      "playerId": "320279",
       "status": "pre_game",
-      "player": "Rhamondre Stevenson",
-      "stat": "Longest Reception",
+      "player": "Romeo Doubs",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 4966,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400486",
+      "playerId": "246543",
+      "status": "pre_game",
+      "player": "Mack Hollins",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 4967,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15334861",
+      "playerId": "246546",
+      "status": "pre_game",
+      "player": "TreVeyon Henderson",
+      "stat": "Rush Attempts",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
@@ -478,9 +562,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4321,
+      "rank": 4981,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15331399",
@@ -499,9 +583,51 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4347,
+      "rank": 5012,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15395150",
+      "playerId": "246542",
+      "status": "pre_game",
+      "player": "Kyle Williams",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 5016,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400485",
+      "playerId": "210966",
+      "status": "pre_game",
+      "player": "Hunter Henry",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 5017,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330732",
@@ -520,9 +646,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4362,
+      "rank": 5028,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15331416",
@@ -541,9 +667,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4364,
+      "rank": 5030,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318635",
@@ -562,9 +688,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4381,
+      "rank": 5052,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15334934",
@@ -583,9 +709,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4390,
+      "rank": 5061,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356736",
@@ -604,9 +730,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4394,
+      "rank": 5064,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356730",
@@ -625,9 +751,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4400,
+      "rank": 5069,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356732",
@@ -646,9 +772,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4401,
+      "rank": 5070,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356734",
@@ -667,9 +793,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4418,
+      "rank": 5109,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15378542",
@@ -688,9 +814,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4419,
+      "rank": 5110,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318618",
@@ -709,9 +835,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4423,
+      "rank": 5114,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330726",
@@ -730,9 +856,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4428,
+      "rank": 5119,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356737",
@@ -751,9 +877,30 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4441,
+      "rank": 5135,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15331413",
+      "playerId": "210968",
+      "status": "pre_game",
+      "player": "Rhamondre Stevenson",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Buffalo Bills",
+      "opponentCode": "BUF",
+      "rank": 5145,
+      "gameId": "185007",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356733",
@@ -772,9 +919,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4482,
+      "rank": 5182,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15378623",
@@ -793,9 +940,9 @@
       "teamCode": "NE",
       "Opponent": "Buffalo Bills",
       "opponentCode": "BUF",
-      "rank": 4483,
+      "rank": 5183,
       "gameId": "185007",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     }
   ]
 }

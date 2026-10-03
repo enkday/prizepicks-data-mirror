@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1054,
-    "sourceCount": 7276,
-    "acceptedCount": 1054,
-    "excludedCount": 6222,
+    "count": 1248,
+    "sourceCount": 8498,
+    "acceptedCount": 1248,
+    "excludedCount": 7250,
     "rejectedCount": 0,
-    "publishedCount": 1054,
-    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
+    "publishedCount": 1248,
+    "providerFetchedAt": "2026-10-03T13:39:00.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Green Bay Packers",
-  "totalProps": 45,
+  "totalProps": 51,
   "props": [
     {
       "projectionId": "15267000",
@@ -37,17 +37,17 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3465,
+      "rank": 4015,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15267002",
-      "playerId": "210337",
+      "projectionId": "15388875",
+      "playerId": "206301",
       "status": "pre_game",
-      "player": "Christian Watson",
-      "stat": "Receiving Yards",
-      "line": "65.5",
+      "player": "Jordan Love",
+      "stat": "Passer Rating",
+      "line": "80.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -58,9 +58,51 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3520,
+      "rank": 4051,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15267002",
+      "playerId": "210337",
+      "status": "pre_game",
+      "player": "Christian Watson",
+      "stat": "Receiving Yards",
+      "line": "67.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4072,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15267001",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Receiving Yards",
+      "line": "59.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4076,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317192",
@@ -79,30 +121,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3530,
+      "rank": 4085,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15267001",
-      "playerId": "246577",
-      "status": "pre_game",
-      "player": "Matthew Golden",
-      "stat": "Receiving Yards",
-      "line": "58.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3531,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317203",
@@ -121,9 +142,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3558,
+      "rank": 4110,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317164",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Longest Completion",
-      "line": "39.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3565,
+      "rank": 4138,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317103",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Pass Attempts",
-      "line": "35",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3590,
+      "rank": 4145,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15346324",
@@ -184,9 +205,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3599,
+      "rank": 4147,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317166",
@@ -205,9 +226,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3652,
+      "rank": 4206,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15351153",
@@ -226,9 +247,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3654,
+      "rank": 4208,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317084",
@@ -247,9 +268,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3655,
+      "rank": 4209,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317087",
@@ -268,30 +289,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3660,
+      "rank": 4215,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15356470",
-      "playerId": "336526",
-      "status": "pre_game",
-      "player": "Skyy Moore",
-      "stat": "Receiving Yards",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3682,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317189",
@@ -310,9 +310,30 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3704,
+      "rank": 4257,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15356470",
+      "playerId": "336526",
+      "status": "pre_game",
+      "player": "Skyy Moore",
+      "stat": "Receiving Yards",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4263,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356473",
@@ -331,17 +352,17 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3745,
+      "rank": 4302,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15347782",
-      "playerId": "340168",
+      "projectionId": "15400478",
+      "playerId": "210337",
       "status": "pre_game",
-      "player": "Kaleb Johnson",
-      "stat": "Longest Rush",
-      "line": "9.5",
+      "player": "Christian Watson",
+      "stat": "Yards on First Reception",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -352,9 +373,30 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3772,
+      "rank": 4310,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400479",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4316,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15347781",
@@ -362,6 +404,27 @@
       "status": "pre_game",
       "player": "Kaleb Johnson",
       "stat": "Rush Attempts",
+      "line": "9",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4358,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15347782",
+      "playerId": "340168",
+      "status": "pre_game",
+      "player": "Kaleb Johnson",
+      "stat": "Longest Rush",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
@@ -373,9 +436,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3795,
+      "rank": 4364,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15363976",
@@ -394,9 +457,30 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3797,
+      "rank": 4365,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400480",
+      "playerId": "212129",
+      "status": "pre_game",
+      "player": "Tucker Kraft",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4366,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356713",
@@ -415,30 +499,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3798,
+      "rank": 4368,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15362182",
-      "playerId": "339836",
-      "status": "pre_game",
-      "player": "Jonnu Smith",
-      "stat": "Receiving Yards",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3808,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15363960",
@@ -457,9 +520,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3809,
+      "rank": 4379,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15373359",
@@ -478,9 +541,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3810,
+      "rank": 4380,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356715",
@@ -499,17 +562,17 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3814,
+      "rank": 4384,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15317018",
-      "playerId": "206301",
+      "projectionId": "15317172",
+      "playerId": "336518",
       "status": "pre_game",
-      "player": "Jordan Love",
-      "stat": "Longest Rush",
-      "line": "5.5",
+      "player": "Trey Smack",
+      "stat": "Kicking Points",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -520,9 +583,30 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3827,
+      "rank": 4385,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15362182",
+      "playerId": "339836",
+      "status": "pre_game",
+      "player": "Jonnu Smith",
+      "stat": "Receiving Yards",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4392,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356716",
@@ -541,9 +625,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3836,
+      "rank": 4406,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15358819",
@@ -562,9 +646,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3838,
+      "rank": 4408,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15358828",
@@ -583,9 +667,30 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3839,
+      "rank": 4409,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15363979",
+      "playerId": "216879",
+      "status": "pre_game",
+      "player": "Chris Brooks",
+      "stat": "Longest Reception",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4410,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15363984",
@@ -604,9 +709,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3840,
+      "rank": 4411,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15350061",
@@ -625,17 +730,17 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3845,
+      "rank": 4416,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15378539",
-      "playerId": "220586",
+      "projectionId": "15317018",
+      "playerId": "206301",
       "status": "pre_game",
-      "player": "Daniel Whelan",
-      "stat": "Punts",
-      "line": "5",
+      "player": "Jordan Love",
+      "stat": "Longest Rush",
+      "line": "4.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -646,9 +751,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3847,
+      "rank": 4419,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317021",
@@ -667,9 +772,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3848,
+      "rank": 4420,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15321310",
@@ -688,15 +793,36 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3849,
+      "rank": 4421,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15363979",
-      "playerId": "216879",
+      "projectionId": "15356471",
+      "playerId": "340168",
       "status": "pre_game",
-      "player": "Chris Brooks",
+      "player": "Kaleb Johnson",
+      "stat": "Receiving Yards",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4429,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15356474",
+      "playerId": "340168",
+      "status": "pre_game",
+      "player": "Kaleb Johnson",
       "stat": "Longest Reception",
       "line": "4.5",
       "sport": "NFL",
@@ -709,9 +835,51 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3861,
+      "rank": 4430,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15378539",
+      "playerId": "220586",
+      "status": "pre_game",
+      "player": "Daniel Whelan",
+      "stat": "Punts",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4436,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15390607",
+      "playerId": "216879",
+      "status": "pre_game",
+      "player": "Chris Brooks",
+      "stat": "Longest Rush",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4442,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15350062",
@@ -730,51 +898,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3870,
+      "rank": 4456,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15356471",
-      "playerId": "340168",
-      "status": "pre_game",
-      "player": "Kaleb Johnson",
-      "stat": "Receiving Yards",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3884,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15356474",
-      "playerId": "340168",
-      "status": "pre_game",
-      "player": "Kaleb Johnson",
-      "stat": "Longest Reception",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3885,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377649",
@@ -793,9 +919,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3903,
+      "rank": 4491,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15360833",
@@ -814,30 +940,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3914,
+      "rank": 4502,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15373337",
-      "playerId": "206301",
-      "status": "pre_game",
-      "player": "Jordan Love",
-      "stat": "Rush Attempts",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 3919,
-      "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317092",
@@ -856,9 +961,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3924,
+      "rank": 4515,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377647",
@@ -877,9 +982,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3943,
+      "rank": 4534,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377648",
@@ -898,9 +1003,30 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3944,
+      "rank": 4535,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15321313",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "INT",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 4565,
+      "gameId": "185009",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15373355",
@@ -919,9 +1045,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3984,
+      "rank": 4589,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15373357",
@@ -940,9 +1066,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3985,
+      "rank": 4590,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15373360",
@@ -961,9 +1087,9 @@
       "teamCode": "GB",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 3986,
+      "rank": 4591,
       "gameId": "185009",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     }
   ]
 }

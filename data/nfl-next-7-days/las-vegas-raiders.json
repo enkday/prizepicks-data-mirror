@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1054,
-    "sourceCount": 7276,
-    "acceptedCount": 1054,
-    "excludedCount": 6222,
+    "count": 1248,
+    "sourceCount": 8498,
+    "acceptedCount": 1248,
+    "excludedCount": 7250,
     "rejectedCount": 0,
-    "publishedCount": 1054,
-    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
+    "publishedCount": 1248,
+    "providerFetchedAt": "2026-10-03T13:39:00.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Las Vegas Raiders",
-  "totalProps": 32,
+  "totalProps": 42,
   "props": [
     {
       "projectionId": "15310297",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Kirk Cousins",
       "stat": "Pass Yards",
-      "line": "222.5",
+      "line": "223.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5856,
+      "rank": 6924,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15388888",
+      "playerId": "336537",
+      "status": "pre_game",
+      "player": "Kirk Cousins",
+      "stat": "Passer Rating",
+      "line": "88.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6963,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310635",
@@ -58,9 +79,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5901,
+      "rank": 6973,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335348",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Kirk Cousins",
       "stat": "Completion Percentage",
-      "line": "64.2",
+      "line": "62.3",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5920,
+      "rank": 6990,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310468",
@@ -100,9 +121,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5928,
+      "rank": 6999,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335500",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Tre Tucker",
       "stat": "Receiving Yards",
-      "line": "38.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5969,
+      "rank": 7041,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335260",
@@ -142,9 +163,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5976,
+      "rank": 7047,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335436",
@@ -163,30 +184,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5978,
+      "rank": 7050,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15310636",
-      "playerId": "246538",
-      "status": "pre_game",
-      "player": "Ashton Jeanty",
-      "stat": "Receiving Yards",
-      "line": "22.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 03:25 PM CST",
-      "startTimeCST": "10/04/26 03:25 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 6033,
-      "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335259",
@@ -205,9 +205,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6038,
+      "rank": 7110,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335388",
@@ -226,9 +226,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6040,
+      "rank": 7113,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335418",
@@ -247,9 +247,30 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6041,
+      "rank": 7114,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15310636",
+      "playerId": "246538",
+      "status": "pre_game",
+      "player": "Ashton Jeanty",
+      "stat": "Receiving Yards",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7121,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15357275",
@@ -268,9 +289,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6064,
+      "rank": 7138,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335439",
@@ -289,9 +310,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6077,
+      "rank": 7154,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335425",
@@ -310,9 +331,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6093,
+      "rank": 7169,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15357258",
@@ -331,16 +352,16 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6095,
+      "rank": 7170,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15335237",
-      "playerId": "246538",
+      "projectionId": "15335403",
+      "playerId": "212146",
       "status": "pre_game",
-      "player": "Ashton Jeanty",
-      "stat": "Longest Rush",
+      "player": "Michael Mayer",
+      "stat": "Longest Reception",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
@@ -352,9 +373,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6130,
+      "rank": 7207,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15358144",
@@ -373,16 +394,16 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6135,
+      "rank": 7211,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15335403",
-      "playerId": "212146",
+      "projectionId": "15335237",
+      "playerId": "246538",
       "status": "pre_game",
-      "player": "Michael Mayer",
-      "stat": "Longest Reception",
+      "player": "Ashton Jeanty",
+      "stat": "Longest Rush",
       "line": "11.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
@@ -394,16 +415,16 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6141,
+      "rank": 7216,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15364945",
-      "playerId": "246538",
+      "projectionId": "15400510",
+      "playerId": "211965",
       "status": "pre_game",
-      "player": "Ashton Jeanty",
-      "stat": "Longest Reception",
+      "player": "Tre Tucker",
+      "stat": "Yards on First Reception",
       "line": "10.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
@@ -415,16 +436,16 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6147,
+      "rank": 7222,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15360704",
-      "playerId": "210636",
+      "projectionId": "15364945",
+      "playerId": "246538",
       "status": "pre_game",
-      "player": "Brock Bowers",
-      "stat": "Rec Targets",
+      "player": "Ashton Jeanty",
+      "stat": "Longest Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
@@ -436,9 +457,72 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6161,
+      "rank": 7237,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15390465",
+      "playerId": "343990",
+      "status": "pre_game",
+      "player": "Cody White",
+      "stat": "Receiving Yards",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7245,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15360704",
+      "playerId": "210636",
+      "status": "pre_game",
+      "player": "Brock Bowers",
+      "stat": "Rec Targets",
+      "line": "9",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7257,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400508",
+      "playerId": "210636",
+      "status": "pre_game",
+      "player": "Brock Bowers",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7263,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15376409",
@@ -457,9 +541,30 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6188,
+      "rank": 7276,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15391232",
+      "playerId": "343990",
+      "status": "pre_game",
+      "player": "Cody White",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7279,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15358109",
@@ -478,9 +583,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6190,
+      "rank": 7280,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15358101",
@@ -499,9 +604,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6195,
+      "rank": 7287,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15360705",
@@ -520,9 +625,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6211,
+      "rank": 7304,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15374714",
@@ -541,9 +646,30 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6231,
+      "rank": 7323,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400509",
+      "playerId": "246538",
+      "status": "pre_game",
+      "player": "Ashton Jeanty",
+      "stat": "Yards on First Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7333,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15360706",
@@ -562,9 +688,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6232,
+      "rank": 7335,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15360707",
@@ -583,9 +709,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6249,
+      "rank": 7352,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15360708",
@@ -604,9 +730,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6250,
+      "rank": 7353,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15335487",
@@ -614,7 +740,7 @@
       "status": "pre_game",
       "player": "Ashton Jeanty",
       "stat": "Rush Yards Per Carry",
-      "line": "3.2",
+      "line": "3.4",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -625,9 +751,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6256,
+      "rank": 7365,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15357303",
@@ -646,9 +772,51 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6257,
+      "rank": 7366,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15357274",
+      "playerId": "212146",
+      "status": "pre_game",
+      "player": "Michael Mayer",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7379,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15402224",
+      "playerId": "336537",
+      "status": "pre_game",
+      "player": "Kirk Cousins",
+      "stat": "Longest Rush",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7390,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15358104",
@@ -667,9 +835,51 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6296,
+      "rank": 7409,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15306744",
+      "playerId": "246538",
+      "status": "pre_game",
+      "player": "Ashton Jeanty",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7433,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15310469",
+      "playerId": "336537",
+      "status": "pre_game",
+      "player": "Kirk Cousins",
+      "stat": "Rush Yards",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 7439,
+      "gameId": "185012",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15358637",
@@ -688,9 +898,9 @@
       "teamCode": "LV",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6335,
+      "rank": 7464,
       "gameId": "185012",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     }
   ]
 }

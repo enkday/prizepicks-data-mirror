@@ -1,22 +1,22 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "sport": "NBA",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 13,
-    "sourceCount": 194,
-    "acceptedCount": 13,
+    "count": 15,
+    "sourceCount": 196,
+    "acceptedCount": 15,
     "excludedCount": 181,
     "rejectedCount": 0,
-    "publishedCount": 13,
-    "providerFetchedAt": "2026-10-02T12:09:05.588Z",
+    "publishedCount": 15,
+    "providerFetchedAt": "2026-10-03T13:39:06.367Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
-  "totalProps": 13,
+  "totalProps": 15,
   "props": [
     {
       "projectionId": "13952665",
@@ -37,7 +37,7 @@
       "opponentCode": "DET",
       "rank": 34,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13952666",
@@ -58,7 +58,28 @@
       "opponentCode": "BOS",
       "rank": 35,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
+    },
+    {
+      "projectionId": "13975883",
+      "playerId": "59107",
+      "status": "pre_game",
+      "player": "Cade Cunningham",
+      "stat": "Assists",
+      "line": "9.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 02:10 PM CST",
+      "startTimeCST": "10/20/26 02:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Pistons",
+      "teamCode": "DET",
+      "Opponent": "Boston Celtics",
+      "opponentCode": "BOS",
+      "rank": 48,
+      "gameId": "181166",
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13976095",
@@ -77,9 +98,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 59,
+      "rank": 60,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13952667",
@@ -98,9 +119,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 84,
+      "rank": 85,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13952668",
@@ -119,9 +140,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 97,
+      "rank": 98,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13975945",
@@ -140,9 +161,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 109,
+      "rank": 110,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13976081",
@@ -161,9 +182,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 119,
+      "rank": 120,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13976094",
@@ -182,9 +203,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 129,
+      "rank": 130,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13952669",
@@ -203,9 +224,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 157,
+      "rank": 158,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13952671",
@@ -224,9 +245,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 163,
+      "rank": 164,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13976083",
@@ -245,9 +266,30 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 173,
+      "rank": 174,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
+    },
+    {
+      "projectionId": "13976000",
+      "playerId": "188011",
+      "status": "pre_game",
+      "player": "Shai Gilgeous-Alexander",
+      "stat": "Assists",
+      "line": "5.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 08:40 PM CST",
+      "startTimeCST": "10/20/26 08:40 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Oklahoma City Thunder",
+      "teamCode": "OKC",
+      "Opponent": "San Antonio Spurs",
+      "opponentCode": "SAS",
+      "rank": 178,
+      "gameId": "181168",
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13976082",
@@ -266,9 +308,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 181,
+      "rank": 183,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     },
     {
       "projectionId": "13976096",
@@ -287,9 +329,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 190,
+      "rank": 192,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-02T12:09:05.588Z"
+      "providerFetchedAt": "2026-10-03T13:39:06.367Z"
     }
   ]
 }

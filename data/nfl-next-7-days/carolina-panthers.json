@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1054,
-    "sourceCount": 7276,
-    "acceptedCount": 1054,
-    "excludedCount": 6222,
+    "count": 1248,
+    "sourceCount": 8498,
+    "acceptedCount": 1248,
+    "excludedCount": 7250,
     "rejectedCount": 0,
-    "publishedCount": 1054,
-    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
+    "publishedCount": 1248,
+    "providerFetchedAt": "2026-10-03T13:39:00.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Carolina Panthers",
-  "totalProps": 37,
+  "totalProps": 41,
   "props": [
     {
       "projectionId": "15310299",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Bryce Young",
       "stat": "Pass Yards",
-      "line": "247.5",
+      "line": "244.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6364,
+      "rank": 7509,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15388891",
+      "playerId": "210975",
+      "status": "pre_game",
+      "player": "Bryce Young",
+      "stat": "Passer Rating",
+      "line": "87.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 7553,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310641",
@@ -58,9 +79,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6416,
+      "rank": 7564,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317955",
@@ -79,9 +100,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6427,
+      "rank": 7576,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317950",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Bryce Young",
       "stat": "Completion Percentage",
-      "line": "64.2",
+      "line": "62.3",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6428,
+      "rank": 7579,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15374453",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Jalen Coker",
       "stat": "Receiving Yards",
-      "line": "49.5",
+      "line": "51.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6452,
+      "rank": 7593,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318009",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Bryce Young",
       "stat": "Longest Completion",
-      "line": "40.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6459,
+      "rank": 7615,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15319868",
@@ -163,9 +184,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6484,
+      "rank": 7634,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15364497",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Darren Waller",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "28.5",
       "sport": "NFL",
       "startTime": "10/04/26 07:20 PM CST",
       "startTimeCST": "10/04/26 07:20 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6522,
+      "rank": 7671,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318026",
@@ -205,9 +226,30 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6524,
+      "rank": 7674,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15374851",
+      "playerId": "216733",
+      "status": "pre_game",
+      "player": "Jalen Coker",
+      "stat": "Longest Reception",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 7697,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317895",
@@ -226,30 +268,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6545,
+      "rank": 7698,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15374851",
-      "playerId": "216733",
-      "status": "pre_game",
-      "player": "Jalen Coker",
-      "stat": "Longest Reception",
-      "line": "21.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 07:20 PM CST",
-      "startTimeCST": "10/04/26 07:20 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 6549,
-      "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318028",
@@ -268,9 +289,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6587,
+      "rank": 7738,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15319042",
@@ -289,9 +310,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6596,
+      "rank": 7747,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15341335",
@@ -310,30 +331,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6609,
+      "rank": 7759,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15373209",
-      "playerId": "343027",
-      "status": "pre_game",
-      "player": "Darren Waller",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 07:20 PM CST",
-      "startTimeCST": "10/04/26 07:20 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 6615,
-      "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310472",
@@ -352,9 +352,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6622,
+      "rank": 7772,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15364509",
@@ -373,9 +373,30 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6625,
+      "rank": 7776,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15373209",
+      "playerId": "343027",
+      "status": "pre_game",
+      "player": "Darren Waller",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 7777,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15371926",
@@ -394,9 +415,30 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6630,
+      "rank": 7781,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400516",
+      "playerId": "246600",
+      "status": "pre_game",
+      "player": "Tetairoa McMillan",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 7785,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15359489",
@@ -415,9 +457,30 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6636,
+      "rank": 7790,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400515",
+      "playerId": "216733",
+      "status": "pre_game",
+      "player": "Jalen Coker",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 7791,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317911",
@@ -436,9 +499,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6640,
+      "rank": 7794,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15373202",
@@ -457,9 +520,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6653,
+      "rank": 7806,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329285",
@@ -478,30 +541,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6658,
+      "rank": 7824,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15373192",
-      "playerId": "339738",
-      "status": "pre_game",
-      "player": "AJ Dillon",
-      "stat": "Longest Rush",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 07:20 PM CST",
-      "startTimeCST": "10/04/26 07:20 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 6665,
-      "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15317889",
@@ -520,9 +562,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6667,
+      "rank": 7833,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377645",
@@ -541,9 +583,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6679,
+      "rank": 7845,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15350079",
@@ -562,9 +604,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6694,
+      "rank": 7861,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15376120",
@@ -583,9 +625,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6711,
+      "rank": 7878,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15318080",
@@ -604,9 +646,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6713,
+      "rank": 7894,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377644",
@@ -625,9 +667,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6715,
+      "rank": 7897,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329286",
@@ -646,9 +688,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6726,
+      "rank": 7908,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15350078",
@@ -667,9 +709,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6736,
+      "rank": 7921,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15378547",
@@ -688,9 +730,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6738,
+      "rank": 7923,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377646",
@@ -709,9 +751,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6758,
+      "rank": 7942,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15379425",
@@ -730,9 +772,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6760,
+      "rank": 7946,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15321678",
@@ -751,9 +793,9 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6772,
+      "rank": 7958,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15357652",
@@ -772,9 +814,30 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6775,
+      "rank": 7961,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15319047",
+      "playerId": "210975",
+      "status": "pre_game",
+      "player": "Bryce Young",
+      "stat": "INT",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 8007,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15373189",
@@ -793,9 +856,30 @@
       "teamCode": "CAR",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 6819,
+      "rank": 8013,
       "gameId": "185210",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15393644",
+      "playerId": "210782",
+      "status": "pre_game",
+      "player": "Chuba Hubbard",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 07:20 PM CST",
+      "startTimeCST": "10/04/26 07:20 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 8019,
+      "gameId": "185210",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     }
   ]
 }

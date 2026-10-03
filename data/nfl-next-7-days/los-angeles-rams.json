@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1054,
-    "sourceCount": 7276,
-    "acceptedCount": 1054,
-    "excludedCount": 6222,
+    "count": 1248,
+    "sourceCount": 8498,
+    "acceptedCount": 1248,
+    "excludedCount": 7250,
     "rejectedCount": 0,
-    "publishedCount": 1054,
-    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
+    "publishedCount": 1248,
+    "providerFetchedAt": "2026-10-03T13:39:00.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Rams",
-  "totalProps": 30,
+  "totalProps": 38,
   "props": [
     {
       "projectionId": "15357815",
@@ -37,9 +37,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 488,
+      "rank": 466,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310279",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Matthew Stafford",
       "stat": "Pass Yards",
-      "line": "252.5",
+      "line": "249.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1461,
+      "rank": 1678,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15388895",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Passer Rating",
+      "line": "89.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1720,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356574",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Puka Nacua",
       "stat": "Receiving Yards",
-      "line": "77.5",
+      "line": "74.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1512,
+      "rank": 1733,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15326042",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Davante Adams",
       "stat": "Receiving Yards",
-      "line": "62.5",
+      "line": "65.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1528,
+      "rank": 1745,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330195",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Matthew Stafford",
       "stat": "Completion Percentage",
-      "line": "59.4",
+      "line": "62.3",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1540,
+      "rank": 1748,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15325820",
@@ -142,9 +163,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1542,
+      "rank": 1760,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15325819",
@@ -152,27 +173,6 @@
       "status": "pre_game",
       "player": "Blake Corum",
       "stat": "Rush Yards",
-      "line": "41.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1563,
-      "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15347695",
-      "playerId": "250314",
-      "status": "pre_game",
-      "player": "Matthew Stafford",
-      "stat": "Longest Completion",
       "line": "39.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
@@ -184,9 +184,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1572,
+      "rank": 1783,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15347695",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Longest Completion",
+      "line": "38.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1803,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330215",
@@ -205,9 +226,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1585,
+      "rank": 1806,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377755",
@@ -226,9 +247,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1597,
+      "rank": 1816,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15357149",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Puka Nacua",
       "stat": "Longest Reception",
-      "line": "25.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1625,
+      "rank": 1849,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15347743",
@@ -257,7 +278,7 @@
       "status": "pre_game",
       "player": "Davante Adams",
       "stat": "Longest Reception",
-      "line": "23.5",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -268,9 +289,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1637,
+      "rank": 1860,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330179",
@@ -289,9 +310,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1644,
+      "rank": 1863,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377754",
@@ -310,30 +331,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1691,
+      "rank": 1915,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
-    },
-    {
-      "projectionId": "15363197",
-      "playerId": "246551",
-      "status": "pre_game",
-      "player": "Kyren Williams",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/04/26 12:00 PM CST",
-      "startTimeCST": "10/04/26 12:00 PM CST",
-      "startDateCST": "2026-10-04",
-      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1698,
-      "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330200",
@@ -352,9 +352,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1714,
+      "rank": 1940,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15363197",
+      "playerId": "246551",
+      "status": "pre_game",
+      "player": "Kyren Williams",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1941,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15372957",
@@ -373,17 +394,17 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1716,
+      "rank": 1942,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15347720",
+      "projectionId": "15391415",
       "playerId": "246579",
       "status": "pre_game",
       "player": "Blake Corum",
       "stat": "Longest Rush",
-      "line": "12.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -394,9 +415,51 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1722,
+      "rank": 1956,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400447",
+      "playerId": "332275",
+      "status": "pre_game",
+      "player": "Davante Adams",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1957,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400446",
+      "playerId": "246588",
+      "status": "pre_game",
+      "player": "Puka Nacua",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1966,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15330187",
@@ -415,9 +478,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1740,
+      "rank": 1970,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15394658",
+      "playerId": "246551",
+      "status": "pre_game",
+      "player": "Kyren Williams",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1985,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329299",
@@ -436,9 +520,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1762,
+      "rank": 1997,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15362929",
@@ -457,9 +541,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1781,
+      "rank": 2013,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329128",
@@ -467,7 +551,7 @@
       "status": "pre_game",
       "player": "Kyren Williams",
       "stat": "Rush Yards Per Carry",
-      "line": "4.2",
+      "line": "4.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -478,9 +562,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1811,
+      "rank": 2031,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15350064",
+      "playerId": "332275",
+      "status": "pre_game",
+      "player": "Davante Adams",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2032,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15378529",
@@ -499,9 +604,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1815,
+      "rank": 2054,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15379411",
@@ -509,7 +614,7 @@
       "status": "pre_game",
       "player": "Matthew Stafford",
       "stat": "Sacks Taken",
-      "line": "2.5",
+      "line": "2",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
       "startTimeCST": "10/04/26 12:00 PM CST",
@@ -520,9 +625,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1846,
+      "rank": 2103,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15324966",
@@ -541,9 +646,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1852,
+      "rank": 2105,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15347710",
+      "playerId": "246579",
+      "status": "pre_game",
+      "player": "Blake Corum",
+      "stat": "Longest Reception",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2112,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15347867",
@@ -562,9 +688,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1861,
+      "rank": 2115,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15372921",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Rush Attempts",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2122,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15378619",
@@ -583,9 +730,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1871,
+      "rank": 2125,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329118",
@@ -604,16 +751,16 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1893,
+      "rank": 2159,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15347710",
-      "playerId": "246579",
+      "projectionId": "15347663",
+      "playerId": "246551",
       "status": "pre_game",
-      "player": "Blake Corum",
-      "stat": "Longest Reception",
+      "player": "Kyren Williams",
+      "stat": "Rush TDs",
       "line": "0.5",
       "sport": "NFL",
       "startTime": "10/04/26 12:00 PM CST",
@@ -625,9 +772,9 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1897,
+      "rank": 2161,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15362931",
@@ -646,9 +793,30 @@
       "teamCode": "LA",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1909,
+      "rank": 2172,
       "gameId": "185004",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15391015",
+      "playerId": "246551",
+      "status": "pre_game",
+      "player": "Kyren Williams",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 12:00 PM CST",
+      "startTimeCST": "10/04/26 12:00 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2178,
+      "gameId": "185004",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     }
   ]
 }

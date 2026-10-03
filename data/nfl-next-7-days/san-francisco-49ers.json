@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-02T12:10:35.262Z",
-  "scrapedDate": "Friday, October 2, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-03T13:39:20.497Z",
+  "scrapedDate": "Saturday, October 3, 2026 at 08:39 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1054,
-    "sourceCount": 7276,
-    "acceptedCount": 1054,
-    "excludedCount": 6222,
+    "count": 1248,
+    "sourceCount": 8498,
+    "acceptedCount": 1248,
+    "excludedCount": 7250,
     "rejectedCount": 0,
-    "publishedCount": 1054,
-    "providerFetchedAt": "2026-10-02T12:08:59.830Z",
+    "publishedCount": 1248,
+    "providerFetchedAt": "2026-10-03T13:39:00.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 27,
+  "totalProps": 33,
   "props": [
     {
       "projectionId": "15310295",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Brock Purdy",
       "stat": "Pass Yards",
-      "line": "229.5",
+      "line": "232.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5398,
+      "rank": 6355,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15388890",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Passer Rating",
+      "line": "96.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 6388,
+      "gameId": "185013",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332124",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Brock Purdy",
       "stat": "Completion Percentage",
-      "line": "67.2",
+      "line": "65.1",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5451,
+      "rank": 6417,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310465",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Christian McCaffrey",
       "stat": "Rush Yards",
-      "line": "65.5",
+      "line": "64.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5453,
+      "rank": 6418,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310629",
@@ -100,9 +121,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5455,
+      "rank": 6419,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310631",
@@ -121,9 +142,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5482,
+      "rank": 6446,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332153",
@@ -142,9 +163,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5504,
+      "rank": 6469,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332039",
@@ -163,9 +184,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5513,
+      "rank": 6476,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329585",
@@ -184,9 +205,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5554,
+      "rank": 6522,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332079",
@@ -205,9 +226,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5555,
+      "rank": 6523,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332040",
@@ -226,9 +247,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5565,
+      "rank": 6533,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15310466",
@@ -247,9 +268,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5601,
+      "rank": 6581,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332051",
@@ -268,9 +289,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5602,
+      "rank": 6582,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15339052",
@@ -289,9 +310,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5611,
+      "rank": 6591,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332019",
@@ -310,9 +331,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5620,
+      "rank": 6600,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332011",
@@ -331,17 +352,17 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5653,
+      "rank": 6634,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
-      "projectionId": "15338014",
+      "projectionId": "15355360",
       "playerId": "336246",
       "status": "pre_game",
       "player": "Kaelon Black",
       "stat": "Longest Rush",
-      "line": "8.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "10/04/26 03:25 PM CST",
       "startTimeCST": "10/04/26 03:25 PM CST",
@@ -352,9 +373,51 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5689,
+      "rank": 6636,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400502",
+      "playerId": "320180",
+      "status": "pre_game",
+      "player": "Mike Evans",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 6639,
+      "gameId": "185013",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400504",
+      "playerId": "211086",
+      "status": "pre_game",
+      "player": "George Kittle",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 6674,
+      "gameId": "185013",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15374096",
@@ -373,9 +436,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5690,
+      "rank": 6681,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15374749",
@@ -394,9 +457,30 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5698,
+      "rank": 6690,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15375050",
+      "playerId": "262227",
+      "status": "pre_game",
+      "player": "Eddy Pineiro",
+      "stat": "Kicking Points",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 6691,
+      "gameId": "185013",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356754",
@@ -415,9 +499,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5705,
+      "rank": 6698,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15356753",
@@ -436,9 +520,30 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5710,
+      "rank": 6705,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15400503",
+      "playerId": "206315",
+      "status": "pre_game",
+      "player": "Christian McCaffrey",
+      "stat": "Yards on First Reception",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 6721,
+      "gameId": "185013",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15350077",
@@ -457,9 +562,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5724,
+      "rank": 6723,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332100",
@@ -478,9 +583,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5740,
+      "rank": 6748,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332025",
@@ -499,9 +604,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5741,
+      "rank": 6749,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15329480",
@@ -520,9 +625,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5783,
+      "rank": 6805,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15347876",
@@ -541,9 +646,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5791,
+      "rank": 6813,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15377667",
@@ -562,9 +667,30 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5795,
+      "rank": 6817,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
+    },
+    {
+      "projectionId": "15331999",
+      "playerId": "206315",
+      "status": "pre_game",
+      "player": "Christian McCaffrey",
+      "stat": "Rush TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/04/26 03:25 PM CST",
+      "startTimeCST": "10/04/26 03:25 PM CST",
+      "startDateCST": "2026-10-04",
+      "startTimeIso": "2026-10-04T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 6863,
+      "gameId": "185013",
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     },
     {
       "projectionId": "15332034",
@@ -583,9 +709,9 @@
       "teamCode": "SF",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 5825,
+      "rank": 6865,
       "gameId": "185013",
-      "providerFetchedAt": "2026-10-02T12:08:59.830Z"
+      "providerFetchedAt": "2026-10-03T13:39:00.798Z"
     }
   ]
 }
