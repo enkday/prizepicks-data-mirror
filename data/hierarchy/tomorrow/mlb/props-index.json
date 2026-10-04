@@ -1,0 +1,48 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "a41e2d5e0fad993e421ada66fc93aea324883fa19160627238593d48ab3f6c55",
+  "sourceScrapedAt": "2026-10-04T13:51:57.046Z",
+  "sourceScrapedDate": "Sunday, October 4, 2026 at 08:51 AM CDT",
+  "observedDate": "2026-10-05",
+  "completeness": "reported",
+  "sport": "MLB",
+  "sportSlug": "mlb",
+  "dayBranch": "tomorrow",
+  "gameCount": 2,
+  "propCount": 23,
+  "games": [
+    {
+      "gameId": "191113",
+      "slate": "Late",
+      "startTime": "10/05/26 04:00 PM CDT",
+      "startTimeIso": "2026-10-05T16:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Chicago White Sox",
+        "Cleveland Guardians"
+      ],
+      "propCount": 13,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/191113.json"
+    },
+    {
+      "gameId": "191178",
+      "slate": "Late",
+      "startTime": "10/05/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-05T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "New York Yankees",
+        "Tampa Bay Rays"
+      ],
+      "propCount": 10,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/191178.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 23,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-slate/late.json"
+    }
+  ]
+}
