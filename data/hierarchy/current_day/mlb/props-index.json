@@ -1,47 +1,47 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "df71f253b2d0182237cdf9b8b44130a68ee942e3c872eef71941a8a5397e72d8",
-  "sourceScrapedAt": "2026-10-05T12:09:56.833Z",
-  "sourceScrapedDate": "Monday, October 5, 2026 at 07:09 AM CDT",
-  "observedDate": "2026-10-05",
+  "sourcePayloadHash": "eff31143c77f9c6513f47a4f71279c05110ef44d1ace68421213403ef26b00f4",
+  "sourceScrapedAt": "2026-10-06T12:09:54.125Z",
+  "sourceScrapedDate": "Tuesday, October 6, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-10-06",
   "completeness": "reported",
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "current_day",
   "gameCount": 2,
-  "propCount": 24,
+  "propCount": 39,
   "games": [
     {
-      "gameId": "191113",
+      "gameId": "191567",
       "slate": "Late",
-      "startTime": "10/05/26 04:00 PM CDT",
-      "startTimeIso": "2026-10-05T16:00:00-05:00",
+      "startTime": "10/06/26 05:00 PM CDT",
+      "startTimeIso": "2026-10-06T17:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Chicago White Sox",
-        "Cleveland Guardians"
+        "Atlanta Braves",
+        "Los Angeles Dodgers"
       ],
-      "propCount": 14,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/191113.json"
+      "propCount": 23,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/191567.json"
     },
     {
-      "gameId": "191178",
+      "gameId": "191362",
       "slate": "Late",
-      "startTime": "10/05/26 07:00 PM CDT",
-      "startTimeIso": "2026-10-05T19:00:00-05:00",
+      "startTime": "10/06/26 08:30 PM CDT",
+      "startTimeIso": "2026-10-06T20:30:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "New York Yankees",
-        "Tampa Bay Rays"
+        "Milwaukee Brewers",
+        "San Diego Padres"
       ],
-      "propCount": 10,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/191178.json"
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/191362.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 24,
+      "propCount": 39,
       "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
     }
   ]

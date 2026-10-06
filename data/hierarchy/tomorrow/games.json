@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "185433",
+    "gameId": "185601",
     "sport": "NCAAF",
-    "startTime": "10/06/26 07:00 PM CDT",
-    "startTimeIso": "2026-10-06T19:00:00-05:00",
+    "startTime": "10/07/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-07T18:00:00-05:00",
     "teams": [
-      "Southern Miss Golden Eagles",
-      "Troy Trojans"
+      "Jacksonville State Gamecocks",
+      "Kennesaw State Owls"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-06T19:00:00-05:00"
+      "2026-10-07T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Southern Miss Golden Eagles",
-        "Troy Trojans"
+        "Jacksonville State Gamecocks",
+        "Kennesaw State Owls"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,23 +24,52 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "191567",
-    "sport": "MLB",
-    "startTime": "10/06/26 05:00 PM CDT",
-    "startTimeIso": "2026-10-06T17:00:00-05:00",
+    "gameId": "185602",
+    "sport": "NCAAF",
+    "startTime": "10/07/26 06:30 PM CDT",
+    "startTimeIso": "2026-10-07T18:30:00-05:00",
     "teams": [
-      "Atlanta Braves",
-      "Los Angeles Dodgers"
+      "Florida International Panthers",
+      "Montana Grizzlies",
+      "New Mexico State Aggies"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-06T17:00:00-05:00"
+      "2026-10-07T18:30:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Atlanta Braves",
-        "Los Angeles Dodgers"
+        "Florida International Panthers",
+        "New Mexico State Aggies"
+      ],
+      [
+        "Florida International Panthers",
+        "Montana Grizzlies"
+      ]
+    ],
+    "sourceEventConflict": true,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "191114",
+    "sport": "MLB",
+    "startTime": "10/07/26 03:00 PM CDT",
+    "startTimeIso": "2026-10-07T15:00:00-05:00",
+    "teams": [
+      "Chicago White Sox",
+      "Cleveland Guardians"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-07T15:00:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Chicago White Sox",
+        "Cleveland Guardians"
       ]
     ],
     "sourceEventConflict": false,
@@ -48,23 +77,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "191362",
+    "gameId": "191179",
     "sport": "MLB",
-    "startTime": "10/06/26 08:30 PM CDT",
-    "startTimeIso": "2026-10-06T20:30:00-05:00",
+    "startTime": "10/07/26 07:00 PM CDT",
+    "startTimeIso": "2026-10-07T19:00:00-05:00",
     "teams": [
-      "Milwaukee Brewers",
-      "San Diego Padres"
+      "New York Yankees",
+      "Tampa Bay Rays"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-06T20:30:00-05:00"
+      "2026-10-07T19:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Milwaukee Brewers",
-        "San Diego Padres"
+        "New York Yankees",
+        "Tampa Bay Rays"
       ]
     ],
     "sourceEventConflict": false,
