@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-06T12:09:54.125Z",
-  "scrapedDate": "Tuesday, October 6, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-07T12:10:47.406Z",
+  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 282,
-    "sourceCount": 1573,
-    "acceptedCount": 282,
-    "excludedCount": 1291,
+    "count": 586,
+    "sourceCount": 3976,
+    "acceptedCount": 586,
+    "excludedCount": 3390,
     "rejectedCount": 0,
-    "publishedCount": 282,
-    "providerFetchedAt": "2026-10-06T12:08:44.664Z",
+    "publishedCount": 586,
+    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Pittsburgh Steelers",
-  "totalProps": 3,
+  "totalProps": 2,
   "props": [
     {
       "projectionId": "15435321",
@@ -37,9 +37,9 @@
       "teamCode": "PIT",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1055,
+      "rank": 2381,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15435324",
@@ -58,30 +58,9 @@
       "teamCode": "PIT",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1077,
+      "rank": 2402,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15469519",
-      "playerId": "247910",
-      "status": "pre_game",
-      "player": "Aaron Rodgers",
-      "stat": "Pass TDs",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 1126,
-      "gameId": "186662",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     }
   ]
 }

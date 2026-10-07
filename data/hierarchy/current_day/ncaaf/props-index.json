@@ -1,34 +1,47 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "eff31143c77f9c6513f47a4f71279c05110ef44d1ace68421213403ef26b00f4",
-  "sourceScrapedAt": "2026-10-06T12:09:54.125Z",
-  "sourceScrapedDate": "Tuesday, October 6, 2026 at 07:09 AM CDT",
-  "observedDate": "2026-10-06",
+  "sourcePayloadHash": "f3e10916a43e881903687f3f3d97b099e4081cd94ec2daac8940d2cf02f1c20f",
+  "sourceScrapedAt": "2026-10-07T12:10:47.406Z",
+  "sourceScrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "observedDate": "2026-10-07",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 33,
+  "gameCount": 2,
+  "propCount": 61,
   "games": [
     {
-      "gameId": "185433",
+      "gameId": "185601",
       "slate": "Late",
-      "startTime": "10/06/26 07:00 PM CDT",
-      "startTimeIso": "2026-10-06T19:00:00-05:00",
+      "startTime": "10/07/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-07T18:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Southern Miss Golden Eagles",
-        "Troy Trojans"
+        "Jacksonville State Gamecocks",
+        "Kennesaw State Owls"
       ],
-      "propCount": 33,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/185433.json"
+      "propCount": 24,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/185601.json"
+    },
+    {
+      "gameId": "185602",
+      "slate": "Late",
+      "startTime": "10/07/26 06:30 PM CDT",
+      "startTimeIso": "2026-10-07T18:30:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Florida International Panthers",
+        "New Mexico State Aggies"
+      ],
+      "propCount": 37,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/185602.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 33,
+      "propCount": 61,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]

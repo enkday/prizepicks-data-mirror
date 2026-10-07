@@ -1,47 +1,73 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "eff31143c77f9c6513f47a4f71279c05110ef44d1ace68421213403ef26b00f4",
-  "sourceScrapedAt": "2026-10-06T12:09:54.125Z",
-  "sourceScrapedDate": "Tuesday, October 6, 2026 at 07:09 AM CDT",
-  "observedDate": "2026-10-06",
+  "sourcePayloadHash": "f3e10916a43e881903687f3f3d97b099e4081cd94ec2daac8940d2cf02f1c20f",
+  "sourceScrapedAt": "2026-10-07T12:10:47.406Z",
+  "sourceScrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "observedDate": "2026-10-07",
   "completeness": "reported",
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "current_day",
-  "gameCount": 2,
-  "propCount": 39,
+  "gameCount": 4,
+  "propCount": 48,
   "games": [
     {
-      "gameId": "191567",
+      "gameId": "191114",
       "slate": "Late",
-      "startTime": "10/06/26 05:00 PM CDT",
-      "startTimeIso": "2026-10-06T17:00:00-05:00",
+      "startTime": "10/07/26 03:00 PM CDT",
+      "startTimeIso": "2026-10-07T15:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Chicago White Sox",
+        "Cleveland Guardians"
+      ],
+      "propCount": 12,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/191114.json"
+    },
+    {
+      "gameId": "192352",
+      "slate": "Late",
+      "startTime": "10/07/26 05:00 PM CDT",
+      "startTimeIso": "2026-10-07T17:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Atlanta Braves",
         "Los Angeles Dodgers"
       ],
-      "propCount": 23,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/191567.json"
+      "propCount": 13,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/192352.json"
     },
     {
-      "gameId": "191362",
+      "gameId": "191179",
       "slate": "Late",
-      "startTime": "10/06/26 08:30 PM CDT",
-      "startTimeIso": "2026-10-06T20:30:00-05:00",
+      "startTime": "10/07/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-07T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "New York Yankees",
+        "Tampa Bay Rays"
+      ],
+      "propCount": 13,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/191179.json"
+    },
+    {
+      "gameId": "192924",
+      "slate": "Late",
+      "startTime": "10/07/26 09:00 PM CDT",
+      "startTimeIso": "2026-10-07T21:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Milwaukee Brewers",
         "San Diego Padres"
       ],
-      "propCount": 16,
-      "path": "/data/hierarchy/current_day/mlb/props-by-game/191362.json"
+      "propCount": 10,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/192924.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 39,
+      "propCount": 48,
       "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
     }
   ]

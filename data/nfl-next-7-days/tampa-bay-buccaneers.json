@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-06T12:09:54.125Z",
-  "scrapedDate": "Tuesday, October 6, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-07T12:10:47.406Z",
+  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 282,
-    "sourceCount": 1573,
-    "acceptedCount": 282,
-    "excludedCount": 1291,
+    "count": 586,
+    "sourceCount": 3976,
+    "acceptedCount": 586,
+    "excludedCount": 3390,
     "rejectedCount": 0,
-    "publishedCount": 282,
-    "providerFetchedAt": "2026-10-06T12:08:44.664Z",
+    "publishedCount": 586,
+    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 38,
+  "totalProps": 45,
   "props": [
     {
       "projectionId": "15438246",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jalon Daniels",
       "stat": "Pass Yards",
-      "line": "179.5",
+      "line": "181.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -39,15 +39,15 @@
       "opponentCode": "DAL",
       "rank": 28,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15439682",
+      "projectionId": "15493791",
       "playerId": "348383",
       "status": "pre_game",
       "player": "Jalon Daniels",
-      "stat": "Completion Percentage",
-      "line": "63.6",
+      "stat": "Passer Rating",
+      "line": "79.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 83,
+      "rank": 68,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15439682",
+      "playerId": "348383",
+      "status": "pre_game",
+      "player": "Jalon Daniels",
+      "stat": "Completion Percentage",
+      "line": "61.4",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 87,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438418",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Rush Yards",
-      "line": "57.5",
+      "line": "51.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -81,7 +102,7 @@
       "opponentCode": "DAL",
       "rank": 98,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438414",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Jalon Daniels",
       "stat": "Rush Yards",
-      "line": "41.5",
+      "line": "43.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -100,9 +121,30 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 114,
+      "rank": 117,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15438717",
+      "playerId": "246561",
+      "status": "pre_game",
+      "player": "Emeka Egbuka",
+      "stat": "Receiving Yards",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 156,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439189",
@@ -121,36 +163,15 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 149,
+      "rank": 160,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15438717",
-      "playerId": "246561",
+      "projectionId": "15438643",
+      "playerId": "211277",
       "status": "pre_game",
-      "player": "Emeka Egbuka",
-      "stat": "Receiving Yards",
-      "line": "30.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 151,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15438706",
-      "playerId": "210869",
-      "status": "pre_game",
-      "player": "Cade Otton",
+      "player": "Chris Godwin Jr.",
       "stat": "Receiving Yards",
       "line": "28.5",
       "sport": "NFL",
@@ -163,9 +184,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 178,
+      "rank": 188,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439667",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Jalon Daniels",
       "stat": "Pass Attempts",
-      "line": "28",
+      "line": "28.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -184,15 +205,15 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 179,
+      "rank": 189,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15438643",
-      "playerId": "211277",
+      "projectionId": "15438706",
+      "playerId": "210869",
       "status": "pre_game",
-      "player": "Chris Godwin Jr.",
+      "player": "Cade Otton",
       "stat": "Receiving Yards",
       "line": "27.5",
       "sport": "NFL",
@@ -205,9 +226,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 180,
+      "rank": 191,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15445175",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Ted Hurst III",
       "stat": "Receiving Yards",
-      "line": "22.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -226,9 +247,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 207,
+      "rank": 220,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439678",
@@ -247,9 +268,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 233,
+      "rank": 242,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15440245",
@@ -268,9 +289,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 252,
+      "rank": 262,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439549",
@@ -278,6 +299,27 @@
       "status": "pre_game",
       "player": "Emeka Egbuka",
       "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 267,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15439180",
+      "playerId": "348383",
+      "status": "pre_game",
+      "player": "Jalon Daniels",
+      "stat": "Longest Rush",
       "line": "15.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
@@ -289,9 +331,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 262,
+      "rank": 273,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15447892",
@@ -310,30 +352,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 267,
+      "rank": 277,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15439180",
-      "playerId": "348383",
-      "status": "pre_game",
-      "player": "Jalon Daniels",
-      "stat": "Longest Rush",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 273,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439530",
@@ -341,7 +362,7 @@
       "status": "pre_game",
       "player": "Chris Godwin Jr.",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -352,30 +373,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 274,
+      "rank": 305,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15474963",
-      "playerId": "210869",
-      "status": "pre_game",
-      "player": "Cade Otton",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 288,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439686",
@@ -383,7 +383,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Rush Attempts",
-      "line": "14",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -394,15 +394,15 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 296,
+      "rank": 308,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15438415",
-      "playerId": "212264",
+      "projectionId": "15445200",
+      "playerId": "254945",
       "status": "pre_game",
-      "player": "Bucky Irving",
+      "player": "Tez Johnson",
       "stat": "Receiving Yards",
       "line": "13.5",
       "sport": "NFL",
@@ -415,9 +415,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 297,
+      "rank": 309,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15474758",
@@ -436,17 +436,17 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 301,
+      "rank": 310,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15445200",
-      "playerId": "254945",
+      "projectionId": "15474963",
+      "playerId": "210869",
       "status": "pre_game",
-      "player": "Tez Johnson",
-      "stat": "Receiving Yards",
-      "line": "11.5",
+      "player": "Cade Otton",
+      "stat": "Longest Reception",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -457,9 +457,30 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 313,
+      "rank": 311,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15438415",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Receiving Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 314,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15445199",
@@ -467,6 +488,69 @@
       "status": "pre_game",
       "player": "Kenny Gainwell",
       "stat": "Rush Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 317,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15447602",
+      "playerId": "254945",
+      "status": "pre_game",
+      "player": "Tez Johnson",
+      "stat": "Longest Reception",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 318,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15445197",
+      "playerId": "336288",
+      "status": "pre_game",
+      "player": "Kenny Gainwell",
+      "stat": "Receiving Yards",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 333,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491453",
+      "playerId": "246561",
+      "status": "pre_game",
+      "player": "Emeka Egbuka",
+      "stat": "Yards on First Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
@@ -478,51 +562,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 325,
+      "rank": 362,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15445197",
-      "playerId": "336288",
-      "status": "pre_game",
-      "player": "Kenny Gainwell",
-      "stat": "Receiving Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 346,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15447602",
-      "playerId": "254945",
-      "status": "pre_game",
-      "player": "Tez Johnson",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 347,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15447770",
@@ -541,9 +583,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 348,
+      "rank": 369,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15475432",
@@ -562,9 +604,30 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 349,
+      "rank": 371,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491454",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 373,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439655",
@@ -583,9 +646,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 358,
+      "rank": 384,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439683",
@@ -604,9 +667,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 370,
+      "rank": 396,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15447765",
@@ -625,9 +688,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 384,
+      "rank": 410,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450417",
@@ -646,9 +709,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 385,
+      "rank": 411,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450418",
@@ -667,9 +730,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 407,
+      "rank": 435,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450419",
@@ -688,9 +751,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 408,
+      "rank": 436,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439679",
@@ -698,7 +761,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Rush Yards Per Carry",
-      "line": "3.9",
+      "line": "3.8",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -709,9 +772,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 411,
+      "rank": 442,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450421",
@@ -730,9 +793,72 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 426,
+      "rank": 453,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491455",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Yards on First Reception",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 456,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491457",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Yards on First Rush Attempt",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 458,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15492021",
+      "playerId": "260612",
+      "status": "pre_game",
+      "player": "Riley Dixon",
+      "stat": "Punts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 459,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450416",
@@ -751,9 +877,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 430,
+      "rank": 475,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450420",
@@ -772,9 +898,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 449,
+      "rank": 495,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450422",
@@ -793,9 +919,30 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 450,
+      "rank": 496,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15493398",
+      "playerId": "260612",
+      "status": "pre_game",
+      "player": "Riley Dixon",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 519,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15469143",
@@ -814,9 +961,9 @@
       "teamCode": "TB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 469,
+      "rank": 527,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     }
   ]
 }

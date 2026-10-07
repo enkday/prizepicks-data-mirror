@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-06T12:09:54.125Z",
-  "scrapedDate": "Tuesday, October 6, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-07T12:10:47.406Z",
+  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 282,
-    "sourceCount": 1573,
-    "acceptedCount": 282,
-    "excludedCount": 1291,
+    "count": 586,
+    "sourceCount": 3976,
+    "acceptedCount": 586,
+    "excludedCount": 3390,
     "rejectedCount": 0,
-    "publishedCount": 282,
-    "providerFetchedAt": "2026-10-06T12:08:44.664Z",
+    "publishedCount": 586,
+    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Dallas Cowboys",
-  "totalProps": 40,
+  "totalProps": 48,
   "props": [
     {
       "projectionId": "15438255",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Yards",
-      "line": "265.5",
+      "line": "263.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -39,15 +39,15 @@
       "opponentCode": "TB",
       "rank": 13,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15438710",
-      "playerId": "211139",
+      "projectionId": "15493790",
+      "playerId": "211072",
       "status": "pre_game",
-      "player": "CeeDee Lamb",
-      "stat": "Receiving Yards",
-      "line": "81.5",
+      "player": "Dak Prescott",
+      "stat": "Passer Rating",
+      "line": "102.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 59,
+      "rank": 49,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15438710",
+      "playerId": "211139",
+      "status": "pre_game",
+      "player": "CeeDee Lamb",
+      "stat": "Receiving Yards",
+      "line": "80.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 64,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438417",
@@ -79,9 +100,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 68,
+      "rank": 71,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15440241",
@@ -100,9 +121,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 72,
+      "rank": 75,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438601",
@@ -121,9 +142,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 84,
+      "rank": 85,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439187",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "38.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 141,
+      "rank": 145,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439588",
@@ -163,9 +184,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 147,
+      "rank": 158,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438732",
@@ -184,9 +205,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 148,
+      "rank": 159,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438650",
@@ -194,6 +215,27 @@
       "status": "pre_game",
       "player": "Jake Ferguson",
       "stat": "Receiving Yards",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 190,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15439186",
+      "playerId": "211139",
+      "status": "pre_game",
+      "player": "CeeDee Lamb",
+      "stat": "Longest Reception",
       "line": "26.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
@@ -205,15 +247,15 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 183,
+      "rank": 196,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15439186",
-      "playerId": "211139",
+      "projectionId": "15439185",
+      "playerId": "244045",
       "status": "pre_game",
-      "player": "CeeDee Lamb",
+      "player": "George Pickens",
       "stat": "Longest Reception",
       "line": "24.5",
       "sport": "NFL",
@@ -226,30 +268,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 189,
+      "rank": 201,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15439185",
-      "playerId": "244045",
-      "status": "pre_game",
-      "player": "George Pickens",
-      "stat": "Longest Reception",
-      "line": "23.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 203,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15440243",
@@ -268,9 +289,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 205,
+      "rank": 213,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439607",
@@ -289,9 +310,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 210,
+      "rank": 218,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15447444",
@@ -310,9 +331,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 253,
+      "rank": 263,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439184",
@@ -331,9 +352,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 256,
+      "rank": 266,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15445168",
@@ -352,9 +373,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 258,
+      "rank": 269,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438685",
@@ -373,9 +394,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 261,
+      "rank": 272,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439553",
@@ -394,9 +415,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 263,
+      "rank": 274,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439562",
@@ -404,7 +425,7 @@
       "status": "pre_game",
       "player": "Jake Ferguson",
       "stat": "Longest Reception",
-      "line": "13.5",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -415,9 +436,51 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 298,
+      "rank": 315,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491451",
+      "playerId": "244045",
+      "status": "pre_game",
+      "player": "George Pickens",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 329,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491449",
+      "playerId": "211139",
+      "status": "pre_game",
+      "player": "CeeDee Lamb",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 334,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438416",
@@ -436,9 +499,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 316,
+      "rank": 335,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439192",
@@ -457,9 +520,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 321,
+      "rank": 340,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450411",
@@ -478,9 +541,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 341,
+      "rank": 364,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439174",
@@ -488,7 +551,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Longest Rush",
-      "line": "7.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
       "startTimeCST": "10/08/26 07:15 PM CST",
@@ -499,9 +562,51 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 356,
+      "rank": 365,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15447766",
+      "playerId": "344777",
+      "status": "pre_game",
+      "player": "Tyler Goodson",
+      "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 368,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15479851",
+      "playerId": "211166",
+      "status": "pre_game",
+      "player": "Brandon Aubrey",
+      "stat": "Kicking Points",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 372,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15440240",
@@ -520,16 +625,16 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 360,
+      "rank": 385,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
-      "projectionId": "15451401",
-      "playerId": "344777",
+      "projectionId": "15491450",
+      "playerId": "210877",
       "status": "pre_game",
-      "player": "Tyler Goodson",
-      "stat": "Longest Rush",
+      "player": "Jake Ferguson",
+      "stat": "Yards on First Reception",
       "line": "7.5",
       "sport": "NFL",
       "startTime": "10/08/26 07:15 PM CST",
@@ -541,9 +646,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 361,
+      "rank": 388,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450412",
@@ -562,9 +667,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 365,
+      "rank": 391,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15467671",
@@ -583,9 +688,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 375,
+      "rank": 401,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438617",
@@ -604,9 +709,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 392,
+      "rank": 421,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450413",
@@ -625,9 +730,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 405,
+      "rank": 433,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450415",
@@ -646,9 +751,30 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 406,
+      "rank": 434,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491452",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Yards on First Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 438,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15439614",
@@ -667,9 +793,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 409,
+      "rank": 440,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438686",
@@ -688,30 +814,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 419,
+      "rank": 449,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15447729",
-      "playerId": "211072",
-      "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Rush Attempts",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 422,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15450414",
@@ -730,9 +835,30 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 425,
+      "rank": 452,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15491456",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Yards on First Rush Attempt",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 457,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438593",
@@ -751,9 +877,30 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 428,
+      "rank": 472,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15492022",
+      "playerId": "215261",
+      "status": "pre_game",
+      "player": "Bryan Anger",
+      "stat": "Punts",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 476,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15438607",
@@ -772,51 +919,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 432,
+      "rank": 479,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15447759",
-      "playerId": "344777",
-      "status": "pre_game",
-      "player": "Tyler Goodson",
-      "stat": "Longest Reception",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 446,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
-    },
-    {
-      "projectionId": "15447772",
-      "playerId": "344777",
-      "status": "pre_game",
-      "player": "Tyler Goodson",
-      "stat": "Receiving Yards",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/08/26 07:15 PM CST",
-      "startTimeCST": "10/08/26 07:15 PM CST",
-      "startDateCST": "2026-10-08",
-      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 447,
-      "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15469142",
@@ -835,9 +940,72 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 451,
+      "rank": 497,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15447759",
+      "playerId": "344777",
+      "status": "pre_game",
+      "player": "Tyler Goodson",
+      "stat": "Longest Reception",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 513,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15492018",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Sacks Taken",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 517,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+    },
+    {
+      "projectionId": "15447772",
+      "playerId": "344777",
+      "status": "pre_game",
+      "player": "Tyler Goodson",
+      "stat": "Receiving Yards",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/08/26 07:15 PM CST",
+      "startTimeCST": "10/08/26 07:15 PM CST",
+      "startDateCST": "2026-10-08",
+      "startTimeIso": "2026-10-08T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 553,
+      "gameId": "186049",
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     },
     {
       "projectionId": "15465819",
@@ -856,9 +1024,9 @@
       "teamCode": "DAL",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 496,
+      "rank": 554,
       "gameId": "186049",
-      "providerFetchedAt": "2026-10-06T12:08:44.664Z"
+      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
     }
   ]
 }
