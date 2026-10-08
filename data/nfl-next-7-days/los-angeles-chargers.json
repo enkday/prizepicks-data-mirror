@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-07T12:10:47.406Z",
-  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-08T12:09:08.157Z",
+  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 586,
-    "sourceCount": 3976,
-    "acceptedCount": 586,
-    "excludedCount": 3390,
+    "count": 682,
+    "sourceCount": 5206,
+    "acceptedCount": 682,
+    "excludedCount": 4524,
     "rejectedCount": 0,
-    "publishedCount": 586,
-    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
+    "publishedCount": 682,
+    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 8,
+  "totalProps": 13,
   "props": [
     {
       "projectionId": "15449669",
@@ -37,9 +37,9 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2494,
+      "rank": 3535,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15449771",
@@ -58,17 +58,17 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2544,
+      "rank": 3608,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
-      "projectionId": "15509477",
-      "playerId": "336552",
+      "projectionId": "15528748",
+      "playerId": "211058",
       "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Rush Yards",
-      "line": "30.5",
+      "player": "Justin Herbert",
+      "stat": "Longest Completion",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "10/11/26 03:05 PM CST",
       "startTimeCST": "10/11/26 03:05 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2552,
+      "rank": 3613,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15509477",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": "31.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3618,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15510339",
@@ -100,9 +121,9 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2553,
+      "rank": 3622,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15449770",
@@ -121,9 +142,9 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2570,
+      "rank": 3642,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15510320",
@@ -142,9 +163,51 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2593,
+      "rank": 3682,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15528704",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Longest Rush",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3722,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15557537",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Longest Rush",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3725,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15512462",
@@ -163,9 +226,51 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2616,
+      "rank": 3726,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15526903",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Rush Attempts",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3760,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15525043",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Rush Attempts",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Denver Broncos",
+      "opponentCode": "DEN",
+      "rank": 3786,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15512167",
@@ -184,9 +289,9 @@
       "teamCode": "LAC",
       "Opponent": "Denver Broncos",
       "opponentCode": "DEN",
-      "rank": 2695,
+      "rank": 3856,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     }
   ]
 }

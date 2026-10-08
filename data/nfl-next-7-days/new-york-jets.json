@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-07T12:10:47.406Z",
-  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-08T12:09:08.157Z",
+  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 586,
-    "sourceCount": 3976,
-    "acceptedCount": 586,
-    "excludedCount": 3390,
+    "count": 682,
+    "sourceCount": 5206,
+    "acceptedCount": 682,
+    "excludedCount": 4524,
     "rejectedCount": 0,
-    "publishedCount": 586,
-    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
+    "publishedCount": 682,
+    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Jets",
-  "totalProps": 16,
+  "totalProps": 12,
   "props": [
     {
       "projectionId": "15449664",
@@ -37,9 +37,30 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1868,
+      "rank": 2499,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15476362",
+      "playerId": "212432",
+      "status": "pre_game",
+      "player": "Braelon Allen",
+      "stat": "Rush Yards",
+      "line": "71.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2530,
+      "gameId": "186663",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15449892",
@@ -58,51 +79,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1899,
+      "rank": 2532,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15476362",
-      "playerId": "212432",
-      "status": "pre_game",
-      "player": "Braelon Allen",
-      "stat": "Rush Yards",
-      "line": "69.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1900,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15487161",
-      "playerId": "320300",
-      "status": "pre_game",
-      "player": "Geno Smith",
-      "stat": "Longest Completion",
-      "line": "32.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1951,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487156",
@@ -121,30 +100,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1954,
+      "rank": 2569,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15487015",
-      "playerId": "206328",
-      "status": "pre_game",
-      "player": "Garrett Wilson",
-      "stat": "Longest Reception",
-      "line": "21.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1984,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487178",
@@ -163,9 +121,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1989,
+      "rank": 2600,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487236",
@@ -184,9 +142,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2008,
+      "rank": 2618,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487237",
@@ -194,7 +152,7 @@
       "status": "pre_game",
       "player": "Braelon Allen",
       "stat": "Longest Rush",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -205,30 +163,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2031,
+      "rank": 2636,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15487252",
-      "playerId": "212432",
-      "status": "pre_game",
-      "player": "Braelon Allen",
-      "stat": "Receiving Yards",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2039,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15449761",
@@ -247,9 +184,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2042,
+      "rank": 2652,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15476311",
@@ -268,9 +205,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2043,
+      "rank": 2653,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15480535",
@@ -278,7 +215,7 @@
       "status": "pre_game",
       "player": "Garrett Wilson",
       "stat": "Rec Targets",
-      "line": "9.5",
+      "line": "9",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -289,9 +226,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2052,
+      "rank": 2665,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487157",
@@ -310,17 +247,17 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2057,
+      "rank": 2668,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
-      "projectionId": "15487248",
-      "playerId": "212432",
+      "projectionId": "15476353",
+      "playerId": "206328",
       "status": "pre_game",
-      "player": "Braelon Allen",
-      "stat": "Longest Reception",
-      "line": "8.5",
+      "player": "Garrett Wilson",
+      "stat": "Receptions",
+      "line": "6",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -331,30 +268,9 @@
       "teamCode": "NYJ",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2058,
+      "rank": 2677,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15487155",
-      "playerId": "320300",
-      "status": "pre_game",
-      "player": "Geno Smith",
-      "stat": "Rush Attempts",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2090,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-07T12:10:47.406Z",
-  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-08T12:09:08.157Z",
+  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 586,
-    "sourceCount": 3976,
-    "acceptedCount": 586,
-    "excludedCount": 3390,
+    "count": 682,
+    "sourceCount": 5206,
+    "acceptedCount": 682,
+    "excludedCount": 4524,
     "rejectedCount": 0,
-    "publishedCount": 586,
-    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
+    "publishedCount": 682,
+    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cleveland Browns",
-  "totalProps": 21,
+  "totalProps": 17,
   "props": [
     {
       "projectionId": "15435320",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Deshaun Watson",
       "stat": "Pass Yards",
-      "line": "202.5",
+      "line": "203.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1869,
+      "rank": 2500,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15435322",
@@ -58,9 +58,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1913,
+      "rank": 2540,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15435323",
@@ -79,9 +79,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1927,
+      "rank": 2549,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15476322",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "KC Concepcion Jr.",
       "stat": "Receiving Yards",
-      "line": "37.5",
+      "line": "41.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1944,
+      "rank": 2553,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15435325",
@@ -121,30 +121,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1945,
+      "rank": 2561,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479075",
-      "playerId": "210838",
-      "status": "pre_game",
-      "player": "Deshaun Watson",
-      "stat": "Longest Completion",
-      "line": "33.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1948,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479062",
@@ -152,7 +131,7 @@
       "status": "pre_game",
       "player": "Deshaun Watson",
       "stat": "Pass Attempts",
-      "line": "31.5",
+      "line": "31",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -163,9 +142,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1952,
+      "rank": 2568,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15476325",
@@ -173,7 +152,7 @@
       "status": "pre_game",
       "player": "Deshaun Watson",
       "stat": "Rush Yards",
-      "line": "26.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -184,9 +163,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1975,
+      "rank": 2588,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479364",
@@ -194,7 +173,7 @@
       "status": "pre_game",
       "player": "Denzel Boston",
       "stat": "Longest Reception",
-      "line": "21.5",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -205,9 +184,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1983,
+      "rank": 2596,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479065",
@@ -215,7 +194,7 @@
       "status": "pre_game",
       "player": "Deshaun Watson",
       "stat": "Pass Completions",
-      "line": "20",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -226,9 +205,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1990,
+      "rank": 2607,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479343",
@@ -247,9 +226,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2012,
+      "rank": 2622,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479400",
@@ -257,7 +236,7 @@
       "status": "pre_game",
       "player": "Quinshon Judkins",
       "stat": "Rush Attempts",
-      "line": "16",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -268,9 +247,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2015,
+      "rank": 2623,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479366",
@@ -289,72 +268,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2018,
+      "rank": 2628,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479402",
-      "playerId": "246550",
-      "status": "pre_game",
-      "player": "Quinshon Judkins",
-      "stat": "Receiving Yards",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2019,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479389",
-      "playerId": "246550",
-      "status": "pre_game",
-      "player": "Quinshon Judkins",
-      "stat": "Longest Rush",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2035,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479406",
-      "playerId": "246550",
-      "status": "pre_game",
-      "player": "Quinshon Judkins",
-      "stat": "Longest Reception",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cleveland Browns",
-      "teamCode": "CLE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2050,
-      "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15480099",
@@ -373,9 +289,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2066,
+      "rank": 2674,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15480097",
@@ -394,9 +310,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2070,
+      "rank": 2678,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15480098",
@@ -415,17 +331,17 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2071,
+      "rank": 2679,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
-      "projectionId": "15479401",
-      "playerId": "246550",
+      "projectionId": "15476309",
+      "playerId": "246549",
       "status": "pre_game",
-      "player": "Quinshon Judkins",
+      "player": "Harold Fannin Jr.",
       "stat": "Receptions",
-      "line": "2.5",
+      "line": "4",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -436,9 +352,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2099,
+      "rank": 2691,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479057",
@@ -457,9 +373,9 @@
       "teamCode": "CLE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2137,
+      "rank": 2733,
       "gameId": "186663",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     }
   ]
 }

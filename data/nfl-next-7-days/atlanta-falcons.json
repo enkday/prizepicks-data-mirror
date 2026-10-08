@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-07T12:10:47.406Z",
-  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-08T12:09:08.157Z",
+  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 586,
-    "sourceCount": 3976,
-    "acceptedCount": 586,
-    "excludedCount": 3390,
+    "count": 682,
+    "sourceCount": 5206,
+    "acceptedCount": 682,
+    "excludedCount": 4524,
     "rejectedCount": 0,
-    "publishedCount": 586,
-    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
+    "publishedCount": 682,
+    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 24,
+  "totalProps": 17,
   "props": [
     {
       "projectionId": "15479703",
@@ -37,9 +37,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3395,
+      "rank": 4622,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479809",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Rush Yards",
-      "line": "90.5",
+      "line": "88.5",
       "sport": "NFL",
       "startTime": "10/11/26 07:20 PM CST",
       "startTimeCST": "10/11/26 07:20 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3432,
+      "rank": 4663,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479810",
@@ -79,30 +79,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3437,
+      "rank": 4666,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479736",
-      "playerId": "216845",
-      "status": "pre_game",
-      "player": "Michael Penix Jr.",
-      "stat": "Longest Completion",
-      "line": "35.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3480,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479814",
@@ -121,9 +100,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3481,
+      "rank": 4698,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479696",
@@ -142,9 +121,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3490,
+      "rank": 4705,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479753",
@@ -152,7 +131,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Receiving Yards",
-      "line": "26.5",
+      "line": "27.5",
       "sport": "NFL",
       "startTime": "10/11/26 07:20 PM CST",
       "startTimeCST": "10/11/26 07:20 PM CST",
@@ -163,30 +142,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3504,
+      "rank": 4710,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479769",
-      "playerId": "211628",
-      "status": "pre_game",
-      "player": "Drake London",
-      "stat": "Longest Reception",
-      "line": "26.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3505,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479764",
@@ -205,9 +163,30 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3510,
+      "rank": 4714,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15479749",
+      "playerId": "336730",
+      "status": "pre_game",
+      "player": "Jahan Dotson",
+      "stat": "Receiving Yards",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 07:20 PM CST",
+      "startTimeCST": "10/11/26 07:20 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 4729,
+      "gameId": "186845",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479742",
@@ -226,30 +205,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3542,
+      "rank": 4735,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479749",
-      "playerId": "336730",
-      "status": "pre_game",
-      "player": "Jahan Dotson",
-      "stat": "Receiving Yards",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3543,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15483132",
@@ -268,114 +226,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3544,
+      "rank": 4736,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479687",
-      "playerId": "206319",
-      "status": "pre_game",
-      "player": "Bijan Robinson",
-      "stat": "Longest Rush",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3550,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479813",
-      "playerId": "336730",
-      "status": "pre_game",
-      "player": "Jahan Dotson",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3559,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479715",
-      "playerId": "210640",
-      "status": "pre_game",
-      "player": "Kyle Pitts Sr.",
-      "stat": "Longest Reception",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3566,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479711",
-      "playerId": "206319",
-      "status": "pre_game",
-      "player": "Bijan Robinson",
-      "stat": "Longest Reception",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3568,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15479710",
-      "playerId": "336715",
-      "status": "pre_game",
-      "player": "Brian Robinson Jr.",
-      "stat": "Longest Rush",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 3574,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15489682",
@@ -394,9 +247,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3583,
+      "rank": 4770,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479848",
@@ -415,9 +268,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3584,
+      "rank": 4773,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15484186",
@@ -436,9 +289,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3597,
+      "rank": 4786,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15489681",
@@ -457,9 +310,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3612,
+      "rank": 4800,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15489683",
@@ -478,9 +331,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3619,
+      "rank": 4809,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15489684",
@@ -499,9 +352,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3621,
+      "rank": 4820,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15479718",
@@ -520,9 +373,9 @@
       "teamCode": "ATL",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 3642,
+      "rank": 4852,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     }
   ]
 }

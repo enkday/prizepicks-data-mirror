@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-07T12:10:47.406Z",
-  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-08T12:09:08.157Z",
+  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 586,
-    "sourceCount": 3976,
-    "acceptedCount": 586,
-    "excludedCount": 3390,
+    "count": 682,
+    "sourceCount": 5206,
+    "acceptedCount": 682,
+    "excludedCount": 4524,
     "rejectedCount": 0,
-    "publishedCount": 586,
-    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
+    "publishedCount": 682,
+    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Green Bay Packers",
-  "totalProps": 15,
+  "totalProps": 23,
   "props": [
     {
       "projectionId": "15449658",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Pass Yards",
-      "line": "233.5",
+      "line": "234.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1411,
+      "rank": 1822,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15449886",
@@ -58,9 +58,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1455,
+      "rank": 1877,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15449885",
@@ -79,9 +79,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1466,
+      "rank": 1891,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487625",
@@ -100,9 +100,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1468,
+      "rank": 1895,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487576",
@@ -110,6 +110,27 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Longest Completion",
+      "line": "37.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1938,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15544720",
+      "playerId": "340168",
+      "status": "pre_game",
+      "player": "Kaleb Johnson",
+      "stat": "Rush Yards",
       "line": "36.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1506,
+      "rank": 1940,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487552",
@@ -142,17 +163,17 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1509,
+      "rank": 1943,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
-      "projectionId": "15487600",
-      "playerId": "210337",
+      "projectionId": "15544882",
+      "playerId": "246576",
       "status": "pre_game",
-      "player": "Christian Watson",
-      "stat": "Longest Reception",
-      "line": "21.5",
+      "player": "MarShawn Lloyd",
+      "stat": "Rush Yards",
+      "line": "27.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -163,9 +184,30 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1541,
+      "rank": 1975,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15487600",
+      "playerId": "210337",
+      "status": "pre_game",
+      "player": "Christian Watson",
+      "stat": "Longest Reception",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 1993,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487577",
@@ -184,9 +226,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1544,
+      "rank": 1997,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487628",
@@ -205,9 +247,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1545,
+      "rank": 1998,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487630",
@@ -226,9 +268,51 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1562,
+      "rank": 2021,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15544973",
+      "playerId": "246576",
+      "status": "pre_game",
+      "player": "MarShawn Lloyd",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 2042,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15544993",
+      "playerId": "336526",
+      "status": "pre_game",
+      "player": "Skyy Moore",
+      "stat": "Receiving Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 2047,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487548",
@@ -247,9 +331,93 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1581,
+      "rank": 2064,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15533218",
+      "playerId": "210337",
+      "status": "pre_game",
+      "player": "Christian Watson",
+      "stat": "Rec Targets",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 2068,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15533219",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Rec Targets",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 2070,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15488642",
+      "playerId": "336518",
+      "status": "pre_game",
+      "player": "Trey Smack",
+      "stat": "Kicking Points",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 2072,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15533220",
+      "playerId": "212129",
+      "status": "pre_game",
+      "player": "Tucker Kraft",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 2078,
+      "gameId": "186665",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15449754",
@@ -268,9 +436,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1591,
+      "rank": 2079,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487608",
@@ -289,9 +457,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1599,
+      "rank": 2089,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15517896",
@@ -310,9 +478,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1603,
+      "rank": 2093,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15487549",
@@ -331,9 +499,9 @@
       "teamCode": "GB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 1619,
+      "rank": 2119,
       "gameId": "186665",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     }
   ]
 }

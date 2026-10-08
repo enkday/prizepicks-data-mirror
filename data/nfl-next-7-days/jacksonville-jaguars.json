@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-07T12:10:47.406Z",
-  "scrapedDate": "Wednesday, October 7, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-08T12:09:08.157Z",
+  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 586,
-    "sourceCount": 3976,
-    "acceptedCount": 586,
-    "excludedCount": 3390,
+    "count": 682,
+    "sourceCount": 5206,
+    "acceptedCount": 682,
+    "excludedCount": 4524,
     "rejectedCount": 0,
-    "publishedCount": 586,
-    "providerFetchedAt": "2026-10-07T12:09:33.014Z",
+    "publishedCount": 682,
+    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 38,
+  "totalProps": 39,
   "props": [
     {
       "projectionId": "15447594",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": "229.5",
+      "line": "225.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -37,30 +37,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 579,
+      "rank": 687,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15447984",
-      "playerId": "216955",
-      "status": "pre_game",
-      "player": "Parker Washington",
-      "stat": "Receiving Yards",
-      "line": "60.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 08:30 AM CST",
-      "startTimeCST": "10/11/26 08:30 AM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 620,
-      "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15448038",
@@ -68,7 +47,7 @@
       "status": "pre_game",
       "player": "Bhayshul Tuten",
       "stat": "Rush Yards",
-      "line": "60.5",
+      "line": "65.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -79,9 +58,30 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 621,
+      "rank": 733,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15447984",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Receiving Yards",
+      "line": "61.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 734,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15448034",
@@ -100,9 +100,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 642,
+      "rank": 762,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15471873",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -121,9 +121,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 659,
+      "rank": 780,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15467202",
@@ -142,9 +142,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 662,
+      "rank": 783,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15467222",
@@ -152,7 +152,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Attempts",
-      "line": "31.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -163,9 +163,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 665,
+      "rank": 795,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15478455",
@@ -184,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 691,
+      "rank": 819,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15471863",
@@ -205,9 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 697,
+      "rank": 831,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15447991",
@@ -226,9 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 698,
+      "rank": 832,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15467448",
@@ -247,9 +247,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 706,
+      "rank": 839,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15471829",
@@ -268,9 +268,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 720,
+      "rank": 859,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15471853",
@@ -289,30 +289,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 725,
+      "rank": 865,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15471885",
-      "playerId": "246555",
-      "status": "pre_game",
-      "player": "Bhayshul Tuten",
-      "stat": "Longest Rush",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 08:30 AM CST",
-      "startTimeCST": "10/11/26 08:30 AM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 729,
-      "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15467685",
@@ -331,9 +310,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 733,
+      "rank": 871,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15471801",
@@ -352,9 +331,30 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 734,
+      "rank": 872,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15471885",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Longest Rush",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 874,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15471857",
@@ -373,9 +373,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 740,
+      "rank": 886,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15475164",
@@ -394,9 +394,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 743,
+      "rank": 891,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15478639",
@@ -404,7 +404,7 @@
       "status": "pre_game",
       "player": "Josh Cameron",
       "stat": "Longest Reception",
-      "line": "11.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -415,9 +415,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 748,
+      "rank": 898,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15448002",
@@ -436,9 +436,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 751,
+      "rank": 900,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15478448",
@@ -457,9 +457,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 757,
+      "rank": 906,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15478226",
@@ -478,30 +478,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 765,
+      "rank": 923,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
-    },
-    {
-      "projectionId": "15450423",
-      "playerId": "216955",
-      "status": "pre_game",
-      "player": "Parker Washington",
-      "stat": "Rec Targets",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 08:30 AM CST",
-      "startTimeCST": "10/11/26 08:30 AM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 767,
-      "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15471819",
@@ -520,9 +499,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 769,
+      "rank": 927,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15478633",
@@ -541,17 +520,17 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 770,
+      "rank": 928,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
-      "projectionId": "15469073",
-      "playerId": "277422",
+      "projectionId": "15450423",
+      "playerId": "216955",
       "status": "pre_game",
-      "player": "Jakobi Meyers",
+      "player": "Parker Washington",
       "stat": "Rec Targets",
-      "line": "5.5",
+      "line": "7",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -562,15 +541,36 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 783,
+      "rank": 932,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
-      "projectionId": "15469071",
-      "playerId": "213935",
+      "projectionId": "15532571",
+      "playerId": "336495",
       "status": "pre_game",
-      "player": "Brenton Strange",
+      "player": "Chris Rodriguez Jr.",
+      "stat": "Rush Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 938,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15469073",
+      "playerId": "277422",
+      "status": "pre_game",
+      "player": "Jakobi Meyers",
       "stat": "Rec Targets",
       "line": "5",
       "sport": "NFL",
@@ -583,9 +583,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 787,
+      "rank": 953,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15447983",
@@ -604,9 +604,30 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 790,
+      "rank": 956,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+    },
+    {
+      "projectionId": "15469071",
+      "playerId": "213935",
+      "status": "pre_game",
+      "player": "Brenton Strange",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 958,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15467190",
@@ -625,9 +646,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 801,
+      "rank": 973,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15469072",
@@ -646,9 +667,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 802,
+      "rank": 974,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15478638",
@@ -667,9 +688,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 803,
+      "rank": 975,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15447975",
@@ -688,9 +709,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 819,
+      "rank": 997,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15469070",
@@ -709,9 +730,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 820,
+      "rank": 998,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15448008",
@@ -730,9 +751,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 823,
+      "rank": 1001,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15467449",
@@ -751,9 +772,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 830,
+      "rank": 1008,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15478643",
@@ -772,9 +793,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 833,
+      "rank": 1011,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15445887",
@@ -793,9 +814,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 839,
+      "rank": 1018,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     },
     {
       "projectionId": "15467227",
@@ -814,9 +835,9 @@
       "teamCode": "JAC",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 858,
+      "rank": 1038,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-07T12:09:33.014Z"
+      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
     }
   ]
 }
