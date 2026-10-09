@@ -1,73 +1,86 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "1bfc4b9d499dde3b31b7a558890b395ad5bca63c4c56fd608fc42cc7aa2aae37",
-  "sourceScrapedAt": "2026-10-08T12:09:08.157Z",
-  "sourceScrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
-  "observedDate": "2026-10-08",
+  "sourcePayloadHash": "ecdb269b26545340627f5b4cde33b80a5c7c82563c72186f5be8a803603625dd",
+  "sourceScrapedAt": "2026-10-09T12:09:38.321Z",
+  "sourceScrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-10-09",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 4,
-  "propCount": 120,
+  "gameCount": 5,
+  "propCount": 131,
   "games": [
     {
-      "gameId": "185811",
+      "gameId": "186059",
       "slate": "Late",
-      "startTime": "10/08/26 06:00 PM CDT",
-      "startTimeIso": "2026-10-08T18:00:00-05:00",
+      "startTime": "10/09/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-09T18:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Missouri State Bears",
-        "Western Kentucky Hilltoppers"
+        "Florida State Seminoles",
+        "Louisville Cardinals"
       ],
-      "propCount": 17,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/185811.json"
+      "propCount": 32,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/186059.json"
     },
     {
-      "gameId": "185812",
+      "gameId": "186338",
       "slate": "Late",
-      "startTime": "10/08/26 06:00 PM CDT",
-      "startTimeIso": "2026-10-08T18:00:00-05:00",
+      "startTime": "10/09/26 08:00 PM CDT",
+      "startTimeIso": "2026-10-09T20:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Liberty Flames",
-        "Sam Houston Bearkats"
+        "San Jose State Spartans",
+        "Wyoming Cowboys"
       ],
-      "propCount": 24,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/185812.json"
+      "propCount": 7,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/186338.json"
     },
     {
-      "gameId": "185813",
+      "gameId": "186339",
       "slate": "Late",
-      "startTime": "10/08/26 06:30 PM CDT",
-      "startTimeIso": "2026-10-08T18:30:00-05:00",
+      "startTime": "10/09/26 08:00 PM CDT",
+      "startTimeIso": "2026-10-09T20:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Arkansas State Red Wolves",
-        "South Alabama Jaguars"
+        "Utah State Aggies",
+        "Washington State Cougars"
       ],
-      "propCount": 44,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/185813.json"
+      "propCount": 13,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/186339.json"
     },
     {
-      "gameId": "185814",
+      "gameId": "186340",
       "slate": "Late",
-      "startTime": "10/08/26 06:30 PM CDT",
-      "startTimeIso": "2026-10-08T18:30:00-05:00",
+      "startTime": "10/09/26 08:00 PM CDT",
+      "startTimeIso": "2026-10-09T20:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "South Florida Bulls",
-        "UTSA Roadrunners"
+        "Iowa Hawkeyes",
+        "Washington Huskies"
       ],
-      "propCount": 35,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/185814.json"
+      "propCount": 41,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/186340.json"
+    },
+    {
+      "gameId": "186341",
+      "slate": "Late",
+      "startTime": "10/09/26 09:15 PM CDT",
+      "startTimeIso": "2026-10-09T21:15:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "BYU Cougars",
+        "Iowa State Cyclones"
+      ],
+      "propCount": 38,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/186341.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 120,
+      "propCount": 131,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]

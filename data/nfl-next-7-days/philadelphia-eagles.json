@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-08T12:09:08.157Z",
-  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-09T12:09:38.321Z",
+  "scrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 682,
-    "sourceCount": 5206,
-    "acceptedCount": 682,
-    "excludedCount": 4524,
+    "count": 827,
+    "sourceCount": 6145,
+    "acceptedCount": 827,
+    "excludedCount": 5318,
     "rejectedCount": 0,
-    "publishedCount": 682,
-    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
+    "publishedCount": 827,
+    "providerFetchedAt": "2026-10-09T12:08:22.576Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 14,
+  "totalProps": 17,
   "props": [
     {
       "projectionId": "15447593",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jalen Hurts",
       "stat": "Pass Yards",
-      "line": "193.5",
+      "line": "186.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -37,9 +37,30 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 697,
+      "rank": 26,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15468345",
+      "playerId": "206300",
+      "status": "pre_game",
+      "player": "Jalen Hurts",
+      "stat": "Completion Percentage",
+      "line": "60.7",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 66,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15557969",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Dontayvion Wicks",
       "stat": "Receiving Yards",
-      "line": "47.5",
+      "line": "45.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -58,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 760,
+      "rank": 96,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15547460",
@@ -79,9 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 781,
+      "rank": 122,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15558250",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Makai Lemon",
       "stat": "Receiving Yards",
-      "line": "32.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "10/11/26 08:30 AM CST",
       "startTimeCST": "10/11/26 08:30 AM CST",
@@ -100,9 +121,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 788,
+      "rank": 126,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15468350",
@@ -121,9 +142,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 790,
+      "rank": 130,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15471892",
@@ -142,9 +163,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 791,
+      "rank": 131,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15471880",
@@ -163,9 +184,30 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 818,
+      "rank": 162,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15568363",
+      "playerId": "336585",
+      "status": "pre_game",
+      "player": "Dontayvion Wicks",
+      "stat": "Longest Reception",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 204,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486795",
@@ -184,9 +226,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 858,
+      "rank": 205,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15558245",
@@ -205,9 +247,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 888,
+      "rank": 245,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15471844",
@@ -226,9 +268,51 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 896,
+      "rank": 252,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15564306",
+      "playerId": "216902",
+      "status": "pre_game",
+      "player": "Will Shipley",
+      "stat": "Longest Rush",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 259,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15564307",
+      "playerId": "216902",
+      "status": "pre_game",
+      "player": "Will Shipley",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 08:30 AM CST",
+      "startTimeCST": "10/11/26 08:30 AM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 288,
+      "gameId": "186656",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15478681",
@@ -247,30 +331,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 945,
+      "rank": 313,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15557947",
-      "playerId": "320257",
-      "status": "pre_game",
-      "player": "Makai Lemon",
-      "stat": "Receptions",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 08:30 AM CST",
-      "startTimeCST": "10/11/26 08:30 AM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 981,
-      "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15557977",
@@ -289,9 +352,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 996,
+      "rank": 369,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469224",
@@ -310,9 +373,9 @@
       "teamCode": "PHI",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1015,
+      "rank": 395,
       "gameId": "186656",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     }
   ]
 }

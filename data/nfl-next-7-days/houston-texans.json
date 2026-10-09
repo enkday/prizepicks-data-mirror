@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-08T12:09:08.157Z",
-  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-09T12:09:38.321Z",
+  "scrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 682,
-    "sourceCount": 5206,
-    "acceptedCount": 682,
-    "excludedCount": 4524,
+    "count": 827,
+    "sourceCount": 6145,
+    "acceptedCount": 827,
+    "excludedCount": 5318,
     "rejectedCount": 0,
-    "publishedCount": 682,
-    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
+    "publishedCount": 827,
+    "providerFetchedAt": "2026-10-09T12:08:22.576Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Houston Texans",
-  "totalProps": 30,
+  "totalProps": 32,
   "props": [
     {
       "projectionId": "15449665",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "C.J. Stroud",
       "stat": "Pass Yards",
-      "line": "238.5",
+      "line": "240.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2750,
+      "rank": 2866,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449893",
@@ -58,9 +58,30 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2787,
+      "rank": 2907,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15486737",
+      "playerId": "210953",
+      "status": "pre_game",
+      "player": "C.J. Stroud",
+      "stat": "Completion Percentage",
+      "line": "68.3",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2920,
+      "gameId": "186661",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449763",
@@ -79,9 +100,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2831,
+      "rank": 2952,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486714",
@@ -100,9 +121,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2847,
+      "rank": 2970,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449894",
@@ -121,9 +142,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2862,
+      "rank": 2986,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486710",
@@ -142,9 +163,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2872,
+      "rank": 2994,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533377",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Woody Marks",
       "stat": "Rush Yards",
-      "line": "28.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2891,
+      "rank": 2996,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15484985",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Nico Collins",
       "stat": "Longest Reception",
-      "line": "26.5",
+      "line": "25.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2895,
+      "rank": 3034,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533367",
@@ -205,9 +226,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2897,
+      "rank": 3035,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486732",
@@ -226,9 +247,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2925,
+      "rank": 3051,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533496",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Jaylin Noel",
       "stat": "Receiving Yards",
-      "line": "17.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2960,
+      "rank": 3092,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533370",
@@ -257,7 +278,7 @@
       "status": "pre_game",
       "player": "Xavier Hutchinson",
       "stat": "Receiving Yards",
-      "line": "16.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -268,9 +289,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2964,
+      "rank": 3101,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539456",
@@ -289,9 +310,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2966,
+      "rank": 3103,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539466",
@@ -310,9 +331,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2967,
+      "rank": 3104,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539377",
@@ -320,7 +341,7 @@
       "status": "pre_game",
       "player": "David Montgomery",
       "stat": "Rush Attempts",
-      "line": "15",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -331,9 +352,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 2969,
+      "rank": 3121,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539357",
@@ -352,9 +373,30 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3003,
+      "rank": 3141,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15539457",
+      "playerId": "246585",
+      "status": "pre_game",
+      "player": "Jaylin Noel",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 3142,
+      "gameId": "186661",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539396",
@@ -373,30 +415,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3007,
+      "rank": 3148,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15539457",
-      "playerId": "246585",
-      "status": "pre_game",
-      "player": "Jaylin Noel",
-      "stat": "Longest Reception",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 3008,
-      "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539372",
@@ -415,9 +436,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3018,
+      "rank": 3162,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449762",
@@ -436,9 +457,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3019,
+      "rank": 3164,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533221",
@@ -457,9 +478,30 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3055,
+      "rank": 3205,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15533470",
+      "playerId": "246592",
+      "status": "pre_game",
+      "player": "Woody Marks",
+      "stat": "Receiving Yards",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 3207,
+      "gameId": "186661",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539382",
@@ -478,9 +520,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3057,
+      "rank": 3208,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15484966",
@@ -499,9 +541,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3061,
+      "rank": 3215,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486739",
@@ -520,9 +562,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3063,
+      "rank": 3217,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533368",
@@ -541,30 +583,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3065,
+      "rank": 3219,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15533470",
-      "playerId": "246592",
-      "status": "pre_game",
-      "player": "Woody Marks",
-      "stat": "Receiving Yards",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 3066,
-      "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15539362",
@@ -572,7 +593,7 @@
       "status": "pre_game",
       "player": "David Montgomery",
       "stat": "Longest Reception",
-      "line": "7.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -583,9 +604,30 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3067,
+      "rank": 3231,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15539376",
+      "playerId": "246592",
+      "status": "pre_game",
+      "player": "Woody Marks",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 3232,
+      "gameId": "186661",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15485329",
@@ -604,9 +646,30 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3078,
+      "rank": 3240,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15539364",
+      "playerId": "320309",
+      "status": "pre_game",
+      "player": "David Montgomery",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.1",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 3300,
+      "gameId": "186661",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533371",
@@ -625,30 +688,9 @@
       "teamCode": "HOU",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3149,
+      "rank": 3339,
       "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15465818",
-      "playerId": "320309",
-      "status": "pre_game",
-      "player": "David Montgomery",
-      "stat": "Anytime TDs",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 3164,
-      "gameId": "186661",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     }
   ]
 }

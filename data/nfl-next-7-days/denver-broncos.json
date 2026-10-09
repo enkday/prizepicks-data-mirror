@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-08T12:09:08.157Z",
-  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-09T12:09:38.321Z",
+  "scrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 682,
-    "sourceCount": 5206,
-    "acceptedCount": 682,
-    "excludedCount": 4524,
+    "count": 827,
+    "sourceCount": 6145,
+    "acceptedCount": 827,
+    "excludedCount": 5318,
     "rejectedCount": 0,
-    "publishedCount": 682,
-    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
+    "publishedCount": 827,
+    "providerFetchedAt": "2026-10-09T12:08:22.576Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Denver Broncos",
-  "totalProps": 33,
+  "totalProps": 36,
   "props": [
     {
       "projectionId": "15449668",
@@ -37,9 +37,30 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3531,
+      "rank": 3820,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15512163",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Completion Percentage",
+      "line": "64.2",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 3859,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449898",
@@ -58,9 +79,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3573,
+      "rank": 3868,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449768",
@@ -79,9 +100,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3576,
+      "rank": 3870,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449899",
@@ -100,9 +121,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3610,
+      "rank": 3907,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15512160",
@@ -121,9 +142,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3616,
+      "rank": 3913,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528737",
@@ -142,9 +163,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3617,
+      "rank": 3914,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15509495",
@@ -163,9 +184,30 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3640,
+      "rank": 3942,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15509501",
+      "playerId": "246567",
+      "status": "pre_game",
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 3961,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15512159",
@@ -184,9 +226,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3658,
+      "rank": 3962,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528688",
@@ -194,7 +236,7 @@
       "status": "pre_game",
       "player": "Jaylen Waddle",
       "stat": "Longest Reception",
-      "line": "20.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "10/11/26 03:05 PM CST",
       "startTimeCST": "10/11/26 03:05 PM CST",
@@ -205,9 +247,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3660,
+      "rank": 3964,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15509399",
@@ -215,7 +257,7 @@
       "status": "pre_game",
       "player": "Troy Franklin",
       "stat": "Receiving Yards",
-      "line": "18.5",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "10/11/26 03:05 PM CST",
       "startTimeCST": "10/11/26 03:05 PM CST",
@@ -226,30 +268,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3680,
+      "rank": 3966,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15509501",
-      "playerId": "246567",
-      "status": "pre_game",
-      "player": "RJ Harvey",
-      "stat": "Rush Yards",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 03:05 PM CST",
-      "startTimeCST": "10/11/26 03:05 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3681,
-      "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15526127",
@@ -268,9 +289,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3687,
+      "rank": 3997,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528725",
@@ -278,7 +299,7 @@
       "status": "pre_game",
       "player": "Courtland Sutton",
       "stat": "Longest Reception",
-      "line": "16.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "10/11/26 03:05 PM CST",
       "startTimeCST": "10/11/26 03:05 PM CST",
@@ -289,9 +310,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3689,
+      "rank": 3998,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449769",
@@ -310,9 +331,51 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3693,
+      "rank": 4004,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15528699",
+      "playerId": "216282",
+      "status": "pre_game",
+      "player": "Troy Franklin",
+      "stat": "Longest Reception",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4013,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15509419",
+      "playerId": "211964",
+      "status": "pre_game",
+      "player": "Marvin Mims Jr.",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4027,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15512219",
@@ -331,30 +394,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3712,
+      "rank": 4029,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15528699",
-      "playerId": "216282",
-      "status": "pre_game",
-      "player": "Troy Franklin",
-      "stat": "Longest Reception",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 03:05 PM CST",
-      "startTimeCST": "10/11/26 03:05 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3713,
-      "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528724",
@@ -373,30 +415,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3714,
+      "rank": 4030,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15509419",
-      "playerId": "211964",
-      "status": "pre_game",
-      "player": "Marvin Mims Jr.",
-      "stat": "Receiving Yards",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 03:05 PM CST",
-      "startTimeCST": "10/11/26 03:05 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3715,
-      "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528743",
@@ -415,9 +436,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3723,
+      "rank": 4044,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528702",
@@ -436,9 +457,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3727,
+      "rank": 4048,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528731",
@@ -457,9 +478,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3741,
+      "rank": 4062,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528698",
@@ -478,9 +499,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3756,
+      "rank": 4079,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15532245",
@@ -499,9 +520,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3757,
+      "rank": 4080,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528708",
@@ -520,9 +541,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3761,
+      "rank": 4086,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533061",
@@ -541,9 +562,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3768,
+      "rank": 4096,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533059",
@@ -562,9 +583,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3779,
+      "rank": 4108,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533062",
@@ -583,9 +604,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3782,
+      "rank": 4112,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528506",
@@ -604,9 +625,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3787,
+      "rank": 4117,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15509410",
@@ -625,9 +646,72 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3790,
+      "rank": 4121,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15512229",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.7",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4124,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15528707",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Receiving Yards",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4136,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15528718",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Longest Reception",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 03:05 PM CST",
+      "startTimeCST": "10/11/26 03:05 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4137,
+      "gameId": "186664",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533060",
@@ -646,9 +730,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3802,
+      "rank": 4144,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533063",
@@ -667,9 +751,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3815,
+      "rank": 4154,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15509445",
@@ -688,30 +772,9 @@
       "teamCode": "DEN",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3824,
+      "rank": 4163,
       "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15512209",
-      "playerId": "211036",
-      "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "INT",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 03:05 PM CST",
-      "startTimeCST": "10/11/26 03:05 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T16:05:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3857,
-      "gameId": "186664",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     }
   ]
 }

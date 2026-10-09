@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-08T12:09:08.157Z",
-  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-09T12:09:38.321Z",
+  "scrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 682,
-    "sourceCount": 5206,
-    "acceptedCount": 682,
-    "excludedCount": 4524,
+    "count": 827,
+    "sourceCount": 6145,
+    "acceptedCount": 827,
+    "excludedCount": 5318,
     "rejectedCount": 0,
-    "publishedCount": 682,
-    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
+    "publishedCount": 827,
+    "providerFetchedAt": "2026-10-09T12:08:22.576Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Indianapolis Colts",
-  "totalProps": 24,
+  "totalProps": 28,
   "props": [
     {
       "projectionId": "15449667",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Daniel Jones",
       "stat": "Pass Yards",
-      "line": "219.5",
+      "line": "212.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3213,
+      "rank": 3408,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449766",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Rush Yards",
-      "line": "88.5",
+      "line": "85.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3242,
+      "rank": 3441,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15469559",
+      "playerId": "246519",
+      "status": "pre_game",
+      "player": "Daniel Jones",
+      "stat": "Completion Percentage",
+      "line": "61.9",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 3462,
+      "gameId": "186662",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15525412",
@@ -79,9 +100,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3266,
+      "rank": 3472,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449897",
@@ -100,9 +121,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3268,
+      "rank": 3475,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469458",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Daniel Jones",
       "stat": "Longest Completion",
-      "line": "34.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3298,
+      "rank": 3510,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469940",
@@ -142,9 +163,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3304,
+      "rank": 3521,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15530566",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Keenan Allen",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "28.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3330,
+      "rank": 3549,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15526804",
@@ -184,9 +205,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3349,
+      "rank": 3574,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469556",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Daniel Jones",
       "stat": "Pass Completions",
-      "line": "19.5",
+      "line": "20",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3357,
+      "rank": 3579,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15477237",
@@ -226,9 +247,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3358,
+      "rank": 3584,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469514",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Tyler Warren",
       "stat": "Longest Reception",
-      "line": "18.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3373,
+      "rank": 3606,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469445",
@@ -268,9 +289,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3379,
+      "rank": 3612,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469470",
@@ -289,9 +310,30 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3380,
+      "rank": 3613,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15572218",
+      "playerId": "336466",
+      "status": "pre_game",
+      "player": "Keenan Allen",
+      "stat": "Longest Reception",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 3632,
+      "gameId": "186662",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449767",
@@ -310,9 +352,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3398,
+      "rank": 3645,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469558",
@@ -331,9 +373,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3400,
+      "rank": 3646,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533223",
@@ -352,9 +394,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3416,
+      "rank": 3673,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533224",
@@ -373,9 +415,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3417,
+      "rank": 3674,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469492",
@@ -394,9 +436,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3420,
+      "rank": 3679,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528149",
@@ -415,9 +457,30 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3423,
+      "rank": 3682,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15469467",
+      "playerId": "246563",
+      "status": "pre_game",
+      "player": "Tyler Warren",
+      "stat": "Receptions",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 3696,
+      "gameId": "186662",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15525501",
@@ -436,9 +499,30 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3431,
+      "rank": 3697,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15469554",
+      "playerId": "206321",
+      "status": "pre_game",
+      "player": "Jonathan Taylor",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.1",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 3712,
+      "gameId": "186662",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533222",
@@ -457,9 +541,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3456,
+      "rank": 3734,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15525414",
@@ -478,9 +562,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3462,
+      "rank": 3740,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15474751",
@@ -499,9 +583,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3476,
+      "rank": 3759,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15469526",
@@ -520,9 +604,9 @@
       "teamCode": "IND",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 3489,
+      "rank": 3777,
       "gameId": "186662",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     }
   ]
 }

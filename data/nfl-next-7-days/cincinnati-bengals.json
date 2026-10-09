@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-08T12:09:08.157Z",
-  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-09T12:09:38.321Z",
+  "scrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 682,
-    "sourceCount": 5206,
-    "acceptedCount": 682,
-    "excludedCount": 4524,
+    "count": 827,
+    "sourceCount": 6145,
+    "acceptedCount": 827,
+    "excludedCount": 5318,
     "rejectedCount": 0,
-    "publishedCount": 682,
-    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
+    "publishedCount": 827,
+    "providerFetchedAt": "2026-10-09T12:08:22.576Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cincinnati Bengals",
-  "totalProps": 11,
+  "totalProps": 13,
   "props": [
     {
       "projectionId": "15449644",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Pass Yards",
-      "line": "235.5",
+      "line": "245.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1565,
+      "rank": 1228,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15486961",
+      "playerId": "210964",
+      "status": "pre_game",
+      "player": "Joe Burrow",
+      "stat": "Completion Percentage",
+      "line": "72.3",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 1260,
+      "gameId": "186660",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449749",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Chase Brown",
       "stat": "Rush Yards",
-      "line": "64.5",
+      "line": "67.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1599,
+      "rank": 1264,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486950",
@@ -79,9 +100,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1636,
+      "rank": 1310,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486925",
@@ -100,9 +121,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1640,
+      "rank": 1316,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486943",
@@ -121,9 +142,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1680,
+      "rank": 1352,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449880",
@@ -142,9 +163,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1684,
+      "rank": 1358,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486971",
@@ -163,9 +184,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1710,
+      "rank": 1390,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15549376",
@@ -184,9 +205,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1718,
+      "rank": 1402,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486970",
@@ -205,9 +226,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1724,
+      "rank": 1413,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449750",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Rush Yards",
-      "line": "10.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -226,9 +247,9 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1730,
+      "rank": 1445,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15486922",
@@ -247,9 +268,30 @@
       "teamCode": "CIN",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 1744,
+      "rank": 1448,
       "gameId": "186660",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15486947",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Rush Yards Per Carry",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 1475,
+      "gameId": "186660",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     }
   ]
 }

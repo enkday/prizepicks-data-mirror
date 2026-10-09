@@ -1,23 +1,44 @@
 {
-  "scrapedAt": "2026-10-08T12:09:08.157Z",
-  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-09T12:09:38.321Z",
+  "scrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "sport": "NBA",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 12,
-    "sourceCount": 194,
-    "acceptedCount": 12,
-    "excludedCount": 182,
+    "count": 14,
+    "sourceCount": 195,
+    "acceptedCount": 14,
+    "excludedCount": 181,
     "rejectedCount": 0,
-    "publishedCount": 12,
-    "providerFetchedAt": "2026-10-08T12:09:04.411Z",
+    "publishedCount": 14,
+    "providerFetchedAt": "2026-10-09T12:09:33.729Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
-  "totalProps": 12,
+  "totalProps": 14,
   "props": [
+    {
+      "projectionId": "15575749",
+      "playerId": "188017",
+      "status": "pre_game",
+      "player": "Anthony Edwards",
+      "stat": "Points",
+      "line": "27.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 06:40 PM CST",
+      "startTimeCST": "10/21/26 06:40 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Miami Heat",
+      "opponentCode": "MIA",
+      "rank": 1,
+      "gameId": "188872",
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
+    },
     {
       "projectionId": "13952665",
       "playerId": "187999",
@@ -35,9 +56,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 34,
+      "rank": 35,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13952666",
@@ -56,9 +77,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 35,
+      "rank": 36,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13975883",
@@ -77,9 +98,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 48,
+      "rank": 49,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13952667",
@@ -98,9 +119,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 84,
+      "rank": 86,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13952668",
@@ -119,9 +140,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 97,
+      "rank": 99,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13975945",
@@ -140,9 +161,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 109,
+      "rank": 110,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13976094",
@@ -163,7 +184,7 @@
       "opponentCode": "OKC",
       "rank": 128,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13952669",
@@ -184,7 +205,7 @@
       "opponentCode": "SAS",
       "rank": 156,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13952671",
@@ -205,7 +226,7 @@
       "opponentCode": "OKC",
       "rank": 162,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13976083",
@@ -226,7 +247,7 @@
       "opponentCode": "OKC",
       "rank": 172,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13976000",
@@ -247,7 +268,7 @@
       "opponentCode": "SAS",
       "rank": 177,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     },
     {
       "projectionId": "13976096",
@@ -268,7 +289,28 @@
       "opponentCode": "OKC",
       "rank": 190,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-08T12:09:04.411Z"
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
+    },
+    {
+      "projectionId": "15575410",
+      "playerId": "188017",
+      "status": "pre_game",
+      "player": "Anthony Edwards",
+      "stat": "Points",
+      "line": "27.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 06:40 PM CST",
+      "startTimeCST": "10/21/26 06:40 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Miami Heat",
+      "opponentCode": "MIA",
+      "rank": 195,
+      "gameId": "188872",
+      "providerFetchedAt": "2026-10-09T12:09:33.729Z"
     }
   ]
 }

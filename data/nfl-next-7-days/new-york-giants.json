@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-08T12:09:08.157Z",
-  "scrapedDate": "Thursday, October 8, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-09T12:09:38.321Z",
+  "scrapedDate": "Friday, October 9, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 682,
-    "sourceCount": 5206,
-    "acceptedCount": 682,
-    "excludedCount": 4524,
+    "count": 827,
+    "sourceCount": 6145,
+    "acceptedCount": 827,
+    "excludedCount": 5318,
     "rejectedCount": 0,
-    "publishedCount": 682,
-    "providerFetchedAt": "2026-10-08T12:08:54.541Z",
+    "publishedCount": 827,
+    "providerFetchedAt": "2026-10-09T12:08:22.576Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 28,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "15449663",
@@ -37,17 +37,17 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2198,
+      "rank": 2031,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
-      "projectionId": "15449760",
-      "playerId": "246533",
+      "projectionId": "15488666",
+      "playerId": "279456",
       "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Rush Yards",
-      "line": "59.5",
+      "player": "Jameis Winston",
+      "stat": "Completion Percentage",
+      "line": "62.7",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2236,
+      "rank": 2069,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15449760",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Rush Yards",
+      "line": "57.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2077,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449890",
@@ -79,9 +100,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2242,
+      "rank": 2078,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15449891",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Isaiah Likely",
       "stat": "Receiving Yards",
-      "line": "40.5",
+      "line": "41.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2257,
+      "rank": 2092,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488655",
@@ -121,9 +142,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2269,
+      "rank": 2115,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488657",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Pass Attempts",
-      "line": "30.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2278,
+      "rank": 2122,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488766",
@@ -163,9 +184,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2279,
+      "rank": 2124,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488846",
@@ -184,9 +205,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2295,
+      "rank": 2145,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488826",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Malik Nabers",
       "stat": "Longest Reception",
-      "line": "20.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2317,
+      "rank": 2165,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488664",
@@ -226,9 +247,30 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2336,
+      "rank": 2195,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15488814",
+      "playerId": "336250",
+      "status": "pre_game",
+      "player": "Malachi Fields",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2196,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488798",
@@ -247,30 +289,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2339,
+      "rank": 2198,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15488814",
-      "playerId": "336250",
-      "status": "pre_game",
-      "player": "Malachi Fields",
-      "stat": "Longest Reception",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 2340,
-      "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488830",
@@ -289,9 +310,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2341,
+      "rank": 2199,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15534995",
@@ -310,30 +331,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2345,
+      "rank": 2207,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
-    },
-    {
-      "projectionId": "15488693",
-      "playerId": "246533",
-      "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Longest Rush",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 2349,
-      "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488782",
@@ -352,9 +352,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2351,
+      "rank": 2211,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488736",
@@ -373,9 +373,30 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2369,
+      "rank": 2234,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15526670",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Longest Rush",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2237,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488762",
@@ -394,9 +415,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2374,
+      "rank": 2244,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488679",
@@ -415,9 +436,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2391,
+      "rank": 2265,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533343",
@@ -425,7 +446,7 @@
       "status": "pre_game",
       "player": "Malik Nabers",
       "stat": "Rec Targets",
-      "line": "8.5",
+      "line": "8",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -436,9 +457,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2393,
+      "rank": 2269,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533341",
@@ -457,9 +478,30 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2398,
+      "rank": 2279,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15528921",
+      "playerId": "336475",
+      "status": "pre_game",
+      "player": "Dominic Zvada",
+      "stat": "Kicking Points",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2283,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15529422",
@@ -478,9 +520,51 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2406,
+      "rank": 2291,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15488878",
+      "playerId": "212258",
+      "status": "pre_game",
+      "player": "Theo Johnson",
+      "stat": "Receiving Yards",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2292,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15488879",
+      "playerId": "212258",
+      "status": "pre_game",
+      "player": "Theo Johnson",
+      "stat": "Longest Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2293,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533402",
@@ -499,9 +583,93 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2412,
+      "rank": 2299,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15494225",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.6",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2302,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15488663",
+      "playerId": "279456",
+      "status": "pre_game",
+      "player": "Jameis Winston",
+      "stat": "Longest Rush",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2304,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15488769",
+      "playerId": "343997",
+      "status": "pre_game",
+      "player": "Najee Harris",
+      "stat": "Longest Reception",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2306,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15488778",
+      "playerId": "343997",
+      "status": "pre_game",
+      "player": "Najee Harris",
+      "stat": "Receiving Yards",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2307,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533342",
@@ -520,9 +688,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2421,
+      "rank": 2318,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533340",
@@ -541,9 +709,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2424,
+      "rank": 2321,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15488662",
@@ -562,9 +730,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2425,
+      "rank": 2322,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15533339",
@@ -583,9 +751,30 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2432,
+      "rank": 2330,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
+    },
+    {
+      "projectionId": "15488656",
+      "playerId": "279456",
+      "status": "pre_game",
+      "player": "Jameis Winston",
+      "stat": "Rush Attempts",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2336,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     },
     {
       "projectionId": "15528644",
@@ -604,9 +793,9 @@
       "teamCode": "NYG",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2444,
+      "rank": 2346,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-08T12:08:54.541Z"
+      "providerFetchedAt": "2026-10-09T12:08:22.576Z"
     }
   ]
 }
