@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-10T12:09:36.324Z",
-  "scrapedDate": "Saturday, October 10, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-11T12:09:39.506Z",
+  "scrapedDate": "Sunday, October 11, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1096,
-    "sourceCount": 7605,
-    "acceptedCount": 1096,
-    "excludedCount": 6509,
+    "count": 1132,
+    "sourceCount": 8416,
+    "acceptedCount": 1132,
+    "excludedCount": 7284,
     "rejectedCount": 0,
-    "publishedCount": 1096,
-    "providerFetchedAt": "2026-10-10T12:08:00.858Z",
+    "publishedCount": 1132,
+    "providerFetchedAt": "2026-10-11T12:08:26.489Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Baltimore Ravens",
-  "totalProps": 40,
+  "totalProps": 42,
   "props": [
     {
       "projectionId": "15481205",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Tyler Huntley",
       "stat": "Pass Yards",
-      "line": "170.5",
+      "line": "173.5",
       "sport": "NFL",
       "startTime": "10/11/26 07:20 PM CST",
       "startTimeCST": "10/11/26 07:20 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6538,
+      "rank": 7207,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15449779",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Derrick Henry",
       "stat": "Rush Yards",
-      "line": "81.5",
+      "line": "79.5",
       "sport": "NFL",
       "startTime": "10/11/26 07:20 PM CST",
       "startTimeCST": "10/11/26 07:20 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6577,
+      "rank": 7247,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15449912",
@@ -79,9 +79,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6588,
+      "rank": 7257,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15528539",
@@ -100,9 +100,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6597,
+      "rank": 7266,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15449913",
@@ -121,9 +121,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6651,
+      "rank": 7326,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15528540",
@@ -142,9 +142,30 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6654,
+      "rank": 7329,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15528526",
+      "playerId": "273501",
+      "status": "pre_game",
+      "player": "Tyler Huntley",
+      "stat": "Rush Yards",
+      "line": "29.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 07:20 PM CST",
+      "startTimeCST": "10/11/26 07:20 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 7339,
+      "gameId": "186845",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15528509",
@@ -163,30 +184,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6677,
+      "rank": 7351,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
-    },
-    {
-      "projectionId": "15528526",
-      "playerId": "273501",
-      "status": "pre_game",
-      "player": "Tyler Huntley",
-      "stat": "Rush Yards",
-      "line": "27.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 6679,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479770",
@@ -205,9 +205,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6688,
+      "rank": 7362,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15496041",
@@ -226,9 +226,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6709,
+      "rank": 7382,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15507654",
@@ -247,9 +247,30 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6730,
+      "rank": 7403,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15528521",
+      "playerId": "273501",
+      "status": "pre_game",
+      "player": "Tyler Huntley",
+      "stat": "Pass Completions",
+      "line": "18",
+      "sport": "NFL",
+      "startTime": "10/11/26 07:20 PM CST",
+      "startTimeCST": "10/11/26 07:20 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 7425,
+      "gameId": "186845",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479800",
@@ -268,30 +289,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6754,
+      "rank": 7428,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
-    },
-    {
-      "projectionId": "15528521",
-      "playerId": "273501",
-      "status": "pre_game",
-      "player": "Tyler Huntley",
-      "stat": "Pass Completions",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 6759,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479721",
@@ -299,7 +299,7 @@
       "status": "pre_game",
       "player": "Derrick Henry",
       "stat": "Longest Rush",
-      "line": "16.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/11/26 07:20 PM CST",
       "startTimeCST": "10/11/26 07:20 PM CST",
@@ -310,9 +310,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6761,
+      "rank": 7437,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15486814",
@@ -331,9 +331,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6776,
+      "rank": 7450,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479746",
@@ -352,9 +352,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6796,
+      "rank": 7471,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479815",
@@ -373,9 +373,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6801,
+      "rank": 7478,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15574620",
@@ -394,30 +394,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6803,
+      "rank": 7480,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
-    },
-    {
-      "projectionId": "15574640",
-      "playerId": "336460",
-      "status": "pre_game",
-      "player": "Matt Hibner",
-      "stat": "Receiving Yards",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 6809,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479750",
@@ -436,30 +415,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6838,
+      "rank": 7520,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
-    },
-    {
-      "projectionId": "15574637",
-      "playerId": "336460",
-      "status": "pre_game",
-      "player": "Matt Hibner",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 07:20 PM CST",
-      "startTimeCST": "10/11/26 07:20 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 6843,
-      "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600943",
@@ -478,9 +436,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6844,
+      "rank": 7525,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15533053",
@@ -499,9 +457,30 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6852,
+      "rank": 7537,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15574640",
+      "playerId": "336460",
+      "status": "pre_game",
+      "player": "Matt Hibner",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 07:20 PM CST",
+      "startTimeCST": "10/11/26 07:20 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 7538,
+      "gameId": "186845",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479674",
@@ -520,9 +499,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6859,
+      "rank": 7547,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479691",
@@ -541,9 +520,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6860,
+      "rank": 7548,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15564273",
@@ -562,17 +541,17 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6865,
+      "rank": 7553,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
-      "projectionId": "15479758",
-      "playerId": "206297",
+      "projectionId": "15574637",
+      "playerId": "336460",
       "status": "pre_game",
-      "player": "Derrick Henry",
-      "stat": "Receiving Yards",
-      "line": "5.5",
+      "player": "Matt Hibner",
+      "stat": "Longest Reception",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "10/11/26 07:20 PM CST",
       "startTimeCST": "10/11/26 07:20 PM CST",
@@ -583,9 +562,30 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6872,
+      "rank": 7554,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15615036",
+      "playerId": "216991",
+      "status": "pre_game",
+      "player": "Devontez Walker",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 07:20 PM CST",
+      "startTimeCST": "10/11/26 07:20 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 7555,
+      "gameId": "186845",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15539951",
@@ -604,9 +604,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6876,
+      "rank": 7574,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15603750",
@@ -625,9 +625,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6880,
+      "rank": 7578,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15533051",
@@ -646,9 +646,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6881,
+      "rank": 7587,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15479681",
@@ -667,9 +667,30 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6883,
+      "rank": 7589,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15479758",
+      "playerId": "206297",
+      "status": "pre_game",
+      "player": "Derrick Henry",
+      "stat": "Receiving Yards",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 07:20 PM CST",
+      "startTimeCST": "10/11/26 07:20 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 7590,
+      "gameId": "186845",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15496040",
@@ -688,9 +709,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6908,
+      "rank": 7620,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15604662",
@@ -709,9 +730,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6909,
+      "rank": 7621,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15605200",
@@ -730,9 +751,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6910,
+      "rank": 7622,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15533052",
@@ -751,9 +772,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6942,
+      "rank": 7658,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15599426",
@@ -772,9 +793,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6960,
+      "rank": 7680,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15574622",
@@ -793,9 +814,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6982,
+      "rank": 7700,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15584392",
@@ -814,9 +835,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6985,
+      "rank": 7703,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15599425",
@@ -835,9 +856,9 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6989,
+      "rank": 7708,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15576398",
@@ -856,9 +877,30 @@
       "teamCode": "BAL",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 6995,
+      "rank": 7716,
       "gameId": "186845",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15480562",
+      "playerId": "206297",
+      "status": "pre_game",
+      "player": "Derrick Henry",
+      "stat": "Rush TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 07:20 PM CST",
+      "startTimeCST": "10/11/26 07:20 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 7724,
+      "gameId": "186845",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     }
   ]
 }

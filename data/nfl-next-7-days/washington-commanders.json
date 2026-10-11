@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-10T12:09:36.324Z",
-  "scrapedDate": "Saturday, October 10, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-11T12:09:39.506Z",
+  "scrapedDate": "Sunday, October 11, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1096,
-    "sourceCount": 7605,
-    "acceptedCount": 1096,
-    "excludedCount": 6509,
+    "count": 1132,
+    "sourceCount": 8416,
+    "acceptedCount": 1132,
+    "excludedCount": 7284,
     "rejectedCount": 0,
-    "publishedCount": 1096,
-    "providerFetchedAt": "2026-10-10T12:08:00.858Z",
+    "publishedCount": 1132,
+    "providerFetchedAt": "2026-10-11T12:08:26.489Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 30,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "15528650",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Pass Yards",
-      "line": "197.5",
+      "line": "193.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2696,
+      "rank": 2988,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600227",
@@ -58,9 +58,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2720,
+      "rank": 3016,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529700",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Completion Percentage",
-      "line": "62.7",
+      "line": "59.3",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -79,30 +79,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2738,
+      "rank": 3048,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
-    },
-    {
-      "projectionId": "15600209",
-      "playerId": "211279",
-      "status": "pre_game",
-      "player": "Terry McLaurin",
-      "stat": "Receiving Yards",
-      "line": "59.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 2747,
-      "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15528648",
@@ -110,7 +89,7 @@
       "status": "pre_game",
       "player": "Jacory Croskey-Merritt",
       "stat": "Rush Yards",
-      "line": "51.5",
+      "line": "53.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -121,9 +100,30 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2753,
+      "rank": 3053,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15600209",
+      "playerId": "211279",
+      "status": "pre_game",
+      "player": "Terry McLaurin",
+      "stat": "Receiving Yards",
+      "line": "44.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3073,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600363",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Antonio Williams",
       "stat": "Receiving Yards",
-      "line": "33.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2800,
+      "rank": 3105,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529680",
@@ -163,9 +163,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2801,
+      "rank": 3112,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15528646",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Rush Yards",
-      "line": "29.5",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2814,
+      "rank": 3116,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529677",
@@ -205,9 +205,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2820,
+      "rank": 3130,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529608",
@@ -215,7 +215,7 @@
       "status": "pre_game",
       "player": "Chig Okonkwo",
       "stat": "Receiving Yards",
-      "line": "26.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -226,9 +226,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2834,
+      "rank": 3152,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600326",
@@ -247,17 +247,17 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2852,
+      "rank": 3164,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
-      "projectionId": "15600191",
-      "playerId": "211279",
+      "projectionId": "15626791",
+      "playerId": "278437",
       "status": "pre_game",
-      "player": "Terry McLaurin",
-      "stat": "Longest Reception",
-      "line": "22.5",
+      "player": "Treylon Burks",
+      "stat": "Receiving Yards",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -268,9 +268,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2854,
+      "rank": 3169,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529485",
@@ -289,9 +289,30 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2877,
+      "rank": 3190,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15600191",
+      "playerId": "211279",
+      "status": "pre_game",
+      "player": "Terry McLaurin",
+      "stat": "Longest Reception",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3198,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529915",
@@ -310,9 +331,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2893,
+      "rank": 3207,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600362",
@@ -320,7 +341,7 @@
       "status": "pre_game",
       "player": "Antonio Williams",
       "stat": "Longest Reception",
-      "line": "16.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -331,9 +352,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2903,
+      "rank": 3214,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529510",
@@ -352,15 +373,36 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2931,
+      "rank": 3253,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
-      "projectionId": "15529605",
-      "playerId": "320278",
+      "projectionId": "15533225",
+      "playerId": "210778",
       "status": "pre_game",
-      "player": "Chig Okonkwo",
+      "player": "Jayden Daniels",
+      "stat": "Longest Rush",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3255,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15626783",
+      "playerId": "278437",
+      "status": "pre_game",
+      "player": "Treylon Burks",
       "stat": "Longest Reception",
       "line": "13.5",
       "sport": "NFL",
@@ -373,9 +415,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2932,
+      "rank": 3259,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529517",
@@ -394,16 +436,16 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2935,
+      "rank": 3260,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
-      "projectionId": "15533225",
-      "playerId": "210778",
+      "projectionId": "15529605",
+      "playerId": "320278",
       "status": "pre_game",
-      "player": "Jayden Daniels",
-      "stat": "Longest Rush",
+      "player": "Chig Okonkwo",
+      "stat": "Longest Reception",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
@@ -415,9 +457,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2940,
+      "rank": 3265,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600325",
@@ -436,30 +478,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2967,
+      "rank": 3299,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
-    },
-    {
-      "projectionId": "15600322",
-      "playerId": "336581",
-      "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Longest Rush",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/11/26 12:00 PM CST",
-      "startTimeCST": "10/11/26 12:00 PM CST",
-      "startDateCST": "2026-10-11",
-      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 2984,
-      "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15534663",
@@ -478,9 +499,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2989,
+      "rank": 3331,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600324",
@@ -499,9 +520,51 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 2990,
+      "rank": 3332,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15622906",
+      "playerId": "211279",
+      "status": "pre_game",
+      "player": "Terry McLaurin",
+      "stat": "Rec Targets",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3354,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15529911",
+      "playerId": "210778",
+      "status": "pre_game",
+      "player": "Jayden Daniels",
+      "stat": "Rush Attempts",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3357,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529516",
@@ -520,9 +583,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3007,
+      "rank": 3364,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15529528",
@@ -541,9 +604,72 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3008,
+      "rank": 3365,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15639549",
+      "playerId": "346119",
+      "status": "pre_game",
+      "player": "Antonio Williams",
+      "stat": "Rec Targets",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3380,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15622905",
+      "playerId": "320278",
+      "status": "pre_game",
+      "player": "Chig Okonkwo",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3403,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15529486",
+      "playerId": "252771",
+      "status": "pre_game",
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards Per Carry",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3404,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600581",
@@ -562,17 +688,17 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3039,
+      "rank": 3406,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
-      "projectionId": "15529486",
-      "playerId": "252771",
+      "projectionId": "15622904",
+      "playerId": "211279",
       "status": "pre_game",
-      "player": "Jacory Croskey-Merritt",
-      "stat": "Rush Yards Per Carry",
-      "line": "3.9",
+      "player": "Terry McLaurin",
+      "stat": "Receptions",
+      "line": "4",
       "sport": "NFL",
       "startTime": "10/11/26 12:00 PM CST",
       "startTimeCST": "10/11/26 12:00 PM CST",
@@ -583,9 +709,30 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3040,
+      "rank": 3407,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
+    },
+    {
+      "projectionId": "15622903",
+      "playerId": "320278",
+      "status": "pre_game",
+      "player": "Chig Okonkwo",
+      "stat": "Receptions",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/11/26 12:00 PM CST",
+      "startTimeCST": "10/11/26 12:00 PM CST",
+      "startDateCST": "2026-10-11",
+      "startTimeIso": "2026-10-11T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 3438,
+      "gameId": "186657",
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15604864",
@@ -604,9 +751,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3081,
+      "rank": 3455,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15605197",
@@ -625,9 +772,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3084,
+      "rank": 3461,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     },
     {
       "projectionId": "15600596",
@@ -646,9 +793,9 @@
       "teamCode": "WAS",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 3105,
+      "rank": 3484,
       "gameId": "186657",
-      "providerFetchedAt": "2026-10-10T12:08:00.858Z"
+      "providerFetchedAt": "2026-10-11T12:08:26.489Z"
     }
   ]
 }
