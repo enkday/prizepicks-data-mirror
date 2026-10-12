@@ -1,54 +1,25 @@
 [
   {
-    "gameId": "187086",
-    "sport": "NFL",
-    "startTime": "10/12/26 07:15 PM CDT",
-    "startTimeIso": "2026-10-12T19:15:00-05:00",
+    "gameId": "187092",
+    "sport": "NCAAF",
+    "startTime": "10/13/26 07:00 PM CDT",
+    "startTimeIso": "2026-10-13T19:00:00-05:00",
     "teams": [
-      "Buffalo Bills",
-      "Los Angeles Rams"
+      "Florida International Panthers",
+      "Jacksonville State Gamecocks"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-12T19:15:00-05:00"
+      "2026-10-13T19:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Buffalo Bills",
-        "Los Angeles Rams"
+        "Florida International Panthers",
+        "Jacksonville State Gamecocks"
       ]
     ],
     "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "194353",
-    "sport": "MLB",
-    "startTime": "10/12/26 07:00 PM CDT",
-    "startTimeIso": "2026-10-12T19:00:00-05:00",
-    "teams": [
-      "AL American League",
-      "Cleveland Guardians",
-      "Tampa Bay Rays"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow",
-    "startTimeObservations": [
-      "2026-10-12T19:00:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Cleveland Guardians",
-        "Tampa Bay Rays"
-      ],
-      [
-        "AL American League",
-        "Tampa Bay Rays"
-      ]
-    ],
-    "sourceEventConflict": true,
     "eventTimeVerified": true,
     "startTimeSelectionRule": "linked-provider-game"
   }
