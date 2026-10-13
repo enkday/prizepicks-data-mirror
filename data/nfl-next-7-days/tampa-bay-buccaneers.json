@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-10-13T12:11:02.267Z",
+  "scrapedDate": "Tuesday, October 13, 2026 at 07:11 AM CDT",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NFL",
+    "ok": true,
+    "status": 200,
+    "count": 288,
+    "sourceCount": 2426,
+    "acceptedCount": 288,
+    "excludedCount": 2138,
+    "rejectedCount": 0,
+    "publishedCount": 288,
+    "providerFetchedAt": "2026-10-13T12:09:54.599Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NFL",
+  "day": "next-7-days",
+  "team": "Tampa Bay Buccaneers",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "15683998",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Rush Yards",
+      "line": "63.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 971,
+      "gameId": "188231",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    }
+  ]
+}

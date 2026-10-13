@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-12T12:13:48.516Z",
-  "scrapedDate": "Monday, October 12, 2026 at 07:13 AM CDT",
+  "scrapedAt": "2026-10-13T12:11:02.267Z",
+  "scrapedDate": "Tuesday, October 13, 2026 at 07:11 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 135,
-    "sourceCount": 1235,
-    "acceptedCount": 135,
-    "excludedCount": 1100,
+    "count": 288,
+    "sourceCount": 2426,
+    "acceptedCount": 288,
+    "excludedCount": 2138,
     "rejectedCount": 0,
-    "publishedCount": 135,
-    "providerFetchedAt": "2026-10-12T12:12:34.965Z",
+    "publishedCount": 288,
+    "providerFetchedAt": "2026-10-13T12:09:54.599Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Denver Broncos",
-  "totalProps": 20,
+  "totalProps": 28,
   "props": [
     {
       "projectionId": "15657667",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Bo Nix",
       "stat": "Pass Yards",
-      "line": "204.5",
+      "line": "202.5",
       "sport": "NFL",
       "startTime": "10/15/26 07:15 PM CST",
       "startTimeCST": "10/15/26 07:15 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 690,
+      "rank": 23,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657748",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jaylen Waddle",
       "stat": "Receiving Yards",
-      "line": "51.5",
+      "line": "49.5",
       "sport": "NFL",
       "startTime": "10/15/26 07:15 PM CST",
       "startTimeCST": "10/15/26 07:15 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 743,
+      "rank": 87,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657750",
@@ -79,9 +79,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 756,
+      "rank": 97,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657665",
@@ -100,9 +100,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 777,
+      "rank": 130,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657747",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Courtland Sutton",
       "stat": "Receiving Yards",
-      "line": "33.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/15/26 07:15 PM CST",
       "startTimeCST": "10/15/26 07:15 PM CST",
@@ -121,9 +121,30 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 781,
+      "rank": 137,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15684021",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Longest Completion",
+      "line": "31.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 138,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657666",
@@ -142,9 +163,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 827,
+      "rank": 196,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657749",
@@ -163,9 +184,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 828,
+      "rank": 197,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657669",
@@ -184,9 +205,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 830,
+      "rank": 200,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15658429",
@@ -205,9 +226,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 845,
+      "rank": 215,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657746",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Troy Franklin",
       "stat": "Receiving Yards",
-      "line": "17.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "10/15/26 07:15 PM CST",
       "startTimeCST": "10/15/26 07:15 PM CST",
@@ -226,9 +247,30 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 858,
+      "rank": 241,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15657849",
+      "playerId": "246567",
+      "status": "pre_game",
+      "player": "RJ Harvey",
+      "stat": "Rush Yards",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 246,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15658427",
@@ -247,30 +289,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 863,
+      "rank": 248,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
-    },
-    {
-      "projectionId": "15657849",
-      "playerId": "246567",
-      "status": "pre_game",
-      "player": "RJ Harvey",
-      "stat": "Rush Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/15/26 07:15 PM CST",
-      "startTimeCST": "10/15/26 07:15 PM CST",
-      "startDateCST": "2026-10-15",
-      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 872,
-      "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657634",
@@ -289,9 +310,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 887,
+      "rank": 278,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15657887",
@@ -310,9 +331,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 888,
+      "rank": 280,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15658398",
@@ -320,7 +341,7 @@
       "status": "pre_game",
       "player": "Marvin Mims Jr.",
       "stat": "Receiving Yards",
-      "line": "12.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/15/26 07:15 PM CST",
       "startTimeCST": "10/15/26 07:15 PM CST",
@@ -331,15 +352,15 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 890,
+      "rank": 282,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
-      "projectionId": "15658433",
-      "playerId": "216282",
+      "projectionId": "15658423",
+      "playerId": "246530",
       "status": "pre_game",
-      "player": "Troy Franklin",
+      "player": "Evan Engram",
       "stat": "Longest Reception",
       "line": "12.5",
       "sport": "NFL",
@@ -352,15 +373,36 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 891,
+      "rank": 286,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
-      "projectionId": "15658423",
-      "playerId": "246530",
+      "projectionId": "15684040",
+      "playerId": "246531",
       "status": "pre_game",
-      "player": "Evan Engram",
+      "player": "J.K. Dobbins",
+      "stat": "Longest Rush",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 289,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15658426",
+      "playerId": "211964",
+      "status": "pre_game",
+      "player": "Marvin Mims Jr.",
       "stat": "Longest Reception",
       "line": "11.5",
       "sport": "NFL",
@@ -373,17 +415,17 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 895,
+      "rank": 295,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
-      "projectionId": "15658426",
-      "playerId": "211964",
+      "projectionId": "15658433",
+      "playerId": "216282",
       "status": "pre_game",
-      "player": "Marvin Mims Jr.",
+      "player": "Troy Franklin",
       "stat": "Longest Reception",
-      "line": "10.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "10/15/26 07:15 PM CST",
       "startTimeCST": "10/15/26 07:15 PM CST",
@@ -394,9 +436,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 897,
+      "rank": 296,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15658442",
@@ -415,9 +457,135 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 898,
+      "rank": 302,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15684050",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 347,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15684048",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Receiving Yards",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 365,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15684055",
+      "playerId": "246567",
+      "status": "pre_game",
+      "player": "RJ Harvey",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 366,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15684054",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Longest Reception",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 388,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15684016",
+      "playerId": "246567",
+      "status": "pre_game",
+      "player": "RJ Harvey",
+      "stat": "Rush Attempts",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 395,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+    },
+    {
+      "projectionId": "15657744",
+      "playerId": "320281",
+      "status": "pre_game",
+      "player": "Jaylen Waddle",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/15/26 07:15 PM CST",
+      "startTimeCST": "10/15/26 07:15 PM CST",
+      "startDateCST": "2026-10-15",
+      "startTimeIso": "2026-10-15T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 400,
+      "gameId": "187629",
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     },
     {
       "projectionId": "15658397",
@@ -436,9 +604,9 @@
       "teamCode": "DEN",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 961,
+      "rank": 424,
       "gameId": "187629",
-      "providerFetchedAt": "2026-10-12T12:12:34.965Z"
+      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
     }
   ]
 }
