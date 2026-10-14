@@ -1,34 +1,34 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "710d995cdef7b58f7ea3818de4535e879d5a5dc261b122db86f26d759ef0c308",
-  "sourceScrapedAt": "2026-10-13T12:11:02.267Z",
-  "sourceScrapedDate": "Tuesday, October 13, 2026 at 07:11 AM CDT",
-  "observedDate": "2026-10-14",
+  "sourcePayloadHash": "8298de1a3c5cfbb9ddbac86e076adcaa583c35a44492705bc473be234e9aba4c",
+  "sourceScrapedAt": "2026-10-14T12:09:42.581Z",
+  "sourceScrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-10-15",
   "completeness": "reported",
   "sport": "MLB",
   "sportSlug": "mlb",
   "dayBranch": "tomorrow",
   "gameCount": 1,
-  "propCount": 17,
+  "propCount": 10,
   "games": [
     {
-      "gameId": "193515",
+      "gameId": "194355",
       "slate": "Late",
-      "startTime": "10/14/26 07:00 PM CDT",
-      "startTimeIso": "2026-10-14T19:00:00-05:00",
+      "startTime": "10/15/26 05:00 PM CDT",
+      "startTimeIso": "2026-10-15T17:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Los Angeles Dodgers",
-        "Milwaukee Brewers"
+        "Cleveland Guardians",
+        "Tampa Bay Rays"
       ],
-      "propCount": 17,
-      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/193515.json"
+      "propCount": 10,
+      "path": "/data/hierarchy/tomorrow/mlb/props-by-game/194355.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 17,
+      "propCount": 10,
       "path": "/data/hierarchy/tomorrow/mlb/props-by-slate/late.json"
     }
   ]

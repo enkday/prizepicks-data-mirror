@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-13T12:11:02.267Z",
-  "scrapedDate": "Tuesday, October 13, 2026 at 07:11 AM CDT",
+  "scrapedAt": "2026-10-14T12:09:42.581Z",
+  "scrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 288,
-    "sourceCount": 2426,
-    "acceptedCount": 288,
-    "excludedCount": 2138,
+    "count": 609,
+    "sourceCount": 4227,
+    "acceptedCount": 609,
+    "excludedCount": 3618,
     "rejectedCount": 0,
-    "publishedCount": 288,
-    "providerFetchedAt": "2026-10-13T12:09:54.599Z",
+    "publishedCount": 609,
+    "providerFetchedAt": "2026-10-14T12:08:33.610Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New Orleans Saints",
-  "totalProps": 13,
+  "totalProps": 20,
   "props": [
     {
       "projectionId": "15683901",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Pass Yards",
-      "line": "248.5",
+      "line": "240.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -37,9 +37,93 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1016,
+      "rank": 1427,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15687713",
+      "playerId": "211238",
+      "status": "pre_game",
+      "player": "Chris Olave",
+      "stat": "Receiving Yards",
+      "line": "81.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1457,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15705365",
+      "playerId": "246565",
+      "status": "pre_game",
+      "player": "Tyler Shough",
+      "stat": "Completion Percentage",
+      "line": "67.2",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1472,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15687714",
+      "playerId": "260181",
+      "status": "pre_game",
+      "player": "Devaughn Vele",
+      "stat": "Receiving Yards",
+      "line": "43.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1502,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15687715",
+      "playerId": "153107",
+      "status": "pre_game",
+      "player": "Juwan Johnson",
+      "stat": "Receiving Yards",
+      "line": "41.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1504,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693181",
@@ -47,7 +131,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -58,9 +142,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1097,
+      "rank": 1524,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693184",
@@ -68,7 +152,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Pass Attempts",
-      "line": "33.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -79,9 +163,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1098,
+      "rank": 1526,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693217",
@@ -100,9 +184,30 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1126,
+      "rank": 1559,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15711731",
+      "playerId": "246565",
+      "status": "pre_game",
+      "player": "Tyler Shough",
+      "stat": "Pass Completions",
+      "line": "23",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1565,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693142",
@@ -121,9 +226,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1157,
+      "rank": 1593,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693150",
@@ -142,9 +247,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1158,
+      "rank": 1595,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693245",
@@ -163,9 +268,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1165,
+      "rank": 1605,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15683881",
@@ -184,9 +289,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1166,
+      "rank": 1608,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693141",
@@ -205,9 +310,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1171,
+      "rank": 1613,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693065",
@@ -226,17 +331,17 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1177,
+      "rank": 1626,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
-      "projectionId": "15693111",
-      "playerId": "338784",
+      "projectionId": "15725579",
+      "playerId": "211238",
       "status": "pre_game",
-      "player": "Noah Fant",
+      "player": "Chris Olave",
       "stat": "Receptions",
-      "line": "1.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -247,9 +352,51 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1207,
+      "rank": 1627,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15755641",
+      "playerId": "340165",
+      "status": "pre_game",
+      "player": "Daniel Carlson",
+      "stat": "Kicking Points",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1631,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15725577",
+      "playerId": "260181",
+      "status": "pre_game",
+      "player": "Devaughn Vele",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1644,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15693171",
@@ -268,17 +415,17 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1210,
+      "rank": 1682,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
-      "projectionId": "15693023",
-      "playerId": "246565",
+      "projectionId": "15755640",
+      "playerId": "340165",
       "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "INT",
-      "line": "0.5",
+      "player": "Daniel Carlson",
+      "stat": "FG Made",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -289,9 +436,9 @@
       "teamCode": "NO",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 1237,
+      "rank": 1689,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     }
   ]
 }

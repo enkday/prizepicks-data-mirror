@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-13T12:11:02.267Z",
-  "scrapedDate": "Tuesday, October 13, 2026 at 07:11 AM CDT",
+  "scrapedAt": "2026-10-14T12:09:42.581Z",
+  "scrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 288,
-    "sourceCount": 2426,
-    "acceptedCount": 288,
-    "excludedCount": 2138,
+    "count": 609,
+    "sourceCount": 4227,
+    "acceptedCount": 609,
+    "excludedCount": 3618,
     "rejectedCount": 0,
-    "publishedCount": 288,
-    "providerFetchedAt": "2026-10-13T12:09:54.599Z",
+    "publishedCount": 609,
+    "providerFetchedAt": "2026-10-14T12:08:33.610Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 11,
+  "totalProps": 13,
   "props": [
     {
       "projectionId": "15683924",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Pass Yards",
-      "line": "207.5",
+      "line": "202.5",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2215,
+      "rank": 3997,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15706113",
+      "playerId": "210778",
+      "status": "pre_game",
+      "player": "Jayden Daniels",
+      "stat": "Completion Percentage",
+      "line": "60.7",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4037,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15684003",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Jacory Croskey-Merritt",
       "stat": "Rush Yards",
-      "line": "45.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2266,
+      "rank": 4054,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15683897",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Rush Yards",
-      "line": "31.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2280,
+      "rank": 4063,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15706105",
@@ -100,9 +121,9 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2284,
+      "rank": 4072,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15688210",
@@ -121,9 +142,9 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2314,
+      "rank": 4097,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15706743",
@@ -142,17 +163,17 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2327,
+      "rank": 4112,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
-      "projectionId": "15706192",
+      "projectionId": "15694457",
       "playerId": "252771",
       "status": "pre_game",
       "player": "Jacory Croskey-Merritt",
-      "stat": "Rush Attempts",
-      "line": "12.5",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2345,
+      "rank": 4119,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15701358",
@@ -184,17 +205,17 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2348,
+      "rank": 4136,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
-      "projectionId": "15701372",
-      "playerId": "336584",
+      "projectionId": "15706192",
+      "playerId": "252771",
       "status": "pre_game",
-      "player": "Drew Stevens",
-      "stat": "Kicking Points",
-      "line": "5.5",
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Attempts",
+      "line": "11",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2366,
+      "rank": 4139,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15701334",
@@ -226,9 +247,9 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2375,
+      "rank": 4173,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     },
     {
       "projectionId": "15701340",
@@ -247,9 +268,30 @@
       "teamCode": "WAS",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2376,
+      "rank": 4174,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-13T12:09:54.599Z"
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+    },
+    {
+      "projectionId": "15694446",
+      "playerId": "252771",
+      "status": "pre_game",
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.3",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4178,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
     }
   ]
 }
