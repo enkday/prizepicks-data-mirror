@@ -1,24 +1,45 @@
 {
-  "scrapedAt": "2026-10-14T12:09:42.581Z",
-  "scrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-15T12:10:31.719Z",
+  "scrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 67,
-    "sourceCount": 1066,
-    "acceptedCount": 67,
-    "excludedCount": 999,
+    "count": 61,
+    "sourceCount": 991,
+    "acceptedCount": 61,
+    "excludedCount": 930,
     "rejectedCount": 0,
-    "publishedCount": 67,
-    "providerFetchedAt": "2026-10-14T12:09:38.503Z",
+    "publishedCount": 61,
+    "providerFetchedAt": "2026-10-15T12:09:27.231Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
-  "totalProps": 65,
+  "totalProps": 61,
   "props": [
+    {
+      "projectionId": "15575749",
+      "playerId": "188017",
+      "status": "pre_game",
+      "player": "Anthony Edwards",
+      "stat": "Points",
+      "line": "27.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 06:40 PM CST",
+      "startTimeCST": "10/21/26 06:40 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Miami Heat",
+      "opponentCode": "MIA",
+      "rank": 1,
+      "gameId": "188872",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
     {
       "projectionId": "15745497",
       "playerId": "87848",
@@ -36,9 +57,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 19,
+      "rank": 18,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15738951",
@@ -57,9 +78,30 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 25,
+      "rank": 24,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
+    {
+      "projectionId": "13975915",
+      "playerId": "187999",
+      "status": "pre_game",
+      "player": "Jayson Tatum",
+      "stat": "Points",
+      "line": "26.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 02:10 PM CST",
+      "startTimeCST": "10/20/26 02:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Celtics",
+      "teamCode": "BOS",
+      "Opponent": "Detroit Pistons",
+      "opponentCode": "DET",
+      "rank": 83,
+      "gameId": "181166",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13952666",
@@ -67,7 +109,7 @@
       "status": "pre_game",
       "player": "Cade Cunningham",
       "stat": "Points",
-      "line": "24",
+      "line": "24.5",
       "sport": "NBA",
       "startTime": "10/20/26 02:10 PM CST",
       "startTimeCST": "10/20/26 02:10 PM CST",
@@ -78,9 +120,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 102,
+      "rank": 87,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719155",
@@ -88,7 +130,7 @@
       "status": "pre_game",
       "player": "Paul George",
       "stat": "Points",
-      "line": "16",
+      "line": "16.5",
       "sport": "NBA",
       "startTime": "10/20/26 02:10 PM CST",
       "startTimeCST": "10/20/26 02:10 PM CST",
@@ -99,9 +141,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 152,
+      "rank": 142,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719081",
@@ -109,7 +151,7 @@
       "status": "pre_game",
       "player": "Derrick White",
       "stat": "Points",
-      "line": "15",
+      "line": "15.5",
       "sport": "NBA",
       "startTime": "10/20/26 02:10 PM CST",
       "startTimeCST": "10/20/26 02:10 PM CST",
@@ -120,9 +162,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 160,
+      "rank": 150,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15745476",
@@ -141,9 +183,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 161,
+      "rank": 154,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719166",
@@ -162,9 +204,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 163,
+      "rank": 156,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719130",
@@ -183,9 +225,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 178,
+      "rank": 173,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719099",
@@ -204,9 +246,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 212,
+      "rank": 204,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719035",
@@ -225,9 +267,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 217,
+      "rank": 209,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719061",
@@ -246,9 +288,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 218,
+      "rank": 210,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13975883",
@@ -267,9 +309,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 229,
+      "rank": 221,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719039",
@@ -288,9 +330,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 260,
+      "rank": 250,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13975911",
@@ -309,9 +351,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 274,
+      "rank": 263,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719051",
@@ -330,9 +372,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 289,
+      "rank": 279,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719064",
@@ -351,9 +393,30 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 345,
+      "rank": 332,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
+    {
+      "projectionId": "15719074",
+      "playerId": "60021",
+      "status": "pre_game",
+      "player": "Derrick White",
+      "stat": "3-PT Made",
+      "line": "2.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 02:10 PM CST",
+      "startTimeCST": "10/20/26 02:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Celtics",
+      "teamCode": "BOS",
+      "Opponent": "Detroit Pistons",
+      "opponentCode": "DET",
+      "rank": 333,
+      "gameId": "181166",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719091",
@@ -372,9 +435,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 346,
+      "rank": 334,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719148",
@@ -393,9 +456,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 348,
+      "rank": 336,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719162",
@@ -414,9 +477,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 352,
+      "rank": 340,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976095",
@@ -435,51 +498,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 385,
+      "rank": 369,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719041",
-      "playerId": "173789",
-      "status": "pre_game",
-      "player": "Ausar Thompson",
-      "stat": "Steals",
-      "line": "1.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 02:10 PM CST",
-      "startTimeCST": "10/20/26 02:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Pistons",
-      "teamCode": "DET",
-      "Opponent": "Boston Celtics",
-      "opponentCode": "BOS",
-      "rank": 389,
-      "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719042",
-      "playerId": "173789",
-      "status": "pre_game",
-      "player": "Ausar Thompson",
-      "stat": "Turnovers",
-      "line": "1.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 02:10 PM CST",
-      "startTimeCST": "10/20/26 02:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Pistons",
-      "teamCode": "DET",
-      "Opponent": "Boston Celtics",
-      "opponentCode": "BOS",
-      "rank": 390,
-      "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719159",
@@ -498,9 +519,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 403,
+      "rank": 383,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719101",
@@ -519,9 +540,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 441,
+      "rank": 421,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719109",
@@ -540,9 +561,9 @@
       "teamCode": "DET",
       "Opponent": "Boston Celtics",
       "opponentCode": "BOS",
-      "rank": 443,
+      "rank": 423,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719168",
@@ -561,9 +582,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 449,
+      "rank": 429,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13952667",
@@ -571,7 +592,7 @@
       "status": "pre_game",
       "player": "Jalen Brunson",
       "stat": "Points",
-      "line": "25.5",
+      "line": "26",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -582,9 +603,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 494,
+      "rank": 474,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719229",
@@ -592,7 +613,7 @@
       "status": "pre_game",
       "player": "Joel Embiid",
       "stat": "Points",
-      "line": "21",
+      "line": "21.5",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -603,30 +624,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 525,
+      "rank": 501,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719202",
-      "playerId": "352810",
-      "status": "pre_game",
-      "player": "Jaylen Brown",
-      "stat": "Points",
-      "line": "20",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia 76ers",
-      "teamCode": "PHI",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 529,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719327",
@@ -634,7 +634,7 @@
       "status": "pre_game",
       "player": "Tyrese Maxey",
       "stat": "Points",
-      "line": "20",
+      "line": "20.5",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -645,30 +645,30 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 530,
+      "rank": 508,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
-      "projectionId": "15719266",
-      "playerId": "216220",
+      "projectionId": "15719202",
+      "playerId": "352810",
       "status": "pre_game",
-      "player": "Karl-Anthony Towns",
+      "player": "Jaylen Brown",
       "stat": "Points",
-      "line": "17.5",
+      "line": "19.5",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
       "startDateCST": "2026-10-20",
       "startTimeIso": "2026-10-20T19:10:00.000-04:00",
       "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Philadelphia 76ers",
-      "opponentCode": "PHI",
-      "rank": 542,
+      "Team": "Philadelphia 76ers",
+      "teamCode": "PHI",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 514,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719312",
@@ -676,7 +676,7 @@
       "status": "pre_game",
       "player": "OG Anunoby",
       "stat": "Points",
-      "line": "17.5",
+      "line": "18.5",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -687,9 +687,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 544,
+      "rank": 520,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13952668",
@@ -708,9 +708,30 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 549,
+      "rank": 527,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
+    {
+      "projectionId": "15719266",
+      "playerId": "216220",
+      "status": "pre_game",
+      "player": "Karl-Anthony Towns",
+      "stat": "Points",
+      "line": "16.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 06:10 PM CST",
+      "startTimeCST": "10/20/26 06:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Philadelphia 76ers",
+      "opponentCode": "PHI",
+      "rank": 528,
+      "gameId": "181167",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719293",
@@ -729,9 +750,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 555,
+      "rank": 534,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719250",
@@ -739,7 +760,7 @@
       "status": "pre_game",
       "player": "Josh Hart",
       "stat": "Points",
-      "line": "12.5",
+      "line": "12",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -750,30 +771,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 564,
+      "rank": 544,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719253",
-      "playerId": "123595",
-      "status": "pre_game",
-      "player": "Josh Hart",
-      "stat": "Rebounds",
-      "line": "8",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Philadelphia 76ers",
-      "opponentCode": "PHI",
-      "rank": 597,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13975972",
@@ -792,9 +792,30 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 599,
+      "rank": 575,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
+    {
+      "projectionId": "15719253",
+      "playerId": "123595",
+      "status": "pre_game",
+      "player": "Josh Hart",
+      "stat": "Rebounds",
+      "line": "7.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 06:10 PM CST",
+      "startTimeCST": "10/20/26 06:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Philadelphia 76ers",
+      "opponentCode": "PHI",
+      "rank": 577,
+      "gameId": "181167",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13975945",
@@ -813,30 +834,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 611,
+      "rank": 588,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719241",
-      "playerId": "123595",
-      "status": "pre_game",
-      "player": "Josh Hart",
-      "stat": "Assists",
-      "line": "5.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Philadelphia 76ers",
-      "opponentCode": "PHI",
-      "rank": 625,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719342",
@@ -855,9 +855,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 627,
+      "rank": 602,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976081",
@@ -876,30 +876,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 662,
+      "rank": 638,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719180",
-      "playerId": "352810",
-      "status": "pre_game",
-      "player": "Jaylen Brown",
-      "stat": "Assists",
-      "line": "3",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia 76ers",
-      "teamCode": "PHI",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 663,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719212",
@@ -918,9 +897,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 668,
+      "rank": 643,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719284",
@@ -939,9 +918,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 701,
+      "rank": 672,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719336",
@@ -960,30 +939,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 709,
+      "rank": 680,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719261",
-      "playerId": "216220",
-      "status": "pre_game",
-      "player": "Karl-Anthony Towns",
-      "stat": "Blocked Shots",
-      "line": "0.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Philadelphia 76ers",
-      "opponentCode": "PHI",
-      "rank": 745,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976094",
@@ -1002,9 +960,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 758,
+      "rank": 728,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976098",
@@ -1023,9 +981,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 759,
+      "rank": 729,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13952669",
@@ -1033,7 +991,7 @@
       "status": "pre_game",
       "player": "Shai Gilgeous-Alexander",
       "stat": "Points",
-      "line": "29.5",
+      "line": "30",
       "sport": "NBA",
       "startTime": "10/20/26 08:40 PM CST",
       "startTimeCST": "10/20/26 08:40 PM CST",
@@ -1044,9 +1002,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 784,
+      "rank": 755,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13952671",
@@ -1065,9 +1023,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 797,
+      "rank": 768,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719554",
@@ -1086,9 +1044,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 837,
+      "rank": 797,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719626",
@@ -1096,7 +1054,7 @@
       "status": "pre_game",
       "player": "Stephon Castle",
       "stat": "Points",
-      "line": "16.5",
+      "line": "15.5",
       "sport": "NBA",
       "startTime": "10/20/26 08:40 PM CST",
       "startTimeCST": "10/20/26 08:40 PM CST",
@@ -1107,9 +1065,30 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 838,
+      "rank": 801,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
+    {
+      "projectionId": "15719450",
+      "playerId": "226913",
+      "status": "pre_game",
+      "player": "De'Aaron Fox",
+      "stat": "Points",
+      "line": "14.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 08:40 PM CST",
+      "startTimeCST": "10/20/26 08:40 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T21:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Antonio Spurs",
+      "teamCode": "SAS",
+      "Opponent": "Oklahoma City Thunder",
+      "opponentCode": "OKC",
+      "rank": 808,
+      "gameId": "181168",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719409",
@@ -1128,30 +1107,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 852,
+      "rank": 813,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719450",
-      "playerId": "226913",
-      "status": "pre_game",
-      "player": "De'Aaron Fox",
-      "stat": "Points",
-      "line": "13.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 08:40 PM CST",
-      "startTimeCST": "10/20/26 08:40 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Antonio Spurs",
-      "teamCode": "SAS",
-      "Opponent": "Oklahoma City Thunder",
-      "opponentCode": "OKC",
-      "rank": 854,
-      "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976083",
@@ -1159,7 +1117,7 @@
       "status": "pre_game",
       "player": "Victor Wembanyama",
       "stat": "Rebounds",
-      "line": "11.5",
+      "line": "11",
       "sport": "NBA",
       "startTime": "10/20/26 08:40 PM CST",
       "startTimeCST": "10/20/26 08:40 PM CST",
@@ -1170,30 +1128,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 864,
+      "rank": 829,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15720797",
-      "playerId": "352811",
-      "status": "pre_game",
-      "player": "Tobias Harris",
-      "stat": "Points",
-      "line": "11.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 08:40 PM CST",
-      "startTimeCST": "10/20/26 08:40 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "San Antonio Spurs",
-      "teamCode": "SAS",
-      "Opponent": "Oklahoma City Thunder",
-      "opponentCode": "OKC",
-      "rank": 872,
-      "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719526",
@@ -1212,9 +1149,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 910,
+      "rank": 861,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976000",
@@ -1233,9 +1170,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 926,
+      "rank": 876,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719613",
@@ -1243,7 +1180,7 @@
       "status": "pre_game",
       "player": "Stephon Castle",
       "stat": "Assists",
-      "line": "6",
+      "line": "5.5",
       "sport": "NBA",
       "startTime": "10/20/26 08:40 PM CST",
       "startTimeCST": "10/20/26 08:40 PM CST",
@@ -1254,30 +1191,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 927,
+      "rank": 884,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "13976082",
-      "playerId": "188011",
-      "status": "pre_game",
-      "player": "Shai Gilgeous-Alexander",
-      "stat": "Rebounds",
-      "line": "4",
-      "sport": "NBA",
-      "startTime": "10/20/26 08:40 PM CST",
-      "startTimeCST": "10/20/26 08:40 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Oklahoma City Thunder",
-      "teamCode": "OKC",
-      "Opponent": "San Antonio Spurs",
-      "opponentCode": "SAS",
-      "rank": 950,
-      "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719566",
@@ -1285,7 +1201,7 @@
       "status": "pre_game",
       "player": "Jalen Williams",
       "stat": "Rebounds",
-      "line": "4",
+      "line": "4.5",
       "sport": "NBA",
       "startTime": "10/20/26 08:40 PM CST",
       "startTimeCST": "10/20/26 08:40 PM CST",
@@ -1296,9 +1212,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 951,
+      "rank": 895,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976096",
@@ -1317,30 +1233,9 @@
       "teamCode": "SAS",
       "Opponent": "Oklahoma City Thunder",
       "opponentCode": "OKC",
-      "rank": 999,
+      "rank": 938,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719389",
-      "playerId": "175716",
-      "status": "pre_game",
-      "player": "Cason Wallace",
-      "stat": "Steals",
-      "line": "1.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 08:40 PM CST",
-      "startTimeCST": "10/20/26 08:40 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T21:40:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Oklahoma City Thunder",
-      "teamCode": "OKC",
-      "Opponent": "San Antonio Spurs",
-      "opponentCode": "SAS",
-      "rank": 1006,
-      "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719576",
@@ -1359,9 +1254,9 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1023,
+      "rank": 961,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719584",
@@ -1380,9 +1275,30 @@
       "teamCode": "OKC",
       "Opponent": "San Antonio Spurs",
       "opponentCode": "SAS",
-      "rank": 1055,
+      "rank": 985,
       "gameId": "181168",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
+    {
+      "projectionId": "15575410",
+      "playerId": "188017",
+      "status": "pre_game",
+      "player": "Anthony Edwards",
+      "stat": "Points",
+      "line": "27.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 06:40 PM CST",
+      "startTimeCST": "10/21/26 06:40 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T19:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Timberwolves",
+      "teamCode": "MIN",
+      "Opponent": "Miami Heat",
+      "opponentCode": "MIA",
+      "rank": 991,
+      "gameId": "188872",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     }
   ]
 }

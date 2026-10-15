@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-14T12:09:42.581Z",
-  "scrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-15T12:10:31.719Z",
+  "scrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 67,
-    "sourceCount": 1066,
-    "acceptedCount": 67,
-    "excludedCount": 999,
+    "count": 61,
+    "sourceCount": 991,
+    "acceptedCount": 61,
+    "excludedCount": 930,
     "rejectedCount": 0,
-    "publishedCount": 67,
-    "providerFetchedAt": "2026-10-14T12:09:38.503Z",
+    "publishedCount": 61,
+    "providerFetchedAt": "2026-10-15T12:09:27.231Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "New York Knicks",
-  "totalProps": 11,
+  "totalProps": 9,
   "props": [
     {
       "projectionId": "13952667",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jalen Brunson",
       "stat": "Points",
-      "line": "25.5",
+      "line": "26",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -37,30 +37,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 494,
+      "rank": 474,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719266",
-      "playerId": "216220",
-      "status": "pre_game",
-      "player": "Karl-Anthony Towns",
-      "stat": "Points",
-      "line": "17.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Philadelphia 76ers",
-      "opponentCode": "PHI",
-      "rank": 542,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719312",
@@ -68,7 +47,7 @@
       "status": "pre_game",
       "player": "OG Anunoby",
       "stat": "Points",
-      "line": "17.5",
+      "line": "18.5",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -79,9 +58,30 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 544,
+      "rank": 520,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+    },
+    {
+      "projectionId": "15719266",
+      "playerId": "216220",
+      "status": "pre_game",
+      "player": "Karl-Anthony Towns",
+      "stat": "Points",
+      "line": "16.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 06:10 PM CST",
+      "startTimeCST": "10/20/26 06:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Knicks",
+      "teamCode": "NYK",
+      "Opponent": "Philadelphia 76ers",
+      "opponentCode": "PHI",
+      "rank": 528,
+      "gameId": "181167",
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719293",
@@ -100,9 +100,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 555,
+      "rank": 534,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719250",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Josh Hart",
       "stat": "Points",
-      "line": "12.5",
+      "line": "12",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 564,
+      "rank": 544,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719253",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Josh Hart",
       "stat": "Rebounds",
-      "line": "8",
+      "line": "7.5",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 597,
+      "rank": 577,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13975945",
@@ -163,30 +163,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 611,
+      "rank": 588,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719241",
-      "playerId": "123595",
-      "status": "pre_game",
-      "player": "Josh Hart",
-      "stat": "Assists",
-      "line": "5.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Philadelphia 76ers",
-      "opponentCode": "PHI",
-      "rank": 625,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "13976081",
@@ -205,9 +184,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 662,
+      "rank": 638,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     },
     {
       "projectionId": "15719284",
@@ -226,30 +205,9 @@
       "teamCode": "NYK",
       "Opponent": "Philadelphia 76ers",
       "opponentCode": "PHI",
-      "rank": 701,
+      "rank": 672,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
-    },
-    {
-      "projectionId": "15719261",
-      "playerId": "216220",
-      "status": "pre_game",
-      "player": "Karl-Anthony Towns",
-      "stat": "Blocked Shots",
-      "line": "0.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Knicks",
-      "teamCode": "NYK",
-      "Opponent": "Philadelphia 76ers",
-      "opponentCode": "PHI",
-      "rank": 745,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-14T12:09:38.503Z"
+      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
     }
   ]
 }

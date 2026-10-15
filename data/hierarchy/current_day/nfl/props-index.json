@@ -1,15 +1,15 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "8298de1a3c5cfbb9ddbac86e076adcaa583c35a44492705bc473be234e9aba4c",
-  "sourceScrapedAt": "2026-10-14T12:09:42.581Z",
-  "sourceScrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
+  "sourcePayloadHash": "716ea150800ddb9fddc1bcef4bc08a760335c442a690b418ad3cdc5735d455ce",
+  "sourceScrapedAt": "2026-10-15T12:10:31.719Z",
+  "sourceScrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
   "observedDate": "2026-10-15",
   "completeness": "reported",
   "sport": "NFL",
   "sportSlug": "nfl",
-  "dayBranch": "tomorrow",
+  "dayBranch": "current_day",
   "gameCount": 1,
-  "propCount": 84,
+  "propCount": 82,
   "games": [
     {
       "gameId": "187629",
@@ -21,15 +21,15 @@
         "Denver Broncos",
         "Seattle Seahawks"
       ],
-      "propCount": 84,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-game/187629.json"
+      "propCount": 82,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/187629.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 84,
-      "path": "/data/hierarchy/tomorrow/nfl/props-by-slate/late.json"
+      "propCount": 82,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
 }

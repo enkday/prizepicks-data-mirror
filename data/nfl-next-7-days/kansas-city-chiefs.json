@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-14T12:09:42.581Z",
-  "scrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-15T12:10:31.719Z",
+  "scrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 609,
-    "sourceCount": 4227,
-    "acceptedCount": 609,
-    "excludedCount": 3618,
+    "count": 762,
+    "sourceCount": 5421,
+    "acceptedCount": 762,
+    "excludedCount": 4659,
     "rejectedCount": 0,
-    "publishedCount": 609,
-    "providerFetchedAt": "2026-10-14T12:08:33.610Z",
+    "publishedCount": 762,
+    "providerFetchedAt": "2026-10-15T12:08:21.391Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Kansas City Chiefs",
-  "totalProps": 21,
+  "totalProps": 23,
   "props": [
     {
       "projectionId": "15683920",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Patrick Mahomes",
       "stat": "Pass Yards",
-      "line": "228.5",
+      "line": "229.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3136,
+      "rank": 4042,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15684001",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Rush Yards",
-      "line": "88.5",
+      "line": "90.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3155,
+      "rank": 4073,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699409",
@@ -79,9 +79,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3159,
+      "rank": 4088,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687732",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Travis Kelce",
       "stat": "Receiving Yards",
-      "line": "46.5",
+      "line": "54.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -100,9 +100,30 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3166,
+      "rank": 4095,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15809173",
+      "playerId": "210205",
+      "status": "pre_game",
+      "player": "Xavier Worthy",
+      "stat": "Receiving Yards",
+      "line": "48.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4105,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699391",
@@ -121,9 +142,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3175,
+      "rank": 4120,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699396",
@@ -142,9 +163,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3180,
+      "rank": 4126,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699408",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "22.5",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3199,
+      "rank": 4153,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699398",
@@ -184,9 +205,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3203,
+      "rank": 4157,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687731",
@@ -205,9 +226,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3204,
+      "rank": 4158,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699380",
@@ -226,9 +247,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3213,
+      "rank": 4171,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699399",
@@ -247,9 +268,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3214,
+      "rank": 4174,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15683894",
@@ -268,9 +289,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3218,
+      "rank": 4179,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699376",
@@ -289,9 +310,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3221,
+      "rank": 4182,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699400",
@@ -310,9 +331,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3225,
+      "rank": 4192,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699395",
@@ -331,17 +352,17 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3226,
+      "rank": 4195,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
-      "projectionId": "15755646",
-      "playerId": "206325",
+      "projectionId": "15699384",
+      "playerId": "337714",
       "status": "pre_game",
-      "player": "Harrison Butker",
-      "stat": "Kicking Points",
-      "line": "8.5",
+      "player": "Emmett Johnson",
+      "stat": "Receiving Yards",
+      "line": "7.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -352,9 +373,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3229,
+      "rank": 4208,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15706653",
@@ -373,30 +394,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3230,
+      "rank": 4209,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
-    },
-    {
-      "projectionId": "15699384",
-      "playerId": "337714",
-      "status": "pre_game",
-      "player": "Emmett Johnson",
-      "stat": "Receiving Yards",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 03:25 PM CST",
-      "startTimeCST": "10/18/26 03:25 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3231,
-      "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699403",
@@ -415,9 +415,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3232,
+      "rank": 4210,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699416",
@@ -425,7 +425,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Rush Yards Per Carry",
-      "line": "4.6",
+      "line": "4.8",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -436,9 +436,51 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3237,
+      "rank": 4220,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15809116",
+      "playerId": "210205",
+      "status": "pre_game",
+      "player": "Xavier Worthy",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4223,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15809161",
+      "playerId": "211191",
+      "status": "pre_game",
+      "player": "Travis Kelce",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4226,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15699406",
@@ -457,9 +499,9 @@
       "teamCode": "KC",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3255,
+      "rank": 4253,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     }
   ]
 }

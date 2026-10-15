@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-14T12:09:42.581Z",
-  "scrapedDate": "Wednesday, October 14, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-15T12:10:31.719Z",
+  "scrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 609,
-    "sourceCount": 4227,
-    "acceptedCount": 609,
-    "excludedCount": 3618,
+    "count": 762,
+    "sourceCount": 5421,
+    "acceptedCount": 762,
+    "excludedCount": 4659,
     "rejectedCount": 0,
-    "publishedCount": 609,
-    "providerFetchedAt": "2026-10-14T12:08:33.610Z",
+    "publishedCount": 762,
+    "providerFetchedAt": "2026-10-15T12:08:21.391Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 18,
+  "totalProps": 28,
   "props": [
     {
       "projectionId": "15683925",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Brock Purdy",
       "stat": "Pass Yards",
-      "line": "246.5",
+      "line": "247.5",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 3988,
+      "rank": 5122,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687743",
@@ -58,9 +58,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4026,
+      "rank": 5160,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15700360",
@@ -79,9 +79,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4034,
+      "rank": 5172,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687325",
@@ -100,9 +100,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4035,
+      "rank": 5173,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15684004",
@@ -121,9 +121,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4038,
+      "rank": 5175,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687055",
@@ -142,17 +142,17 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4055,
+      "rank": 5197,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
-      "projectionId": "15725996",
+      "projectionId": "15784993",
       "playerId": "206314",
       "status": "pre_game",
       "player": "Brock Purdy",
-      "stat": "Pass Attempts",
-      "line": "31.5",
+      "stat": "Longest Completion",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -163,9 +163,30 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4071,
+      "rank": 5212,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15725996",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Pass Attempts",
+      "line": "31",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5222,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687638",
@@ -184,9 +205,30 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4090,
+      "rank": 5249,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15785348",
+      "playerId": "320180",
+      "status": "pre_game",
+      "player": "Mike Evans",
+      "stat": "Longest Reception",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5251,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15705635",
@@ -205,9 +247,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4095,
+      "rank": 5255,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15694434",
@@ -226,9 +268,30 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4099,
+      "rank": 5259,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15785344",
+      "playerId": "211086",
+      "status": "pre_game",
+      "player": "George Kittle",
+      "stat": "Longest Reception",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5260,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15683898",
@@ -247,9 +310,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4114,
+      "rank": 5283,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15705993",
@@ -268,17 +331,17 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4131,
+      "rank": 5295,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
-      "projectionId": "15723442",
-      "playerId": "320180",
+      "projectionId": "15785005",
+      "playerId": "206315",
       "status": "pre_game",
-      "player": "Mike Evans",
-      "stat": "Rec Targets",
-      "line": "9",
+      "player": "Christian McCaffrey",
+      "stat": "Longest Reception",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/19/26 07:15 PM CST",
       "startTimeCST": "10/19/26 07:15 PM CST",
@@ -289,9 +352,93 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4150,
+      "rank": 5296,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15784999",
+      "playerId": "206315",
+      "status": "pre_game",
+      "player": "Christian McCaffrey",
+      "stat": "Longest Rush",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5300,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15784996",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Longest Rush",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5314,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15784997",
+      "playerId": "336246",
+      "status": "pre_game",
+      "player": "Kaelon Black",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5322,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15723442",
+      "playerId": "320180",
+      "status": "pre_game",
+      "player": "Mike Evans",
+      "stat": "Rec Targets",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5327,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15723443",
@@ -310,9 +457,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4153,
+      "rank": 5334,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15723441",
@@ -331,9 +478,30 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4162,
+      "rank": 5341,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15776449",
+      "playerId": "320180",
+      "status": "pre_game",
+      "player": "Mike Evans",
+      "stat": "Receptions",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5342,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687056",
@@ -352,9 +520,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4163,
+      "rank": 5345,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15694449",
@@ -373,9 +541,51 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4169,
+      "rank": 5353,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15784994",
+      "playerId": "336246",
+      "status": "pre_game",
+      "player": "Kaelon Black",
+      "stat": "Receiving Yards",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5381,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+    },
+    {
+      "projectionId": "15785003",
+      "playerId": "336246",
+      "status": "pre_game",
+      "player": "Kaelon Black",
+      "stat": "Longest Reception",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/19/26 07:15 PM CST",
+      "startTimeCST": "10/19/26 07:15 PM CST",
+      "startDateCST": "2026-10-19",
+      "startTimeIso": "2026-10-19T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5382,
+      "gameId": "188710",
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     },
     {
       "projectionId": "15687364",
@@ -394,9 +604,9 @@
       "teamCode": "SF",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4221,
+      "rank": 5411,
       "gameId": "188710",
-      "providerFetchedAt": "2026-10-14T12:08:33.610Z"
+      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
     }
   ]
 }
