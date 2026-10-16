@@ -1,30 +1,51 @@
 {
-  "scrapedAt": "2026-10-15T12:10:31.719Z",
-  "scrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-16T12:10:07.405Z",
+  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 61,
-    "sourceCount": 991,
-    "acceptedCount": 61,
-    "excludedCount": 930,
+    "count": 58,
+    "sourceCount": 990,
+    "acceptedCount": 58,
+    "excludedCount": 932,
     "rejectedCount": 0,
-    "publishedCount": 61,
-    "providerFetchedAt": "2026-10-15T12:09:27.231Z",
+    "publishedCount": 58,
+    "providerFetchedAt": "2026-10-16T12:09:32.832Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Philadelphia 76ers",
-  "totalProps": 8,
+  "totalProps": 7,
   "props": [
     {
       "projectionId": "15719229",
       "playerId": "187996",
       "status": "pre_game",
       "player": "Joel Embiid",
+      "stat": "Points",
+      "line": "22.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 06:10 PM CST",
+      "startTimeCST": "10/20/26 06:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia 76ers",
+      "teamCode": "PHI",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 503,
+      "gameId": "181167",
+      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+    },
+    {
+      "projectionId": "15719327",
+      "playerId": "188005",
+      "status": "pre_game",
+      "player": "Tyrese Maxey",
       "stat": "Points",
       "line": "21.5",
       "sport": "NBA",
@@ -37,30 +58,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 501,
+      "rank": 506,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
-    },
-    {
-      "projectionId": "15719327",
-      "playerId": "188005",
-      "status": "pre_game",
-      "player": "Tyrese Maxey",
-      "stat": "Points",
-      "line": "20.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia 76ers",
-      "teamCode": "PHI",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 508,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
     },
     {
       "projectionId": "15719202",
@@ -79,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 514,
+      "rank": 517,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
     },
     {
       "projectionId": "13952668",
@@ -100,9 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 527,
+      "rank": 529,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
     },
     {
       "projectionId": "13975972",
@@ -121,9 +121,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 575,
+      "rank": 581,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
     },
     {
       "projectionId": "15719342",
@@ -142,30 +142,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 602,
+      "rank": 608,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
-    },
-    {
-      "projectionId": "15719212",
-      "playerId": "352810",
-      "status": "pre_game",
-      "player": "Jaylen Brown",
-      "stat": "Turnovers",
-      "line": "2.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia 76ers",
-      "teamCode": "PHI",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 643,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
     },
     {
       "projectionId": "15719336",
@@ -186,7 +165,7 @@
       "opponentCode": "NYK",
       "rank": 680,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-15T12:09:27.231Z"
+      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
     }
   ]
 }

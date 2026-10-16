@@ -1,46 +1,25 @@
 {
-  "scrapedAt": "2026-10-15T12:10:31.719Z",
-  "scrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-16T12:10:07.405Z",
+  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 762,
-    "sourceCount": 5421,
-    "acceptedCount": 762,
-    "excludedCount": 4659,
+    "count": 735,
+    "sourceCount": 5539,
+    "acceptedCount": 735,
+    "excludedCount": 4804,
     "rejectedCount": 0,
-    "publishedCount": 762,
-    "providerFetchedAt": "2026-10-15T12:08:21.391Z",
+    "publishedCount": 735,
+    "providerFetchedAt": "2026-10-16T12:08:10.802Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New England Patriots",
-  "totalProps": 21,
+  "totalProps": 17,
   "props": [
-    {
-      "projectionId": "15780387",
-      "playerId": "210968",
-      "status": "pre_game",
-      "player": "Rhamondre Stevenson",
-      "stat": "Rush TDs",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1243,
-      "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
-    },
     {
       "projectionId": "15683908",
       "playerId": "215664",
@@ -58,9 +37,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1260,
+      "rank": 620,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15746691",
@@ -68,7 +47,7 @@
       "status": "pre_game",
       "player": "Rhamondre Stevenson",
       "stat": "Rush Yards",
-      "line": "70.5",
+      "line": "66.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -79,9 +58,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1294,
+      "rank": 663,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699616",
@@ -89,7 +68,7 @@
       "status": "pre_game",
       "player": "Drake Maye",
       "stat": "Completion Percentage",
-      "line": "68.4",
+      "line": "63.9",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -100,9 +79,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1301,
+      "rank": 664,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699561",
@@ -121,9 +100,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1321,
+      "rank": 682,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699617",
@@ -131,7 +110,7 @@
       "status": "pre_game",
       "player": "Hunter Henry",
       "stat": "Receiving Yards",
-      "line": "36.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -142,9 +121,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1335,
+      "rank": 694,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699618",
@@ -163,9 +142,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1342,
+      "rank": 704,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15683888",
@@ -184,9 +163,30 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1361,
+      "rank": 724,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+    },
+    {
+      "projectionId": "15823968",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Pass Completions",
+      "line": "20",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 747,
+      "gameId": "188226",
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15746583",
@@ -205,9 +205,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1387,
+      "rank": 753,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699587",
@@ -215,7 +215,7 @@
       "status": "pre_game",
       "player": "Hunter Henry",
       "stat": "Longest Reception",
-      "line": "17.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -226,9 +226,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1400,
+      "rank": 770,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15752618",
@@ -247,17 +247,17 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1404,
+      "rank": 771,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
-      "projectionId": "15781981",
-      "playerId": "210968",
+      "projectionId": "15699577",
+      "playerId": "336245",
       "status": "pre_game",
-      "player": "Rhamondre Stevenson",
-      "stat": "Longest Rush",
-      "line": "14.5",
+      "player": "Eli Raridon",
+      "stat": "Receiving Yards",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -268,9 +268,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1410,
+      "rank": 784,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699552",
@@ -289,51 +289,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1417,
+      "rank": 789,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
-    },
-    {
-      "projectionId": "15699577",
-      "playerId": "336245",
-      "status": "pre_game",
-      "player": "Eli Raridon",
-      "stat": "Receiving Yards",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1418,
-      "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
-    },
-    {
-      "projectionId": "15781984",
-      "playerId": "210968",
-      "status": "pre_game",
-      "player": "Rhamondre Stevenson",
-      "stat": "Longest Reception",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1422,
-      "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699568",
@@ -352,9 +310,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1423,
+      "rank": 796,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15779424",
@@ -373,9 +331,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1436,
+      "rank": 812,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15749071",
@@ -383,7 +341,7 @@
       "status": "pre_game",
       "player": "Rhamondre Stevenson",
       "stat": "Rush Yards Per Carry",
-      "line": "4.3",
+      "line": "4.1",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -394,9 +352,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1449,
+      "rank": 829,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15699573",
@@ -415,51 +373,9 @@
       "teamCode": "NE",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1451,
+      "rank": 831,
       "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
-    },
-    {
-      "projectionId": "15780911",
-      "playerId": "210968",
-      "status": "pre_game",
-      "player": "Rhamondre Stevenson",
-      "stat": "Rec Targets",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1455,
-      "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
-    },
-    {
-      "projectionId": "15716395",
-      "playerId": "260902",
-      "status": "pre_game",
-      "player": "Andy Borregales",
-      "stat": "FG Made",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New England Patriots",
-      "teamCode": "NE",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1477,
-      "gameId": "188226",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     }
   ]
 }

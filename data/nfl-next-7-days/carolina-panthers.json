@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-15T12:10:31.719Z",
-  "scrapedDate": "Thursday, October 15, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-16T12:10:07.405Z",
+  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 762,
-    "sourceCount": 5421,
-    "acceptedCount": 762,
-    "excludedCount": 4659,
+    "count": 735,
+    "sourceCount": 5539,
+    "acceptedCount": 735,
+    "excludedCount": 4804,
     "rejectedCount": 0,
-    "publishedCount": 762,
-    "providerFetchedAt": "2026-10-15T12:08:21.391Z",
+    "publishedCount": 735,
+    "providerFetchedAt": "2026-10-16T12:08:10.802Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Carolina Panthers",
-  "totalProps": 23,
+  "totalProps": 25,
   "props": [
     {
       "projectionId": "15683903",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Bryce Young",
       "stat": "Pass Yards",
-      "line": "239.5",
+      "line": "240.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2236,
+      "rank": 1898,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15683993",
@@ -58,9 +58,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2270,
+      "rank": 1935,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15687718",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Tetairoa McMillan",
       "stat": "Receiving Yards",
-      "line": "64.5",
+      "line": "65.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2276,
+      "rank": 1941,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15690070",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Bryce Young",
       "stat": "Completion Percentage",
-      "line": "62.3",
+      "line": "63.1",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2278,
+      "rank": 1942,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689997",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Jalen Coker",
       "stat": "Receiving Yards",
-      "line": "55.5",
+      "line": "56.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -121,9 +121,30 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2285,
+      "rank": 1949,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+    },
+    {
+      "projectionId": "15689966",
+      "playerId": "210975",
+      "status": "pre_game",
+      "player": "Bryce Young",
+      "stat": "Longest Completion",
+      "line": "37.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1972,
+      "gameId": "188232",
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689936",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Bryce Young",
       "stat": "Pass Attempts",
-      "line": "34.5",
+      "line": "33",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2311,
+      "rank": 1976,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15690003",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Darren Waller",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2334,
+      "rank": 1986,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689946",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Tetairoa McMillan",
       "stat": "Longest Reception",
-      "line": "24.5",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -184,9 +205,30 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2338,
+      "rank": 2006,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+    },
+    {
+      "projectionId": "15689968",
+      "playerId": "210975",
+      "status": "pre_game",
+      "player": "Bryce Young",
+      "stat": "Pass Completions",
+      "line": "21",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2009,
+      "gameId": "188232",
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689985",
@@ -205,9 +247,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2344,
+      "rank": 2010,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15690034",
@@ -226,9 +268,30 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2354,
+      "rank": 2019,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+    },
+    {
+      "projectionId": "15689989",
+      "playerId": "210782",
+      "status": "pre_game",
+      "player": "Chuba Hubbard",
+      "stat": "Rush Attempts",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2026,
+      "gameId": "188232",
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689958",
@@ -247,30 +310,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2356,
+      "rank": 2030,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
-    },
-    {
-      "projectionId": "15689989",
-      "playerId": "210782",
-      "status": "pre_game",
-      "player": "Chuba Hubbard",
-      "stat": "Rush Attempts",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 2357,
-      "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689875",
@@ -278,7 +320,7 @@
       "status": "pre_game",
       "player": "Chuba Hubbard",
       "stat": "Longest Rush",
-      "line": "13.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -289,9 +331,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2366,
+      "rank": 2035,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689924",
@@ -299,7 +341,7 @@
       "status": "pre_game",
       "player": "Darren Waller",
       "stat": "Longest Reception",
-      "line": "13.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -310,9 +352,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2367,
+      "rank": 2036,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15683883",
@@ -331,9 +373,30 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2369,
+      "rank": 2054,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+    },
+    {
+      "projectionId": "15689917",
+      "playerId": "210782",
+      "status": "pre_game",
+      "player": "Chuba Hubbard",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Carolina Panthers",
+      "teamCode": "CAR",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2059,
+      "gameId": "188232",
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689880",
@@ -352,9 +415,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2378,
+      "rank": 2066,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15755660",
@@ -373,9 +436,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2382,
+      "rank": 2073,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15690035",
@@ -383,7 +446,7 @@
       "status": "pre_game",
       "player": "Chuba Hubbard",
       "stat": "Rush Yards Per Carry",
-      "line": "4",
+      "line": "3.8",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -394,9 +457,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2394,
+      "rank": 2089,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689911",
@@ -415,30 +478,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2403,
+      "rank": 2100,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
-    },
-    {
-      "projectionId": "15712129",
-      "playerId": "210975",
-      "status": "pre_game",
-      "player": "Bryce Young",
-      "stat": "Rush Attempts",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Carolina Panthers",
-      "teamCode": "CAR",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 2405,
-      "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15755658",
@@ -457,9 +499,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2420,
+      "rank": 2113,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15689869",
@@ -478,9 +520,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2447,
+      "rank": 2139,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     },
     {
       "projectionId": "15725425",
@@ -499,9 +541,9 @@
       "teamCode": "CAR",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2454,
+      "rank": 2144,
       "gameId": "188232",
-      "providerFetchedAt": "2026-10-15T12:08:21.391Z"
+      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
     }
   ]
 }
