@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-16T12:10:07.405Z",
-  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-17T12:09:03.867Z",
+  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 58,
-    "sourceCount": 990,
-    "acceptedCount": 58,
-    "excludedCount": 932,
+    "count": 59,
+    "sourceCount": 918,
+    "acceptedCount": 59,
+    "excludedCount": 859,
     "rejectedCount": 0,
-    "publishedCount": 58,
-    "providerFetchedAt": "2026-10-16T12:09:32.832Z",
+    "publishedCount": 59,
+    "providerFetchedAt": "2026-10-17T12:08:35.356Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Philadelphia 76ers",
-  "totalProps": 7,
+  "totalProps": 8,
   "props": [
     {
       "projectionId": "15719229",
@@ -37,9 +37,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 503,
+      "rank": 409,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
     },
     {
       "projectionId": "15719327",
@@ -58,9 +58,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 506,
+      "rank": 414,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
     },
     {
       "projectionId": "15719202",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Jaylen Brown",
       "stat": "Points",
-      "line": "19.5",
+      "line": "20",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 517,
+      "rank": 417,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
     },
     {
       "projectionId": "13952668",
@@ -100,9 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 529,
+      "rank": 437,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
     },
     {
       "projectionId": "13975972",
@@ -121,9 +121,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 581,
+      "rank": 489,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
     },
     {
       "projectionId": "15719342",
@@ -142,9 +142,30 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 608,
+      "rank": 517,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+    },
+    {
+      "projectionId": "15719212",
+      "playerId": "352810",
+      "status": "pre_game",
+      "player": "Jaylen Brown",
+      "stat": "Turnovers",
+      "line": "2.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 06:10 PM CST",
+      "startTimeCST": "10/20/26 06:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia 76ers",
+      "teamCode": "PHI",
+      "Opponent": "New York Knicks",
+      "opponentCode": "NYK",
+      "rank": 561,
+      "gameId": "181167",
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
     },
     {
       "projectionId": "15719336",
@@ -163,9 +184,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 680,
+      "rank": 599,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-16T12:09:32.832Z"
+      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
     }
   ]
 }

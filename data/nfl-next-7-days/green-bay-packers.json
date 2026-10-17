@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-16T12:10:07.405Z",
-  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-17T12:09:03.867Z",
+  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 735,
-    "sourceCount": 5539,
-    "acceptedCount": 735,
-    "excludedCount": 4804,
+    "count": 1007,
+    "sourceCount": 7012,
+    "acceptedCount": 1007,
+    "excludedCount": 6005,
     "rejectedCount": 0,
-    "publishedCount": 735,
-    "providerFetchedAt": "2026-10-16T12:08:10.802Z",
+    "publishedCount": 1007,
+    "providerFetchedAt": "2026-10-17T12:07:04.422Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Green Bay Packers",
-  "totalProps": 35,
+  "totalProps": 48,
   "props": [
     {
       "projectionId": "15683923",
@@ -37,9 +37,30 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4722,
+      "rank": 6145,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15851527",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Passer Rating",
+      "line": "100.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6172,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15687738",
@@ -58,9 +79,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4770,
+      "rank": 6194,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15687736",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Matthew Golden",
       "stat": "Receiving Yards",
-      "line": "64.5",
+      "line": "65.5",
       "sport": "NFL",
       "startTime": "10/18/26 07:20 PM CST",
       "startTimeCST": "10/18/26 07:20 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4785,
+      "rank": 6214,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694135",
@@ -100,9 +121,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4787,
+      "rank": 6217,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15687737",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Tucker Kraft",
       "stat": "Receiving Yards",
-      "line": "47.5",
+      "line": "48.5",
       "sport": "NFL",
       "startTime": "10/18/26 07:20 PM CST",
       "startTimeCST": "10/18/26 07:20 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4818,
+      "rank": 6250,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694020",
@@ -142,9 +163,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4824,
+      "rank": 6254,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694134",
@@ -163,9 +184,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4825,
+      "rank": 6255,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693996",
@@ -184,9 +205,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4860,
+      "rank": 6293,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694096",
@@ -205,9 +226,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4897,
+      "rank": 6326,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694097",
@@ -226,9 +247,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4903,
+      "rank": 6331,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694013",
@@ -247,9 +268,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4921,
+      "rank": 6351,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694158",
@@ -257,7 +278,7 @@
       "status": "pre_game",
       "player": "Tucker Kraft",
       "stat": "Longest Reception",
-      "line": "19.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "10/18/26 07:20 PM CST",
       "startTimeCST": "10/18/26 07:20 PM CST",
@@ -268,9 +289,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4936,
+      "rank": 6354,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15696448",
@@ -289,9 +310,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4961,
+      "rank": 6391,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15799675",
@@ -310,9 +331,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4963,
+      "rank": 6392,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15787306",
@@ -331,9 +352,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4969,
+      "rank": 6399,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15787308",
@@ -352,9 +373,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 4998,
+      "rank": 6434,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694010",
@@ -373,16 +394,16 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5000,
+      "rank": 6437,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15694111",
-      "playerId": "246576",
+      "projectionId": "15852890",
+      "playerId": "210337",
       "status": "pre_game",
-      "player": "MarShawn Lloyd",
-      "stat": "Receiving Yards",
+      "player": "Christian Watson",
+      "stat": "Yards on First Reception",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "10/18/26 07:20 PM CST",
@@ -394,16 +415,16 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5001,
+      "rank": 6442,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15787305",
-      "playerId": "215413",
+      "projectionId": "15694111",
+      "playerId": "246576",
       "status": "pre_game",
-      "player": "Bo Melton",
-      "stat": "Longest Reception",
+      "player": "MarShawn Lloyd",
+      "stat": "Receiving Yards",
       "line": "11.5",
       "sport": "NFL",
       "startTime": "10/18/26 07:20 PM CST",
@@ -415,9 +436,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5008,
+      "rank": 6443,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15786030",
@@ -425,7 +446,7 @@
       "status": "pre_game",
       "player": "MarShawn Lloyd",
       "stat": "Rush Attempts",
-      "line": "11",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "10/18/26 07:20 PM CST",
       "startTimeCST": "10/18/26 07:20 PM CST",
@@ -436,9 +457,72 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5011,
+      "rank": 6446,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15841261",
+      "playerId": "340168",
+      "status": "pre_game",
+      "player": "Kaleb Johnson",
+      "stat": "Rush Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6447,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852889",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6449,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15787305",
+      "playerId": "215413",
+      "status": "pre_game",
+      "player": "Bo Melton",
+      "stat": "Longest Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6457,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15787304",
@@ -457,9 +541,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5047,
+      "rank": 6496,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15824467",
@@ -478,9 +562,30 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5048,
+      "rank": 6497,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852888",
+      "playerId": "212129",
+      "status": "pre_game",
+      "player": "Tucker Kraft",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6498,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694075",
@@ -499,9 +604,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5052,
+      "rank": 6502,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15696454",
@@ -520,9 +625,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5057,
+      "rank": 6507,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723438",
@@ -541,9 +646,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5059,
+      "rank": 6509,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723439",
@@ -562,30 +667,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5060,
+      "rank": 6510,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15821783",
-      "playerId": "339836",
-      "status": "pre_game",
-      "player": "Jonnu Smith",
-      "stat": "Receiving Yards",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 07:20 PM CST",
-      "startTimeCST": "10/18/26 07:20 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5063,
-      "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15683896",
@@ -604,9 +688,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5065,
+      "rank": 6516,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15694055",
@@ -625,9 +709,30 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5068,
+      "rank": 6519,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15821783",
+      "playerId": "339836",
+      "status": "pre_game",
+      "player": "Jonnu Smith",
+      "stat": "Receiving Yards",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6525,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15821786",
@@ -646,9 +751,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5074,
+      "rank": 6526,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723440",
@@ -667,9 +772,72 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5076,
+      "rank": 6528,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15841194",
+      "playerId": "271513",
+      "status": "pre_game",
+      "player": "Pierre Strong Jr.",
+      "stat": "Rush Attempts",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6541,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15853494",
+      "playerId": "210337",
+      "status": "pre_game",
+      "player": "Christian Watson",
+      "stat": "Receptions",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6544,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15853496",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Receptions",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6545,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15696447",
@@ -688,9 +856,30 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5112,
+      "rank": 6577,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15843500",
+      "playerId": "220586",
+      "status": "pre_game",
+      "player": "Daniel Whelan",
+      "stat": "Punts",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6604,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15780902",
@@ -709,9 +898,51 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5144,
+      "rank": 6619,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15847776",
+      "playerId": "271513",
+      "status": "pre_game",
+      "player": "Pierre Strong Jr.",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6623,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15853495",
+      "playerId": "246576",
+      "status": "pre_game",
+      "player": "MarShawn Lloyd",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6626,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693982",
@@ -730,9 +961,51 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5156,
+      "rank": 6634,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15850916",
+      "playerId": "339836",
+      "status": "pre_game",
+      "player": "Jonnu Smith",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6658,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15853462",
+      "playerId": "215413",
+      "status": "pre_game",
+      "player": "Bo Melton",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 07:20 PM CST",
+      "startTimeCST": "10/18/26 07:20 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6660,
+      "gameId": "188499",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693965",
@@ -751,9 +1024,9 @@
       "teamCode": "GB",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5199,
+      "rank": 6691,
       "gameId": "188499",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     }
   ]
 }

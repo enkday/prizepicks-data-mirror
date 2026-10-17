@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-16T12:10:07.405Z",
-  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-17T12:09:03.867Z",
+  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 735,
-    "sourceCount": 5539,
-    "acceptedCount": 735,
-    "excludedCount": 4804,
+    "count": 1007,
+    "sourceCount": 7012,
+    "acceptedCount": 1007,
+    "excludedCount": 6005,
     "rejectedCount": 0,
-    "publishedCount": 735,
-    "providerFetchedAt": "2026-10-16T12:08:10.802Z",
+    "publishedCount": 1007,
+    "providerFetchedAt": "2026-10-17T12:07:04.422Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 40,
+  "totalProps": 49,
   "props": [
     {
       "projectionId": "15683900",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": "227.5",
+      "line": "228.5",
       "sport": "NFL",
       "startTime": "10/18/26 08:30 AM CST",
       "startTimeCST": "10/18/26 08:30 AM CST",
@@ -37,9 +37,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 29,
+      "rank": 30,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15851507",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Passer Rating",
+      "line": "88.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 61,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15678927",
@@ -58,9 +79,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 81,
+      "rank": 86,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15682206",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Receiving Yards",
+      "line": "63.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 87,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15699101",
@@ -79,51 +121,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 83,
+      "rank": 89,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15682206",
-      "playerId": "216955",
-      "status": "pre_game",
-      "player": "Parker Washington",
-      "stat": "Receiving Yards",
-      "line": "61.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 08:30 AM CST",
-      "startTimeCST": "10/18/26 08:30 AM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 84,
-      "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15699632",
-      "playerId": "210950",
-      "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Longest Completion",
-      "line": "38.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 08:30 AM CST",
-      "startTimeCST": "10/18/26 08:30 AM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 145,
-      "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15682201",
@@ -142,9 +142,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 146,
+      "rank": 148,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15699632",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Longest Completion",
+      "line": "37.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 151,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15682205",
@@ -163,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 150,
+      "rank": 153,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15699093",
@@ -184,9 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 159,
+      "rank": 162,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15715206",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Parker Washington",
       "stat": "Longest Reception",
-      "line": "23.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/18/26 08:30 AM CST",
       "startTimeCST": "10/18/26 08:30 AM CST",
@@ -205,9 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 210,
+      "rank": 204,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15706902",
@@ -226,9 +247,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 234,
+      "rank": 238,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15688058",
@@ -247,9 +268,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 254,
+      "rank": 259,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15682210",
@@ -268,30 +289,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 257,
-      "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15715207",
-      "playerId": "277422",
-      "status": "pre_game",
-      "player": "Jakobi Meyers",
-      "stat": "Longest Reception",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 08:30 AM CST",
-      "startTimeCST": "10/18/26 08:30 AM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
       "rank": 261,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15679649",
@@ -310,9 +310,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 262,
+      "rank": 267,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15703432",
@@ -331,9 +331,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 265,
+      "rank": 269,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15715207",
+      "playerId": "277422",
+      "status": "pre_game",
+      "player": "Jakobi Meyers",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 270,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15715209",
@@ -352,9 +373,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 267,
+      "rank": 271,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15682207",
@@ -373,30 +394,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 270,
+      "rank": 273,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15739125",
-      "playerId": "212842",
-      "status": "pre_game",
-      "player": "Brian Thomas Jr.",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 08:30 AM CST",
-      "startTimeCST": "10/18/26 08:30 AM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 290,
-      "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15715299",
@@ -415,9 +415,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 302,
+      "rank": 309,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15739125",
+      "playerId": "212842",
+      "status": "pre_game",
+      "player": "Brian Thomas Jr.",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 310,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15678929",
@@ -436,9 +457,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 305,
+      "rank": 311,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15781322",
@@ -457,9 +478,72 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 318,
+      "rank": 324,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852841",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 326,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852848",
+      "playerId": "277422",
+      "status": "pre_game",
+      "player": "Jakobi Meyers",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 333,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15682213",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Receiving Yards",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 338,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15715300",
@@ -478,17 +562,17 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 335,
+      "rank": 350,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15682213",
+      "projectionId": "15715308",
       "playerId": "246555",
       "status": "pre_game",
       "player": "Bhayshul Tuten",
-      "stat": "Receiving Yards",
-      "line": "8.5",
+      "stat": "Longest Reception",
+      "line": "7.5",
       "sport": "NFL",
       "startTime": "10/18/26 08:30 AM CST",
       "startTimeCST": "10/18/26 08:30 AM CST",
@@ -499,9 +583,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 355,
+      "rank": 390,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723431",
@@ -520,9 +604,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 371,
+      "rank": 392,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15781314",
+      "playerId": "336495",
+      "status": "pre_game",
+      "player": "Chris Rodriguez Jr.",
+      "stat": "Longest Rush",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 395,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15795737",
@@ -541,51 +646,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 375,
+      "rank": 403,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15781318",
-      "playerId": "338095",
-      "status": "pre_game",
-      "player": "Nate Boerkircher",
-      "stat": "Longest Reception",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 08:30 AM CST",
-      "startTimeCST": "10/18/26 08:30 AM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 380,
-      "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15836211",
-      "playerId": "246555",
-      "status": "pre_game",
-      "player": "Bhayshul Tuten",
-      "stat": "Longest Reception",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 08:30 AM CST",
-      "startTimeCST": "10/18/26 08:30 AM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 383,
-      "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15682204",
@@ -604,9 +667,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 386,
+      "rank": 417,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723427",
@@ -625,9 +688,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 396,
+      "rank": 431,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15781318",
+      "playerId": "338095",
+      "status": "pre_game",
+      "player": "Nate Boerkircher",
+      "stat": "Longest Reception",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 432,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723429",
@@ -646,9 +730,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 416,
+      "rank": 458,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15743189",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 459,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15781315",
@@ -667,9 +772,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 418,
+      "rank": 460,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15843482",
+      "playerId": "213279",
+      "status": "pre_game",
+      "player": "Logan Cooke",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 475,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15688059",
@@ -688,9 +814,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 431,
+      "rank": 476,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15702024",
@@ -709,9 +835,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 446,
+      "rank": 491,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15853473",
+      "playerId": "277422",
+      "status": "pre_game",
+      "player": "Jakobi Meyers",
+      "stat": "Receptions",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 516,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723428",
@@ -730,9 +877,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 471,
+      "rank": 531,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723430",
@@ -751,9 +898,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 472,
+      "rank": 532,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723426",
@@ -772,9 +919,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 482,
+      "rank": 547,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15682220",
+      "playerId": "212842",
+      "status": "pre_game",
+      "player": "Brian Thomas Jr.",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 555,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15723432",
@@ -793,9 +961,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 498,
+      "rank": 566,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15774059",
@@ -814,9 +982,30 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 499,
+      "rank": 567,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15715307",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "INT",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 08:30 AM CST",
+      "startTimeCST": "10/18/26 08:30 AM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 623,
+      "gameId": "188225",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15793084",
@@ -835,9 +1024,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 557,
+      "rank": 633,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15793085",
@@ -856,9 +1045,9 @@
       "teamCode": "JAC",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 558,
+      "rank": 634,
       "gameId": "188225",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     }
   ]
 }

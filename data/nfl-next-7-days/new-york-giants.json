@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-16T12:10:07.405Z",
-  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-17T12:09:03.867Z",
+  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 735,
-    "sourceCount": 5539,
-    "acceptedCount": 735,
-    "excludedCount": 4804,
+    "count": 1007,
+    "sourceCount": 7012,
+    "acceptedCount": 1007,
+    "excludedCount": 6005,
     "rejectedCount": 0,
-    "publishedCount": 735,
-    "providerFetchedAt": "2026-10-16T12:08:10.802Z",
+    "publishedCount": 1007,
+    "providerFetchedAt": "2026-10-17T12:07:04.422Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 35,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "15683902",
@@ -37,9 +37,30 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1400,
+      "rank": 1710,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15851510",
+      "playerId": "279456",
+      "status": "pre_game",
+      "player": "Jameis Winston",
+      "stat": "Passer Rating",
+      "line": "85.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1743,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15687716",
@@ -58,9 +79,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1439,
+      "rank": 1752,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15740157",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Completion Percentage",
-      "line": "60",
+      "line": "61.9",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1453,
+      "rank": 1765,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693241",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Cam Skattebo",
       "stat": "Rush Yards",
-      "line": "58.5",
+      "line": "53.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1463,
+      "rank": 1781,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15687717",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Isaiah Likely",
       "stat": "Receiving Yards",
-      "line": "50.5",
+      "line": "52.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1465,
+      "rank": 1782,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693038",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Longest Completion",
-      "line": "38.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1515,
+      "rank": 1829,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693025",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Jameis Winston",
       "stat": "Pass Attempts",
-      "line": "32",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -163,16 +184,16 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1527,
+      "rank": 1840,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15693178",
-      "playerId": "336250",
+      "projectionId": "15693089",
+      "playerId": "206972",
       "status": "pre_game",
-      "player": "Malachi Fields",
-      "stat": "Receiving Yards",
+      "player": "Malik Nabers",
+      "stat": "Longest Reception",
       "line": "25.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
@@ -184,17 +205,17 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1562,
+      "rank": 1874,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15693089",
-      "playerId": "206972",
+      "projectionId": "15693178",
+      "playerId": "336250",
       "status": "pre_game",
-      "player": "Malik Nabers",
-      "stat": "Longest Reception",
-      "line": "24.5",
+      "player": "Malachi Fields",
+      "stat": "Receiving Yards",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1564,
+      "rank": 1891,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693232",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Najee Harris",
       "stat": "Rush Yards",
-      "line": "21.5",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -226,9 +247,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1580,
+      "rank": 1892,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693151",
@@ -247,9 +268,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1596,
+      "rank": 1911,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693242",
@@ -268,9 +289,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1604,
+      "rank": 1919,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693253",
@@ -278,7 +299,7 @@
       "status": "pre_game",
       "player": "Darnell Mooney",
       "stat": "Receiving Yards",
-      "line": "18.5",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -289,9 +310,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1623,
+      "rank": 1921,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693279",
@@ -310,9 +331,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1624,
+      "rank": 1944,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693196",
@@ -331,30 +352,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1625,
+      "rank": 1945,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15693051",
-      "playerId": "246533",
-      "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Rush Attempts",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 1635,
-      "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693256",
@@ -373,12 +373,12 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1636,
+      "rank": 1955,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15734358",
+      "projectionId": "15693121",
       "playerId": "246533",
       "status": "pre_game",
       "player": "Cam Skattebo",
@@ -394,9 +394,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1658,
+      "rank": 1979,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693175",
@@ -415,9 +415,30 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1662,
+      "rank": 1984,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852855",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2003,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693069",
@@ -436,9 +457,30 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1686,
+      "rank": 2007,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852856",
+      "playerId": "320276",
+      "status": "pre_game",
+      "player": "Isaiah Likely",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2041,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15780917",
@@ -457,17 +499,17 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1719,
+      "rank": 2045,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15693091",
-      "playerId": "246533",
+      "projectionId": "15780916",
+      "playerId": "320276",
       "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Longest Reception",
-      "line": "8.5",
+      "player": "Isaiah Likely",
+      "stat": "Rec Targets",
+      "line": "8",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -478,9 +520,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1720,
+      "rank": 2052,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693062",
@@ -499,9 +541,30 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1726,
+      "rank": 2055,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15693091",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2058,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15745879",
@@ -520,37 +583,16 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1731,
+      "rank": 2061,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15780916",
-      "playerId": "320276",
+      "projectionId": "15693116",
+      "playerId": "343997",
       "status": "pre_game",
-      "player": "Isaiah Likely",
-      "stat": "Rec Targets",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 12:00 PM CST",
-      "startTimeCST": "10/18/26 12:00 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 1733,
-      "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
-    },
-    {
-      "projectionId": "15693161",
-      "playerId": "212258",
-      "status": "pre_game",
-      "player": "Theo Johnson",
-      "stat": "Longest Reception",
+      "player": "Najee Harris",
+      "stat": "Rush Attempts",
       "line": "6.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
@@ -562,16 +604,16 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1737,
+      "rank": 2066,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15683882",
-      "playerId": "279456",
+      "projectionId": "15693035",
+      "playerId": "320276",
       "status": "pre_game",
-      "player": "Jameis Winston",
-      "stat": "Rush Yards",
+      "player": "Isaiah Likely",
+      "stat": "Receptions",
       "line": "5.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
@@ -583,9 +625,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1749,
+      "rank": 2080,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693058",
@@ -604,17 +646,17 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1750,
+      "rank": 2081,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15693116",
-      "playerId": "343997",
+      "projectionId": "15683882",
+      "playerId": "279456",
       "status": "pre_game",
-      "player": "Najee Harris",
-      "stat": "Rush Attempts",
-      "line": "5.5",
+      "player": "Jameis Winston",
+      "stat": "Rush Yards",
+      "line": "4.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -625,17 +667,17 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1751,
+      "rank": 2093,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15693035",
-      "playerId": "320276",
+      "projectionId": "15843486",
+      "playerId": "343573",
       "status": "pre_game",
-      "player": "Isaiah Likely",
-      "stat": "Receptions",
-      "line": "5",
+      "player": "Jordan Stout",
+      "stat": "Punts",
+      "line": "4",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -646,9 +688,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1764,
+      "rank": 2122,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15693250",
@@ -656,7 +698,7 @@
       "status": "pre_game",
       "player": "Cam Skattebo",
       "stat": "Rush Yards Per Carry",
-      "line": "3.9",
+      "line": "3.8",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
       "startTimeCST": "10/18/26 12:00 PM CST",
@@ -667,9 +709,30 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1786,
+      "rank": 2124,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15847793",
+      "playerId": "336250",
+      "status": "pre_game",
+      "player": "Malachi Fields",
+      "stat": "Rec Targets",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2145,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15780915",
@@ -688,9 +751,9 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1818,
+      "rank": 2164,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15797689",
@@ -709,9 +772,93 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1819,
+      "rank": 2165,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15845632",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Longest Rush",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2172,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15853476",
+      "playerId": "336250",
+      "status": "pre_game",
+      "player": "Malachi Fields",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2178,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15843571",
+      "playerId": "343573",
+      "status": "pre_game",
+      "player": "Jordan Stout",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2202,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15847794",
+      "playerId": "212258",
+      "status": "pre_game",
+      "player": "Theo Johnson",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2204,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15664473",
@@ -730,16 +877,16 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1871,
+      "rank": 2241,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15693246",
+      "projectionId": "15711732",
       "playerId": "343997",
       "status": "pre_game",
       "player": "Najee Harris",
-      "stat": "Receptions",
+      "stat": "Longest Reception",
       "line": "0.5",
       "sport": "NFL",
       "startTime": "10/18/26 12:00 PM CST",
@@ -751,9 +898,51 @@
       "teamCode": "NYG",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1877,
+      "rank": 2245,
       "gameId": "188227",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15843271",
+      "playerId": "343997",
+      "status": "pre_game",
+      "player": "Najee Harris",
+      "stat": "Receiving Yards",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2257,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15851661",
+      "playerId": "259050",
+      "status": "pre_game",
+      "player": "Abdul Carter",
+      "stat": "Sacks",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 12:00 PM CST",
+      "startTimeCST": "10/18/26 12:00 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 2265,
+      "gameId": "188227",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     }
   ]
 }

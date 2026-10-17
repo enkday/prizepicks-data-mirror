@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-16T12:10:07.405Z",
-  "scrapedDate": "Friday, October 16, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-17T12:09:03.867Z",
+  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 735,
-    "sourceCount": 5539,
-    "acceptedCount": 735,
-    "excludedCount": 4804,
+    "count": 1007,
+    "sourceCount": 7012,
+    "acceptedCount": 1007,
+    "excludedCount": 6005,
     "rejectedCount": 0,
-    "publishedCount": 735,
-    "providerFetchedAt": "2026-10-16T12:08:10.802Z",
+    "publishedCount": 1007,
+    "providerFetchedAt": "2026-10-17T12:07:04.422Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 24,
+  "totalProps": 36,
   "props": [
     {
       "projectionId": "15744291",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Pass Yards",
-      "line": "236.5",
+      "line": "238.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4312,
+      "rank": 5617,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15851524",
+      "playerId": "205163",
+      "status": "pre_game",
+      "player": "Josh Allen",
+      "stat": "Passer Rating",
+      "line": "99.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5652,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744308",
@@ -58,9 +79,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4348,
+      "rank": 5655,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15762708",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Completion Percentage",
-      "line": "67.2",
+      "line": "69.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -79,9 +100,30 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4366,
+      "rank": 5671,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15767856",
+      "playerId": "320271",
+      "status": "pre_game",
+      "player": "DJ Moore",
+      "stat": "Receiving Yards",
+      "line": "49.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5702,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15767410",
@@ -100,17 +142,17 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4393,
+      "rank": 5709,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15767856",
-      "playerId": "320271",
+      "projectionId": "15848919",
+      "playerId": "211112",
       "status": "pre_game",
-      "player": "DJ Moore",
+      "player": "Khalil Shakir",
       "stat": "Receiving Yards",
-      "line": "47.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -121,9 +163,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4395,
+      "rank": 5734,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744280",
@@ -142,9 +184,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4418,
+      "rank": 5737,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744275",
@@ -163,9 +205,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4425,
+      "rank": 5746,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15762699",
@@ -184,17 +226,17 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4431,
+      "rank": 5752,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15783171",
-      "playerId": "320271",
+      "projectionId": "15744292",
+      "playerId": "210711",
       "status": "pre_game",
-      "player": "DJ Moore",
-      "stat": "Longest Reception",
-      "line": "22.5",
+      "player": "James Cook III",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "25.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -205,9 +247,30 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4475,
+      "rank": 5784,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15783171",
+      "playerId": "320271",
+      "status": "pre_game",
+      "player": "DJ Moore",
+      "stat": "Longest Reception",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5800,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744206",
@@ -226,9 +289,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4479,
+      "rank": 5809,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15762702",
@@ -247,9 +310,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4480,
+      "rank": 5810,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15783168",
@@ -257,7 +320,7 @@
       "status": "pre_game",
       "player": "Dalton Kincaid",
       "stat": "Longest Reception",
-      "line": "19.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -268,9 +331,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4500,
+      "rank": 5812,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15783030",
@@ -289,9 +352,30 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4510,
+      "rank": 5847,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15848906",
+      "playerId": "211112",
+      "status": "pre_game",
+      "player": "Khalil Shakir",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5848,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15767829",
@@ -310,9 +394,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4521,
+      "rank": 5858,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744212",
@@ -331,9 +415,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4540,
+      "rank": 5880,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15785461",
@@ -341,6 +425,48 @@
       "status": "pre_game",
       "player": "Ty Johnson",
       "stat": "Longest Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5902,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852882",
+      "playerId": "320271",
+      "status": "pre_game",
+      "player": "DJ Moore",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5904,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15852881",
+      "playerId": "211117",
+      "status": "pre_game",
+      "player": "Dalton Kincaid",
+      "stat": "Yards on First Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
@@ -352,9 +478,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4565,
+      "rank": 5930,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744249",
@@ -362,7 +488,7 @@
       "status": "pre_game",
       "player": "Tyler Bass",
       "stat": "Kicking Points",
-      "line": "7.5",
+      "line": "8",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -373,9 +499,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4578,
+      "rank": 5937,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744264",
@@ -394,9 +520,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4579,
+      "rank": 5939,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15782960",
@@ -415,9 +541,30 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4585,
+      "rank": 5945,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15836723",
+      "playerId": "205163",
+      "status": "pre_game",
+      "player": "Josh Allen",
+      "stat": "Rush Attempts",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5951,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15825150",
@@ -436,17 +583,17 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4595,
+      "rank": 5957,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15744340",
-      "playerId": "210711",
+      "projectionId": "15847766",
+      "playerId": "211117",
       "status": "pre_game",
-      "player": "James Cook III",
-      "stat": "Rush Yards Per Carry",
-      "line": "5.1",
+      "player": "Dalton Kincaid",
+      "stat": "Rec Targets",
+      "line": "6",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -457,9 +604,51 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4607,
+      "rank": 5958,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15847767",
+      "playerId": "320271",
+      "status": "pre_game",
+      "player": "DJ Moore",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5959,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15744340",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Rush Yards Per Carry",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 5976,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15825648",
@@ -478,17 +667,17 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4620,
+      "rank": 5989,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
-      "projectionId": "15744242",
-      "playerId": "205163",
+      "projectionId": "15848912",
+      "playerId": "211112",
       "status": "pre_game",
-      "player": "Josh Allen",
-      "stat": "Pass TDs",
-      "line": "1.5",
+      "player": "Khalil Shakir",
+      "stat": "Receptions",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -499,9 +688,72 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4657,
+      "rank": 6014,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15843498",
+      "playerId": "343566",
+      "status": "pre_game",
+      "player": "Tommy Doman Jr.",
+      "stat": "Punts",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 6035,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15847768",
+      "playerId": "212778",
+      "status": "pre_game",
+      "player": "Ty Johnson",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 6040,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+    },
+    {
+      "projectionId": "15853490",
+      "playerId": "212778",
+      "status": "pre_game",
+      "player": "Ty Johnson",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 6042,
+      "gameId": "188234",
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     },
     {
       "projectionId": "15744186",
@@ -520,9 +772,9 @@
       "teamCode": "BUF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4693,
+      "rank": 6097,
       "gameId": "188234",
-      "providerFetchedAt": "2026-10-16T12:08:10.802Z"
+      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
     }
   ]
 }
