@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-17T12:09:03.867Z",
-  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-18T12:09:04.411Z",
+  "scrapedDate": "Sunday, October 18, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1007,
-    "sourceCount": 7012,
-    "acceptedCount": 1007,
-    "excludedCount": 6005,
+    "count": 1145,
+    "sourceCount": 8364,
+    "acceptedCount": 1145,
+    "excludedCount": 7219,
     "rejectedCount": 0,
-    "publishedCount": 1007,
-    "providerFetchedAt": "2026-10-17T12:07:04.422Z",
+    "publishedCount": 1145,
+    "providerFetchedAt": "2026-10-18T12:07:15.121Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 40,
+  "totalProps": 47,
   "props": [
     {
       "projectionId": "15683919",
@@ -37,9 +37,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5023,
+      "rank": 5956,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15851523",
@@ -58,9 +58,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5062,
+      "rank": 5996,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15742952",
@@ -79,9 +79,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5080,
+      "rank": 6009,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15846489",
@@ -100,30 +100,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5113,
+      "rank": 6047,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
-    },
-    {
-      "projectionId": "15781197",
-      "playerId": "211058",
-      "status": "pre_game",
-      "player": "Justin Herbert",
-      "stat": "Longest Completion",
-      "line": "36.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 03:25 PM CST",
-      "startTimeCST": "10/18/26 03:25 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5138,
-      "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15846484",
@@ -131,7 +110,7 @@
       "status": "pre_game",
       "player": "Quentin Johnston",
       "stat": "Receiving Yards",
-      "line": "36.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -142,9 +121,30 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5139,
+      "rank": 6074,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15781197",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Longest Completion",
+      "line": "34.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6076,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15684000",
@@ -163,9 +163,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5146,
+      "rank": 6081,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15742930",
@@ -184,9 +184,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5150,
+      "rank": 6086,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15683893",
@@ -205,9 +205,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5188,
+      "rank": 6123,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828660",
@@ -226,9 +226,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5211,
+      "rank": 6153,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15846685",
@@ -247,9 +247,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5249,
+      "rank": 6189,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15742936",
@@ -268,9 +268,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5254,
+      "rank": 6196,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15808999",
@@ -289,9 +289,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5256,
+      "rank": 6197,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15846679",
@@ -310,9 +310,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5258,
+      "rank": 6199,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15809000",
@@ -320,7 +320,7 @@
       "status": "pre_game",
       "player": "Kimani Vidal",
       "stat": "Rush Yards",
-      "line": "16.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -331,9 +331,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5264,
+      "rank": 6204,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828671",
@@ -352,9 +352,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5272,
+      "rank": 6214,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828476",
@@ -362,7 +362,7 @@
       "status": "pre_game",
       "player": "Oronde Gadsden II",
       "stat": "Receiving Yards",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -373,9 +373,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5299,
+      "rank": 6226,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828667",
@@ -383,27 +383,6 @@
       "status": "pre_game",
       "player": "Charlie Kolar",
       "stat": "Longest Reception",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 03:25 PM CST",
-      "startTimeCST": "10/18/26 03:25 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5300,
-      "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
-    },
-    {
-      "projectionId": "15781196",
-      "playerId": "211058",
-      "status": "pre_game",
-      "player": "Justin Herbert",
-      "stat": "Longest Rush",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
@@ -415,9 +394,30 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5301,
+      "rank": 6253,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15781196",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Longest Rush",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6257,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828469",
@@ -436,9 +436,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5315,
+      "rank": 6266,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15781286",
@@ -457,9 +457,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5321,
+      "rank": 6272,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15790262",
@@ -478,9 +478,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5322,
+      "rank": 6273,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828668",
@@ -499,9 +499,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5333,
+      "rank": 6284,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15852879",
@@ -520,9 +520,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5353,
+      "rank": 6302,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828612",
@@ -541,9 +541,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5359,
+      "rank": 6312,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15826915",
@@ -562,9 +562,30 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5368,
+      "rank": 6326,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15828642",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Longest Rush",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6327,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15781300",
@@ -583,9 +604,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5379,
+      "rank": 6346,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828616",
@@ -604,17 +625,17 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5385,
+      "rank": 6352,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
-      "projectionId": "15828642",
-      "playerId": "336552",
+      "projectionId": "15755650",
+      "playerId": "211252",
       "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Longest Rush",
-      "line": "6.5",
+      "player": "Cameron Dicker",
+      "stat": "Kicking Points",
+      "line": "6",
       "sport": "NFL",
       "startTime": "10/18/26 03:25 PM CST",
       "startTimeCST": "10/18/26 03:25 PM CST",
@@ -625,9 +646,30 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5386,
+      "rank": 6366,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15838057",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Rush Attempts",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6380,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15850806",
@@ -646,9 +688,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5405,
+      "rank": 6383,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15850808",
@@ -667,9 +709,93 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5406,
+      "rank": 6396,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15781297",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Longest Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6400,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15826917",
+      "playerId": "216816",
+      "status": "pre_game",
+      "player": "Kimani Vidal",
+      "stat": "Rush Attempts",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6407,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15787347",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Rush Attempts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6437,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15847202",
+      "playerId": "211424",
+      "status": "pre_game",
+      "player": "Ladd McConkey",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6460,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15847786",
@@ -688,30 +814,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5461,
+      "rank": 6462,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
-    },
-    {
-      "projectionId": "15781297",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Longest Reception",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/18/26 03:25 PM CST",
-      "startTimeCST": "10/18/26 03:25 PM CST",
-      "startDateCST": "2026-10-18",
-      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5479,
-      "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15847787",
@@ -730,9 +835,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5500,
+      "rank": 6516,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15850804",
@@ -751,9 +856,30 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5501,
+      "rank": 6517,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15862035",
+      "playerId": "169519",
+      "status": "pre_game",
+      "player": "Quentin Johnston",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6518,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15850805",
@@ -772,9 +898,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5503,
+      "rank": 6530,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15828473",
@@ -793,9 +919,30 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5516,
+      "rank": 6543,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
+    },
+    {
+      "projectionId": "15828606",
+      "playerId": "216816",
+      "status": "pre_game",
+      "player": "Kimani Vidal",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/18/26 03:25 PM CST",
+      "startTimeCST": "10/18/26 03:25 PM CST",
+      "startDateCST": "2026-10-18",
+      "startTimeIso": "2026-10-18T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6545,
+      "gameId": "188235",
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15842952",
@@ -814,9 +961,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5522,
+      "rank": 6550,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15850807",
@@ -835,9 +982,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5531,
+      "rank": 6557,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     },
     {
       "projectionId": "15851474",
@@ -856,9 +1003,9 @@
       "teamCode": "LAC",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5540,
+      "rank": 6569,
       "gameId": "188235",
-      "providerFetchedAt": "2026-10-17T12:07:04.422Z"
+      "providerFetchedAt": "2026-10-18T12:07:15.121Z"
     }
   ]
 }

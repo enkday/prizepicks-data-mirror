@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-17T12:09:03.867Z",
-  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-18T12:09:04.411Z",
+  "scrapedDate": "Sunday, October 18, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 59,
-    "sourceCount": 918,
-    "acceptedCount": 59,
-    "excludedCount": 859,
+    "count": 60,
+    "sourceCount": 993,
+    "acceptedCount": 60,
+    "excludedCount": 933,
     "rejectedCount": 0,
-    "publishedCount": 59,
-    "providerFetchedAt": "2026-10-17T12:08:35.356Z",
+    "publishedCount": 60,
+    "providerFetchedAt": "2026-10-18T12:08:34.617Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Boston Celtics",
-  "totalProps": 8,
+  "totalProps": 10,
   "props": [
     {
       "projectionId": "13975915",
@@ -39,7 +39,7 @@
       "opponentCode": "DET",
       "rank": 77,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719155",
@@ -58,9 +58,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 135,
+      "rank": 146,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719081",
@@ -79,9 +79,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 138,
+      "rank": 148,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719166",
@@ -100,9 +100,30 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 139,
+      "rank": 149,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+    },
+    {
+      "projectionId": "15720249",
+      "playerId": "352808",
+      "status": "pre_game",
+      "player": "Mitchell Robinson",
+      "stat": "Points",
+      "line": "7",
+      "sport": "NBA",
+      "startTime": "10/20/26 02:10 PM CST",
+      "startTimeCST": "10/20/26 02:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Celtics",
+      "teamCode": "BOS",
+      "Opponent": "Detroit Pistons",
+      "opponentCode": "DET",
+      "rank": 250,
+      "gameId": "181166",
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "13975911",
@@ -121,9 +142,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 231,
+      "rank": 263,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719074",
@@ -142,9 +163,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 284,
+      "rank": 336,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719148",
@@ -163,9 +184,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 285,
+      "rank": 337,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719162",
@@ -184,9 +205,30 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 289,
+      "rank": 341,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+    },
+    {
+      "projectionId": "15719168",
+      "playerId": "25443",
+      "status": "pre_game",
+      "player": "Payton Pritchard",
+      "stat": "Steals",
+      "line": "0.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 02:10 PM CST",
+      "startTimeCST": "10/20/26 02:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Celtics",
+      "teamCode": "BOS",
+      "Opponent": "Detroit Pistons",
+      "opponentCode": "DET",
+      "rank": 433,
+      "gameId": "181166",
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     }
   ]
 }

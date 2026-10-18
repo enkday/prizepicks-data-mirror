@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-17T12:09:03.867Z",
-  "scrapedDate": "Saturday, October 17, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-18T12:09:04.411Z",
+  "scrapedDate": "Sunday, October 18, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 59,
-    "sourceCount": 918,
-    "acceptedCount": 59,
-    "excludedCount": 859,
+    "count": 60,
+    "sourceCount": 993,
+    "acceptedCount": 60,
+    "excludedCount": 933,
     "rejectedCount": 0,
-    "publishedCount": 59,
-    "providerFetchedAt": "2026-10-17T12:08:35.356Z",
+    "publishedCount": 60,
+    "providerFetchedAt": "2026-10-18T12:08:34.617Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Philadelphia 76ers",
-  "totalProps": 8,
+  "totalProps": 6,
   "props": [
     {
       "projectionId": "15719229",
@@ -37,9 +37,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 409,
+      "rank": 507,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719327",
@@ -58,9 +58,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 414,
+      "rank": 511,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719202",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Jaylen Brown",
       "stat": "Points",
-      "line": "20",
+      "line": "20.5",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 417,
+      "rank": 514,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "13952668",
@@ -100,9 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 437,
+      "rank": 533,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "13975972",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "LeBron James",
       "stat": "Assists",
-      "line": "7.5",
+      "line": "7",
       "sport": "NBA",
       "startTime": "10/20/26 06:10 PM CST",
       "startTimeCST": "10/20/26 06:10 PM CST",
@@ -121,30 +121,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 489,
+      "rank": 594,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
-    },
-    {
-      "projectionId": "15719342",
-      "playerId": "271603",
-      "status": "pre_game",
-      "player": "VJ Edgecombe",
-      "stat": "Rebounds",
-      "line": "5.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia 76ers",
-      "teamCode": "PHI",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 517,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     },
     {
       "projectionId": "15719212",
@@ -163,30 +142,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Knicks",
       "opponentCode": "NYK",
-      "rank": 561,
+      "rank": 647,
       "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
-    },
-    {
-      "projectionId": "15719336",
-      "playerId": "271603",
-      "status": "pre_game",
-      "player": "VJ Edgecombe",
-      "stat": "3-PT Made",
-      "line": "1.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 06:10 PM CST",
-      "startTimeCST": "10/20/26 06:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T19:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia 76ers",
-      "teamCode": "PHI",
-      "Opponent": "New York Knicks",
-      "opponentCode": "NYK",
-      "rank": 599,
-      "gameId": "181167",
-      "providerFetchedAt": "2026-10-17T12:08:35.356Z"
+      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
     }
   ]
 }
