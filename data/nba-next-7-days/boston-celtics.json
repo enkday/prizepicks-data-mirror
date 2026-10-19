@@ -1,27 +1,27 @@
 {
-  "scrapedAt": "2026-10-18T12:09:04.411Z",
-  "scrapedDate": "Sunday, October 18, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-19T12:11:30.066Z",
+  "scrapedDate": "Monday, October 19, 2026 at 07:11 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
     "count": 60,
-    "sourceCount": 993,
+    "sourceCount": 938,
     "acceptedCount": 60,
-    "excludedCount": 933,
+    "excludedCount": 878,
     "rejectedCount": 0,
     "publishedCount": 60,
-    "providerFetchedAt": "2026-10-18T12:08:34.617Z",
+    "providerFetchedAt": "2026-10-19T12:10:25.295Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Boston Celtics",
-  "totalProps": 10,
+  "totalProps": 9,
   "props": [
     {
-      "projectionId": "13975915",
+      "projectionId": "13952665",
       "playerId": "187999",
       "status": "pre_game",
       "player": "Jayson Tatum",
@@ -37,9 +37,30 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 77,
+      "rank": 64,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
+    },
+    {
+      "projectionId": "15719081",
+      "playerId": "60021",
+      "status": "pre_game",
+      "player": "Derrick White",
+      "stat": "Points",
+      "line": "16.5",
+      "sport": "NBA",
+      "startTime": "10/20/26 02:10 PM CST",
+      "startTimeCST": "10/20/26 02:10 PM CST",
+      "startDateCST": "2026-10-20",
+      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Boston Celtics",
+      "teamCode": "BOS",
+      "Opponent": "Detroit Pistons",
+      "opponentCode": "DET",
+      "rank": 118,
+      "gameId": "181166",
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     },
     {
       "projectionId": "15719155",
@@ -58,30 +79,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 146,
+      "rank": 125,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
-    },
-    {
-      "projectionId": "15719081",
-      "playerId": "60021",
-      "status": "pre_game",
-      "player": "Derrick White",
-      "stat": "Points",
-      "line": "15.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 02:10 PM CST",
-      "startTimeCST": "10/20/26 02:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Boston Celtics",
-      "teamCode": "BOS",
-      "Opponent": "Detroit Pistons",
-      "opponentCode": "DET",
-      "rank": 148,
-      "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     },
     {
       "projectionId": "15719166",
@@ -100,9 +100,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 149,
+      "rank": 128,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     },
     {
       "projectionId": "15720249",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Mitchell Robinson",
       "stat": "Points",
-      "line": "7",
+      "line": "6.5",
       "sport": "NBA",
       "startTime": "10/20/26 02:10 PM CST",
       "startTimeCST": "10/20/26 02:10 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 250,
+      "rank": 219,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     },
     {
       "projectionId": "13975911",
@@ -142,9 +142,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 263,
+      "rank": 226,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     },
     {
       "projectionId": "15719074",
@@ -163,30 +163,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 336,
+      "rank": 300,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
-    },
-    {
-      "projectionId": "15719148",
-      "playerId": "352809",
-      "status": "pre_game",
-      "player": "Paul George",
-      "stat": "3-PT Made",
-      "line": "2.5",
-      "sport": "NBA",
-      "startTime": "10/20/26 02:10 PM CST",
-      "startTimeCST": "10/20/26 02:10 PM CST",
-      "startDateCST": "2026-10-20",
-      "startTimeIso": "2026-10-20T15:10:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Boston Celtics",
-      "teamCode": "BOS",
-      "Opponent": "Detroit Pistons",
-      "opponentCode": "DET",
-      "rank": 337,
-      "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     },
     {
       "projectionId": "15719162",
@@ -205,9 +184,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 341,
+      "rank": 304,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     },
     {
       "projectionId": "15719168",
@@ -226,9 +205,9 @@
       "teamCode": "BOS",
       "Opponent": "Detroit Pistons",
       "opponentCode": "DET",
-      "rank": 433,
+      "rank": 397,
       "gameId": "181166",
-      "providerFetchedAt": "2026-10-18T12:08:34.617Z"
+      "providerFetchedAt": "2026-10-19T12:10:25.295Z"
     }
   ]
 }
