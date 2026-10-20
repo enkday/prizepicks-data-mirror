@@ -1,0 +1,66 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "4850b93a6a6fabf663d123c61e6c062e0191cbe81f70bcc47f78a7ab2455fff6",
+  "sourceScrapedAt": "2026-10-20T12:10:31.150Z",
+  "sourceScrapedDate": "Tuesday, October 20, 2026 at 07:10 AM CDT",
+  "observedDate": "2026-10-20",
+  "completeness": "reported",
+  "sport": "NBA",
+  "sportSlug": "nba",
+  "dayBranch": "current_day",
+  "gameCount": 3,
+  "propCount": 156,
+  "games": [
+    {
+      "gameId": "181166",
+      "slate": "Early",
+      "startTime": "10/20/26 02:00 PM CDT",
+      "startTimeIso": "2026-10-20T14:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Boston Celtics",
+        "Detroit Pistons"
+      ],
+      "propCount": 58,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/181166.json"
+    },
+    {
+      "gameId": "181167",
+      "slate": "Late",
+      "startTime": "10/20/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-20T18:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "New York Knicks",
+        "Philadelphia 76ers"
+      ],
+      "propCount": 49,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/181167.json"
+    },
+    {
+      "gameId": "181168",
+      "slate": "Late",
+      "startTime": "10/20/26 08:30 PM CDT",
+      "startTimeIso": "2026-10-20T20:30:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Oklahoma City Thunder",
+        "San Antonio Spurs"
+      ],
+      "propCount": 49,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/181168.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "early",
+      "propCount": 58,
+      "path": "/data/hierarchy/current_day/nba/props-by-slate/early.json"
+    },
+    {
+      "slate": "late",
+      "propCount": 98,
+      "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
+    }
+  ]
+}

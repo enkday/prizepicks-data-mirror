@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "188710",
-    "sport": "NFL",
-    "startTime": "10/19/26 07:15 PM CDT",
-    "startTimeIso": "2026-10-19T19:15:00-05:00",
+    "gameId": "188720",
+    "sport": "NCAAF",
+    "startTime": "10/20/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-20T18:00:00-05:00",
     "teams": [
-      "San Francisco 49ers",
-      "Washington Commanders"
+      "Delaware Blue Hens",
+      "Missouri State Bears"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-19T19:15:00-05:00"
+      "2026-10-20T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "San Francisco 49ers",
-        "Washington Commanders"
+        "Delaware Blue Hens",
+        "Missouri State Bears"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,31 +24,122 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "196762",
-    "sport": "MLB",
-    "startTime": "10/19/26 07:08 PM CDT",
-    "startTimeIso": "2026-10-19T19:08:00-05:00",
+    "gameId": "188719",
+    "sport": "NCAAF",
+    "startTime": "10/20/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-20T18:00:00-05:00",
     "teams": [
-      "AL American League",
-      "Cleveland Guardians",
-      "Tampa Bay Rays"
+      "Florida International Panthers",
+      "Middle Tennessee Blue Raiders"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-19T19:08:00-05:00"
+      "2026-10-20T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Cleveland Guardians",
-        "Tampa Bay Rays"
-      ],
-      [
-        "AL American League",
-        "Tampa Bay Rays"
+        "Florida International Panthers",
+        "Middle Tennessee Blue Raiders"
       ]
     ],
-    "sourceEventConflict": true,
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "188721",
+    "sport": "NCAAF",
+    "startTime": "10/20/26 06:30 PM CDT",
+    "startTimeIso": "2026-10-20T18:30:00-05:00",
+    "teams": [
+      "Marshall Thundering Herd",
+      "South Alabama Jaguars"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-10-20T18:30:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Marshall Thundering Herd",
+        "South Alabama Jaguars"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "181166",
+    "sport": "NBA",
+    "startTime": "10/20/26 02:00 PM CDT",
+    "startTimeIso": "2026-10-20T14:00:00-05:00",
+    "teams": [
+      "Boston Celtics",
+      "Detroit Pistons"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-10-20T14:00:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Boston Celtics",
+        "Detroit Pistons"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "181167",
+    "sport": "NBA",
+    "startTime": "10/20/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-20T18:00:00-05:00",
+    "teams": [
+      "New York Knicks",
+      "Philadelphia 76ers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-10-20T18:00:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "New York Knicks",
+        "Philadelphia 76ers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "181168",
+    "sport": "NBA",
+    "startTime": "10/20/26 08:30 PM CDT",
+    "startTimeIso": "2026-10-20T20:30:00-05:00",
+    "teams": [
+      "Oklahoma City Thunder",
+      "San Antonio Spurs"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-10-20T20:30:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Oklahoma City Thunder",
+        "San Antonio Spurs"
+      ]
+    ],
+    "sourceEventConflict": false,
     "eventTimeVerified": true,
     "startTimeSelectionRule": "linked-provider-game"
   }
