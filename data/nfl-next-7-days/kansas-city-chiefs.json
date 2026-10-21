@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-20T12:10:31.150Z",
-  "scrapedDate": "Tuesday, October 20, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-21T12:10:06.885Z",
+  "scrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 406,
-    "sourceCount": 2734,
-    "acceptedCount": 406,
-    "excludedCount": 2328,
+    "count": 399,
+    "sourceCount": 3395,
+    "acceptedCount": 399,
+    "excludedCount": 2996,
     "rejectedCount": 0,
-    "publishedCount": 406,
-    "providerFetchedAt": "2026-10-20T12:08:19.724Z",
+    "publishedCount": 399,
+    "providerFetchedAt": "2026-10-21T12:08:09.813Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Kansas City Chiefs",
-  "totalProps": 8,
+  "totalProps": 11,
   "props": [
     {
       "projectionId": "15942254",
@@ -37,9 +37,9 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2393,
+      "rank": 3012,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15945077",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Rush Yards",
-      "line": "91.5",
+      "line": "84.5",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
       "startTimeCST": "10/25/26 07:20 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2414,
+      "rank": 3043,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15945789",
@@ -79,17 +79,17 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2428,
+      "rank": 3057,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
-      "projectionId": "15942282",
+      "projectionId": "16020655",
       "playerId": "206295",
       "status": "pre_game",
       "player": "Patrick Mahomes",
-      "stat": "Longest Completion",
-      "line": "34.5",
+      "stat": "Pass Attempts",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
       "startTimeCST": "10/25/26 07:20 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2444,
+      "rank": 3077,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15945790",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Receiving Yards",
-      "line": "21.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
       "startTimeCST": "10/25/26 07:20 PM CST",
@@ -121,9 +121,51 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2462,
+      "rank": 3104,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
+    },
+    {
+      "projectionId": "16020660",
+      "playerId": "206295",
+      "status": "pre_game",
+      "player": "Patrick Mahomes",
+      "stat": "Pass Completions",
+      "line": "20",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 3107,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
+    },
+    {
+      "projectionId": "16005599",
+      "playerId": "320186",
+      "status": "pre_game",
+      "player": "Kenneth Walker III",
+      "stat": "Rush Attempts",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 3117,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15942242",
@@ -131,7 +173,7 @@
       "status": "pre_game",
       "player": "Patrick Mahomes",
       "stat": "Rush Yards",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
       "startTimeCST": "10/25/26 07:20 PM CST",
@@ -142,17 +184,17 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2478,
+      "rank": 3124,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
-      "projectionId": "15942299",
-      "playerId": "206295",
+      "projectionId": "16006290",
+      "playerId": "337714",
       "status": "pre_game",
-      "player": "Patrick Mahomes",
-      "stat": "Longest Rush",
-      "line": "9.5",
+      "player": "Emmett Johnson",
+      "stat": "Rush Yards",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
       "startTimeCST": "10/25/26 07:20 PM CST",
@@ -163,9 +205,30 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2483,
+      "rank": 3145,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
+    },
+    {
+      "projectionId": "15918671",
+      "playerId": "320186",
+      "status": "pre_game",
+      "player": "Kenneth Walker III",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 3193,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15942225",
@@ -184,9 +247,9 @@
       "teamCode": "KC",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 2520,
+      "rank": 3196,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     }
   ]
 }

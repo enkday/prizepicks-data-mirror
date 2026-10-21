@@ -1,25 +1,46 @@
 {
-  "scrapedAt": "2026-10-20T12:10:31.150Z",
-  "scrapedDate": "Tuesday, October 20, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-21T12:10:06.885Z",
+  "scrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 479,
-    "sourceCount": 10073,
-    "acceptedCount": 479,
-    "excludedCount": 9594,
+    "count": 449,
+    "sourceCount": 10002,
+    "acceptedCount": 449,
+    "excludedCount": 9553,
     "rejectedCount": 0,
-    "publishedCount": 479,
-    "providerFetchedAt": "2026-10-20T12:09:26.659Z",
+    "publishedCount": 449,
+    "providerFetchedAt": "2026-10-21T12:09:36.626Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Dallas Mavericks",
-  "totalProps": 12,
+  "totalProps": 16,
   "props": [
+    {
+      "projectionId": "15923388",
+      "playerId": "269519",
+      "status": "pre_game",
+      "player": "Cooper Flagg",
+      "stat": "Points",
+      "line": "21.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 5913,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
     {
       "projectionId": "15922702",
       "playerId": "96236",
@@ -37,30 +58,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7503,
+      "rank": 5918,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
-    },
-    {
-      "projectionId": "15923388",
-      "playerId": "269519",
-      "status": "pre_game",
-      "player": "Cooper Flagg",
-      "stat": "Points",
-      "line": "20.5",
-      "sport": "NBA",
-      "startTime": "10/21/26 07:30 PM CST",
-      "startTimeCST": "10/21/26 07:30 PM CST",
-      "startDateCST": "2026-10-21",
-      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Dallas Mavericks",
-      "teamCode": "DAL",
-      "Opponent": "Houston Rockets",
-      "opponentCode": "HOU",
-      "rank": 7506,
-      "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15922552",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "P.J. Washington",
       "stat": "Points",
-      "line": "13.5",
+      "line": "13",
       "sport": "NBA",
       "startTime": "10/21/26 07:30 PM CST",
       "startTimeCST": "10/21/26 07:30 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7614,
+      "rank": 6069,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15958120",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Naji Marshall",
       "stat": "Points",
-      "line": "12.5",
+      "line": "11.5",
       "sport": "NBA",
       "startTime": "10/21/26 07:30 PM CST",
       "startTimeCST": "10/21/26 07:30 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7642,
+      "rank": 6109,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15928015",
@@ -121,9 +121,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7675,
+      "rank": 6124,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15922544",
@@ -142,17 +142,17 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7683,
+      "rank": 6139,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
-      "projectionId": "15923399",
-      "playerId": "187519",
+      "projectionId": "16007530",
+      "playerId": "353314",
       "status": "pre_game",
-      "player": "P.J. Washington",
-      "stat": "Rebounds",
-      "line": "6.5",
+      "player": "Zaccharie Risacher",
+      "stat": "Points",
+      "line": "8.5",
       "sport": "NBA",
       "startTime": "10/21/26 07:30 PM CST",
       "startTimeCST": "10/21/26 07:30 PM CST",
@@ -163,9 +163,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7765,
+      "rank": 6203,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15926392",
@@ -184,9 +184,30 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7766,
+      "rank": 6250,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16009717",
+      "playerId": "96236",
+      "status": "pre_game",
+      "player": "Kyrie Irving",
+      "stat": "Assists",
+      "line": "5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 6309,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15926722",
@@ -205,9 +226,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7844,
+      "rank": 6360,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15935336",
@@ -226,9 +247,30 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 7917,
+      "rank": 6444,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16028818",
+      "playerId": "187518",
+      "status": "pre_game",
+      "player": "Daniel Gafford",
+      "stat": "Assists",
+      "line": "1.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 6557,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15933426",
@@ -247,9 +289,9 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 8006,
+      "rank": 6579,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15954453",
@@ -268,9 +310,51 @@
       "teamCode": "DAL",
       "Opponent": "Houston Rockets",
       "opponentCode": "HOU",
-      "rank": 8025,
+      "rank": 6597,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16014694",
+      "playerId": "187519",
+      "status": "pre_game",
+      "player": "P.J. Washington",
+      "stat": "Rebounds",
+      "line": "6",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:40 PM CST",
+      "startTimeCST": "10/21/26 07:40 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 6665,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16015996",
+      "playerId": "269519",
+      "status": "pre_game",
+      "player": "Cooper Flagg",
+      "stat": "Assists",
+      "line": "5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:40 PM CST",
+      "startTimeCST": "10/21/26 07:40 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Dallas Mavericks",
+      "teamCode": "DAL",
+      "Opponent": "Houston Rockets",
+      "opponentCode": "HOU",
+      "rank": 6666,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-20T12:10:31.150Z",
-  "scrapedDate": "Tuesday, October 20, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-21T12:10:06.885Z",
+  "scrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 479,
-    "sourceCount": 10073,
-    "acceptedCount": 479,
-    "excludedCount": 9594,
+    "count": 449,
+    "sourceCount": 10002,
+    "acceptedCount": 449,
+    "excludedCount": 9553,
     "rejectedCount": 0,
-    "publishedCount": 479,
-    "providerFetchedAt": "2026-10-20T12:09:26.659Z",
+    "publishedCount": 449,
+    "providerFetchedAt": "2026-10-21T12:09:36.626Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Los Angeles Lakers",
-  "totalProps": 15,
+  "totalProps": 21,
   "props": [
     {
       "projectionId": "15926064",
@@ -37,9 +37,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 8736,
+      "rank": 7479,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15926929",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Austin Reaves",
       "stat": "Points",
-      "line": "24",
+      "line": "24.5",
       "sport": "NBA",
       "startTime": "10/21/26 09:00 PM CST",
       "startTimeCST": "10/21/26 09:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 8790,
+      "rank": 7532,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15925797",
@@ -79,9 +79,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 8944,
+      "rank": 7728,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15928407",
@@ -100,9 +100,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 8951,
+      "rank": 7733,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15926418",
@@ -121,9 +121,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 8956,
+      "rank": 7759,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15926220",
@@ -142,9 +142,51 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 8961,
+      "rank": 7761,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16020785",
+      "playerId": "355212",
+      "status": "pre_game",
+      "player": "Ziaire Williams",
+      "stat": "Points",
+      "line": "8.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 09:00 PM CST",
+      "startTimeCST": "10/21/26 09:00 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 7831,
+      "gameId": "189078",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "15925275",
+      "playerId": "227710",
+      "status": "pre_game",
+      "player": "Luka Dončić",
+      "stat": "Assists",
+      "line": "8",
+      "sport": "NBA",
+      "startTime": "10/21/26 09:00 PM CST",
+      "startTimeCST": "10/21/26 09:00 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 7832,
+      "gameId": "189078",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15925221",
@@ -163,9 +205,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9024,
+      "rank": 7838,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15924316",
@@ -173,7 +215,7 @@
       "status": "pre_game",
       "player": "Matisse Thybulle",
       "stat": "Points",
-      "line": "6.5",
+      "line": "6",
       "sport": "NBA",
       "startTime": "10/21/26 09:00 PM CST",
       "startTimeCST": "10/21/26 09:00 PM CST",
@@ -184,17 +226,17 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9043,
+      "rank": 7897,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
-      "projectionId": "15924928",
-      "playerId": "354478",
+      "projectionId": "15934844",
+      "playerId": "55934",
       "status": "pre_game",
-      "player": "Sandro Mamukelashvili",
-      "stat": "Rebounds",
-      "line": "5.5",
+      "player": "Austin Reaves",
+      "stat": "Assists",
+      "line": "6",
       "sport": "NBA",
       "startTime": "10/21/26 09:00 PM CST",
       "startTimeCST": "10/21/26 09:00 PM CST",
@@ -205,9 +247,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9070,
+      "rank": 7898,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15925332",
@@ -215,7 +257,7 @@
       "status": "pre_game",
       "player": "Austin Reaves",
       "stat": "Rebounds",
-      "line": "5",
+      "line": "4.5",
       "sport": "NBA",
       "startTime": "10/21/26 09:00 PM CST",
       "startTimeCST": "10/21/26 09:00 PM CST",
@@ -226,9 +268,30 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9093,
+      "rank": 7939,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "15942833",
+      "playerId": "227710",
+      "status": "pre_game",
+      "player": "Luka Dončić",
+      "stat": "3-PT Made",
+      "line": "3.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 09:00 PM CST",
+      "startTimeCST": "10/21/26 09:00 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 8001,
+      "gameId": "189078",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15935433",
@@ -247,9 +310,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9192,
+      "rank": 8051,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15924747",
@@ -268,9 +331,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9224,
+      "rank": 8093,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15924898",
@@ -289,9 +352,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9225,
+      "rank": 8094,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15926710",
@@ -310,16 +373,79 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9235,
+      "rank": 8101,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
-      "projectionId": "15935420",
-      "playerId": "354548",
+      "projectionId": "15943481",
+      "playerId": "352978",
       "status": "pre_game",
-      "player": "Quentin Grimes",
-      "stat": "Steals",
+      "player": "Walker Kessler",
+      "stat": "Turnovers",
+      "line": "1.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 09:00 PM CST",
+      "startTimeCST": "10/21/26 09:00 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 8123,
+      "gameId": "189078",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16019827",
+      "playerId": "352978",
+      "status": "pre_game",
+      "player": "Walker Kessler",
+      "stat": "Assists",
+      "line": "1.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 09:00 PM CST",
+      "startTimeCST": "10/21/26 09:00 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 8141,
+      "gameId": "189078",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16019892",
+      "playerId": "354478",
+      "status": "pre_game",
+      "player": "Sandro Mamukelashvili",
+      "stat": "Assists",
+      "line": "1.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 09:00 PM CST",
+      "startTimeCST": "10/21/26 09:00 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T22:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Lakers",
+      "teamCode": "LAL",
+      "Opponent": "Golden State Warriors",
+      "opponentCode": "GSW",
+      "rank": 8142,
+      "gameId": "189078",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "15928072",
+      "playerId": "227710",
+      "status": "pre_game",
+      "player": "Luka Dončić",
+      "stat": "Double-Double",
       "line": "0.5",
       "sport": "NBA",
       "startTime": "10/21/26 09:00 PM CST",
@@ -331,9 +457,9 @@
       "teamCode": "LAL",
       "Opponent": "Golden State Warriors",
       "opponentCode": "GSW",
-      "rank": 9296,
+      "rank": 8172,
       "gameId": "189078",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     }
   ]
 }

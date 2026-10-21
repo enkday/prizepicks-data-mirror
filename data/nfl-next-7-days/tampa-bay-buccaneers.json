@@ -1,25 +1,46 @@
 {
-  "scrapedAt": "2026-10-20T12:10:31.150Z",
-  "scrapedDate": "Tuesday, October 20, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-21T12:10:06.885Z",
+  "scrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 406,
-    "sourceCount": 2734,
-    "acceptedCount": 406,
-    "excludedCount": 2328,
+    "count": 399,
+    "sourceCount": 3395,
+    "acceptedCount": 399,
+    "excludedCount": 2996,
     "rejectedCount": 0,
-    "publishedCount": 406,
-    "providerFetchedAt": "2026-10-20T12:08:19.724Z",
+    "publishedCount": 399,
+    "providerFetchedAt": "2026-10-21T12:08:09.813Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 4,
+  "totalProps": 7,
   "props": [
+    {
+      "projectionId": "16029228",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Pass Yards",
+      "line": "213.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1692,
+      "gameId": "189819",
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
+    },
     {
       "projectionId": "15945071",
       "playerId": "212264",
@@ -37,9 +58,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1412,
+      "rank": 1724,
       "gameId": "189819",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15945771",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Emeka Egbuka",
       "stat": "Receiving Yards",
-      "line": "39.5",
+      "line": "40.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -58,9 +79,51 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1442,
+      "rank": 1746,
       "gameId": "189819",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
+    },
+    {
+      "projectionId": "16029915",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Pass Attempts",
+      "line": "34.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1762,
+      "gameId": "189819",
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
+    },
+    {
+      "projectionId": "16029901",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Pass Completions",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1788,
+      "gameId": "189819",
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15945351",
@@ -68,7 +131,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Rush Attempts",
-      "line": "16.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -79,9 +142,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1476,
+      "rank": 1808,
       "gameId": "189819",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     },
     {
       "projectionId": "15945244",
@@ -100,9 +163,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1478,
+      "rank": 1809,
       "gameId": "189819",
-      "providerFetchedAt": "2026-10-20T12:08:19.724Z"
+      "providerFetchedAt": "2026-10-21T12:08:09.813Z"
     }
   ]
 }

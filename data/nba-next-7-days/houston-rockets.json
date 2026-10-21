@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-20T12:10:31.150Z",
-  "scrapedDate": "Tuesday, October 20, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-21T12:10:06.885Z",
+  "scrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NBA",
     "ok": true,
     "status": 200,
-    "count": 479,
-    "sourceCount": 10073,
-    "acceptedCount": 479,
-    "excludedCount": 9594,
+    "count": 449,
+    "sourceCount": 10002,
+    "acceptedCount": 449,
+    "excludedCount": 9553,
     "rejectedCount": 0,
-    "publishedCount": 479,
-    "providerFetchedAt": "2026-10-20T12:09:26.659Z",
+    "publishedCount": 449,
+    "providerFetchedAt": "2026-10-21T12:09:36.626Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NBA",
   "day": "next-7-days",
   "team": "Houston Rockets",
-  "totalProps": 13,
+  "totalProps": 21,
   "props": [
     {
       "projectionId": "15922319",
@@ -37,9 +37,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7481,
+      "rank": 5894,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15928270",
@@ -58,9 +58,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7531,
+      "rank": 5952,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15928642",
@@ -79,9 +79,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7556,
+      "rank": 5981,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15922579",
@@ -100,9 +100,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7630,
+      "rank": 6071,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15922722",
@@ -121,9 +121,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7632,
+      "rank": 6072,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15922309",
@@ -142,9 +142,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7684,
+      "rank": 6140,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15929498",
@@ -163,9 +163,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7704,
+      "rank": 6162,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15964263",
@@ -184,9 +184,51 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7712,
+      "rank": 6186,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16008018",
+      "playerId": "174285",
+      "status": "pre_game",
+      "player": "Amen Thompson",
+      "stat": "Rebounds",
+      "line": "8",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6209,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16019167",
+      "playerId": "355196",
+      "status": "pre_game",
+      "player": "Marcus Smart",
+      "stat": "Points",
+      "line": "6.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6263,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15926873",
@@ -205,9 +247,30 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7793,
+      "rank": 6282,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "15969274",
+      "playerId": "55716",
+      "status": "pre_game",
+      "player": "Alperen Şengün",
+      "stat": "Assists",
+      "line": "5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6308,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15922709",
@@ -226,9 +289,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7814,
+      "rank": 6314,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15933414",
@@ -247,9 +310,72 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7900,
+      "rank": 6427,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16019146",
+      "playerId": "355196",
+      "status": "pre_game",
+      "player": "Marcus Smart",
+      "stat": "Assists",
+      "line": "2.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6477,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "15957846",
+      "playerId": "174285",
+      "status": "pre_game",
+      "player": "Amen Thompson",
+      "stat": "Steals",
+      "line": "1.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6534,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16017467",
+      "playerId": "79867",
+      "status": "pre_game",
+      "player": "Jabari Smith",
+      "stat": "Assists",
+      "line": "1.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6550,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15923403",
@@ -268,9 +394,9 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 7995,
+      "rank": 6568,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     },
     {
       "projectionId": "15933497",
@@ -289,9 +415,51 @@
       "teamCode": "HOU",
       "Opponent": "Dallas Mavericks",
       "opponentCode": "DAL",
-      "rank": 8014,
+      "rank": 6587,
       "gameId": "189076",
-      "providerFetchedAt": "2026-10-20T12:09:26.659Z"
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16022275",
+      "playerId": "174285",
+      "status": "pre_game",
+      "player": "Amen Thompson",
+      "stat": "Blocked Shots",
+      "line": "0.5",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:30 PM CST",
+      "startTimeCST": "10/21/26 07:30 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6625,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
+    },
+    {
+      "projectionId": "16015997",
+      "playerId": "265114",
+      "status": "pre_game",
+      "player": "Kevin Durant",
+      "stat": "Assists",
+      "line": "4",
+      "sport": "NBA",
+      "startTime": "10/21/26 07:40 PM CST",
+      "startTimeCST": "10/21/26 07:40 PM CST",
+      "startDateCST": "2026-10-21",
+      "startTimeIso": "2026-10-21T20:40:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Houston Rockets",
+      "teamCode": "HOU",
+      "Opponent": "Dallas Mavericks",
+      "opponentCode": "DAL",
+      "rank": 6672,
+      "gameId": "189076",
+      "providerFetchedAt": "2026-10-21T12:09:36.626Z"
     }
   ]
 }

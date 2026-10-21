@@ -1,164 +1,47 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "4850b93a6a6fabf663d123c61e6c062e0191cbe81f70bcc47f78a7ab2455fff6",
-  "sourceScrapedAt": "2026-10-20T12:10:31.150Z",
-  "sourceScrapedDate": "Tuesday, October 20, 2026 at 07:10 AM CDT",
-  "observedDate": "2026-10-21",
+  "sourcePayloadHash": "e2e27d50fc54fc4cd56781cc2a157c05c809b01908eea74a711c776a71d27fad",
+  "sourceScrapedAt": "2026-10-21T12:10:06.885Z",
+  "sourceScrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
+  "observedDate": "2026-10-22",
   "completeness": "reported",
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "tomorrow",
-  "gameCount": 11,
-  "propCount": 323,
+  "gameCount": 2,
+  "propCount": 25,
   "games": [
     {
-      "gameId": "188868",
+      "gameId": "189080",
       "slate": "Late",
-      "startTime": "10/21/26 06:00 PM CDT",
-      "startTimeIso": "2026-10-21T18:00:00-05:00",
+      "startTime": "10/22/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-22T18:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Milwaukee Bucks",
-        "Washington Wizards"
+        "Cleveland Cavaliers",
+        "Philadelphia 76ers"
       ],
-      "propCount": 27,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/188868.json"
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/189080.json"
     },
     {
-      "gameId": "188869",
+      "gameId": "189303",
       "slate": "Late",
-      "startTime": "10/21/26 06:00 PM CDT",
-      "startTimeIso": "2026-10-21T18:00:00-05:00",
+      "startTime": "10/22/26 08:30 PM CDT",
+      "startTimeIso": "2026-10-22T20:30:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Atlanta Hawks",
-        "Orlando Magic"
+        "Denver Nuggets",
+        "Oklahoma City Thunder"
       ],
-      "propCount": 25,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/188869.json"
-    },
-    {
-      "gameId": "188870",
-      "slate": "Late",
-      "startTime": "10/21/26 06:30 PM CDT",
-      "startTimeIso": "2026-10-21T18:30:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Brooklyn Nets",
-        "Charlotte Hornets"
-      ],
-      "propCount": 31,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/188870.json"
-    },
-    {
-      "gameId": "188871",
-      "slate": "Late",
-      "startTime": "10/21/26 06:30 PM CDT",
-      "startTimeIso": "2026-10-21T18:30:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Chicago Bulls",
-        "Toronto Raptors"
-      ],
-      "propCount": 28,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/188871.json"
-    },
-    {
-      "gameId": "188872",
-      "slate": "Late",
-      "startTime": "10/21/26 06:30 PM CDT",
-      "startTimeIso": "2026-10-21T18:30:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Miami Heat",
-        "Minnesota Timberwolves"
-      ],
-      "propCount": 43,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/188872.json"
-    },
-    {
-      "gameId": "188873",
-      "slate": "Late",
-      "startTime": "10/21/26 07:00 PM CDT",
-      "startTimeIso": "2026-10-21T19:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Indiana Pacers",
-        "New Orleans Pelicans"
-      ],
-      "propCount": 29,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/188873.json"
-    },
-    {
-      "gameId": "188874",
-      "slate": "Late",
-      "startTime": "10/21/26 07:00 PM CDT",
-      "startTimeIso": "2026-10-21T19:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Memphis Grizzlies",
-        "Utah Jazz"
-      ],
-      "propCount": 31,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/188874.json"
-    },
-    {
-      "gameId": "189076",
-      "slate": "Late",
-      "startTime": "10/21/26 07:30 PM CDT",
-      "startTimeIso": "2026-10-21T19:30:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Dallas Mavericks",
-        "Houston Rockets"
-      ],
-      "propCount": 25,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/189076.json"
-    },
-    {
-      "gameId": "189077",
-      "slate": "Late",
-      "startTime": "10/21/26 09:00 PM CDT",
-      "startTimeIso": "2026-10-21T21:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Phoenix Suns",
-        "Portland Trail Blazers"
-      ],
-      "propCount": 26,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/189077.json"
-    },
-    {
-      "gameId": "189078",
-      "slate": "Late",
-      "startTime": "10/21/26 09:00 PM CDT",
-      "startTimeIso": "2026-10-21T21:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Golden State Warriors",
-        "Los Angeles Lakers"
-      ],
-      "propCount": 29,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/189078.json"
-    },
-    {
-      "gameId": "189079",
-      "slate": "Late",
-      "startTime": "10/21/26 09:30 PM CDT",
-      "startTimeIso": "2026-10-21T21:30:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "LA Clippers",
-        "Sacramento Kings"
-      ],
-      "propCount": 29,
-      "path": "/data/hierarchy/tomorrow/nba/props-by-game/189079.json"
+      "propCount": 7,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/189303.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 323,
+      "propCount": 25,
       "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
     }
   ]
