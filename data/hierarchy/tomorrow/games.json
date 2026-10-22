@@ -1,46 +1,22 @@
 [
   {
-    "gameId": "189302",
-    "sport": "NFL",
-    "startTime": "10/22/26 07:15 PM CDT",
-    "startTimeIso": "2026-10-22T19:15:00-05:00",
-    "teams": [
-      "Chicago Bears",
-      "New England Patriots"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow",
-    "startTimeObservations": [
-      "2026-10-22T19:15:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Chicago Bears",
-        "New England Patriots"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "189103",
+    "gameId": "189315",
     "sport": "NCAAF",
-    "startTime": "10/22/26 06:00 PM CDT",
-    "startTimeIso": "2026-10-22T18:00:00-05:00",
+    "startTime": "10/23/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-23T18:00:00-05:00",
     "teams": [
-      "Appalachian State Mountaineers",
-      "James Madison Dukes"
+      "Duke Blue Devils",
+      "Virginia Cavaliers"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-22T18:00:00-05:00"
+      "2026-10-23T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Appalachian State Mountaineers",
-        "James Madison Dukes"
+        "Duke Blue Devils",
+        "Virginia Cavaliers"
       ]
     ],
     "sourceEventConflict": false,
@@ -48,23 +24,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "189104",
+    "gameId": "189313",
     "sport": "NCAAF",
-    "startTime": "10/22/26 06:00 PM CDT",
-    "startTimeIso": "2026-10-22T18:00:00-05:00",
+    "startTime": "10/23/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-23T18:00:00-05:00",
     "teams": [
-      "Kennesaw State Owls",
-      "Liberty Flames"
+      "UConn Huskies",
+      "UMass Minutemen"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-22T18:00:00-05:00"
+      "2026-10-23T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Kennesaw State Owls",
-        "Liberty Flames"
+        "UConn Huskies",
+        "UMass Minutemen"
       ]
     ],
     "sourceEventConflict": false,
@@ -72,23 +48,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "189105",
+    "gameId": "189485",
     "sport": "NCAAF",
-    "startTime": "10/22/26 06:30 PM CDT",
-    "startTimeIso": "2026-10-22T18:30:00-05:00",
+    "startTime": "10/23/26 07:30 PM CDT",
+    "startTimeIso": "2026-10-23T19:30:00-05:00",
     "teams": [
-      "East Carolina Pirates",
-      "Memphis Tigers"
+      "Army Black Knights",
+      "Tulsa Golden Hurricane"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-22T18:30:00-05:00"
+      "2026-10-23T19:30:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "East Carolina Pirates",
-        "Memphis Tigers"
+        "Army Black Knights",
+        "Tulsa Golden Hurricane"
       ]
     ],
     "sourceEventConflict": false,
@@ -96,23 +72,76 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "189080",
+    "gameId": "189486",
+    "sport": "NCAAF",
+    "startTime": "10/23/26 08:00 PM CDT",
+    "startTimeIso": "2026-10-23T20:00:00-05:00",
+    "teams": [
+      "Air Force Falcons",
+      "Wyoming Cowboys"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-23T20:00:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Air Force Falcons",
+        "Wyoming Cowboys"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "189487",
+    "sport": "NCAAF",
+    "startTime": "10/23/26 09:30 PM CDT",
+    "startTimeIso": "2026-10-23T21:30:00-05:00",
+    "teams": [
+      "NC State Wolfpack",
+      "North Carolina State Wolfpack",
+      "Stanford Cardinal"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-23T21:30:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "North Carolina State Wolfpack",
+        "Stanford Cardinal"
+      ],
+      [
+        "NC State Wolfpack",
+        "Stanford Cardinal"
+      ]
+    ],
+    "sourceEventConflict": true,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "189304",
     "sport": "NBA",
-    "startTime": "10/22/26 06:00 PM CDT",
-    "startTimeIso": "2026-10-22T18:00:00-05:00",
+    "startTime": "10/23/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-23T18:00:00-05:00",
     "teams": [
-      "Cleveland Cavaliers",
-      "Philadelphia 76ers"
+      "Minnesota Timberwolves",
+      "Orlando Magic"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-22T18:00:00-05:00"
+      "2026-10-23T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Cleveland Cavaliers",
-        "Philadelphia 76ers"
+        "Minnesota Timberwolves",
+        "Orlando Magic"
       ]
     ],
     "sourceEventConflict": false,
@@ -120,23 +149,71 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "189303",
+    "gameId": "189305",
     "sport": "NBA",
-    "startTime": "10/22/26 08:30 PM CDT",
-    "startTimeIso": "2026-10-22T20:30:00-05:00",
+    "startTime": "10/23/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-23T18:00:00-05:00",
     "teams": [
-      "Denver Nuggets",
-      "Oklahoma City Thunder"
+      "Boston Celtics",
+      "New York Knicks"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-10-22T20:30:00-05:00"
+      "2026-10-23T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Denver Nuggets",
-        "Oklahoma City Thunder"
+        "Boston Celtics",
+        "New York Knicks"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "189465",
+    "sport": "NBA",
+    "startTime": "10/23/26 08:30 PM CDT",
+    "startTimeIso": "2026-10-23T20:30:00-05:00",
+    "teams": [
+      "Houston Rockets",
+      "San Antonio Spurs"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-23T20:30:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Houston Rockets",
+        "San Antonio Spurs"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "197248",
+    "sport": "MLB",
+    "startTime": "10/23/26 07:00 PM CDT",
+    "startTimeIso": "2026-10-23T19:00:00-05:00",
+    "teams": [
+      "Milwaukee Brewers",
+      "Tampa Bay Rays"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-10-23T19:00:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Milwaukee Brewers",
+        "Tampa Bay Rays"
       ]
     ],
     "sourceEventConflict": false,

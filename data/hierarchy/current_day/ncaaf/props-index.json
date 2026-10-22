@@ -1,34 +1,60 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "e2e27d50fc54fc4cd56781cc2a157c05c809b01908eea74a711c776a71d27fad",
-  "sourceScrapedAt": "2026-10-21T12:10:06.885Z",
-  "sourceScrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
-  "observedDate": "2026-10-21",
+  "sourcePayloadHash": "45894cec9dfcd9c3e14d2857732caac58a868ed38a72c6939ae825f962497cbf",
+  "sourceScrapedAt": "2026-10-22T12:10:04.076Z",
+  "sourceScrapedDate": "Thursday, October 22, 2026 at 07:10 AM CDT",
+  "observedDate": "2026-10-22",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 16,
+  "gameCount": 3,
+  "propCount": 66,
   "games": [
     {
-      "gameId": "188877",
+      "gameId": "189103",
       "slate": "Late",
-      "startTime": "10/21/26 07:00 PM CDT",
-      "startTimeIso": "2026-10-21T19:00:00-05:00",
+      "startTime": "10/22/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-22T18:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "New Mexico State Aggies",
-        "Sam Houston Bearkats"
+        "Appalachian State Mountaineers",
+        "James Madison Dukes"
       ],
-      "propCount": 16,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/188877.json"
+      "propCount": 30,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/189103.json"
+    },
+    {
+      "gameId": "189104",
+      "slate": "Late",
+      "startTime": "10/22/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-22T18:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Kennesaw State Owls",
+        "Liberty Flames"
+      ],
+      "propCount": 12,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/189104.json"
+    },
+    {
+      "gameId": "189105",
+      "slate": "Late",
+      "startTime": "10/22/26 06:30 PM CDT",
+      "startTimeIso": "2026-10-22T18:30:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "East Carolina Pirates",
+        "Memphis Tigers"
+      ],
+      "propCount": 24,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/189105.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 16,
+      "propCount": 66,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]

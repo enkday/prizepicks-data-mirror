@@ -1,24 +1,108 @@
 {
-  "scrapedAt": "2026-10-21T12:10:06.885Z",
-  "scrapedDate": "Wednesday, October 21, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-22T12:10:04.076Z",
+  "scrapedDate": "Thursday, October 22, 2026 at 07:10 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "MLB",
     "ok": true,
     "status": 200,
-    "count": 16,
-    "sourceCount": 510,
-    "acceptedCount": 16,
-    "excludedCount": 494,
+    "count": 19,
+    "sourceCount": 521,
+    "acceptedCount": 19,
+    "excludedCount": 502,
     "rejectedCount": 0,
-    "publishedCount": 16,
-    "providerFetchedAt": "2026-10-21T12:10:04.515Z",
+    "publishedCount": 19,
+    "providerFetchedAt": "2026-10-22T12:10:02.352Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "MLB",
   "day": "next-7-days",
-  "totalProps": 16,
+  "totalProps": 19,
   "props": [
+    {
+      "projectionId": "16043109",
+      "playerId": "241215",
+      "status": "pre_game",
+      "player": "Jacob Misiorowski",
+      "stat": "Pitches Thrown",
+      "line": "91.5",
+      "sport": "MLB",
+      "startTime": "10/23/26 07:00 PM CST",
+      "startTimeCST": "10/23/26 07:00 PM CST",
+      "startDateCST": "2026-10-23",
+      "startTimeIso": "2026-10-23T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Brewers",
+      "teamCode": "MIL",
+      "Opponent": "Tampa Bay Rays",
+      "opponentCode": "TB",
+      "rank": 59,
+      "gameId": "197248",
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
+    },
+    {
+      "projectionId": "16043110",
+      "playerId": "68710",
+      "status": "pre_game",
+      "player": "Drew Rasmussen",
+      "stat": "Pitches Thrown",
+      "line": "88.5",
+      "sport": "MLB",
+      "startTime": "10/23/26 07:00 PM CST",
+      "startTimeCST": "10/23/26 07:00 PM CST",
+      "startDateCST": "2026-10-23",
+      "startTimeIso": "2026-10-23T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Rays",
+      "teamCode": "TB",
+      "Opponent": "Milwaukee Brewers",
+      "opponentCode": "MIL",
+      "rank": 60,
+      "gameId": "197248",
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
+    },
+    {
+      "projectionId": "15967232",
+      "playerId": "68710",
+      "status": "pre_game",
+      "player": "Drew Rasmussen",
+      "stat": "Pitching Outs",
+      "line": "16.5",
+      "sport": "MLB",
+      "startTime": "10/23/26 07:00 PM CST",
+      "startTimeCST": "10/23/26 07:00 PM CST",
+      "startDateCST": "2026-10-23",
+      "startTimeIso": "2026-10-23T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Rays",
+      "teamCode": "TB",
+      "Opponent": "Milwaukee Brewers",
+      "opponentCode": "MIL",
+      "rank": 63,
+      "gameId": "197248",
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
+    },
+    {
+      "projectionId": "15981900",
+      "playerId": "241215",
+      "status": "pre_game",
+      "player": "Jacob Misiorowski",
+      "stat": "Pitching Outs",
+      "line": "16",
+      "sport": "MLB",
+      "startTime": "10/23/26 07:00 PM CST",
+      "startTimeCST": "10/23/26 07:00 PM CST",
+      "startDateCST": "2026-10-23",
+      "startTimeIso": "2026-10-23T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Milwaukee Brewers",
+      "teamCode": "MIL",
+      "Opponent": "Tampa Bay Rays",
+      "opponentCode": "TB",
+      "rank": 64,
+      "gameId": "197248",
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
+    },
     {
       "projectionId": "15967473",
       "playerId": "241215",
@@ -36,30 +120,9 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 66,
+      "rank": 76,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
-    },
-    {
-      "projectionId": "15967386",
-      "playerId": "68710",
-      "status": "pre_game",
-      "player": "Drew Rasmussen",
-      "stat": "Pitcher Strikeouts",
-      "line": "5.5",
-      "sport": "MLB",
-      "startTime": "10/23/26 07:00 PM CST",
-      "startTimeCST": "10/23/26 07:00 PM CST",
-      "startDateCST": "2026-10-23",
-      "startTimeIso": "2026-10-23T20:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Rays",
-      "teamCode": "TB",
-      "Opponent": "Milwaukee Brewers",
-      "opponentCode": "MIL",
-      "rank": 71,
-      "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15967235",
@@ -78,9 +141,9 @@
       "teamCode": "TB",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 79,
+      "rank": 90,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15967234",
@@ -99,9 +162,9 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 109,
+      "rank": 118,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15967492",
@@ -120,9 +183,9 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 421,
+      "rank": 432,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15967915",
@@ -141,9 +204,9 @@
       "teamCode": "TB",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 449,
+      "rank": 460,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15967917",
@@ -162,9 +225,9 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 451,
+      "rank": 462,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15968316",
@@ -183,30 +246,9 @@
       "teamCode": "TB",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 469,
+      "rank": 480,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
-    },
-    {
-      "projectionId": "15968317",
-      "playerId": "324013",
-      "status": "pre_game",
-      "player": "Cooper Pratt",
-      "stat": "Total Bases",
-      "line": "0.5",
-      "sport": "MLB",
-      "startTime": "10/23/26 07:00 PM CST",
-      "startTimeCST": "10/23/26 07:00 PM CST",
-      "startDateCST": "2026-10-23",
-      "startTimeIso": "2026-10-23T20:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Milwaukee Brewers",
-      "teamCode": "MIL",
-      "Opponent": "Tampa Bay Rays",
-      "opponentCode": "TB",
-      "rank": 470,
-      "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15968318",
@@ -225,9 +267,9 @@
       "teamCode": "TB",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 471,
+      "rank": 481,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15968386",
@@ -246,9 +288,9 @@
       "teamCode": "TB",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 473,
+      "rank": 483,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15968388",
@@ -267,9 +309,9 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 474,
+      "rank": 484,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15968390",
@@ -288,9 +330,9 @@
       "teamCode": "TB",
       "Opponent": "Milwaukee Brewers",
       "opponentCode": "MIL",
-      "rank": 476,
+      "rank": 486,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15968391",
@@ -309,9 +351,9 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 477,
+      "rank": 487,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15968394",
@@ -330,9 +372,30 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 478,
+      "rank": 489,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
+    },
+    {
+      "projectionId": "15968975",
+      "playerId": "67504",
+      "status": "pre_game",
+      "player": "Yandy Díaz",
+      "stat": "Singles",
+      "line": "0.5",
+      "sport": "MLB",
+      "startTime": "10/23/26 07:00 PM CST",
+      "startTimeCST": "10/23/26 07:00 PM CST",
+      "startDateCST": "2026-10-23",
+      "startTimeIso": "2026-10-23T20:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Rays",
+      "teamCode": "TB",
+      "Opponent": "Milwaukee Brewers",
+      "opponentCode": "MIL",
+      "rank": 515,
+      "gameId": "197248",
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     },
     {
       "projectionId": "15988028",
@@ -351,9 +414,9 @@
       "teamCode": "MIL",
       "Opponent": "Tampa Bay Rays",
       "opponentCode": "TB",
-      "rank": 510,
+      "rank": 521,
       "gameId": "197248",
-      "providerFetchedAt": "2026-10-21T12:10:04.515Z"
+      "providerFetchedAt": "2026-10-22T12:10:02.352Z"
     }
   ]
 }

@@ -1,22 +1,46 @@
 [
   {
-    "gameId": "188877",
+    "gameId": "189302",
+    "sport": "NFL",
+    "startTime": "10/22/26 07:15 PM CDT",
+    "startTimeIso": "2026-10-22T19:15:00-05:00",
+    "teams": [
+      "Chicago Bears",
+      "New England Patriots"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-10-22T19:15:00-05:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Chicago Bears",
+        "New England Patriots"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "189103",
     "sport": "NCAAF",
-    "startTime": "10/21/26 07:00 PM CDT",
-    "startTimeIso": "2026-10-21T19:00:00-05:00",
+    "startTime": "10/22/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-22T18:00:00-05:00",
     "teams": [
-      "New Mexico State Aggies",
-      "Sam Houston Bearkats"
+      "Appalachian State Mountaineers",
+      "James Madison Dukes"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-21T19:00:00-05:00"
+      "2026-10-22T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "New Mexico State Aggies",
-        "Sam Houston Bearkats"
+        "Appalachian State Mountaineers",
+        "James Madison Dukes"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,23 +48,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "188872",
-    "sport": "NBA",
-    "startTime": "10/21/26 06:30 PM CDT",
-    "startTimeIso": "2026-10-21T18:30:00-05:00",
+    "gameId": "189104",
+    "sport": "NCAAF",
+    "startTime": "10/22/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-22T18:00:00-05:00",
     "teams": [
-      "Miami Heat",
-      "Minnesota Timberwolves"
+      "Kennesaw State Owls",
+      "Liberty Flames"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-21T18:30:00-05:00"
+      "2026-10-22T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Miami Heat",
-        "Minnesota Timberwolves"
+        "Kennesaw State Owls",
+        "Liberty Flames"
       ]
     ],
     "sourceEventConflict": false,
@@ -48,23 +72,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "188869",
-    "sport": "NBA",
-    "startTime": "10/21/26 06:00 PM CDT",
-    "startTimeIso": "2026-10-21T18:00:00-05:00",
+    "gameId": "189105",
+    "sport": "NCAAF",
+    "startTime": "10/22/26 06:30 PM CDT",
+    "startTimeIso": "2026-10-22T18:30:00-05:00",
     "teams": [
-      "Atlanta Hawks",
-      "Orlando Magic"
+      "East Carolina Pirates",
+      "Memphis Tigers"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-21T18:00:00-05:00"
+      "2026-10-22T18:30:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Atlanta Hawks",
-        "Orlando Magic"
+        "East Carolina Pirates",
+        "Memphis Tigers"
       ]
     ],
     "sourceEventConflict": false,
@@ -72,23 +96,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "188868",
+    "gameId": "189080",
     "sport": "NBA",
-    "startTime": "10/21/26 06:00 PM CDT",
-    "startTimeIso": "2026-10-21T18:00:00-05:00",
+    "startTime": "10/22/26 06:00 PM CDT",
+    "startTimeIso": "2026-10-22T18:00:00-05:00",
     "teams": [
-      "Milwaukee Bucks",
-      "Washington Wizards"
+      "Cleveland Cavaliers",
+      "Philadelphia 76ers"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-21T18:00:00-05:00"
+      "2026-10-22T18:00:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Milwaukee Bucks",
-        "Washington Wizards"
+        "Cleveland Cavaliers",
+        "Philadelphia 76ers"
       ]
     ],
     "sourceEventConflict": false,
@@ -96,191 +120,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "188870",
+    "gameId": "189303",
     "sport": "NBA",
-    "startTime": "10/21/26 06:30 PM CDT",
-    "startTimeIso": "2026-10-21T18:30:00-05:00",
+    "startTime": "10/22/26 08:30 PM CDT",
+    "startTimeIso": "2026-10-22T20:30:00-05:00",
     "teams": [
-      "Brooklyn Nets",
-      "Charlotte Hornets"
+      "Denver Nuggets",
+      "Oklahoma City Thunder"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-10-21T18:30:00-05:00"
+      "2026-10-22T20:30:00-05:00"
     ],
     "teamPairObservations": [
       [
-        "Brooklyn Nets",
-        "Charlotte Hornets"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "188871",
-    "sport": "NBA",
-    "startTime": "10/21/26 06:30 PM CDT",
-    "startTimeIso": "2026-10-21T18:30:00-05:00",
-    "teams": [
-      "Chicago Bulls",
-      "Toronto Raptors"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-21T18:30:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Chicago Bulls",
-        "Toronto Raptors"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "188873",
-    "sport": "NBA",
-    "startTime": "10/21/26 07:00 PM CDT",
-    "startTimeIso": "2026-10-21T19:00:00-05:00",
-    "teams": [
-      "Indiana Pacers",
-      "New Orleans Pelicans"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-21T19:00:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Indiana Pacers",
-        "New Orleans Pelicans"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "188874",
-    "sport": "NBA",
-    "startTime": "10/21/26 07:00 PM CDT",
-    "startTimeIso": "2026-10-21T19:00:00-05:00",
-    "teams": [
-      "Memphis Grizzlies",
-      "Utah Jazz"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-21T19:00:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Memphis Grizzlies",
-        "Utah Jazz"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "189076",
-    "sport": "NBA",
-    "startTime": "10/21/26 07:30 PM CDT",
-    "startTimeIso": "2026-10-21T19:30:00-05:00",
-    "teams": [
-      "Dallas Mavericks",
-      "Houston Rockets"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-21T19:30:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Dallas Mavericks",
-        "Houston Rockets"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "189077",
-    "sport": "NBA",
-    "startTime": "10/21/26 09:00 PM CDT",
-    "startTimeIso": "2026-10-21T21:00:00-05:00",
-    "teams": [
-      "Phoenix Suns",
-      "Portland Trail Blazers"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-21T21:00:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Phoenix Suns",
-        "Portland Trail Blazers"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "189078",
-    "sport": "NBA",
-    "startTime": "10/21/26 09:00 PM CDT",
-    "startTimeIso": "2026-10-21T21:00:00-05:00",
-    "teams": [
-      "Golden State Warriors",
-      "Los Angeles Lakers"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-21T21:00:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Golden State Warriors",
-        "Los Angeles Lakers"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "189079",
-    "sport": "NBA",
-    "startTime": "10/21/26 09:30 PM CDT",
-    "startTimeIso": "2026-10-21T21:30:00-05:00",
-    "teams": [
-      "LA Clippers",
-      "Sacramento Kings"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-10-21T21:30:00-05:00"
-    ],
-    "teamPairObservations": [
-      [
-        "LA Clippers",
-        "Sacramento Kings"
+        "Denver Nuggets",
+        "Oklahoma City Thunder"
       ]
     ],
     "sourceEventConflict": false,

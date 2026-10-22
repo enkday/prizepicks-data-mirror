@@ -1,0 +1,35 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "45894cec9dfcd9c3e14d2857732caac58a868ed38a72c6939ae825f962497cbf",
+  "sourceScrapedAt": "2026-10-22T12:10:04.076Z",
+  "sourceScrapedDate": "Thursday, October 22, 2026 at 07:10 AM CDT",
+  "observedDate": "2026-10-22",
+  "completeness": "reported",
+  "sport": "NFL",
+  "sportSlug": "nfl",
+  "dayBranch": "current_day",
+  "gameCount": 1,
+  "propCount": 94,
+  "games": [
+    {
+      "gameId": "189302",
+      "slate": "Late",
+      "startTime": "10/22/26 07:15 PM CDT",
+      "startTimeIso": "2026-10-22T19:15:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Chicago Bears",
+        "New England Patriots"
+      ],
+      "propCount": 94,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/189302.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 94,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
+    }
+  ]
+}
