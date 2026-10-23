@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-22T12:10:04.076Z",
-  "scrapedDate": "Thursday, October 22, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-23T12:08:48.220Z",
+  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 829,
-    "sourceCount": 5712,
-    "acceptedCount": 829,
-    "excludedCount": 4883,
+    "count": 865,
+    "sourceCount": 5967,
+    "acceptedCount": 865,
+    "excludedCount": 5102,
     "rejectedCount": 0,
-    "publishedCount": 829,
-    "providerFetchedAt": "2026-10-22T12:08:53.186Z",
+    "publishedCount": 865,
+    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 32,
+  "totalProps": 35,
   "props": [
     {
       "projectionId": "16038185",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "J.J. McCarthy",
       "stat": "Pass Yards",
-      "line": "200.5",
+      "line": "201.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1932,
+      "rank": 1418,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15945764",
@@ -58,9 +58,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1967,
+      "rank": 1458,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16038198",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "J.J. McCarthy",
       "stat": "Completion Percentage",
-      "line": "55.2",
+      "line": "56.9",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1980,
+      "rank": 1472,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15945763",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Isaiah Likely",
       "stat": "Receiving Yards",
-      "line": "49.5",
+      "line": "50.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -100,30 +100,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 1982,
+      "rank": 1474,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "16038169",
-      "playerId": "353317",
-      "status": "pre_game",
-      "player": "J.J. McCarthy",
-      "stat": "Pass Attempts",
-      "line": "33",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 2034,
-      "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16038180",
@@ -131,6 +110,27 @@
       "status": "pre_game",
       "player": "J.J. McCarthy",
       "stat": "Longest Completion",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1527,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16038169",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Pass Attempts",
       "line": "32.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2036,
+      "rank": 1529,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16009337",
@@ -163,9 +163,30 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2037,
+      "rank": 1531,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16007324",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Longest Reception",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1573,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16038187",
@@ -184,9 +205,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2075,
+      "rank": 1574,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16038365",
@@ -205,9 +226,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2084,
+      "rank": 1585,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16038421",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Malachi Fields",
       "stat": "Receiving Yards",
-      "line": "23.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -226,17 +247,17 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2085,
+      "rank": 1591,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
-      "projectionId": "16007324",
-      "playerId": "206972",
+      "projectionId": "16040336",
+      "playerId": "336247",
       "status": "pre_game",
-      "player": "Malik Nabers",
-      "stat": "Longest Reception",
-      "line": "22.5",
+      "player": "Darnell Mooney",
+      "stat": "Receiving Yards",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -247,9 +268,30 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2087,
+      "rank": 1619,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16062180",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Pass Completions",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1624,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16007335",
@@ -268,9 +310,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2127,
+      "rank": 1633,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16039637",
@@ -289,9 +331,30 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2145,
+      "rank": 1654,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16048452",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Rush Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1678,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16038184",
@@ -310,37 +373,37 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2171,
+      "rank": 1683,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
-      "projectionId": "16038372",
-      "playerId": "214498",
-      "status": "pre_game",
-      "player": "Tyrone Tracy Jr.",
-      "stat": "Receiving Yards",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 2185,
-      "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "16040336",
+      "projectionId": "16040339",
       "playerId": "336247",
       "status": "pre_game",
       "player": "Darnell Mooney",
-      "stat": "Receiving Yards",
+      "stat": "Longest Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1689,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16009328",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Longest Rush",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -352,9 +415,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2196,
+      "rank": 1695,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051297",
@@ -373,16 +436,16 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2208,
+      "rank": 1727,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
-      "projectionId": "16039546",
-      "playerId": "246533",
+      "projectionId": "16038372",
+      "playerId": "214498",
       "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Rush Attempts",
+      "player": "Tyrone Tracy Jr.",
+      "stat": "Receiving Yards",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -394,51 +457,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2214,
+      "rank": 1733,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "16040339",
-      "playerId": "336247",
-      "status": "pre_game",
-      "player": "Darnell Mooney",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 2215,
-      "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "16077502",
-      "playerId": "246533",
-      "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Longest Rush",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 2218,
-      "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051295",
@@ -457,30 +478,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2220,
+      "rank": 1738,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "16038336",
-      "playerId": "210959",
-      "status": "pre_game",
-      "player": "Devin Singletary",
-      "stat": "Receiving Yards",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Houston Texans",
-      "opponentCode": "HOU",
-      "rank": 2225,
-      "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16039598",
@@ -499,9 +499,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2226,
+      "rank": 1743,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16039601",
@@ -520,9 +520,30 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2227,
+      "rank": 1744,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16038336",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Receiving Yards",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1751,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16007393",
@@ -541,9 +562,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2240,
+      "rank": 1761,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16013302",
@@ -562,9 +583,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2243,
+      "rank": 1765,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16037581",
@@ -583,9 +604,51 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2244,
+      "rank": 1766,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16038179",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Rush Attempts",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1767,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16048460",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Longest Reception",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Houston Texans",
+      "opponentCode": "HOU",
+      "rank": 1774,
+      "gameId": "189818",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16009327",
@@ -604,9 +667,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2255,
+      "rank": 1780,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16009344",
@@ -625,9 +688,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2256,
+      "rank": 1781,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051296",
@@ -646,9 +709,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2292,
+      "rank": 1824,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16039634",
@@ -667,9 +730,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2344,
+      "rank": 1880,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16046140",
@@ -688,9 +751,9 @@
       "teamCode": "NYG",
       "Opponent": "Houston Texans",
       "opponentCode": "HOU",
-      "rank": 2348,
+      "rank": 1887,
       "gameId": "189818",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     }
   ]
 }

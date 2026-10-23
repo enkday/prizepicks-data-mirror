@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-22T12:10:04.076Z",
-  "scrapedDate": "Thursday, October 22, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-23T12:08:48.220Z",
+  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 829,
-    "sourceCount": 5712,
-    "acceptedCount": 829,
-    "excludedCount": 4883,
+    "count": 865,
+    "sourceCount": 5967,
+    "acceptedCount": 865,
+    "excludedCount": 5102,
     "rejectedCount": 0,
-    "publishedCount": 829,
-    "providerFetchedAt": "2026-10-22T12:08:53.186Z",
+    "publishedCount": 865,
+    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Indianapolis Colts",
-  "totalProps": 26,
+  "totalProps": 31,
   "props": [
     {
       "projectionId": "15943230",
@@ -37,9 +37,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2409,
+      "rank": 1958,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943172",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Rush Yards",
-      "line": "71.5",
+      "line": "70.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2438,
+      "rank": 1998,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943264",
@@ -79,9 +79,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2453,
+      "rank": 2020,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15945767",
@@ -100,30 +100,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2470,
+      "rank": 2040,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "15943158",
-      "playerId": "246563",
-      "status": "pre_game",
-      "player": "Tyler Warren",
-      "stat": "Receiving Yards",
-      "line": "41.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Indianapolis Colts",
-      "teamCode": "IND",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 2473,
-      "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16012253",
@@ -131,7 +110,7 @@
       "status": "pre_game",
       "player": "Keenan Allen",
       "stat": "Receiving Yards",
-      "line": "41.5",
+      "line": "40.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -142,9 +121,30 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2474,
+      "rank": 2044,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "15943158",
+      "playerId": "246563",
+      "status": "pre_game",
+      "player": "Tyler Warren",
+      "stat": "Receiving Yards",
+      "line": "38.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 2064,
+      "gameId": "189820",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15956871",
@@ -163,9 +163,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2492,
+      "rank": 2070,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943192",
@@ -184,9 +184,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2497,
+      "rank": 2074,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16048840",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Laquon Treadwell",
       "stat": "Receiving Yards",
-      "line": "24.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2523,
+      "rank": 2122,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943234",
@@ -226,9 +226,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2544,
+      "rank": 2133,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943777",
@@ -236,7 +236,7 @@
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "18.5",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -247,9 +247,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2558,
+      "rank": 2134,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16047939",
@@ -268,9 +268,30 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2560,
+      "rank": 2156,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16012243",
+      "playerId": "154212",
+      "status": "pre_game",
+      "player": "Josh Downs",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 2158,
+      "gameId": "189820",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943190",
@@ -289,17 +310,17 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2564,
+      "rank": 2161,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
-      "projectionId": "16012243",
-      "playerId": "154212",
+      "projectionId": "15943134",
+      "playerId": "206321",
       "status": "pre_game",
-      "player": "Josh Downs",
-      "stat": "Longest Reception",
-      "line": "16.5",
+      "player": "Jonathan Taylor",
+      "stat": "Longest Rush",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -310,9 +331,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2565,
+      "rank": 2164,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943233",
@@ -331,9 +352,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2570,
+      "rank": 2166,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16012250",
@@ -352,30 +373,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2571,
+      "rank": 2167,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "15943134",
-      "playerId": "206321",
-      "status": "pre_game",
-      "player": "Jonathan Taylor",
-      "stat": "Longest Rush",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Indianapolis Colts",
-      "teamCode": "IND",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 2574,
-      "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16048841",
@@ -383,7 +383,7 @@
       "status": "pre_game",
       "player": "Laquon Treadwell",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -394,9 +394,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2578,
+      "rank": 2184,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943209",
@@ -404,7 +404,7 @@
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Longest Reception",
-      "line": "9.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -415,9 +415,30 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2590,
+      "rank": 2197,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "15943165",
+      "playerId": "246519",
+      "status": "pre_game",
+      "player": "Daniel Jones",
+      "stat": "Rush Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 2223,
+      "gameId": "189820",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943222",
@@ -425,6 +446,27 @@
       "status": "pre_game",
       "player": "Spencer Shrader",
       "stat": "Kicking Points",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 2230,
+      "gameId": "189820",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "15943122",
+      "playerId": "246519",
+      "status": "pre_game",
+      "player": "Daniel Jones",
+      "stat": "Longest Rush",
       "line": "5.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -436,15 +478,36 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2612,
+      "rank": 2234,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16028560",
       "playerId": "336466",
       "status": "pre_game",
       "player": "Keenan Allen",
+      "stat": "Receptions",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 2247,
+      "gameId": "189820",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "15943202",
+      "playerId": "246563",
+      "status": "pre_game",
+      "player": "Tyler Warren",
       "stat": "Receptions",
       "line": "4.5",
       "sport": "NFL",
@@ -457,9 +520,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2625,
+      "rank": 2248,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15943778",
@@ -467,7 +530,7 @@
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Rush Yards Per Carry",
-      "line": "3.7",
+      "line": "3.8",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -478,9 +541,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2626,
+      "rank": 2267,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051272",
@@ -488,7 +551,7 @@
       "status": "pre_game",
       "player": "Jonathan Taylor",
       "stat": "Rec Targets",
-      "line": "3",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -499,9 +562,51 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2636,
+      "rank": 2279,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16028559",
+      "playerId": "246519",
+      "status": "pre_game",
+      "player": "Daniel Jones",
+      "stat": "Rush Attempts",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 2288,
+      "gameId": "189820",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16097636",
+      "playerId": "257327",
+      "status": "pre_game",
+      "player": "Spencer Shrader",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Indianapolis Colts",
+      "teamCode": "IND",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 2309,
+      "gameId": "189820",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16046139",
@@ -520,9 +625,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2658,
+      "rank": 2317,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15909232",
@@ -541,9 +646,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2660,
+      "rank": 2319,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16012239",
@@ -562,9 +667,9 @@
       "teamCode": "IND",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2685,
+      "rank": 2346,
       "gameId": "189820",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-22T12:10:04.076Z",
-  "scrapedDate": "Thursday, October 22, 2026 at 07:10 AM CDT",
+  "scrapedAt": "2026-10-23T12:08:48.220Z",
+  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 829,
-    "sourceCount": 5712,
-    "acceptedCount": 829,
-    "excludedCount": 4883,
+    "count": 865,
+    "sourceCount": 5967,
+    "acceptedCount": 865,
+    "excludedCount": 5102,
     "rejectedCount": 0,
-    "publishedCount": 829,
-    "providerFetchedAt": "2026-10-22T12:08:53.186Z",
+    "publishedCount": 865,
+    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Seattle Seahawks",
-  "totalProps": 26,
+  "totalProps": 31,
   "props": [
     {
       "projectionId": "15942239",
@@ -37,9 +37,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5035,
+      "rank": 5158,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942328",
@@ -58,9 +58,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5066,
+      "rank": 5191,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942316",
@@ -79,9 +79,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5081,
+      "rank": 5212,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942274",
@@ -100,9 +100,30 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5114,
+      "rank": 5255,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16083747",
+      "playerId": "211958",
+      "status": "pre_game",
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": "35.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5256,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942196",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Sam Darnold",
       "stat": "Pass Attempts",
-      "line": "30.5",
+      "line": "31",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
       "startTimeCST": "10/25/26 07:20 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5123,
+      "rank": 5264,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942218",
@@ -131,27 +152,6 @@
       "status": "pre_game",
       "player": "Jaxon Smith-Njigba",
       "stat": "Longest Reception",
-      "line": "26.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 07:20 PM CST",
-      "startTimeCST": "10/25/26 07:20 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5149,
-      "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "15942309",
-      "playerId": "277137",
-      "status": "pre_game",
-      "player": "Rashid Shaheed",
-      "stat": "Receiving Yards",
       "line": "25.5",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
@@ -163,9 +163,30 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5150,
+      "rank": 5295,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "15942309",
+      "playerId": "277137",
+      "status": "pre_game",
+      "player": "Rashid Shaheed",
+      "stat": "Receiving Yards",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5299,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942323",
@@ -184,9 +205,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5154,
+      "rank": 5300,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942329",
@@ -205,9 +226,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5155,
+      "rank": 5301,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15968705",
@@ -226,30 +247,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5170,
+      "rank": 5320,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
-    },
-    {
-      "projectionId": "15942317",
-      "playerId": "277137",
-      "status": "pre_game",
-      "player": "Rashid Shaheed",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 07:20 PM CST",
-      "startTimeCST": "10/25/26 07:20 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5210,
-      "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942272",
@@ -268,9 +268,30 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5223,
+      "rank": 5385,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "15942317",
+      "playerId": "277137",
+      "status": "pre_game",
+      "player": "Rashid Shaheed",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5386,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942271",
@@ -289,9 +310,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5225,
+      "rank": 5390,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16031497",
@@ -310,9 +331,30 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5232,
+      "rank": 5396,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16090571",
+      "playerId": "211958",
+      "status": "pre_game",
+      "player": "Zach Charbonnet",
+      "stat": "Longest Rush",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5398,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16035254",
@@ -331,9 +373,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5249,
+      "rank": 5416,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051313",
@@ -352,16 +394,16 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5254,
+      "rank": 5421,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
-      "projectionId": "16071968",
+      "projectionId": "16083751",
       "playerId": "211958",
       "status": "pre_game",
       "player": "Zach Charbonnet",
-      "stat": "Longest Reception",
+      "stat": "Receiving Yards",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "10/25/26 07:20 PM CST",
@@ -373,9 +415,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5258,
+      "rank": 5431,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16017984",
@@ -394,9 +436,51 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5260,
+      "rank": 5433,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16071968",
+      "playerId": "211958",
+      "status": "pre_game",
+      "player": "Zach Charbonnet",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5436,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "15942298",
+      "playerId": "211247",
+      "status": "pre_game",
+      "player": "Jaxon Smith-Njigba",
+      "stat": "Receptions",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5438,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942200",
@@ -415,9 +499,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5276,
+      "rank": 5452,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051314",
@@ -436,9 +520,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5297,
+      "rank": 5480,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16043605",
@@ -457,9 +541,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5312,
+      "rank": 5495,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051311",
@@ -478,9 +562,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5316,
+      "rank": 5499,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051312",
@@ -499,12 +583,12 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5317,
+      "rank": 5500,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
-      "projectionId": "15967642",
+      "projectionId": "15968707",
       "playerId": "246593",
       "status": "pre_game",
       "player": "Cooper Kupp",
@@ -520,9 +604,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5322,
+      "rank": 5508,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "16051315",
@@ -541,9 +625,30 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5332,
+      "rank": 5518,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+    },
+    {
+      "projectionId": "16090572",
+      "playerId": "211958",
+      "status": "pre_game",
+      "player": "Zach Charbonnet",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 07:20 PM CST",
+      "startTimeCST": "10/25/26 07:20 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T20:20:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 5545,
+      "gameId": "190081",
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     },
     {
       "projectionId": "15942311",
@@ -562,9 +667,9 @@
       "teamCode": "SEA",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5361,
+      "rank": 5557,
       "gameId": "190081",
-      "providerFetchedAt": "2026-10-22T12:08:53.186Z"
+      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
     }
   ]
 }

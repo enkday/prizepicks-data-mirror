@@ -1,0 +1,35 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "8c026082cdc594f5d8e3bccb504d217d70305b4120bf0e7ea7c5a6f6c1c54a3a",
+  "sourceScrapedAt": "2026-10-23T12:08:48.220Z",
+  "sourceScrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
+  "observedDate": "2026-10-23",
+  "completeness": "reported",
+  "sport": "MLB",
+  "sportSlug": "mlb",
+  "dayBranch": "current_day",
+  "gameCount": 1,
+  "propCount": 16,
+  "games": [
+    {
+      "gameId": "197248",
+      "slate": "Late",
+      "startTime": "10/23/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-23T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Milwaukee Brewers",
+        "Tampa Bay Rays"
+      ],
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/mlb/props-by-game/197248.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/mlb/props-by-slate/late.json"
+    }
+  ]
+}
