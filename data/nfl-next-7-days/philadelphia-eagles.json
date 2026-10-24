@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-23T12:08:48.220Z",
-  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-24T12:08:06.071Z",
+  "scrapedDate": "Saturday, October 24, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 865,
-    "sourceCount": 5967,
-    "acceptedCount": 865,
-    "excludedCount": 5102,
+    "count": 1050,
+    "sourceCount": 6968,
+    "acceptedCount": 1050,
+    "excludedCount": 5918,
     "rejectedCount": 0,
-    "publishedCount": 865,
-    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
+    "publishedCount": 1050,
+    "providerFetchedAt": "2026-10-24T12:06:56.800Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 22,
+  "totalProps": 17,
   "props": [
     {
       "projectionId": "15944980",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Tanner McKee",
       "stat": "Pass Yards",
-      "line": "211.5",
+      "line": "206.5",
       "sport": "NFL",
       "startTime": "10/26/26 07:15 PM CST",
       "startTimeCST": "10/26/26 07:15 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5614,
+      "rank": 6649,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126185",
+      "playerId": "289919",
+      "status": "pre_game",
+      "player": "Tanner McKee",
+      "stat": "Passer Rating",
+      "line": "77.5",
+      "sport": "NFL",
+      "startTime": "10/26/26 07:15 PM CST",
+      "startTimeCST": "10/26/26 07:15 PM CST",
+      "startDateCST": "2026-10-26",
+      "startTimeIso": "2026-10-26T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6678,
+      "gameId": "190259",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084638",
@@ -58,17 +79,17 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5651,
+      "rank": 6679,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "15945793",
-      "playerId": "210339",
+      "projectionId": "16001409",
+      "playerId": "289919",
       "status": "pre_game",
-      "player": "DeVonta Smith",
-      "stat": "Receiving Yards",
-      "line": "66.5",
+      "player": "Tanner McKee",
+      "stat": "Completion Percentage",
+      "line": "61.2",
       "sport": "NFL",
       "startTime": "10/26/26 07:15 PM CST",
       "startTimeCST": "10/26/26 07:15 PM CST",
@@ -79,30 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5662,
+      "rank": 6692,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15945794",
-      "playerId": "210338",
-      "status": "pre_game",
-      "player": "Dallas Goedert",
-      "stat": "Receiving Yards",
-      "line": "39.5",
-      "sport": "NFL",
-      "startTime": "10/26/26 07:15 PM CST",
-      "startTimeCST": "10/26/26 07:15 PM CST",
-      "startDateCST": "2026-10-26",
-      "startTimeIso": "2026-10-26T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5688,
-      "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16061721",
@@ -121,9 +121,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5712,
+      "rank": 6735,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15966284",
@@ -142,17 +142,17 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5717,
+      "rank": 6740,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16055426",
-      "playerId": "210339",
+      "projectionId": "16084718",
+      "playerId": "206302",
       "status": "pre_game",
-      "player": "DeVonta Smith",
-      "stat": "Longest Reception",
-      "line": "21.5",
+      "player": "Saquon Barkley",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "10/26/26 07:15 PM CST",
       "startTimeCST": "10/26/26 07:15 PM CST",
@@ -163,9 +163,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5759,
+      "rank": 6776,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15966344",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Tanner McKee",
       "stat": "Pass Completions",
-      "line": "20.5",
+      "line": "20",
       "sport": "NFL",
       "startTime": "10/26/26 07:15 PM CST",
       "startTimeCST": "10/26/26 07:15 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5762,
+      "rank": 6780,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084622",
@@ -205,30 +205,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5792,
+      "rank": 6809,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16007488",
-      "playerId": "210338",
-      "status": "pre_game",
-      "player": "Dallas Goedert",
-      "stat": "Longest Reception",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "10/26/26 07:15 PM CST",
-      "startTimeCST": "10/26/26 07:15 PM CST",
-      "startDateCST": "2026-10-26",
-      "startTimeIso": "2026-10-26T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5796,
-      "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084635",
@@ -236,7 +215,7 @@
       "status": "pre_game",
       "player": "Saquon Barkley",
       "stat": "Longest Rush",
-      "line": "15.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "10/26/26 07:15 PM CST",
       "startTimeCST": "10/26/26 07:15 PM CST",
@@ -247,9 +226,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5799,
+      "rank": 6810,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084639",
@@ -257,7 +236,7 @@
       "status": "pre_game",
       "player": "Saquon Barkley",
       "stat": "Receiving Yards",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/26/26 07:15 PM CST",
       "startTimeCST": "10/26/26 07:15 PM CST",
@@ -268,30 +247,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5816,
+      "rank": 6824,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16051302",
-      "playerId": "210339",
-      "status": "pre_game",
-      "player": "DeVonta Smith",
-      "stat": "Rec Targets",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "10/26/26 07:15 PM CST",
-      "startTimeCST": "10/26/26 07:15 PM CST",
-      "startDateCST": "2026-10-26",
-      "startTimeIso": "2026-10-26T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5841,
-      "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084630",
@@ -310,9 +268,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5847,
+      "rank": 6855,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15966237",
@@ -331,9 +289,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5863,
+      "rank": 6870,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16021638",
@@ -352,72 +310,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5868,
+      "rank": 6875,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16051301",
-      "playerId": "210338",
-      "status": "pre_game",
-      "player": "Dallas Goedert",
-      "stat": "Rec Targets",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "10/26/26 07:15 PM CST",
-      "startTimeCST": "10/26/26 07:15 PM CST",
-      "startDateCST": "2026-10-26",
-      "startTimeIso": "2026-10-26T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5869,
-      "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15966195",
-      "playerId": "289919",
-      "status": "pre_game",
-      "player": "Tanner McKee",
-      "stat": "Longest Rush",
-      "line": "5.5",
-      "sport": "NFL",
-      "startTime": "10/26/26 07:15 PM CST",
-      "startTimeCST": "10/26/26 07:15 PM CST",
-      "startDateCST": "2026-10-26",
-      "startTimeIso": "2026-10-26T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5872,
-      "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16051458",
-      "playerId": "210338",
-      "status": "pre_game",
-      "player": "Dallas Goedert",
-      "stat": "Receptions",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "10/26/26 07:15 PM CST",
-      "startTimeCST": "10/26/26 07:15 PM CST",
-      "startDateCST": "2026-10-26",
-      "startTimeIso": "2026-10-26T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5890,
-      "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084714",
@@ -436,16 +331,16 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5893,
+      "rank": 6893,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16070431",
-      "playerId": "289919",
+      "projectionId": "16084625",
+      "playerId": "206302",
       "status": "pre_game",
-      "player": "Tanner McKee",
-      "stat": "Rush Attempts",
+      "player": "Saquon Barkley",
+      "stat": "Receptions",
       "line": "2.5",
       "sport": "NFL",
       "startTime": "10/26/26 07:15 PM CST",
@@ -457,9 +352,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5918,
+      "rank": 6920,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15978718",
@@ -478,9 +373,9 @@
       "teamCode": "PHI",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5930,
+      "rank": 6933,
       "gameId": "190259",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     }
   ]
 }

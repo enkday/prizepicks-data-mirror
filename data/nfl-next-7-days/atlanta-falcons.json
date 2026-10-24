@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-23T12:08:48.220Z",
-  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-24T12:08:06.071Z",
+  "scrapedDate": "Saturday, October 24, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 865,
-    "sourceCount": 5967,
-    "acceptedCount": 865,
-    "excludedCount": 5102,
+    "count": 1050,
+    "sourceCount": 6968,
+    "acceptedCount": 1050,
+    "excludedCount": 5918,
     "rejectedCount": 0,
-    "publishedCount": 865,
-    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
+    "publishedCount": 1050,
+    "providerFetchedAt": "2026-10-24T12:06:56.800Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 36,
+  "totalProps": 41,
   "props": [
     {
       "projectionId": "15944971",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Michael Penix Jr.",
       "stat": "Pass Yards",
-      "line": "227.5",
+      "line": "230.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2385,
+      "rank": 2813,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126108",
+      "playerId": "216845",
+      "status": "pre_game",
+      "player": "Michael Penix Jr.",
+      "stat": "Passer Rating",
+      "line": "94.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 2855,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945070",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Rush Yards",
-      "line": "85.5",
+      "line": "87.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2429,
+      "rank": 2860,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945769",
@@ -79,9 +100,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2431,
+      "rank": 2861,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998504",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Michael Penix Jr.",
       "stat": "Completion Percentage",
-      "line": "62.7",
+      "line": "62.6",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2449,
+      "rank": 2883,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945770",
@@ -121,9 +142,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2505,
+      "rank": 2937,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998321",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Michael Penix Jr.",
       "stat": "Longest Completion",
-      "line": "34.5",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2506,
+      "rank": 2943,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998433",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Michael Penix Jr.",
       "stat": "Pass Attempts",
-      "line": "31.5",
+      "line": "32",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -163,30 +184,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2514,
+      "rank": 2946,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15998501",
-      "playerId": "336730",
-      "status": "pre_game",
-      "player": "Jahan Dotson",
-      "stat": "Receiving Yards",
-      "line": "28.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 2543,
-      "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945768",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -205,17 +205,17 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2544,
+      "rank": 2949,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "15998357",
-      "playerId": "336715",
+      "projectionId": "15998501",
+      "playerId": "336730",
       "status": "pre_game",
-      "player": "Brian Robinson Jr.",
-      "stat": "Rush Yards",
-      "line": "26.5",
+      "player": "Jahan Dotson",
+      "stat": "Receiving Yards",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -226,9 +226,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2549,
+      "rank": 2959,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998383",
@@ -247,9 +247,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2550,
+      "rank": 2983,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998540",
@@ -268,9 +268,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2565,
+      "rank": 2998,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998312",
@@ -289,9 +289,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2577,
+      "rank": 3012,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998412",
@@ -299,7 +299,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Rush Attempts",
-      "line": "18",
+      "line": "19",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -310,9 +310,30 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2615,
+      "rank": 3048,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "15998500",
+      "playerId": "336730",
+      "status": "pre_game",
+      "player": "Jahan Dotson",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3054,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998539",
@@ -331,30 +352,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2617,
+      "rank": 3055,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15998500",
-      "playerId": "336730",
-      "status": "pre_game",
-      "player": "Jahan Dotson",
-      "stat": "Longest Reception",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 2622,
-      "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998410",
@@ -373,9 +373,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2628,
+      "rank": 3064,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16048713",
@@ -383,6 +383,27 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Longest Reception",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3095,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128520",
+      "playerId": "211628",
+      "status": "pre_game",
+      "player": "Drake London",
+      "stat": "Yards on First Reception",
       "line": "11.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -394,30 +415,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2666,
+      "rank": 3105,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16011419",
-      "playerId": "336715",
-      "status": "pre_game",
-      "player": "Brian Robinson Jr.",
-      "stat": "Longest Rush",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 2672,
-      "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051232",
@@ -436,16 +436,16 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2692,
+      "rank": 3141,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16031695",
-      "playerId": "336731",
+      "projectionId": "16128522",
+      "playerId": "210640",
       "status": "pre_game",
-      "player": "Olamide Zaccheaus",
-      "stat": "Longest Reception",
+      "player": "Kyle Pitts Sr.",
+      "stat": "Yards on First Reception",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -457,9 +457,30 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2696,
+      "rank": 3145,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16031695",
+      "playerId": "336731",
+      "status": "pre_game",
+      "player": "Olamide Zaccheaus",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3150,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16092136",
@@ -478,9 +499,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2706,
+      "rank": 3155,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16013727",
@@ -499,9 +520,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2707,
+      "rank": 3157,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16092385",
@@ -520,9 +541,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2713,
+      "rank": 3164,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16092133",
@@ -541,9 +562,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2725,
+      "rank": 3176,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051231",
@@ -562,9 +583,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2726,
+      "rank": 3180,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051234",
@@ -583,9 +604,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2727,
+      "rank": 3181,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998518",
@@ -593,7 +614,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Rush Yards Per Carry",
-      "line": "4.7",
+      "line": "4.8",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -604,16 +625,16 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2728,
+      "rank": 3182,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16092381",
-      "playerId": "336714",
+      "projectionId": "16128521",
+      "playerId": "206319",
       "status": "pre_game",
-      "player": "Austin Hooper",
-      "stat": "Receiving Yards",
+      "player": "Bijan Robinson",
+      "stat": "Yards on First Reception",
       "line": "4.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -625,9 +646,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2737,
+      "rank": 3199,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051233",
@@ -646,15 +667,15 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2751,
+      "rank": 3217,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16092121",
-      "playerId": "336715",
+      "projectionId": "16092381",
+      "playerId": "336714",
       "status": "pre_game",
-      "player": "Brian Robinson Jr.",
+      "player": "Austin Hooper",
       "stat": "Receiving Yards",
       "line": "3.5",
       "sport": "NFL",
@@ -667,9 +688,30 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2757,
+      "rank": 3222,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126325",
+      "playerId": "343571",
+      "status": "pre_game",
+      "player": "Jake Bailey",
+      "stat": "Punts",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3225,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998506",
@@ -688,30 +730,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2762,
+      "rank": 3229,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16092395",
-      "playerId": "336714",
-      "status": "pre_game",
-      "player": "Austin Hooper",
-      "stat": "Longest Reception",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 2774,
-      "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15998408",
@@ -730,9 +751,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2778,
+      "rank": 3247,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944958",
@@ -751,9 +772,9 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2779,
+      "rank": 3248,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16015988",
@@ -772,9 +793,93 @@
       "teamCode": "ATL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 2790,
+      "rank": 3259,
       "gameId": "189823",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16092395",
+      "playerId": "336714",
+      "status": "pre_game",
+      "player": "Austin Hooper",
+      "stat": "Longest Reception",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3266,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126131",
+      "playerId": "216845",
+      "status": "pre_game",
+      "player": "Michael Penix Jr.",
+      "stat": "Sacks Taken",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3268,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128072",
+      "playerId": "336728",
+      "status": "pre_game",
+      "player": "Zachariah Branch",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3270,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128073",
+      "playerId": "336731",
+      "status": "pre_game",
+      "player": "Olamide Zaccheaus",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 3271,
+      "gameId": "189823",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     }
   ]
 }

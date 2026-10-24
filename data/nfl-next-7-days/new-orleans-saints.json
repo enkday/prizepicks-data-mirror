@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-23T12:08:48.220Z",
-  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-24T12:08:06.071Z",
+  "scrapedDate": "Saturday, October 24, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 865,
-    "sourceCount": 5967,
-    "acceptedCount": 865,
-    "excludedCount": 5102,
+    "count": 1050,
+    "sourceCount": 6968,
+    "acceptedCount": 1050,
+    "excludedCount": 5918,
     "rejectedCount": 0,
-    "publishedCount": 865,
-    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
+    "publishedCount": 1050,
+    "providerFetchedAt": "2026-10-24T12:06:56.800Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New Orleans Saints",
-  "totalProps": 41,
+  "totalProps": 51,
   "props": [
     {
       "projectionId": "15940831",
@@ -39,7 +39,28 @@
       "opponentCode": "PIT",
       "rank": 21,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126100",
+      "playerId": "246565",
+      "status": "pre_game",
+      "player": "Tyler Shough",
+      "stat": "Passer Rating",
+      "line": "82.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 60,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940747",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Chris Olave",
       "stat": "Receiving Yards",
-      "line": "74.5",
+      "line": "75.5",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
       "startTimeCST": "10/25/26 08:30 AM CST",
@@ -58,9 +79,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 62,
+      "rank": 68,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940897",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Completion Percentage",
-      "line": "64.4",
+      "line": "64",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
       "startTimeCST": "10/25/26 08:30 AM CST",
@@ -79,9 +100,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 78,
+      "rank": 83,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940701",
@@ -100,9 +121,30 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 116,
+      "rank": 121,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "15940894",
+      "playerId": "216485",
+      "status": "pre_game",
+      "player": "Kendre Miller",
+      "stat": "Rush Yards",
+      "line": "37.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 144,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940730",
@@ -121,30 +163,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 137,
+      "rank": 146,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15940894",
-      "playerId": "216485",
-      "status": "pre_game",
-      "player": "Kendre Miller",
-      "stat": "Rush Yards",
-      "line": "35.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 08:30 AM CST",
-      "startTimeCST": "10/25/26 08:30 AM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 139,
-      "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940727",
@@ -163,9 +184,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 151,
+      "rank": 157,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15963471",
@@ -184,9 +205,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 153,
+      "rank": 161,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940797",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Chris Olave",
       "stat": "Longest Reception",
-      "line": "23.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
       "startTimeCST": "10/25/26 08:30 AM CST",
@@ -205,9 +226,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 201,
+      "rank": 200,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940799",
@@ -226,9 +247,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 206,
+      "rank": 215,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940807",
@@ -247,9 +268,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 253,
+      "rank": 262,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15970966",
@@ -268,9 +289,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 257,
+      "rank": 266,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940889",
@@ -278,6 +299,27 @@
       "status": "pre_game",
       "player": "Kendre Miller",
       "stat": "Rush Yards in First 5 Attempts",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 270,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "15940818",
+      "playerId": "246565",
+      "status": "pre_game",
+      "player": "Tyler Shough",
+      "stat": "Rush Yards",
       "line": "14.5",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
@@ -289,30 +331,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 267,
+      "rank": 278,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15940818",
-      "playerId": "246565",
-      "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "Rush Yards",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 08:30 AM CST",
-      "startTimeCST": "10/25/26 08:30 AM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 292,
-      "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16005672",
@@ -331,17 +352,17 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 294,
+      "rank": 301,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "15940750",
-      "playerId": "216485",
+      "projectionId": "16062292",
+      "playerId": "336449",
       "status": "pre_game",
-      "player": "Kendre Miller",
-      "stat": "Rush Attempts",
-      "line": "12.5",
+      "player": "Bryce Lance",
+      "stat": "Receiving Yards",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
       "startTimeCST": "10/25/26 08:30 AM CST",
@@ -352,9 +373,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 299,
+      "rank": 303,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15971005",
@@ -373,17 +394,17 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 302,
+      "rank": 309,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16062292",
-      "playerId": "336449",
+      "projectionId": "15940750",
+      "playerId": "216485",
       "status": "pre_game",
-      "player": "Bryce Lance",
-      "stat": "Receiving Yards",
-      "line": "12.5",
+      "player": "Kendre Miller",
+      "stat": "Rush Attempts",
+      "line": "12",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
       "startTimeCST": "10/25/26 08:30 AM CST",
@@ -394,9 +415,30 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 306,
+      "rank": 312,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "15940663",
+      "playerId": "216485",
+      "status": "pre_game",
+      "player": "Kendre Miller",
+      "stat": "Longest Rush",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 315,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15970996",
@@ -415,30 +457,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 313,
+      "rank": 319,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15940663",
-      "playerId": "216485",
-      "status": "pre_game",
-      "player": "Kendre Miller",
-      "stat": "Longest Rush",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 08:30 AM CST",
-      "startTimeCST": "10/25/26 08:30 AM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 316,
-      "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16085162",
@@ -457,9 +478,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 319,
+      "rank": 328,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16090865",
@@ -478,9 +499,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 320,
+      "rank": 329,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940666",
@@ -499,9 +520,51 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 321,
+      "rank": 331,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128494",
+      "playerId": "211238",
+      "status": "pre_game",
+      "player": "Chris Olave",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 371,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128495",
+      "playerId": "260181",
+      "status": "pre_game",
+      "player": "Devaughn Vele",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 372,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051292",
@@ -520,17 +583,17 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 356,
+      "rank": 374,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16005730",
-      "playerId": "338784",
+      "projectionId": "16005612",
+      "playerId": "210976",
       "status": "pre_game",
-      "player": "Noah Fant",
+      "player": "Alvin Kamara",
       "stat": "Longest Reception",
-      "line": "7.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
       "startTimeCST": "10/25/26 08:30 AM CST",
@@ -541,9 +604,51 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 372,
+      "rank": 377,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16005730",
+      "playerId": "338784",
+      "status": "pre_game",
+      "player": "Noah Fant",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 378,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128496",
+      "playerId": "153107",
+      "status": "pre_game",
+      "player": "Juwan Johnson",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 382,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16072577",
@@ -562,9 +667,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 378,
+      "rank": 397,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16013715",
@@ -583,9 +688,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 380,
+      "rank": 402,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16092323",
@@ -604,9 +709,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 389,
+      "rank": 411,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940830",
@@ -625,9 +730,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 390,
+      "rank": 412,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051293",
@@ -646,9 +751,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 393,
+      "rank": 415,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051294",
@@ -667,9 +772,30 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 427,
+      "rank": 449,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128497",
+      "playerId": "210976",
+      "status": "pre_game",
+      "player": "Alvin Kamara",
+      "stat": "Yards on First Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 468,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940804",
@@ -688,9 +814,30 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 437,
+      "rank": 469,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126315",
+      "playerId": "343569",
+      "status": "pre_game",
+      "player": "Ryan Wright",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 472,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940687",
@@ -709,9 +856,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 440,
+      "rank": 473,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940788",
@@ -730,9 +877,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 442,
+      "rank": 475,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15963467",
@@ -751,9 +898,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 447,
+      "rank": 481,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051291",
@@ -772,9 +919,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 458,
+      "rank": 493,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16092324",
@@ -793,9 +940,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 461,
+      "rank": 496,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16092328",
@@ -814,9 +961,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 462,
+      "rank": 497,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15940885",
@@ -824,7 +971,7 @@
       "status": "pre_game",
       "player": "Kendre Miller",
       "stat": "Rush Yards Per Carry",
-      "line": "2.8",
+      "line": "3",
       "sport": "NFL",
       "startTime": "10/25/26 08:30 AM CST",
       "startTimeCST": "10/25/26 08:30 AM CST",
@@ -835,9 +982,9 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 470,
+      "rank": 506,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15984521",
@@ -856,9 +1003,30 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 480,
+      "rank": 515,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128092",
+      "playerId": "336449",
+      "status": "pre_game",
+      "player": "Bryce Lance",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 526,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15970968",
@@ -877,9 +1045,51 @@
       "teamCode": "NO",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 501,
+      "rank": 540,
       "gameId": "189817",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126339",
+      "playerId": "343569",
+      "status": "pre_game",
+      "player": "Ryan Wright",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 564,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128154",
+      "playerId": "212921",
+      "status": "pre_game",
+      "player": "Chase Young",
+      "stat": "Sacks",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 08:30 AM CST",
+      "startTimeCST": "10/25/26 08:30 AM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T09:30:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 618,
+      "gameId": "189817",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     }
   ]
 }

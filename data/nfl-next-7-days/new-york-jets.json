@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-23T12:08:48.220Z",
-  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-24T12:08:06.071Z",
+  "scrapedDate": "Saturday, October 24, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 865,
-    "sourceCount": 5967,
-    "acceptedCount": 865,
-    "excludedCount": 5102,
+    "count": 1050,
+    "sourceCount": 6968,
+    "acceptedCount": 1050,
+    "excludedCount": 5918,
     "rejectedCount": 0,
-    "publishedCount": 865,
-    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
+    "publishedCount": 1050,
+    "providerFetchedAt": "2026-10-24T12:06:56.800Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Jets",
-  "totalProps": 26,
+  "totalProps": 34,
   "props": [
     {
       "projectionId": "15944282",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Geno Smith",
       "stat": "Pass Yards",
-      "line": "220.5",
+      "line": "223.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3334,
+      "rank": 3915,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126112",
+      "playerId": "320300",
+      "status": "pre_game",
+      "player": "Geno Smith",
+      "stat": "Passer Rating",
+      "line": "100.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 3942,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944387",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Geno Smith",
       "stat": "Completion Percentage",
-      "line": "72.9",
+      "line": "67.8",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3369,
+      "rank": 3959,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944288",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Garrett Wilson",
       "stat": "Receiving Yards",
-      "line": "62.5",
+      "line": "63.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3377,
+      "rank": 3962,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944227",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Geno Smith",
       "stat": "Longest Completion",
-      "line": "32.5",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3423,
+      "rank": 4010,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944173",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Geno Smith",
       "stat": "Pass Attempts",
-      "line": "29.5",
+      "line": "30",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3428,
+      "rank": 4018,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16096925",
@@ -142,9 +163,30 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3457,
+      "rank": 4047,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16124133",
+      "playerId": "278336",
+      "status": "pre_game",
+      "player": "Adonai Mitchell",
+      "stat": "Receiving Yards",
+      "line": "25.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4048,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944228",
@@ -163,30 +205,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3474,
+      "rank": 4065,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15944285",
-      "playerId": "336567",
-      "status": "pre_game",
-      "player": "Kenyon Sadiq",
-      "stat": "Receiving Yards",
-      "line": "21.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 3476,
-      "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944306",
@@ -205,9 +226,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3479,
+      "rank": 4068,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944229",
@@ -226,17 +247,17 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3480,
+      "rank": 4069,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16096923",
-      "playerId": "336565",
+      "projectionId": "15944285",
+      "playerId": "336567",
       "status": "pre_game",
-      "player": "Omar Cooper Jr.",
-      "stat": "Longest Reception",
-      "line": "14.5",
+      "player": "Kenyon Sadiq",
+      "stat": "Receiving Yards",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -247,9 +268,51 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3536,
+      "rank": 4100,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16124157",
+      "playerId": "278336",
+      "status": "pre_game",
+      "player": "Adonai Mitchell",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4107,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16096923",
+      "playerId": "336565",
+      "status": "pre_game",
+      "player": "Omar Cooper Jr.",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4111,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16040089",
@@ -268,9 +331,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3543,
+      "rank": 4144,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944234",
@@ -289,9 +352,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3546,
+      "rank": 4147,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944287",
@@ -310,9 +373,30 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3551,
+      "rank": 4153,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128527",
+      "playerId": "206328",
+      "status": "pre_game",
+      "player": "Garrett Wilson",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4182,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051298",
@@ -331,9 +415,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3574,
+      "rank": 4198,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944960",
@@ -352,30 +436,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3577,
+      "rank": 4201,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16040080",
-      "playerId": "212432",
-      "status": "pre_game",
-      "player": "Braelon Allen",
-      "stat": "Longest Reception",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 3578,
-      "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16047938",
@@ -394,16 +457,16 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3582,
+      "rank": 4208,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16038628",
-      "playerId": "320300",
+      "projectionId": "16073260",
+      "playerId": "212432",
       "status": "pre_game",
-      "player": "Geno Smith",
-      "stat": "Longest Rush",
+      "player": "Braelon Allen",
+      "stat": "Longest Reception",
       "line": "6.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -415,9 +478,30 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3586,
+      "rank": 4215,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "15944275",
+      "playerId": "320300",
+      "status": "pre_game",
+      "player": "Geno Smith",
+      "stat": "Longest Rush",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4228,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16038269",
@@ -436,9 +520,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3597,
+      "rank": 4232,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051300",
@@ -457,9 +541,51 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3614,
+      "rank": 4248,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126328",
+      "playerId": "260613",
+      "status": "pre_game",
+      "player": "Austin McNamara",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4274,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128094",
+      "playerId": "278336",
+      "status": "pre_game",
+      "player": "Adonai Mitchell",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4275,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051299",
@@ -478,9 +604,30 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3632,
+      "rank": 4290,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128095",
+      "playerId": "336565",
+      "status": "pre_game",
+      "player": "Omar Cooper Jr.",
+      "stat": "Rec Targets",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4298,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944340",
@@ -499,9 +646,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3637,
+      "rank": 4301,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16096924",
@@ -520,9 +667,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3653,
+      "rank": 4319,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16011849",
@@ -541,9 +688,30 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3664,
+      "rank": 4334,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126344",
+      "playerId": "260613",
+      "status": "pre_game",
+      "player": "Austin McNamara",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 4343,
+      "gameId": "189824",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16020883",
@@ -562,9 +730,9 @@
       "teamCode": "NYJ",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 3698,
+      "rank": 4378,
       "gameId": "189824",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     }
   ]
 }

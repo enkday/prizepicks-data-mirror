@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-23T12:08:48.220Z",
-  "scrapedDate": "Friday, October 23, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-24T12:08:06.071Z",
+  "scrapedDate": "Saturday, October 24, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 865,
-    "sourceCount": 5967,
-    "acceptedCount": 865,
-    "excludedCount": 5102,
+    "count": 1050,
+    "sourceCount": 6968,
+    "acceptedCount": 1050,
+    "excludedCount": 5918,
     "rejectedCount": 0,
-    "publishedCount": 865,
-    "providerFetchedAt": "2026-10-23T12:07:37.196Z",
+    "publishedCount": 1050,
+    "providerFetchedAt": "2026-10-24T12:06:56.800Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Detroit Lions",
-  "totalProps": 37,
+  "totalProps": 43,
   "props": [
     {
       "projectionId": "15944976",
@@ -37,9 +37,30 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4213,
+      "rank": 5048,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126116",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Passer Rating",
+      "line": "101.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5083,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945074",
@@ -58,9 +79,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4256,
+      "rank": 5093,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945784",
@@ -79,9 +100,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4269,
+      "rank": 5106,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959851",
@@ -100,9 +121,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4273,
+      "rank": 5109,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945781",
@@ -121,9 +142,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4301,
+      "rank": 5139,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945782",
@@ -142,9 +163,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4303,
+      "rank": 5141,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15945783",
@@ -163,9 +184,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4322,
+      "rank": 5162,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959636",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Pass Attempts",
-      "line": "36.5",
+      "line": "37",
       "sport": "NFL",
       "startTime": "10/25/26 03:25 PM CST",
       "startTimeCST": "10/25/26 03:25 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4348,
+      "rank": 5184,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959586",
@@ -205,9 +226,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4349,
+      "rank": 5187,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959658",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Pass Completions",
-      "line": "24.5",
+      "line": "25.5",
       "sport": "NFL",
       "startTime": "10/25/26 03:25 PM CST",
       "startTimeCST": "10/25/26 03:25 PM CST",
@@ -226,30 +247,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4394,
+      "rank": 5231,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "15959670",
-      "playerId": "210887",
-      "status": "pre_game",
-      "player": "Jameson Williams",
-      "stat": "Longest Reception",
-      "line": "23.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 03:25 PM CST",
-      "startTimeCST": "10/25/26 03:25 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 4411,
-      "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959693",
@@ -268,9 +268,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4412,
+      "rank": 5248,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959654",
@@ -289,9 +289,30 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4418,
+      "rank": 5255,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "15959670",
+      "playerId": "210887",
+      "status": "pre_game",
+      "player": "Jameson Williams",
+      "stat": "Longest Reception",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5256,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959685",
@@ -310,9 +331,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4419,
+      "rank": 5257,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16049034",
@@ -331,9 +352,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4429,
+      "rank": 5265,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959684",
@@ -352,9 +373,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4464,
+      "rank": 5306,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959719",
@@ -373,9 +394,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4466,
+      "rank": 5308,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959632",
@@ -394,9 +415,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4470,
+      "rank": 5311,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959688",
@@ -415,9 +436,30 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4473,
+      "rank": 5314,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128536",
+      "playerId": "210887",
+      "status": "pre_game",
+      "player": "Jameson Williams",
+      "stat": "Yards on First Reception",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5348,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051257",
@@ -436,16 +478,16 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4510,
+      "rank": 5357,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16053746",
-      "playerId": "216875",
+      "projectionId": "16128537",
+      "playerId": "206309",
       "status": "pre_game",
-      "player": "Sione Vaki",
-      "stat": "Rush Yards",
+      "player": "Amon-Ra St. Brown",
+      "stat": "Yards on First Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "10/25/26 03:25 PM CST",
@@ -457,9 +499,51 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4528,
+      "rank": 5387,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128538",
+      "playerId": "206311",
+      "status": "pre_game",
+      "player": "Sam LaPorta",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5388,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16053746",
+      "playerId": "216875",
+      "status": "pre_game",
+      "player": "Sione Vaki",
+      "stat": "Rush Yards",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5398,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959614",
@@ -478,9 +562,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4547,
+      "rank": 5401,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16035052",
@@ -499,9 +583,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4554,
+      "rank": 5408,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051261",
@@ -520,30 +604,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4561,
+      "rank": 5415,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16066145",
-      "playerId": "216875",
-      "status": "pre_game",
-      "player": "Sione Vaki",
-      "stat": "Longest Rush",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 03:25 PM CST",
-      "startTimeCST": "10/25/26 03:25 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 4566,
-      "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051260",
@@ -562,9 +625,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4569,
+      "rank": 5422,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051259",
@@ -583,9 +646,30 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4580,
+      "rank": 5435,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16066145",
+      "playerId": "216875",
+      "status": "pre_game",
+      "player": "Sione Vaki",
+      "stat": "Longest Rush",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5436,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084261",
@@ -604,9 +688,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4583,
+      "rank": 5438,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959650",
@@ -625,9 +709,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4588,
+      "rank": 5444,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16084256",
@@ -646,9 +730,30 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4609,
+      "rank": 5467,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16128535",
+      "playerId": "206307",
+      "status": "pre_game",
+      "player": "Jahmyr Gibbs",
+      "stat": "Yards on First Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5472,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16051258",
@@ -667,9 +772,51 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4641,
+      "rank": 5506,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16126332",
+      "playerId": "214541",
+      "status": "pre_game",
+      "player": "Jack Fox",
+      "stat": "Punts",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5507,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+    },
+    {
+      "projectionId": "16127204",
+      "playerId": "216875",
+      "status": "pre_game",
+      "player": "Sione Vaki",
+      "stat": "Rush Attempts",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 03:25 PM CST",
+      "startTimeCST": "10/25/26 03:25 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5528,
+      "gameId": "189827",
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16046141",
@@ -688,9 +835,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4659,
+      "rank": 5531,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15959628",
@@ -709,9 +856,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4669,
+      "rank": 5540,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "16013668",
@@ -730,9 +877,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4676,
+      "rank": 5548,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
       "projectionId": "15944963",
@@ -751,16 +898,16 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4717,
+      "rank": 5593,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     },
     {
-      "projectionId": "16084257",
+      "projectionId": "16127169",
       "playerId": "216875",
       "status": "pre_game",
       "player": "Sione Vaki",
-      "stat": "Longest Reception",
+      "stat": "Receptions",
       "line": "0.5",
       "sport": "NFL",
       "startTime": "10/25/26 03:25 PM CST",
@@ -772,30 +919,9 @@
       "teamCode": "DET",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4742,
+      "rank": 5624,
       "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
-    },
-    {
-      "projectionId": "16084265",
-      "playerId": "216875",
-      "status": "pre_game",
-      "player": "Sione Vaki",
-      "stat": "Receiving Yards",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 03:25 PM CST",
-      "startTimeCST": "10/25/26 03:25 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T16:25:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Green Bay Packers",
-      "opponentCode": "GB",
-      "rank": 4744,
-      "gameId": "189827",
-      "providerFetchedAt": "2026-10-23T12:07:37.196Z"
+      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
     }
   ]
 }
