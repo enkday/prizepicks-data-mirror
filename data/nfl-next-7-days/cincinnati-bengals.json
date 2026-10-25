@@ -1,18 +1,18 @@
 {
-  "scrapedAt": "2026-10-24T12:08:06.071Z",
-  "scrapedDate": "Saturday, October 24, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-25T12:09:05.111Z",
+  "scrapedDate": "Sunday, October 25, 2026 at 07:09 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1050,
-    "sourceCount": 6968,
-    "acceptedCount": 1050,
-    "excludedCount": 5918,
+    "count": 1146,
+    "sourceCount": 8268,
+    "acceptedCount": 1146,
+    "excludedCount": 7122,
     "rejectedCount": 0,
-    "publishedCount": 1050,
-    "providerFetchedAt": "2026-10-24T12:06:56.800Z",
+    "publishedCount": 1146,
+    "providerFetchedAt": "2026-10-25T12:07:09.747Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
@@ -37,9 +37,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1219,
+      "rank": 1381,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16126103",
@@ -58,9 +58,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1252,
+      "rank": 1422,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "15945758",
@@ -79,9 +79,30 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1262,
+      "rank": 1433,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16009904",
+      "playerId": "210964",
+      "status": "pre_game",
+      "player": "Joe Burrow",
+      "stat": "Completion Percentage",
+      "line": "69",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1448,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "15945762",
@@ -100,30 +121,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1278,
+      "rank": 1453,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16009904",
-      "playerId": "210964",
-      "status": "pre_game",
-      "player": "Joe Burrow",
-      "stat": "Completion Percentage",
-      "line": "65.3",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1279,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16008108",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Chase Brown",
       "stat": "Rush Yards",
-      "line": "41.5",
+      "line": "40.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1313,
+      "rank": 1486,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16008083",
@@ -163,9 +163,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1332,
+      "rank": 1511,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16009897",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Pass Attempts",
-      "line": "37",
+      "line": "36",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1334,
+      "rank": 1516,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16050004",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Samaje Perine",
       "stat": "Rush Yards",
-      "line": "27.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -205,30 +205,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1372,
+      "rank": 1559,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16008200",
-      "playerId": "150731",
-      "status": "pre_game",
-      "player": "Ja'Marr Chase",
-      "stat": "Longest Reception",
-      "line": "25.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1375,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16009901",
@@ -247,9 +226,30 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1376,
+      "rank": 1562,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16008200",
+      "playerId": "150731",
+      "status": "pre_game",
+      "player": "Ja'Marr Chase",
+      "stat": "Longest Reception",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1564,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16008181",
@@ -268,9 +268,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1386,
+      "rank": 1579,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16010365",
@@ -289,9 +289,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1391,
+      "rank": 1584,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "15945759",
@@ -310,9 +310,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1392,
+      "rank": 1586,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16010964",
@@ -320,7 +320,7 @@
       "status": "pre_game",
       "player": "Chase Brown",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "18.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
       "startTimeCST": "10/25/26 12:00 PM CST",
@@ -331,30 +331,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1430,
+      "rank": 1639,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16049927",
-      "playerId": "342397",
-      "status": "pre_game",
-      "player": "Dohnte Meyers",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1442,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16010382",
@@ -373,9 +352,30 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1455,
+      "rank": 1669,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16049927",
+      "playerId": "342397",
+      "status": "pre_game",
+      "player": "Dohnte Meyers",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1672,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16010358",
@@ -394,9 +394,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1462,
+      "rank": 1685,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16051061",
@@ -415,9 +415,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1463,
+      "rank": 1686,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16128505",
@@ -436,9 +436,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1464,
+      "rank": 1688,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16039486",
@@ -457,9 +457,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1466,
+      "rank": 1691,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16008155",
@@ -478,9 +478,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1467,
+      "rank": 1692,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16051241",
@@ -499,9 +499,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1469,
+      "rank": 1694,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16128504",
@@ -520,9 +520,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1471,
+      "rank": 1695,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16051055",
@@ -541,58 +541,16 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1484,
+      "rank": 1712,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
-      "projectionId": "16010363",
-      "playerId": "214027",
+      "projectionId": "16013728",
+      "playerId": "211165",
       "status": "pre_game",
-      "player": "Erick All Jr.",
-      "stat": "Receiving Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1498,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16049923",
-      "playerId": "249686",
-      "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Receiving Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1500,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16051050",
-      "playerId": "249686",
-      "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Rush Attempts",
+      "player": "Evan McPherson",
+      "stat": "Kicking Points",
       "line": "8",
       "sport": "NFL",
       "startTime": "10/25/26 12:00 PM CST",
@@ -604,9 +562,72 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1503,
+      "rank": 1751,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16010363",
+      "playerId": "214027",
+      "status": "pre_game",
+      "player": "Erick All Jr.",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1755,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16049923",
+      "playerId": "249686",
+      "status": "pre_game",
+      "player": "Samaje Perine",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1757,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16051050",
+      "playerId": "249686",
+      "status": "pre_game",
+      "player": "Samaje Perine",
+      "stat": "Rush Attempts",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1759,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16051242",
@@ -625,30 +646,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1509,
+      "rank": 1761,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16056203",
-      "playerId": "211165",
-      "status": "pre_game",
-      "player": "Evan McPherson",
-      "stat": "Kicking Points",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1510,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16009737",
@@ -667,9 +667,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1514,
+      "rank": 1775,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "15944956",
@@ -688,9 +688,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1515,
+      "rank": 1777,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16008092",
@@ -709,9 +709,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1517,
+      "rank": 1779,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16010388",
@@ -730,9 +730,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1520,
+      "rank": 1781,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16051056",
@@ -751,9 +751,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1525,
+      "rank": 1785,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16128076",
@@ -772,9 +772,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1547,
+      "rank": 1836,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16128506",
@@ -793,30 +793,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1548,
+      "rank": 1837,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16010965",
-      "playerId": "211234",
-      "status": "pre_game",
-      "player": "Chase Brown",
-      "stat": "Rush Yards Per Carry",
-      "line": "3.8",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1560,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16010420",
@@ -835,9 +814,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1564,
+      "rank": 1864,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16010430",
@@ -856,9 +835,30 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1565,
+      "rank": 1865,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16010965",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1868,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16036096",
@@ -877,9 +877,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1568,
+      "rank": 1869,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16128078",
@@ -898,9 +898,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1578,
+      "rank": 1880,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16040079",
@@ -919,30 +919,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1589,
+      "rank": 1910,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
-    },
-    {
-      "projectionId": "16050791",
-      "playerId": "212331",
-      "status": "pre_game",
-      "player": "Mike Gesicki",
-      "stat": "Receptions",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/25/26 12:00 PM CST",
-      "startTimeCST": "10/25/26 12:00 PM CST",
-      "startDateCST": "2026-10-25",
-      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 1592,
-      "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16126125",
@@ -961,9 +940,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1596,
+      "rank": 1917,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16128077",
@@ -982,9 +961,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1597,
+      "rank": 1918,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16128079",
@@ -1003,9 +982,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1600,
+      "rank": 1933,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16008112",
@@ -1024,9 +1003,9 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1646,
+      "rank": 1990,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     },
     {
       "projectionId": "16021052",
@@ -1045,9 +1024,30 @@
       "teamCode": "CIN",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 1653,
+      "rank": 1996,
       "gameId": "189821",
-      "providerFetchedAt": "2026-10-24T12:06:56.800Z"
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
+    },
+    {
+      "projectionId": "16166460",
+      "playerId": "342577",
+      "status": "pre_game",
+      "player": "Boye Mafe",
+      "stat": "Sacks",
+      "line": "0.25",
+      "sport": "NFL",
+      "startTime": "10/25/26 12:00 PM CST",
+      "startTimeCST": "10/25/26 12:00 PM CST",
+      "startDateCST": "2026-10-25",
+      "startTimeIso": "2026-10-25T13:00:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2030,
+      "gameId": "189821",
+      "providerFetchedAt": "2026-10-25T12:07:09.747Z"
     }
   ]
 }
