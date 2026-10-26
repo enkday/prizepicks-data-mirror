@@ -1,112 +1,138 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "50ba2dac2895fb71be2a8922ae517301f55425db3333ae1ebb876a5222932026",
-  "sourceScrapedAt": "2026-10-25T12:09:05.111Z",
-  "sourceScrapedDate": "Sunday, October 25, 2026 at 07:09 AM CDT",
-  "observedDate": "2026-10-25",
+  "sourcePayloadHash": "54b0069452a511374d1a1a1dad380ef784f8f169486c365ff129ecb9734b1120",
+  "sourceScrapedAt": "2026-10-26T13:33:27.071Z",
+  "sourceScrapedDate": "Monday, October 26, 2026 at 08:33 AM CDT",
+  "observedDate": "2026-10-26",
   "completeness": "reported",
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 7,
-  "propCount": 483,
+  "gameCount": 9,
+  "propCount": 674,
   "games": [
     {
-      "gameId": "189838",
+      "gameId": "190083",
       "slate": "Late",
-      "startTime": "10/25/26 04:00 PM CDT",
-      "startTimeIso": "2026-10-25T16:00:00-05:00",
+      "startTime": "10/26/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-26T18:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Los Angeles Lakers",
-        "Utah Jazz"
+        "Charlotte Hornets",
+        "Washington Wizards"
       ],
-      "propCount": 64,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/189838.json"
+      "propCount": 87,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190083.json"
     },
     {
-      "gameId": "189839",
+      "gameId": "190084",
       "slate": "Late",
-      "startTime": "10/25/26 05:00 PM CDT",
-      "startTimeIso": "2026-10-25T17:00:00-05:00",
+      "startTime": "10/26/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-26T18:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Brooklyn Nets",
-        "Indiana Pacers"
+        "Cleveland Cavaliers",
+        "Minnesota Timberwolves"
+      ],
+      "propCount": 67,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190084.json"
+    },
+    {
+      "gameId": "190085",
+      "slate": "Late",
+      "startTime": "10/26/26 06:30 PM CDT",
+      "startTimeIso": "2026-10-26T18:30:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Dallas Mavericks",
+        "Miami Heat"
+      ],
+      "propCount": 78,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190085.json"
+    },
+    {
+      "gameId": "190086",
+      "slate": "Late",
+      "startTime": "10/26/26 06:30 PM CDT",
+      "startTimeIso": "2026-10-26T18:30:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Boston Celtics",
+        "Chicago Bulls"
+      ],
+      "propCount": 89,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190086.json"
+    },
+    {
+      "gameId": "190087",
+      "slate": "Late",
+      "startTime": "10/26/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-26T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Oklahoma City Thunder",
+        "Phoenix Suns"
+      ],
+      "propCount": 74,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190087.json"
+    },
+    {
+      "gameId": "190088",
+      "slate": "Late",
+      "startTime": "10/26/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-26T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Indiana Pacers",
+        "Milwaukee Bucks"
       ],
       "propCount": 63,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/189839.json"
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190088.json"
     },
     {
-      "gameId": "189840",
+      "gameId": "190270",
       "slate": "Late",
-      "startTime": "10/25/26 06:00 PM CDT",
-      "startTimeIso": "2026-10-25T18:00:00-05:00",
+      "startTime": "10/26/26 07:30 PM CDT",
+      "startTimeIso": "2026-10-26T19:30:00-05:00",
       "eventTimeVerified": true,
       "teams": [
-        "Minnesota Timberwolves",
-        "Toronto Raptors"
+        "Atlanta Hawks",
+        "Houston Rockets"
       ],
-      "propCount": 95,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/189840.json"
+      "propCount": 94,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190270.json"
     },
     {
-      "gameId": "189841",
+      "gameId": "190271",
       "slate": "Late",
-      "startTime": "10/25/26 06:00 PM CDT",
-      "startTimeIso": "2026-10-25T18:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "New York Knicks",
-        "Orlando Magic"
-      ],
-      "propCount": 71,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/189841.json"
-    },
-    {
-      "gameId": "189842",
-      "slate": "Late",
-      "startTime": "10/25/26 06:00 PM CDT",
-      "startTimeIso": "2026-10-25T18:00:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "LA Clippers",
-        "Oklahoma City Thunder"
-      ],
-      "propCount": 92,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/189842.json"
-    },
-    {
-      "gameId": "189843",
-      "slate": "Late",
-      "startTime": "10/25/26 06:30 PM CDT",
-      "startTimeIso": "2026-10-25T18:30:00-05:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Detroit Pistons",
-        "Philadelphia 76ers"
-      ],
-      "propCount": 42,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/189843.json"
-    },
-    {
-      "gameId": "190082",
-      "slate": "Late",
-      "startTime": "10/25/26 08:00 PM CDT",
-      "startTimeIso": "2026-10-25T20:00:00-05:00",
+      "startTime": "10/26/26 08:00 PM CDT",
+      "startTimeIso": "2026-10-26T20:00:00-05:00",
       "eventTimeVerified": true,
       "teams": [
         "Memphis Grizzlies",
-        "Sacramento Kings"
+        "Utah Jazz"
       ],
-      "propCount": 56,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/190082.json"
+      "propCount": 62,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190271.json"
+    },
+    {
+      "gameId": "190272",
+      "slate": "Late",
+      "startTime": "10/26/26 09:00 PM CDT",
+      "startTimeIso": "2026-10-26T21:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Denver Nuggets",
+        "Golden State Warriors"
+      ],
+      "propCount": 60,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/190272.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 483,
+      "propCount": 674,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]
