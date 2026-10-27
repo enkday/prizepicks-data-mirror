@@ -1,0 +1,48 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "0512a3fc299e900cacfb0d534a16fee94924ab12bc705c788b186e6dc183a50a",
+  "sourceScrapedAt": "2026-10-27T12:09:57.262Z",
+  "sourceScrapedDate": "Tuesday, October 27, 2026 at 07:09 AM CDT",
+  "observedDate": "2026-10-27",
+  "completeness": "reported",
+  "sport": "NCAAF",
+  "sportSlug": "ncaaf",
+  "dayBranch": "current_day",
+  "gameCount": 2,
+  "propCount": 65,
+  "games": [
+    {
+      "gameId": "190296",
+      "slate": "Late",
+      "startTime": "10/27/26 06:00 PM CDT",
+      "startTimeIso": "2026-10-27T18:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Delaware Blue Hens",
+        "Western Kentucky Hilltoppers"
+      ],
+      "propCount": 25,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/190296.json"
+    },
+    {
+      "gameId": "190297",
+      "slate": "Late",
+      "startTime": "10/27/26 07:00 PM CDT",
+      "startTimeIso": "2026-10-27T19:00:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Missouri State Bears",
+        "Sam Houston Bearkats"
+      ],
+      "propCount": 40,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/190297.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 65,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
+    }
+  ]
+}
