@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-27T12:09:57.262Z",
-  "scrapedDate": "Tuesday, October 27, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-28T12:08:27.541Z",
+  "scrapedDate": "Wednesday, October 28, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 450,
-    "sourceCount": 2779,
-    "acceptedCount": 450,
-    "excludedCount": 2329,
+    "count": 604,
+    "sourceCount": 4063,
+    "acceptedCount": 604,
+    "excludedCount": 3459,
     "rejectedCount": 0,
-    "publishedCount": 450,
-    "providerFetchedAt": "2026-10-27T12:08:48.653Z",
+    "publishedCount": 604,
+    "providerFetchedAt": "2026-10-28T12:06:17.393Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Green Bay Packers",
-  "totalProps": 38,
+  "totalProps": 49,
   "props": [
     {
       "projectionId": "16205148",
@@ -37,9 +37,30 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 18,
+      "rank": 21,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16293526",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Passer Rating",
+      "line": "91.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 56,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205593",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Christian Watson",
       "stat": "Receiving Yards",
-      "line": "68.5",
+      "line": "71.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -58,9 +79,30 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 85,
+      "rank": 79,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16205966",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Completion Percentage",
+      "line": "62.3",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 95,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205596",
@@ -68,7 +110,7 @@
       "status": "pre_game",
       "player": "Matthew Golden",
       "stat": "Receiving Yards",
-      "line": "64.5",
+      "line": "59.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -79,9 +121,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 88,
+      "rank": 99,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205427",
@@ -89,7 +131,7 @@
       "status": "pre_game",
       "player": "Josh Jacobs",
       "stat": "Rush Yards",
-      "line": "56.5",
+      "line": "58.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -100,9 +142,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 101,
+      "rank": 105,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205587",
@@ -121,9 +163,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 116,
+      "rank": 125,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16227836",
@@ -131,7 +173,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Longest Completion",
-      "line": "38.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -142,9 +184,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 140,
+      "rank": 141,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205868",
@@ -163,9 +205,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 145,
+      "rank": 159,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16208066",
@@ -173,7 +215,7 @@
       "status": "pre_game",
       "player": "Christian Watson",
       "stat": "Longest Reception",
-      "line": "25.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -184,9 +226,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 183,
+      "rank": 200,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16208062",
@@ -205,9 +247,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 194,
+      "rank": 214,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205607",
@@ -215,7 +257,7 @@
       "status": "pre_game",
       "player": "Savion Williams",
       "stat": "Receiving Yards",
-      "line": "21.5",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -226,9 +268,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 198,
+      "rank": 216,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205870",
@@ -247,9 +289,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 199,
+      "rank": 219,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16206075",
@@ -268,9 +310,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 202,
+      "rank": 222,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205424",
@@ -289,9 +331,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 231,
+      "rank": 254,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16208055",
@@ -310,9 +352,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 239,
+      "rank": 263,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205573",
@@ -331,9 +373,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 242,
+      "rank": 266,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16206072",
@@ -352,9 +394,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 253,
+      "rank": 278,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16227839",
@@ -362,7 +404,7 @@
       "status": "pre_game",
       "player": "Josh Jacobs",
       "stat": "Longest Rush",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -373,9 +415,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 269,
+      "rank": 284,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16208061",
@@ -394,9 +436,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 273,
+      "rank": 302,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16208079",
@@ -404,7 +446,7 @@
       "status": "pre_game",
       "player": "Josh Jacobs",
       "stat": "Longest Reception",
-      "line": "8.5",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -415,38 +457,17 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 313,
+      "rank": 328,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
-      "projectionId": "16239375",
-      "playerId": "246577",
-      "status": "pre_game",
-      "player": "Matthew Golden",
-      "stat": "Rec Targets",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "10/29/26 07:15 PM CST",
-      "startTimeCST": "10/29/26 07:15 PM CST",
-      "startDateCST": "2026-10-29",
-      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 315,
-      "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
-    },
-    {
-      "projectionId": "16272091",
+      "projectionId": "16227834",
       "playerId": "246576",
       "status": "pre_game",
       "player": "MarShawn Lloyd",
       "stat": "Longest Rush",
-      "line": "8.5",
+      "line": "7.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -457,9 +478,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 316,
+      "rank": 351,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16239374",
@@ -478,9 +499,72 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 324,
+      "rank": 354,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16239375",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Rec Targets",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 355,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16323905",
+      "playerId": "336518",
+      "status": "pre_game",
+      "player": "Trey Smack",
+      "stat": "Kicking Points",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 358,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16205965",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 363,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16239377",
@@ -499,30 +583,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 333,
+      "rank": 368,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
-    },
-    {
-      "projectionId": "16206080",
-      "playerId": "246576",
-      "status": "pre_game",
-      "player": "MarShawn Lloyd",
-      "stat": "Rush Attempts",
-      "line": "6",
-      "sport": "NFL",
-      "startTime": "10/29/26 07:15 PM CST",
-      "startTimeCST": "10/29/26 07:15 PM CST",
-      "startDateCST": "2026-10-29",
-      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 335,
-      "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205422",
@@ -541,16 +604,16 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 336,
+      "rank": 370,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
-      "projectionId": "16227838",
-      "playerId": "206301",
+      "projectionId": "16206080",
+      "playerId": "246576",
       "status": "pre_game",
-      "player": "Jordan Love",
-      "stat": "Longest Rush",
+      "player": "MarShawn Lloyd",
+      "stat": "Rush Attempts",
       "line": "5.5",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
@@ -562,9 +625,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 347,
+      "rank": 379,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16227840",
@@ -583,9 +646,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 348,
+      "rank": 381,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16227841",
@@ -604,9 +667,30 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 349,
+      "rank": 382,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16293530",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Consecutive Pass Completions",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 388,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16206458",
@@ -625,9 +709,93 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 363,
+      "rank": 395,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16223296",
+      "playerId": "212129",
+      "status": "pre_game",
+      "player": "Tucker Kraft",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 396,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16227838",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Longest Rush",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 398,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16301326",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 400,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16316043",
+      "playerId": "339836",
+      "status": "pre_game",
+      "player": "Jonnu Smith",
+      "stat": "Receiving Yards",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 401,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16206073",
@@ -646,9 +814,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 366,
+      "rank": 405,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16227837",
@@ -667,9 +835,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 381,
+      "rank": 421,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16239378",
@@ -688,9 +856,51 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 385,
+      "rank": 425,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16296630",
+      "playerId": "220586",
+      "status": "pre_game",
+      "player": "Daniel Whelan",
+      "stat": "Punts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 429,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16239376",
+      "playerId": "206303",
+      "status": "pre_game",
+      "player": "Josh Jacobs",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 438,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205558",
@@ -709,30 +919,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 391,
+      "rank": 442,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
-    },
-    {
-      "projectionId": "16239376",
-      "playerId": "206303",
-      "status": "pre_game",
-      "player": "Josh Jacobs",
-      "stat": "Rec Targets",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "10/29/26 07:15 PM CST",
-      "startTimeCST": "10/29/26 07:15 PM CST",
-      "startDateCST": "2026-10-29",
-      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
-      "oddsType": "standard",
-      "Team": "Green Bay Packers",
-      "teamCode": "GB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 403,
-      "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16251135",
@@ -751,17 +940,17 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 404,
+      "rank": 454,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
-      "projectionId": "16272088",
+      "projectionId": "16293528",
       "playerId": "206301",
       "status": "pre_game",
       "player": "Jordan Love",
-      "stat": "Rush Attempts",
-      "line": "2.5",
+      "stat": "Sacks Taken",
+      "line": "2",
       "sport": "NFL",
       "startTime": "10/29/26 07:15 PM CST",
       "startTimeCST": "10/29/26 07:15 PM CST",
@@ -772,9 +961,51 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 405,
+      "rank": 457,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16231016",
+      "playerId": "336518",
+      "status": "pre_game",
+      "player": "Trey Smack",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 475,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16296632",
+      "playerId": "220586",
+      "status": "pre_game",
+      "player": "Daniel Whelan",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "10/29/26 07:15 PM CST",
+      "startTimeCST": "10/29/26 07:15 PM CST",
+      "startDateCST": "2026-10-29",
+      "startTimeIso": "2026-10-29T20:15:00.000-04:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 479,
+      "gameId": "190924",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16205872",
@@ -793,9 +1024,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 452,
+      "rank": 513,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16227816",
@@ -814,9 +1045,9 @@
       "teamCode": "GB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 455,
+      "rank": 515,
       "gameId": "190924",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     }
   ]
 }

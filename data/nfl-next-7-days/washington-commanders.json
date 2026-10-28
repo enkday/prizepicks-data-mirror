@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-27T12:09:57.262Z",
-  "scrapedDate": "Tuesday, October 27, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-28T12:08:27.541Z",
+  "scrapedDate": "Wednesday, October 28, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 450,
-    "sourceCount": 2779,
-    "acceptedCount": 450,
-    "excludedCount": 2329,
+    "count": 604,
+    "sourceCount": 4063,
+    "acceptedCount": 604,
+    "excludedCount": 3459,
     "rejectedCount": 0,
-    "publishedCount": 450,
-    "providerFetchedAt": "2026-10-27T12:08:48.653Z",
+    "publishedCount": 604,
+    "providerFetchedAt": "2026-10-28T12:06:17.393Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 3,
+  "totalProps": 4,
   "props": [
     {
       "projectionId": "16237067",
@@ -37,9 +37,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2616,
+      "rank": 3779,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16238617",
@@ -58,9 +58,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2617,
+      "rank": 3780,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16237025",
@@ -79,9 +79,30 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 2618,
+      "rank": 3781,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16316136",
+      "playerId": "214064",
+      "status": "pre_game",
+      "player": "John Bates",
+      "stat": "Receiving Yards",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 07:20 PM CST",
+      "startTimeCST": "11/01/26 07:20 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 3813,
+      "gameId": "191821",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     }
   ]
 }

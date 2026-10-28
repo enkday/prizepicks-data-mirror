@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-27T12:09:57.262Z",
-  "scrapedDate": "Tuesday, October 27, 2026 at 07:09 AM CDT",
+  "scrapedAt": "2026-10-28T12:08:27.541Z",
+  "scrapedDate": "Wednesday, October 28, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 450,
-    "sourceCount": 2779,
-    "acceptedCount": 450,
-    "excludedCount": 2329,
+    "count": 604,
+    "sourceCount": 4063,
+    "acceptedCount": 604,
+    "excludedCount": 3459,
     "rejectedCount": 0,
-    "publishedCount": 450,
-    "providerFetchedAt": "2026-10-27T12:08:48.653Z",
+    "publishedCount": 604,
+    "providerFetchedAt": "2026-10-28T12:06:17.393Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Pittsburgh Steelers",
-  "totalProps": 27,
+  "totalProps": 25,
   "props": [
     {
       "projectionId": "16234196",
@@ -37,9 +37,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 551,
+      "rank": 1086,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234086",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jaylen Warren",
       "stat": "Rush Yards",
-      "line": "62.5",
+      "line": "61.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -58,30 +58,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 581,
+      "rank": 1117,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
-    },
-    {
-      "projectionId": "16234127",
-      "playerId": "320277",
-      "status": "pre_game",
-      "player": "Germie Bernard",
-      "stat": "Receiving Yards",
-      "line": "52.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 591,
-      "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234207",
@@ -89,7 +68,7 @@
       "status": "pre_game",
       "player": "DK Metcalf",
       "stat": "Receiving Yards",
-      "line": "52.5",
+      "line": "51.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -100,9 +79,30 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 592,
+      "rank": 1126,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16234127",
+      "playerId": "320277",
+      "status": "pre_game",
+      "player": "Germie Bernard",
+      "stat": "Receiving Yards",
+      "line": "50.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 1127,
+      "gameId": "191583",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234100",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Aaron Rodgers",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 638,
+      "rank": 1172,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234074",
@@ -142,9 +142,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 641,
+      "rank": 1175,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234075",
@@ -163,9 +163,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 674,
+      "rank": 1208,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234181",
@@ -184,9 +184,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 677,
+      "rank": 1212,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234251",
@@ -205,9 +205,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 678,
+      "rank": 1213,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234042",
@@ -226,9 +226,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 681,
+      "rank": 1215,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234269",
@@ -247,9 +247,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 682,
+      "rank": 1216,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234116",
@@ -268,9 +268,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 695,
+      "rank": 1229,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234053",
@@ -289,9 +289,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 715,
+      "rank": 1249,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234098",
@@ -310,9 +310,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 716,
+      "rank": 1250,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234165",
@@ -331,9 +331,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 724,
+      "rank": 1257,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234266",
@@ -352,9 +352,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 726,
+      "rank": 1260,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234048",
@@ -373,9 +373,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 727,
+      "rank": 1261,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234218",
@@ -394,9 +394,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 728,
+      "rank": 1262,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234177",
@@ -415,9 +415,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 737,
+      "rank": 1270,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234229",
@@ -436,9 +436,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 738,
+      "rank": 1271,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234240",
@@ -457,72 +457,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 742,
+      "rank": 1275,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
-    },
-    {
-      "projectionId": "16265109",
-      "playerId": "153039",
-      "status": "pre_game",
-      "player": "Chris Boswell",
-      "stat": "Kicking Points",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 750,
-      "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
-    },
-    {
-      "projectionId": "16272087",
-      "playerId": "210642",
-      "status": "pre_game",
-      "player": "Pat Freiermuth",
-      "stat": "Receptions",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 790,
-      "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
-    },
-    {
-      "projectionId": "16233975",
-      "playerId": "247910",
-      "status": "pre_game",
-      "player": "Aaron Rodgers",
-      "stat": "Longest Rush",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Pittsburgh Steelers",
-      "teamCode": "PIT",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 795,
-      "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16233988",
@@ -541,9 +478,30 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 796,
+      "rank": 1328,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
+    },
+    {
+      "projectionId": "16233975",
+      "playerId": "247910",
+      "status": "pre_game",
+      "player": "Aaron Rodgers",
+      "stat": "Longest Rush",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 1364,
+      "gameId": "191583",
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16234168",
@@ -562,9 +520,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 834,
+      "rank": 1369,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     },
     {
       "projectionId": "16236993",
@@ -583,9 +541,9 @@
       "teamCode": "PIT",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 835,
+      "rank": 1370,
       "gameId": "191583",
-      "providerFetchedAt": "2026-10-27T12:08:48.653Z"
+      "providerFetchedAt": "2026-10-28T12:06:17.393Z"
     }
   ]
 }
