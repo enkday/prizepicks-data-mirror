@@ -1,0 +1,35 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "c824dd06b3df944bf952f40bba38d6a0cbcac2fb1e4ce8eaceafbb112ffff025",
+  "sourceScrapedAt": "2026-10-29T12:07:36.462Z",
+  "sourceScrapedDate": "Thursday, October 29, 2026 at 07:07 AM CDT",
+  "observedDate": "2026-10-29",
+  "completeness": "reported",
+  "sport": "NFL",
+  "sportSlug": "nfl",
+  "dayBranch": "current_day",
+  "gameCount": 1,
+  "propCount": 95,
+  "games": [
+    {
+      "gameId": "190924",
+      "slate": "Late",
+      "startTime": "10/29/26 07:15 PM CDT",
+      "startTimeIso": "2026-10-29T19:15:00-05:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Carolina Panthers",
+        "Green Bay Packers"
+      ],
+      "propCount": 95,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/190924.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 95,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
+    }
+  ]
+}
