@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-29T12:07:36.462Z",
-  "scrapedDate": "Thursday, October 29, 2026 at 07:07 AM CDT",
+  "scrapedAt": "2026-10-30T12:08:28.380Z",
+  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 676,
-    "sourceCount": 4983,
-    "acceptedCount": 676,
-    "excludedCount": 4307,
+    "count": 843,
+    "sourceCount": 5895,
+    "acceptedCount": 843,
+    "excludedCount": 5052,
     "rejectedCount": 0,
-    "publishedCount": 676,
-    "providerFetchedAt": "2026-10-29T12:06:26.601Z",
+    "publishedCount": 843,
+    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 7,
+  "totalProps": 8,
   "props": [
     {
       "projectionId": "16357680",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Tanner McKee",
       "stat": "Pass Yards",
-      "line": "200.5",
+      "line": "202.5",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4500,
+      "rank": 5264,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16363929",
+      "playerId": "289919",
+      "status": "pre_game",
+      "player": "Tanner McKee",
+      "stat": "Completion Percentage",
+      "line": "58.2",
+      "sport": "NFL",
+      "startTime": "11/01/26 07:20 PM CST",
+      "startTimeCST": "11/01/26 07:20 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5302,
+      "gameId": "191821",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16363918",
@@ -58,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4565,
+      "rank": 5336,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16367070",
@@ -79,9 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4583,
+      "rank": 5355,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16367077",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Tanner McKee",
       "stat": "Pass Completions",
-      "line": "19.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4617,
+      "rank": 5378,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16348731",
@@ -121,9 +142,9 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4696,
+      "rank": 5483,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16367074",
@@ -142,9 +163,9 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4723,
+      "rank": 5513,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16357665",
@@ -163,9 +184,9 @@
       "teamCode": "PHI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4729,
+      "rank": 5520,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     }
   ]
 }

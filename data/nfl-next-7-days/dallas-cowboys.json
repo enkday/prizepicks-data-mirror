@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-29T12:07:36.462Z",
-  "scrapedDate": "Thursday, October 29, 2026 at 07:07 AM CDT",
+  "scrapedAt": "2026-10-30T12:08:28.380Z",
+  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 676,
-    "sourceCount": 4983,
-    "acceptedCount": 676,
-    "excludedCount": 4307,
+    "count": 843,
+    "sourceCount": 5895,
+    "acceptedCount": 843,
+    "excludedCount": 5052,
     "rejectedCount": 0,
-    "publishedCount": 676,
-    "providerFetchedAt": "2026-10-29T12:06:26.601Z",
+    "publishedCount": 843,
+    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Dallas Cowboys",
-  "totalProps": 30,
+  "totalProps": 39,
   "props": [
     {
       "projectionId": "16283456",
@@ -37,9 +37,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 609,
+      "rank": 1,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302888",
@@ -58,9 +58,30 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 628,
+      "rank": 18,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16303869",
+      "playerId": "211139",
+      "status": "pre_game",
+      "player": "CeeDee Lamb",
+      "stat": "Receiving Yards",
+      "line": "80.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 62,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302379",
@@ -79,17 +100,17 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 673,
+      "rank": 67,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16303869",
-      "playerId": "211139",
+      "projectionId": "16362965",
+      "playerId": "211072",
       "status": "pre_game",
-      "player": "CeeDee Lamb",
-      "stat": "Receiving Yards",
-      "line": "78.5",
+      "player": "Dak Prescott",
+      "stat": "Completion Percentage",
+      "line": "67.2",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 674,
+      "rank": 79,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303836",
@@ -121,9 +142,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 684,
+      "rank": 80,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302897",
@@ -142,9 +163,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 732,
+      "rank": 125,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303784",
@@ -163,9 +184,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 737,
+      "rank": 132,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302874",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Attempts",
-      "line": "33.5",
+      "line": "34",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 742,
+      "rank": 136,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303865",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "CeeDee Lamb",
       "stat": "Longest Reception",
-      "line": "24.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 773,
+      "rank": 169,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302892",
@@ -226,9 +247,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 786,
+      "rank": 183,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303835",
@@ -247,17 +268,17 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 787,
+      "rank": 184,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16363884",
-      "playerId": "344777",
+      "projectionId": "16366180",
+      "playerId": "244046",
       "status": "pre_game",
-      "player": "Tyler Goodson",
-      "stat": "Rush Yards",
-      "line": "19.5",
+      "player": "Javonte Williams",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -268,9 +289,30 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 810,
+      "rank": 185,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16363884",
+      "playerId": "344777",
+      "status": "pre_game",
+      "player": "Tyler Goodson",
+      "stat": "Rush Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 189,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302378",
@@ -289,9 +331,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 819,
+      "rank": 219,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303786",
@@ -310,9 +352,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 820,
+      "rank": 220,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302375",
@@ -331,9 +373,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 821,
+      "rank": 222,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303182",
@@ -352,9 +394,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 823,
+      "rank": 226,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303178",
@@ -373,9 +415,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 825,
+      "rank": 228,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302385",
@@ -394,9 +436,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 850,
+      "rank": 260,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303185",
@@ -415,9 +457,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 852,
+      "rank": 263,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16303189",
@@ -436,30 +478,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 853,
+      "rank": 264,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
-    },
-    {
-      "projectionId": "16302881",
-      "playerId": "211072",
-      "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Rush Yards",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 857,
-      "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364192",
@@ -478,9 +499,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 865,
+      "rank": 275,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16375011",
@@ -499,9 +520,51 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 868,
+      "rank": 278,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16302881",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Rush Yards",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 289,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16398026",
+      "playerId": "211166",
+      "status": "pre_game",
+      "player": "Brandon Aubrey",
+      "stat": "Kicking Points",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 294,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16302880",
@@ -520,9 +583,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 881,
+      "rank": 299,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364193",
@@ -541,9 +604,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 884,
+      "rank": 304,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16375003",
@@ -562,9 +625,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 885,
+      "rank": 305,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16362557",
@@ -583,9 +646,51 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 888,
+      "rank": 314,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16372536",
+      "playerId": "344777",
+      "status": "pre_game",
+      "player": "Tyler Goodson",
+      "stat": "Rush Attempts",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 323,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16402744",
+      "playerId": "216863",
+      "status": "pre_game",
+      "player": "Ryan Flournoy",
+      "stat": "Rec Targets",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 331,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16326832",
@@ -604,9 +709,93 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 903,
+      "rank": 334,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16366182",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.4",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 344,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16403529",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Rush Attempts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 358,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16402743",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 376,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16402745",
+      "playerId": "216864",
+      "status": "pre_game",
+      "player": "Brevyn Spann-Ford",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 377,
+      "gameId": "191584",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16372537",
@@ -614,7 +803,7 @@
       "status": "pre_game",
       "player": "Tyler Goodson",
       "stat": "Receiving Yards",
-      "line": "1.5",
+      "line": "0.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -625,9 +814,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 949,
+      "rank": 425,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16372538",
@@ -635,7 +824,7 @@
       "status": "pre_game",
       "player": "Tyler Goodson",
       "stat": "Longest Reception",
-      "line": "1.5",
+      "line": "0.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -646,9 +835,9 @@
       "teamCode": "DAL",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 950,
+      "rank": 426,
       "gameId": "191584",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     }
   ]
 }

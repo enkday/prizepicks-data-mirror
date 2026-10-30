@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-29T12:07:36.462Z",
-  "scrapedDate": "Thursday, October 29, 2026 at 07:07 AM CDT",
+  "scrapedAt": "2026-10-30T12:08:28.380Z",
+  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 676,
-    "sourceCount": 4983,
-    "acceptedCount": 676,
-    "excludedCount": 4307,
+    "count": 843,
+    "sourceCount": 5895,
+    "acceptedCount": 843,
+    "excludedCount": 5052,
     "rejectedCount": 0,
-    "publishedCount": 676,
-    "providerFetchedAt": "2026-10-29T12:06:26.601Z",
+    "publishedCount": 843,
+    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Seattle Seahawks",
-  "totalProps": 9,
+  "totalProps": 15,
   "props": [
     {
       "projectionId": "16296185",
@@ -37,9 +37,9 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4786,
+      "rank": 5585,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237059",
@@ -58,9 +58,9 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4805,
+      "rank": 5604,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16238621",
@@ -79,9 +79,51 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4828,
+      "rank": 5629,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16294551",
+      "playerId": "246597",
+      "status": "pre_game",
+      "player": "Sam Darnold",
+      "stat": "Completion Percentage",
+      "line": "67.2",
+      "sport": "NFL",
+      "startTime": "11/02/26 07:15 PM CST",
+      "startTimeCST": "11/02/26 07:15 PM CST",
+      "startDateCST": "2026-11-02",
+      "startTimeIso": "2026-11-02T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5643,
+      "gameId": "192107",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16256886",
+      "playerId": "246597",
+      "status": "pre_game",
+      "player": "Sam Darnold",
+      "stat": "Longest Completion",
+      "line": "34.5",
+      "sport": "NFL",
+      "startTime": "11/02/26 07:15 PM CST",
+      "startTimeCST": "11/02/26 07:15 PM CST",
+      "startDateCST": "2026-11-02",
+      "startTimeIso": "2026-11-02T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5682,
+      "gameId": "192107",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16256848",
@@ -100,17 +142,17 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4859,
+      "rank": 5692,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16289062",
-      "playerId": "246597",
+      "projectionId": "16256874",
+      "playerId": "211247",
       "status": "pre_game",
-      "player": "Sam Darnold",
-      "stat": "Pass Completions",
-      "line": "19.5",
+      "player": "Jaxon Smith-Njigba",
+      "stat": "Longest Reception",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "11/02/26 07:15 PM CST",
       "startTimeCST": "11/02/26 07:15 PM CST",
@@ -121,9 +163,72 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4886,
+      "rank": 5697,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16413697",
+      "playerId": "215430",
+      "status": "pre_game",
+      "player": "AJ Barner",
+      "stat": "Receiving Yards",
+      "line": "29.5",
+      "sport": "NFL",
+      "startTime": "11/02/26 07:15 PM CST",
+      "startTimeCST": "11/02/26 07:15 PM CST",
+      "startDateCST": "2026-11-02",
+      "startTimeIso": "2026-11-02T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5710,
+      "gameId": "192107",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16289062",
+      "playerId": "246597",
+      "status": "pre_game",
+      "player": "Sam Darnold",
+      "stat": "Pass Completions",
+      "line": "20",
+      "sport": "NFL",
+      "startTime": "11/02/26 07:15 PM CST",
+      "startTimeCST": "11/02/26 07:15 PM CST",
+      "startDateCST": "2026-11-02",
+      "startTimeIso": "2026-11-02T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5737,
+      "gameId": "192107",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16416871",
+      "playerId": "215430",
+      "status": "pre_game",
+      "player": "AJ Barner",
+      "stat": "Longest Reception",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/02/26 07:15 PM CST",
+      "startTimeCST": "11/02/26 07:15 PM CST",
+      "startDateCST": "2026-11-02",
+      "startTimeIso": "2026-11-02T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5774,
+      "gameId": "192107",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16300980",
@@ -142,9 +247,9 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4906,
+      "rank": 5786,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237029",
@@ -163,9 +268,30 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4930,
+      "rank": 5822,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16256845",
+      "playerId": "246597",
+      "status": "pre_game",
+      "player": "Sam Darnold",
+      "stat": "Longest Rush",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/02/26 07:15 PM CST",
+      "startTimeCST": "11/02/26 07:15 PM CST",
+      "startDateCST": "2026-11-02",
+      "startTimeIso": "2026-11-02T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5823,
+      "gameId": "192107",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16256946",
@@ -184,9 +310,9 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4954,
+      "rank": 5860,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16357350",
@@ -205,9 +331,9 @@
       "teamCode": "SEA",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4983,
+      "rank": 5892,
       "gameId": "192107",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     }
   ]
 }

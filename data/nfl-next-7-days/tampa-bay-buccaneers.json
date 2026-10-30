@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-29T12:07:36.462Z",
-  "scrapedDate": "Thursday, October 29, 2026 at 07:07 AM CDT",
+  "scrapedAt": "2026-10-30T12:08:28.380Z",
+  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 676,
-    "sourceCount": 4983,
-    "acceptedCount": 676,
-    "excludedCount": 4307,
+    "count": 843,
+    "sourceCount": 5895,
+    "acceptedCount": 843,
+    "excludedCount": 5052,
     "rejectedCount": 0,
-    "publishedCount": 676,
-    "providerFetchedAt": "2026-10-29T12:06:26.601Z",
+    "publishedCount": 843,
+    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 23,
+  "totalProps": 36,
   "props": [
     {
       "projectionId": "16237056",
@@ -37,9 +37,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 2985,
+      "rank": 2891,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237755",
@@ -58,9 +58,30 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3033,
+      "rank": 2949,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16307573",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Completion Percentage",
+      "line": "66.1",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 2950,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16360616",
@@ -79,9 +100,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3049,
+      "rank": 2974,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243361",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Baker Mayfield",
       "stat": "Longest Completion",
-      "line": "34.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -100,9 +121,30 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3065,
+      "rank": 3004,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16406506",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Receiving Yards",
+      "line": "30.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3014,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243326",
@@ -110,7 +152,7 @@
       "status": "pre_game",
       "player": "Baker Mayfield",
       "stat": "Pass Attempts",
-      "line": "29.5",
+      "line": "30",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -121,9 +163,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3079,
+      "rank": 3016,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16361109",
@@ -142,9 +184,72 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3090,
+      "rank": 3029,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16406507",
+      "playerId": "336287",
+      "status": "pre_game",
+      "player": "Ted Hurst III",
+      "stat": "Receiving Yards",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3062,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16406511",
+      "playerId": "254945",
+      "status": "pre_game",
+      "player": "Tez Johnson",
+      "stat": "Receiving Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3068,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16307753",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3071,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16372525",
@@ -163,9 +268,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3122,
+      "rank": 3072,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243420",
@@ -184,9 +289,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3131,
+      "rank": 3084,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243266",
@@ -205,9 +310,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3148,
+      "rank": 3106,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243354",
@@ -226,9 +331,30 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3152,
+      "rank": 3110,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16413208",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3116,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237002",
@@ -247,9 +373,30 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3160,
+      "rank": 3118,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16243409",
+      "playerId": "336288",
+      "status": "pre_game",
+      "player": "Kenny Gainwell",
+      "stat": "Rush Yards",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3120,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243292",
@@ -257,7 +404,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Longest Rush",
-      "line": "14.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -268,9 +415,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3161,
+      "rank": 3132,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16372517",
@@ -278,7 +425,7 @@
       "status": "pre_game",
       "player": "Chris Godwin Jr.",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -289,9 +436,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3166,
+      "rank": 3135,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243370",
@@ -310,9 +457,30 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3177,
+      "rank": 3137,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16243284",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3148,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243289",
@@ -331,30 +499,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3199,
+      "rank": 3167,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
-    },
-    {
-      "projectionId": "16345308",
-      "playerId": "212264",
-      "status": "pre_game",
-      "player": "Bucky Irving",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 3203,
-      "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243401",
@@ -373,9 +520,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3208,
+      "rank": 3176,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364221",
@@ -394,9 +541,30 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3209,
+      "rank": 3178,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16243294",
+      "playerId": "216822",
+      "status": "pre_game",
+      "player": "Sean Tucker",
+      "stat": "Longest Rush",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3193,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364220",
@@ -415,9 +583,93 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3224,
+      "rank": 3199,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16360615",
+      "playerId": "246561",
+      "status": "pre_game",
+      "player": "Emeka Egbuka",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3208,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16307752",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.2",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3222,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16429570",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Rush Attempts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3240,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16402756",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3241,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16372515",
@@ -436,9 +688,30 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3256,
+      "rank": 3253,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16420266",
+      "playerId": "254945",
+      "status": "pre_game",
+      "player": "Tez Johnson",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 3275,
+      "gameId": "191579",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16229796",
@@ -457,9 +730,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3287,
+      "rank": 3293,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16243276",
@@ -478,9 +751,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3291,
+      "rank": 3295,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16334745",
@@ -499,9 +772,9 @@
       "teamCode": "TB",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 3297,
+      "rank": 3300,
       "gameId": "191579",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     }
   ]
 }

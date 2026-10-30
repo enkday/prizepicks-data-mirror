@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-29T12:07:36.462Z",
-  "scrapedDate": "Thursday, October 29, 2026 at 07:07 AM CDT",
+  "scrapedAt": "2026-10-30T12:08:28.380Z",
+  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 676,
-    "sourceCount": 4983,
-    "acceptedCount": 676,
-    "excludedCount": 4307,
+    "count": 843,
+    "sourceCount": 5895,
+    "acceptedCount": 843,
+    "excludedCount": 5052,
     "rejectedCount": 0,
-    "publishedCount": 676,
-    "providerFetchedAt": "2026-10-29T12:06:26.601Z",
+    "publishedCount": 843,
+    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Miami Dolphins",
-  "totalProps": 28,
+  "totalProps": 36,
   "props": [
     {
       "projectionId": "16237064",
@@ -37,9 +37,30 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3794,
+      "rank": 4306,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16304828",
+      "playerId": "320301",
+      "status": "pre_game",
+      "player": "Malik Willis",
+      "stat": "Completion Percentage",
+      "line": "60",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4356,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237759",
@@ -58,9 +79,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3834,
+      "rank": 4357,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16241037",
@@ -79,9 +100,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3869,
+      "rank": 4396,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16241002",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Caleb Douglas",
       "stat": "Receiving Yards",
-      "line": "37.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3887,
+      "rank": 4425,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237018",
@@ -121,9 +142,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3889,
+      "rank": 4426,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237012",
@@ -142,9 +163,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3890,
+      "rank": 4427,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240973",
@@ -163,30 +184,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3893,
+      "rank": 4431,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
-    },
-    {
-      "projectionId": "16240894",
-      "playerId": "320301",
-      "status": "pre_game",
-      "player": "Malik Willis",
-      "stat": "Pass Attempts",
-      "line": "28.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:25 PM CST",
-      "startTimeCST": "11/01/26 03:25 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 3922,
-      "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240993",
@@ -205,17 +205,17 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3923,
+      "rank": 4468,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16240962",
-      "playerId": "336594",
+      "projectionId": "16240894",
+      "playerId": "320301",
       "status": "pre_game",
-      "player": "Caleb Douglas",
-      "stat": "Longest Reception",
-      "line": "21.5",
+      "player": "Malik Willis",
+      "stat": "Pass Attempts",
+      "line": "27.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -226,9 +226,51 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3954,
+      "rank": 4470,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16240962",
+      "playerId": "336594",
+      "status": "pre_game",
+      "player": "Caleb Douglas",
+      "stat": "Longest Reception",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4500,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16320282",
+      "playerId": "252681",
+      "status": "pre_game",
+      "player": "Ollie Gordon II",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4531,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16241022",
@@ -247,16 +289,16 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3984,
+      "rank": 4542,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16240908",
-      "playerId": "213952",
+      "projectionId": "16240875",
+      "playerId": "273240",
       "status": "pre_game",
-      "player": "Jaylen Wright",
-      "stat": "Rush Yards",
+      "player": "Greg Dulcich",
+      "stat": "Longest Reception",
       "line": "16.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
@@ -268,9 +310,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3994,
+      "rank": 4550,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240927",
@@ -289,9 +331,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3995,
+      "rank": 4551,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16241019",
@@ -310,16 +352,16 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3996,
+      "rank": 4552,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16240875",
-      "playerId": "273240",
+      "projectionId": "16240908",
+      "playerId": "213952",
       "status": "pre_game",
-      "player": "Greg Dulcich",
-      "stat": "Longest Reception",
+      "player": "Jaylen Wright",
+      "stat": "Rush Yards",
       "line": "15.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
@@ -331,9 +373,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 3999,
+      "rank": 4557,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16320279",
@@ -352,30 +394,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4001,
+      "rank": 4560,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
-    },
-    {
-      "projectionId": "16240877",
-      "playerId": "338957",
-      "status": "pre_game",
-      "player": "Chris Bell",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:25 PM CST",
-      "startTimeCST": "11/01/26 03:25 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "New England Patriots",
-      "opponentCode": "NE",
-      "rank": 4006,
-      "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240803",
@@ -394,9 +415,30 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4030,
+      "rank": 4587,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16240877",
+      "playerId": "338957",
+      "status": "pre_game",
+      "player": "Chris Bell",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4588,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240806",
@@ -415,9 +457,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4037,
+      "rank": 4596,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240961",
@@ -425,7 +467,7 @@
       "status": "pre_game",
       "player": "Ollie Gordon II",
       "stat": "Receiving Yards",
-      "line": "9.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -436,9 +478,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4049,
+      "rank": 4609,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240804",
@@ -446,7 +488,7 @@
       "status": "pre_game",
       "player": "Jaylen Wright",
       "stat": "Longest Rush",
-      "line": "7.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -457,9 +499,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4078,
+      "rank": 4665,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16240906",
@@ -467,7 +509,7 @@
       "status": "pre_game",
       "player": "Ollie Gordon II",
       "stat": "Longest Reception",
-      "line": "7.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -478,9 +520,30 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4079,
+      "rank": 4666,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16360198",
+      "playerId": "320301",
+      "status": "pre_game",
+      "player": "Malik Willis",
+      "stat": "Rush Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4670,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364209",
@@ -499,9 +562,51 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4091,
+      "rank": 4672,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16390601",
+      "playerId": "356516",
+      "status": "pre_game",
+      "player": "Zane Gonzalez",
+      "stat": "Kicking Points",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4677,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16391868",
+      "playerId": "216934",
+      "status": "pre_game",
+      "player": "Malik Washington",
+      "stat": "Rush Yards",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4687,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364208",
@@ -520,9 +625,9 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4101,
+      "rank": 4693,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364206",
@@ -541,17 +646,17 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4114,
+      "rank": 4706,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16312788",
-      "playerId": "273240",
+      "projectionId": "16364737",
+      "playerId": "213952",
       "status": "pre_game",
-      "player": "Greg Dulcich",
-      "stat": "Receptions",
-      "line": "3.5",
+      "player": "Jaylen Wright",
+      "stat": "Rush Attempts",
+      "line": "4.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -562,9 +667,30 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4123,
+      "rank": 4707,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16320283",
+      "playerId": "252681",
+      "status": "pre_game",
+      "player": "Ollie Gordon II",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.9",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4717,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364207",
@@ -583,9 +709,30 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4139,
+      "rank": 4749,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16312746",
+      "playerId": "338957",
+      "status": "pre_game",
+      "player": "Chris Bell",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4774,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364210",
@@ -604,9 +751,30 @@
       "teamCode": "MIA",
       "Opponent": "New England Patriots",
       "opponentCode": "NE",
-      "rank": 4153,
+      "rank": 4781,
       "gameId": "191586",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16372377",
+      "playerId": "336599",
+      "status": "pre_game",
+      "player": "Will Kacmarek",
+      "stat": "Receptions",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4814,
+      "gameId": "191586",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     }
   ]
 }

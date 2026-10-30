@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-29T12:07:36.462Z",
-  "scrapedDate": "Thursday, October 29, 2026 at 07:07 AM CDT",
+  "scrapedAt": "2026-10-30T12:08:28.380Z",
+  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 676,
-    "sourceCount": 4983,
-    "acceptedCount": 676,
-    "excludedCount": 4307,
+    "count": 843,
+    "sourceCount": 5895,
+    "acceptedCount": 843,
+    "excludedCount": 5052,
     "rejectedCount": 0,
-    "publishedCount": 676,
-    "providerFetchedAt": "2026-10-29T12:06:26.601Z",
+    "publishedCount": 843,
+    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 37,
+  "totalProps": 43,
   "props": [
     {
       "projectionId": "16237035",
@@ -37,9 +37,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2097,
+      "rank": 1853,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237752",
@@ -58,17 +58,17 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2144,
+      "rank": 1902,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16237991",
-      "playerId": "320271",
+      "projectionId": "16311128",
+      "playerId": "205163",
       "status": "pre_game",
-      "player": "DJ Moore",
-      "stat": "Receiving Yards",
-      "line": "54.5",
+      "player": "Josh Allen",
+      "stat": "Completion Percentage",
+      "line": "67.2",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2179,
+      "rank": 1926,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16237991",
+      "playerId": "320271",
+      "status": "pre_game",
+      "player": "DJ Moore",
+      "stat": "Receiving Yards",
+      "line": "55.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 1945,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237978",
@@ -100,9 +121,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2197,
+      "rank": 1967,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237891",
@@ -121,9 +142,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2202,
+      "rank": 1971,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237938",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Khalil Shakir",
       "stat": "Receiving Yards",
-      "line": "38.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2216,
+      "rank": 1975,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16236997",
@@ -163,9 +184,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2219,
+      "rank": 1988,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237837",
@@ -184,9 +205,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2232,
+      "rank": 1999,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16238035",
@@ -205,9 +226,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2248,
+      "rank": 2019,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237858",
@@ -226,17 +247,17 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2274,
+      "rank": 2048,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
-      "projectionId": "16237869",
-      "playerId": "211117",
+      "projectionId": "16311277",
+      "playerId": "210711",
       "status": "pre_game",
-      "player": "Dalton Kincaid",
-      "stat": "Longest Reception",
-      "line": "20.5",
+      "player": "James Cook III",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2299,
+      "rank": 2064,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16304656",
@@ -268,9 +289,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2300,
+      "rank": 2073,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16237869",
+      "playerId": "211117",
+      "status": "pre_game",
+      "player": "Dalton Kincaid",
+      "stat": "Longest Reception",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2079,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237845",
@@ -289,30 +331,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2341,
+      "rank": 2117,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
-    },
-    {
-      "projectionId": "16237855",
-      "playerId": "212045",
-      "status": "pre_game",
-      "player": "Keon Coleman",
-      "stat": "Longest Reception",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 2342,
-      "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16308337",
@@ -331,9 +352,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2343,
+      "rank": 2118,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16237855",
+      "playerId": "212045",
+      "status": "pre_game",
+      "player": "Keon Coleman",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2122,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237881",
@@ -352,9 +394,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2348,
+      "rank": 2123,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16342653",
@@ -373,9 +415,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2361,
+      "rank": 2137,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237849",
@@ -394,9 +436,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2390,
+      "rank": 2163,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16342655",
@@ -415,30 +457,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2403,
+      "rank": 2178,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
-    },
-    {
-      "projectionId": "16347115",
-      "playerId": "246554",
-      "status": "pre_game",
-      "player": "Joshua Palmer",
-      "stat": "Longest Reception",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 2405,
-      "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237983",
@@ -457,9 +478,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2410,
+      "rank": 2184,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16347115",
+      "playerId": "246554",
+      "status": "pre_game",
+      "player": "Joshua Palmer",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2197,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16347237",
@@ -478,9 +520,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2425,
+      "rank": 2198,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237875",
@@ -499,30 +541,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2439,
+      "rank": 2222,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
-    },
-    {
-      "projectionId": "16237857",
-      "playerId": "211930",
-      "status": "pre_game",
-      "player": "Dawson Knox",
-      "stat": "Longest Reception",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 2445,
-      "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237961",
@@ -541,9 +562,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2446,
+      "rank": 2229,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16390607",
+      "playerId": "207089",
+      "status": "pre_game",
+      "player": "Tyler Bass",
+      "stat": "Kicking Points",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2234,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16311278",
@@ -562,9 +604,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2453,
+      "rank": 2239,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364170",
@@ -583,9 +625,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2454,
+      "rank": 2240,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16237857",
+      "playerId": "211930",
+      "status": "pre_game",
+      "player": "Dawson Knox",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2241,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364174",
@@ -604,9 +667,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2477,
+      "rank": 2267,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16311276",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.7",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2269,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16359924",
@@ -625,9 +709,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2499,
+      "rank": 2288,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364168",
@@ -646,9 +730,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2500,
+      "rank": 2289,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364173",
@@ -667,9 +751,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2523,
+      "rank": 2336,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16372528",
+      "playerId": "207085",
+      "status": "pre_game",
+      "player": "Ray Davis",
+      "stat": "Longest Rush",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2337,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364175",
@@ -688,9 +793,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2547,
+      "rank": 2365,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364171",
@@ -709,9 +814,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2550,
+      "rank": 2374,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364172",
@@ -730,9 +835,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2551,
+      "rank": 2375,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16308344",
@@ -751,9 +856,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2564,
+      "rank": 2388,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16364169",
@@ -772,9 +877,9 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2570,
+      "rank": 2394,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     },
     {
       "projectionId": "16237897",
@@ -793,9 +898,30 @@
       "teamCode": "BUF",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 2597,
+      "rank": 2433,
       "gameId": "191577",
-      "providerFetchedAt": "2026-10-29T12:06:26.601Z"
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+    },
+    {
+      "projectionId": "16400738",
+      "playerId": "153664",
+      "status": "pre_game",
+      "player": "Greg Rousseau",
+      "stat": "Sacks",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 2448,
+      "gameId": "191577",
+      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
     }
   ]
 }
