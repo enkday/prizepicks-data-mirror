@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-30T12:08:28.380Z",
-  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-31T12:05:58.542Z",
+  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 843,
-    "sourceCount": 5895,
-    "acceptedCount": 843,
-    "excludedCount": 5052,
+    "count": 968,
+    "sourceCount": 7072,
+    "acceptedCount": 968,
+    "excludedCount": 6104,
     "rejectedCount": 0,
-    "publishedCount": 843,
-    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
+    "publishedCount": 968,
+    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Jets",
-  "totalProps": 30,
+  "totalProps": 28,
   "props": [
     {
       "projectionId": "16237060",
@@ -37,9 +37,30 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3324,
+      "rank": 4066,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16443947",
+      "playerId": "320300",
+      "status": "pre_game",
+      "player": "Geno Smith",
+      "stat": "Passer Rating",
+      "line": "94.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4091,
+      "gameId": "191578",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16363275",
@@ -58,9 +79,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3378,
+      "rank": 4111,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16238605",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Garrett Wilson",
       "stat": "Receiving Yards",
-      "line": "62.5",
+      "line": "63.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -79,30 +100,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3379,
+      "rank": 4112,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16361246",
-      "playerId": "206316",
-      "status": "pre_game",
-      "player": "Breece Hall",
-      "stat": "Rush Yards",
-      "line": "56.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3392,
-      "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16238604",
@@ -121,9 +121,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3412,
+      "rank": 4143,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242142",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Geno Smith",
       "stat": "Longest Completion",
-      "line": "34.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3435,
+      "rank": 4162,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242149",
@@ -163,9 +163,30 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3442,
+      "rank": 4173,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16242225",
+      "playerId": "278336",
+      "status": "pre_game",
+      "player": "Adonai Mitchell",
+      "stat": "Receiving Yards",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4206,
+      "gameId": "191578",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242173",
@@ -184,9 +205,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3486,
+      "rank": 4219,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242196",
@@ -205,16 +226,16 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3487,
+      "rank": 4220,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16242225",
-      "playerId": "278336",
+      "projectionId": "16242164",
+      "playerId": "336565",
       "status": "pre_game",
-      "player": "Adonai Mitchell",
-      "stat": "Receiving Yards",
+      "player": "Omar Cooper Jr.",
+      "stat": "Longest Reception",
       "line": "21.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -226,30 +247,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3489,
+      "rank": 4221,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16242164",
-      "playerId": "336565",
-      "status": "pre_game",
-      "player": "Omar Cooper Jr.",
-      "stat": "Longest Reception",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3501,
-      "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16250801",
@@ -257,7 +257,7 @@
       "status": "pre_game",
       "player": "Geno Smith",
       "stat": "Pass Completions",
-      "line": "19.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -268,17 +268,17 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3507,
+      "rank": 4227,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16361242",
-      "playerId": "206316",
+      "projectionId": "16242214",
+      "playerId": "278336",
       "status": "pre_game",
-      "player": "Breece Hall",
-      "stat": "Receiving Yards",
-      "line": "18.5",
+      "player": "Adonai Mitchell",
+      "stat": "Longest Reception",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -289,9 +289,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3527,
+      "rank": 4259,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242194",
@@ -310,17 +310,17 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3534,
+      "rank": 4264,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16242214",
-      "playerId": "278336",
+      "projectionId": "16242209",
+      "playerId": "336567",
       "status": "pre_game",
-      "player": "Adonai Mitchell",
+      "player": "Kenyon Sadiq",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -331,30 +331,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3541,
+      "rank": 4298,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16361240",
-      "playerId": "206316",
-      "status": "pre_game",
-      "player": "Breece Hall",
-      "stat": "Longest Rush",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3564,
-      "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242229",
@@ -373,51 +352,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3575,
+      "rank": 4299,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16242209",
-      "playerId": "336567",
-      "status": "pre_game",
-      "player": "Kenyon Sadiq",
-      "stat": "Longest Reception",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3581,
-      "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16361239",
-      "playerId": "206316",
-      "status": "pre_game",
-      "player": "Breece Hall",
-      "stat": "Longest Reception",
-      "line": "8",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Jets",
-      "teamCode": "NYJ",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3613,
-      "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16364212",
@@ -436,9 +373,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3620,
+      "rank": 4347,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16237008",
@@ -457,9 +394,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3624,
+      "rank": 4352,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242133",
@@ -467,7 +404,7 @@
       "status": "pre_game",
       "player": "Geno Smith",
       "stat": "Longest Rush",
-      "line": "5.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -478,9 +415,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3637,
+      "rank": 4353,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16242212",
@@ -499,9 +436,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3639,
+      "rank": 4367,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16364213",
@@ -520,9 +457,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3649,
+      "rank": 4375,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16364215",
@@ -541,9 +478,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3662,
+      "rank": 4398,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16364211",
@@ -562,9 +499,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3677,
+      "rank": 4413,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16364214",
@@ -583,16 +520,16 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3684,
+      "rank": 4426,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16418179",
-      "playerId": "206316",
+      "projectionId": "16242159",
+      "playerId": "320300",
       "status": "pre_game",
-      "player": "Breece Hall",
-      "stat": "Receptions",
+      "player": "Geno Smith",
+      "stat": "Rush Attempts",
       "line": "2.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -604,17 +541,17 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3702,
+      "rank": 4428,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16242137",
+      "projectionId": "16440373",
       "playerId": "320300",
       "status": "pre_game",
       "player": "Geno Smith",
-      "stat": "Pass TDs",
-      "line": "1.5",
+      "stat": "Sacks Taken",
+      "line": "2.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -625,9 +562,9 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3709,
+      "rank": 4442,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16245656",
@@ -646,9 +583,30 @@
       "teamCode": "NYJ",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3714,
+      "rank": 4458,
       "gameId": "191578",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16420243",
+      "playerId": "260613",
+      "status": "pre_game",
+      "player": "Austin McNamara",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Jets",
+      "teamCode": "NYJ",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4465,
+      "gameId": "191578",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     }
   ]
 }

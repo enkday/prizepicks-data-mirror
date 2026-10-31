@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-30T12:08:28.380Z",
-  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-31T12:05:58.542Z",
+  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 843,
-    "sourceCount": 5895,
-    "acceptedCount": 843,
-    "excludedCount": 5052,
+    "count": 968,
+    "sourceCount": 7072,
+    "acceptedCount": 968,
+    "excludedCount": 6104,
     "rejectedCount": 0,
-    "publishedCount": 843,
-    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
+    "publishedCount": 968,
+    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 36,
+  "totalProps": 41,
   "props": [
     {
       "projectionId": "16237044",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Pass Yards",
-      "line": "202.5",
+      "line": "205.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3786,
+      "rank": 4564,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16443955",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Passer Rating",
+      "line": "79.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4608,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16360312",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Completion Percentage",
-      "line": "61.9",
+      "line": "60.2",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3838,
+      "rank": 4624,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16238611",
@@ -79,9 +100,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3875,
+      "rank": 4661,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16351219",
@@ -100,30 +121,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3905,
+      "rank": 4695,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16390731",
-      "playerId": "169519",
-      "status": "pre_game",
-      "player": "Quentin Johnston",
-      "stat": "Receiving Yards",
-      "line": "33.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:05 PM CST",
-      "startTimeCST": "11/01/26 03:05 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 3910,
-      "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16351222",
@@ -142,9 +142,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3913,
+      "rank": 4701,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16237757",
@@ -163,17 +163,17 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3914,
+      "rank": 4702,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16237010",
-      "playerId": "211058",
+      "projectionId": "16390731",
+      "playerId": "169519",
       "status": "pre_game",
-      "player": "Justin Herbert",
-      "stat": "Rush Yards",
-      "line": "25.5",
+      "player": "Quentin Johnston",
+      "stat": "Receiving Yards",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -184,9 +184,51 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3950,
+      "rank": 4705,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16445471",
+      "playerId": "244040",
+      "status": "pre_game",
+      "player": "Tre' Harris",
+      "stat": "Receiving Yards",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4738,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16237010",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Rush Yards",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4754,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16387637",
@@ -205,9 +247,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3970,
+      "rank": 4757,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16349797",
@@ -226,17 +268,17 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 3977,
+      "rank": 4765,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16387664",
-      "playerId": "336276",
+      "projectionId": "16351217",
+      "playerId": "211058",
       "status": "pre_game",
-      "player": "Charlie Kolar",
-      "stat": "Receiving Yards",
-      "line": "19.5",
+      "player": "Justin Herbert",
+      "stat": "Pass Completions",
+      "line": "19",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -247,16 +289,16 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4001,
+      "rank": 4806,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16351217",
-      "playerId": "211058",
+      "projectionId": "16387664",
+      "playerId": "336276",
       "status": "pre_game",
-      "player": "Justin Herbert",
-      "stat": "Pass Completions",
+      "player": "Charlie Kolar",
+      "stat": "Receiving Yards",
       "line": "18.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
@@ -268,9 +310,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4018,
+      "rank": 4809,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16390724",
@@ -289,9 +331,51 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4019,
+      "rank": 4810,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16445477",
+      "playerId": "244040",
+      "status": "pre_game",
+      "player": "Tre' Harris",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4816,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16389905",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4823,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16390759",
@@ -310,30 +394,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4032,
+      "rank": 4824,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16389905",
-      "playerId": "336552",
-      "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Rush Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:05 PM CST",
-      "startTimeCST": "11/01/26 03:05 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4040,
-      "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16390137",
@@ -352,9 +415,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4068,
+      "rank": 4859,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16390139",
@@ -373,9 +436,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4069,
+      "rank": 4860,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16389893",
@@ -394,9 +457,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4073,
+      "rank": 4864,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16390758",
@@ -415,9 +478,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4074,
+      "rank": 4865,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16389035",
@@ -436,9 +499,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4091,
+      "rank": 4884,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16389882",
@@ -457,30 +520,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4112,
+      "rank": 4908,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16407729",
-      "playerId": "336552",
-      "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Longest Rush",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:05 PM CST",
-      "startTimeCST": "11/01/26 03:05 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4113,
-      "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16387660",
@@ -499,9 +541,30 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4118,
+      "rank": 4913,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16389880",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Longest Rush",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4915,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16389890",
@@ -520,9 +583,30 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4127,
+      "rank": 4925,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16389897",
+      "playerId": "216816",
+      "status": "pre_game",
+      "player": "Kimani Vidal",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4926,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16389899",
@@ -541,9 +625,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4128,
+      "rank": 4927,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16364205",
@@ -562,9 +646,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4131,
+      "rank": 4929,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16387667",
@@ -583,9 +667,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4139,
+      "rank": 4938,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16389879",
@@ -604,51 +688,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4144,
+      "rank": 4942,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16389884",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Longest Reception",
-      "line": "5.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:05 PM CST",
-      "startTimeCST": "11/01/26 03:05 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4145,
-      "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16389897",
-      "playerId": "216816",
-      "status": "pre_game",
-      "player": "Kimani Vidal",
-      "stat": "Longest Reception",
-      "line": "5.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:05 PM CST",
-      "startTimeCST": "11/01/26 03:05 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4146,
-      "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16389891",
@@ -667,9 +709,72 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4157,
+      "rank": 4949,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16405843",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Longest Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4959,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16420235",
+      "playerId": "220165",
+      "status": "pre_game",
+      "player": "JK Scott",
+      "stat": "Punts",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4961,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440375",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Sacks Taken",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 4973,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16402748",
@@ -688,30 +793,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4188,
+      "rank": 4991,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16390723",
-      "playerId": "169519",
-      "status": "pre_game",
-      "player": "Quentin Johnston",
-      "stat": "Receptions",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:05 PM CST",
-      "startTimeCST": "11/01/26 03:05 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Los Angeles Rams",
-      "opponentCode": "LA",
-      "rank": 4203,
-      "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16402749",
@@ -730,9 +814,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4209,
+      "rank": 5021,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16402750",
@@ -751,9 +835,30 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4233,
+      "rank": 5044,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16453987",
+      "playerId": "211252",
+      "status": "pre_game",
+      "player": "Cameron Dicker",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Los Angeles Rams",
+      "opponentCode": "LA",
+      "rank": 5052,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16402339",
@@ -772,9 +877,9 @@
       "teamCode": "LAC",
       "Opponent": "Los Angeles Rams",
       "opponentCode": "LA",
-      "rank": 4236,
+      "rank": 5058,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     }
   ]
 }

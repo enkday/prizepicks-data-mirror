@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-30T12:08:28.380Z",
-  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-31T12:05:58.542Z",
+  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 843,
-    "sourceCount": 5895,
-    "acceptedCount": 843,
-    "excludedCount": 5052,
+    "count": 968,
+    "sourceCount": 7072,
+    "acceptedCount": 968,
+    "excludedCount": 6104,
     "rejectedCount": 0,
-    "publishedCount": 843,
-    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
+    "publishedCount": 968,
+    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Minnesota Vikings",
-  "totalProps": 22,
+  "totalProps": 35,
   "props": [
     {
       "projectionId": "16237052",
@@ -37,9 +37,30 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2494,
+      "rank": 3009,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16443942",
+      "playerId": "320283",
+      "status": "pre_game",
+      "player": "Kyler Murray",
+      "stat": "Passer Rating",
+      "line": "86.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3050,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236611",
@@ -58,9 +79,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2537,
+      "rank": 3056,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16265824",
@@ -79,17 +100,17 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2549,
+      "rank": 3068,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16236687",
-      "playerId": "217134",
+      "projectionId": "16440710",
+      "playerId": "246524",
       "status": "pre_game",
-      "player": "T.J. Hockenson",
-      "stat": "Receiving Yards",
-      "line": "39.5",
+      "player": "Jordan Mason",
+      "stat": "Rush Yards",
+      "line": "49.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -100,9 +121,30 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2585,
+      "rank": 3091,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16236687",
+      "playerId": "217134",
+      "status": "pre_game",
+      "player": "T.J. Hockenson",
+      "stat": "Receiving Yards",
+      "line": "40.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3102,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236599",
@@ -121,9 +163,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2592,
+      "rank": 3119,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236682",
@@ -142,9 +184,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2594,
+      "rank": 3121,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236506",
@@ -163,9 +205,30 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2605,
+      "rank": 3133,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440713",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Rush Yards",
+      "line": "29.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3157,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236665",
@@ -184,9 +247,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2632,
+      "rank": 3164,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236999",
@@ -205,9 +268,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2638,
+      "rank": 3167,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236607",
@@ -226,9 +289,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2671,
+      "rank": 3205,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236579",
@@ -247,9 +310,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2683,
+      "rank": 3224,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236609",
@@ -268,9 +331,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2693,
+      "rank": 3234,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236492",
@@ -278,7 +341,7 @@
       "status": "pre_game",
       "player": "Jauan Jennings",
       "stat": "Receiving Yards",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -289,9 +352,72 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2710,
+      "rank": 3239,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440678",
+      "playerId": "246524",
+      "status": "pre_game",
+      "player": "Jordan Mason",
+      "stat": "Longest Rush",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3269,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16236501",
+      "playerId": "320283",
+      "status": "pre_game",
+      "player": "Kyler Murray",
+      "stat": "Longest Rush",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3270,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16441532",
+      "playerId": "246524",
+      "status": "pre_game",
+      "player": "Jordan Mason",
+      "stat": "Rush Attempts",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3273,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236549",
@@ -310,9 +436,30 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2724,
+      "rank": 3275,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440677",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3294,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16284248",
@@ -331,9 +478,51 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2746,
+      "rank": 3305,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440701",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Rush Attempts",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3315,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440702",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3316,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16284249",
@@ -352,9 +541,30 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2763,
+      "rank": 3325,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440690",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3326,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236562",
@@ -373,9 +583,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2764,
+      "rank": 3328,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16284250",
@@ -394,9 +604,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2775,
+      "rank": 3338,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236563",
@@ -415,16 +625,16 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2782,
+      "rank": 3346,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16294194",
-      "playerId": "320283",
+      "projectionId": "16440689",
+      "playerId": "246524",
       "status": "pre_game",
-      "player": "Kyler Murray",
-      "stat": "Rush Attempts",
+      "player": "Jordan Mason",
+      "stat": "Longest Reception",
       "line": "4.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -436,9 +646,72 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2785,
+      "rank": 3355,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440696",
+      "playerId": "246524",
+      "status": "pre_game",
+      "player": "Jordan Mason",
+      "stat": "Receiving Yards",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3356,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16294194",
+      "playerId": "320283",
+      "status": "pre_game",
+      "player": "Kyler Murray",
+      "stat": "Rush Attempts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3373,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440369",
+      "playerId": "320283",
+      "status": "pre_game",
+      "player": "Kyler Murray",
+      "stat": "Sacks Taken",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 3400,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16385599",
@@ -457,9 +730,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2831,
+      "rank": 3433,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16412620",
@@ -478,9 +751,9 @@
       "teamCode": "MIN",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 2833,
+      "rank": 3435,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     }
   ]
 }

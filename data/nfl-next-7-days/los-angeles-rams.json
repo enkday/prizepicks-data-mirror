@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-30T12:08:28.380Z",
-  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-31T12:05:58.542Z",
+  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 843,
-    "sourceCount": 5895,
-    "acceptedCount": 843,
-    "excludedCount": 5052,
+    "count": 968,
+    "sourceCount": 7072,
+    "acceptedCount": 968,
+    "excludedCount": 6104,
     "rejectedCount": 0,
-    "publishedCount": 843,
-    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
+    "publishedCount": 968,
+    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Rams",
-  "totalProps": 36,
+  "totalProps": 41,
   "props": [
     {
       "projectionId": "16361692",
@@ -37,9 +37,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3763,
+      "rank": 4536,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16237046",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Matthew Stafford",
       "stat": "Pass Yards",
-      "line": "248.5",
+      "line": "249.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3775,
+      "rank": 4553,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16443956",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Passer Rating",
+      "line": "94.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4593,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16238609",
@@ -79,9 +100,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3813,
+      "rank": 4597,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16360310",
@@ -100,9 +121,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3835,
+      "rank": 4618,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16237758",
@@ -121,9 +142,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3839,
+      "rank": 4625,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253197",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Blake Corum",
       "stat": "Rush Yards",
-      "line": "44.5",
+      "line": "47.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3874,
+      "rank": 4659,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253194",
@@ -163,9 +184,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3883,
+      "rank": 4671,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253236",
@@ -184,9 +205,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3903,
+      "rank": 4692,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253146",
@@ -205,9 +226,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3907,
+      "rank": 4697,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253233",
@@ -226,9 +247,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3949,
+      "rank": 4739,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253121",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Colby Parkinson",
       "stat": "Receiving Yards",
-      "line": "25.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3951,
+      "rank": 4741,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16238610",
@@ -268,9 +289,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3969,
+      "rank": 4755,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253131",
@@ -289,9 +310,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3971,
+      "rank": 4758,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16361130",
@@ -310,17 +331,17 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3972,
+      "rank": 4759,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16253230",
-      "playerId": "246591",
+      "projectionId": "16253161",
+      "playerId": "336251",
       "status": "pre_game",
-      "player": "Tyler Higbee",
-      "stat": "Longest Reception",
-      "line": "16.5",
+      "player": "Konata Mumpfield",
+      "stat": "Receiving Yards",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -331,9 +352,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4024,
+      "rank": 4812,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253148",
@@ -352,16 +373,16 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4025,
+      "rank": 4817,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16253161",
-      "playerId": "336251",
+      "projectionId": "16253230",
+      "playerId": "246591",
       "status": "pre_game",
-      "player": "Konata Mumpfield",
-      "stat": "Receiving Yards",
+      "player": "Tyler Higbee",
+      "stat": "Longest Reception",
       "line": "15.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
@@ -373,9 +394,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4026,
+      "rank": 4818,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16429905",
@@ -383,7 +404,7 @@
       "status": "pre_game",
       "player": "Kyren Williams",
       "stat": "Rush Attempts",
-      "line": "14.5",
+      "line": "14",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -394,9 +415,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4048,
+      "rank": 4840,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253240",
@@ -415,9 +436,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4051,
+      "rank": 4841,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253249",
@@ -436,17 +457,17 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4052,
+      "rank": 4842,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16253251",
-      "playerId": "336251",
+      "projectionId": "16390104",
+      "playerId": "246551",
       "status": "pre_game",
-      "player": "Konata Mumpfield",
-      "stat": "Longest Reception",
-      "line": "11.5",
+      "player": "Kyren Williams",
+      "stat": "Longest Rush",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:05 PM CST",
       "startTimeCST": "11/01/26 03:05 PM CST",
@@ -457,9 +478,30 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4063,
+      "rank": 4847,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16253251",
+      "playerId": "336251",
+      "status": "pre_game",
+      "player": "Konata Mumpfield",
+      "stat": "Longest Reception",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4848,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16377944",
@@ -478,9 +520,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4065,
+      "rank": 4856,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253224",
@@ -499,9 +541,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4071,
+      "rank": 4862,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253202",
@@ -520,9 +562,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4076,
+      "rank": 4868,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253174",
@@ -541,9 +583,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4114,
+      "rank": 4911,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253134",
@@ -562,9 +604,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4124,
+      "rank": 4921,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253213",
@@ -583,9 +625,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4133,
+      "rank": 4932,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16361131",
@@ -604,9 +646,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4170,
+      "rank": 4971,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16402752",
@@ -625,9 +667,51 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4171,
+      "rank": 4972,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16372589",
+      "playerId": "246591",
+      "status": "pre_game",
+      "player": "Tyler Higbee",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4979,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16351216",
+      "playerId": "246581",
+      "status": "pre_game",
+      "player": "Colby Parkinson",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5005,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253133",
@@ -646,9 +730,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4215,
+      "rank": 5027,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253223",
@@ -667,9 +751,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4217,
+      "rank": 5029,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16402751",
@@ -688,9 +772,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4234,
+      "rank": 5045,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16408511",
@@ -709,9 +793,30 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4235,
+      "rank": 5046,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16420245",
+      "playerId": "260652",
+      "status": "pre_game",
+      "player": "Ethan Evans",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:05 PM CST",
+      "startTimeCST": "11/01/26 03:05 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 5047,
+      "gameId": "191585",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16226286",
@@ -730,9 +835,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4239,
+      "rank": 5061,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16253120",
@@ -751,9 +856,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4260,
+      "rank": 5082,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16358270",
@@ -772,9 +877,9 @@
       "teamCode": "LA",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4267,
+      "rank": 5090,
       "gameId": "191585",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     }
   ]
 }

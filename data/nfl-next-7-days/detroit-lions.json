@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-30T12:08:28.380Z",
-  "scrapedDate": "Friday, October 30, 2026 at 07:08 AM CDT",
+  "scrapedAt": "2026-10-31T12:05:58.542Z",
+  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 843,
-    "sourceCount": 5895,
-    "acceptedCount": 843,
-    "excludedCount": 5052,
+    "count": 968,
+    "sourceCount": 7072,
+    "acceptedCount": 968,
+    "excludedCount": 6104,
     "rejectedCount": 0,
-    "publishedCount": 843,
-    "providerFetchedAt": "2026-10-30T12:06:17.308Z",
+    "publishedCount": 968,
+    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Detroit Lions",
-  "totalProps": 33,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "16237054",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Pass Yards",
-      "line": "261.5",
+      "line": "260.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2482,
+      "rank": 2999,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16443941",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Passer Rating",
+      "line": "95.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3044,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236515",
@@ -58,9 +79,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2530,
+      "rank": 3049,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236559",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Amon-Ra St. Brown",
       "stat": "Receiving Yards",
-      "line": "76.5",
+      "line": "78.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2536,
+      "rank": 3055,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16264882",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Jared Goff",
       "stat": "Completion Percentage",
-      "line": "65.2",
+      "line": "67.2",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2548,
+      "rank": 3067,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236654",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Jameson Williams",
       "stat": "Receiving Yards",
-      "line": "51.5",
+      "line": "50.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2558,
+      "rank": 3079,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236696",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Sam LaPorta",
       "stat": "Receiving Yards",
-      "line": "49.5",
+      "line": "45.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2569,
+      "rank": 3098,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236674",
@@ -163,9 +184,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2597,
+      "rank": 3124,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236595",
@@ -184,9 +205,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2600,
+      "rank": 3127,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236573",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Jahmyr Gibbs",
       "stat": "Receiving Yards",
-      "line": "33.5",
+      "line": "28.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2601,
+      "rank": 3159,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236602",
@@ -215,27 +236,6 @@
       "status": "pre_game",
       "player": "Jameson Williams",
       "stat": "Longest Reception",
-      "line": "23.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 2646,
-      "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
-    },
-    {
-      "projectionId": "16236647",
-      "playerId": "206305",
-      "status": "pre_game",
-      "player": "Jared Goff",
-      "stat": "Pass Completions",
       "line": "22.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -247,9 +247,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2650,
+      "rank": 3181,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236680",
@@ -268,9 +268,30 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2651,
+      "rank": 3182,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16236647",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Pass Completions",
+      "line": "22",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3185,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236590",
@@ -289,9 +310,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2653,
+      "rank": 3187,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16267395",
@@ -299,7 +320,7 @@
       "status": "pre_game",
       "player": "Jahmyr Gibbs",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "19.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -310,16 +331,16 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2679,
+      "rank": 3191,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16236635",
-      "playerId": "206311",
+      "projectionId": "16236613",
+      "playerId": "246575",
       "status": "pre_game",
-      "player": "Sam LaPorta",
-      "stat": "Longest Reception",
+      "player": "Isaac TeSlaa",
+      "stat": "Receiving Yards",
       "line": "18.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -331,16 +352,16 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2684,
+      "rank": 3225,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16236613",
-      "playerId": "246575",
+      "projectionId": "16236635",
+      "playerId": "206311",
       "status": "pre_game",
-      "player": "Isaac TeSlaa",
-      "stat": "Receiving Yards",
+      "player": "Sam LaPorta",
+      "stat": "Longest Reception",
       "line": "17.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -352,9 +373,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2686,
+      "rank": 3227,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236508",
@@ -373,15 +394,15 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2690,
+      "rank": 3232,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16236633",
-      "playerId": "206307",
+      "projectionId": "16236536",
+      "playerId": "246575",
       "status": "pre_game",
-      "player": "Jahmyr Gibbs",
+      "player": "Isaac TeSlaa",
       "stat": "Longest Reception",
       "line": "13.5",
       "sport": "NFL",
@@ -394,15 +415,15 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2711,
+      "rank": 3260,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
-      "projectionId": "16236536",
-      "playerId": "246575",
+      "projectionId": "16236633",
+      "playerId": "206307",
       "status": "pre_game",
-      "player": "Isaac TeSlaa",
+      "player": "Jahmyr Gibbs",
       "stat": "Longest Reception",
       "line": "12.5",
       "sport": "NFL",
@@ -415,9 +436,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2714,
+      "rank": 3264,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16283724",
@@ -436,9 +457,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2733,
+      "rank": 3283,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16250854",
@@ -457,9 +478,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2754,
+      "rank": 3312,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16267530",
@@ -478,9 +499,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2756,
+      "rank": 3317,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16283727",
@@ -499,9 +520,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2765,
+      "rank": 3329,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16283725",
@@ -520,9 +541,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2773,
+      "rank": 3336,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16283726",
@@ -541,9 +562,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2774,
+      "rank": 3337,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16245600",
@@ -562,9 +583,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2783,
+      "rank": 3348,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16401599",
@@ -583,9 +604,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2789,
+      "rank": 3354,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16267396",
@@ -593,7 +614,7 @@
       "status": "pre_game",
       "player": "Jahmyr Gibbs",
       "stat": "Rush Yards Per Carry",
-      "line": "3.9",
+      "line": "4.1",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -604,9 +625,72 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2790,
+      "rank": 3372,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16294253",
+      "playerId": "206307",
+      "status": "pre_game",
+      "player": "Jahmyr Gibbs",
+      "stat": "Receptions",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3374,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16440370",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Sacks Taken",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3401,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+    },
+    {
+      "projectionId": "16236518",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Rush Attempts",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 3425,
+      "gameId": "191580",
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236550",
@@ -625,9 +709,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2823,
+      "rank": 3426,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236660",
@@ -646,9 +730,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2825,
+      "rank": 3428,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16309576",
@@ -667,9 +751,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2829,
+      "rank": 3431,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16236576",
@@ -688,9 +772,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2860,
+      "rank": 3482,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     },
     {
       "projectionId": "16237001",
@@ -709,9 +793,9 @@
       "teamCode": "DET",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2862,
+      "rank": 3484,
       "gameId": "191580",
-      "providerFetchedAt": "2026-10-30T12:06:17.308Z"
+      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
     }
   ]
 }
