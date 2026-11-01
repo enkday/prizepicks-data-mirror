@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-31T12:05:58.542Z",
-  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
+  "scrapedAt": "2026-11-01T12:05:55.977Z",
+  "scrapedDate": "Sunday, November 1, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 968,
-    "sourceCount": 7072,
-    "acceptedCount": 968,
-    "excludedCount": 6104,
+    "count": 1065,
+    "sourceCount": 8164,
+    "acceptedCount": 1065,
+    "excludedCount": 7099,
     "rejectedCount": 0,
-    "publishedCount": 968,
-    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
+    "publishedCount": 1065,
+    "providerFetchedAt": "2026-11-01T12:04:46.591Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Denver Broncos",
-  "totalProps": 26,
+  "totalProps": 30,
   "props": [
     {
       "projectionId": "16237066",
@@ -37,9 +37,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5725,
+      "rank": 6454,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16443959",
@@ -58,9 +58,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5757,
+      "rank": 6487,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16302232",
@@ -79,9 +79,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5773,
+      "rank": 6505,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16301954",
@@ -100,9 +100,51 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5802,
+      "rank": 6536,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16469425",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Receiving Yards",
+      "line": "39.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6557,
+      "gameId": "191587",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16249758",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Pass Attempts",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6569,
+      "gameId": "191587",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16249833",
@@ -121,30 +163,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5824,
+      "rank": 6570,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16249758",
-      "playerId": "211036",
-      "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "Pass Attempts",
-      "line": "33",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:25 PM CST",
-      "startTimeCST": "11/01/26 03:25 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5826,
-      "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16249851",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "J.K. Dobbins",
       "stat": "Rush Yards",
-      "line": "28.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5855,
+      "rank": 6584,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16409051",
@@ -184,30 +205,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5874,
+      "rank": 6621,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16305416",
-      "playerId": "338940",
-      "status": "pre_game",
-      "player": "Jonah Coleman",
-      "stat": "Receiving Yards",
-      "line": "21.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:25 PM CST",
-      "startTimeCST": "11/01/26 03:25 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5877,
-      "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16249736",
@@ -226,17 +226,17 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5880,
+      "rank": 6626,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
-      "projectionId": "16362092",
+      "projectionId": "16305416",
       "playerId": "338940",
       "status": "pre_game",
       "player": "Jonah Coleman",
-      "stat": "Rush Yards in First 5 Attempts",
-      "line": "17.5",
+      "stat": "Receiving Yards",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -247,9 +247,51 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5922,
+      "rank": 6629,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16362092",
+      "playerId": "338940",
+      "status": "pre_game",
+      "player": "Jonah Coleman",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6645,
+      "gameId": "191587",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16470772",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6670,
+      "gameId": "191587",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16237023",
@@ -268,9 +310,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5926,
+      "rank": 6680,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16410120",
@@ -278,7 +320,7 @@
       "status": "pre_game",
       "player": "Evan Engram",
       "stat": "Longest Reception",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -289,9 +331,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5952,
+      "rank": 6698,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16305415",
@@ -310,30 +352,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5954,
+      "rank": 6712,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16305418",
-      "playerId": "338940",
-      "status": "pre_game",
-      "player": "Jonah Coleman",
-      "stat": "Longest Rush",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 03:25 PM CST",
-      "startTimeCST": "11/01/26 03:25 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 5955,
-      "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16346459",
@@ -341,7 +362,7 @@
       "status": "pre_game",
       "player": "Jonah Coleman",
       "stat": "Rush Attempts",
-      "line": "12",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -352,9 +373,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5960,
+      "rank": 6721,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16249753",
@@ -373,9 +394,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5968,
+      "rank": 6731,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16249865",
@@ -394,9 +415,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5987,
+      "rank": 6756,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16305288",
@@ -415,9 +436,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5988,
+      "rank": 6758,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16250836",
@@ -425,7 +446,7 @@
       "status": "pre_game",
       "player": "Wil Lutz",
       "stat": "Kicking Points",
-      "line": "7",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -436,9 +457,30 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 5999,
+      "rank": 6788,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16485512",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Rec Targets",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6801,
+      "gameId": "191587",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16249772",
@@ -446,7 +488,7 @@
       "status": "pre_game",
       "player": "J.K. Dobbins",
       "stat": "Receiving Yards",
-      "line": "4.5",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -457,9 +499,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6019,
+      "rank": 6802,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16249773",
@@ -467,7 +509,7 @@
       "status": "pre_game",
       "player": "J.K. Dobbins",
       "stat": "Longest Reception",
-      "line": "4.5",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
       "startTimeCST": "11/01/26 03:25 PM CST",
@@ -478,9 +520,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6020,
+      "rank": 6803,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16362087",
@@ -488,6 +530,27 @@
       "status": "pre_game",
       "player": "Jonah Coleman",
       "stat": "Rush Yards Per Carry",
+      "line": "3.9",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6849,
+      "gameId": "191587",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16485513",
+      "playerId": "246530",
+      "status": "pre_game",
+      "player": "Evan Engram",
+      "stat": "Rec Targets",
       "line": "3.5",
       "sport": "NFL",
       "startTime": "11/01/26 03:25 PM CST",
@@ -499,9 +562,30 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6042,
+      "rank": 6881,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16486277",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 03:25 PM CST",
+      "startTimeCST": "11/01/26 03:25 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 6882,
+      "gameId": "191587",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16451252",
@@ -520,9 +604,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6076,
+      "rank": 6907,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16402341",
@@ -541,9 +625,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6102,
+      "rank": 6951,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16452902",
@@ -562,9 +646,9 @@
       "teamCode": "DEN",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 6144,
+      "rank": 6994,
       "gameId": "191587",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-31T12:05:58.542Z",
-  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
+  "scrapedAt": "2026-11-01T12:05:55.977Z",
+  "scrapedDate": "Sunday, November 1, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 968,
-    "sourceCount": 7072,
-    "acceptedCount": 968,
-    "excludedCount": 6104,
+    "count": 1065,
+    "sourceCount": 8164,
+    "acceptedCount": 1065,
+    "excludedCount": 7099,
     "rejectedCount": 0,
-    "publishedCount": 968,
-    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
+    "publishedCount": 1065,
+    "providerFetchedAt": "2026-11-01T12:04:46.591Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 37,
+  "totalProps": 38,
   "props": [
     {
       "projectionId": "16237067",
@@ -37,9 +37,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6164,
+      "rank": 7030,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16443962",
@@ -58,9 +58,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6193,
+      "rank": 7058,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367093",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Completion Percentage",
-      "line": "64.9",
+      "line": "62.7",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -79,30 +79,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6208,
+      "rank": 7072,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16357917",
-      "playerId": "336581",
-      "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Rush Yards",
-      "line": "44.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 07:20 PM CST",
-      "startTimeCST": "11/01/26 07:20 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 6242,
-      "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16357868",
@@ -121,17 +100,17 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6244,
+      "rank": 7112,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
-      "projectionId": "16357858",
-      "playerId": "346119",
+      "projectionId": "16357917",
+      "playerId": "336581",
       "status": "pre_game",
-      "player": "Antonio Williams",
-      "stat": "Receiving Yards",
-      "line": "36.5",
+      "player": "Rachaad White",
+      "stat": "Rush Yards",
+      "line": "41.5",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -142,9 +121,30 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6270,
+      "rank": 7113,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16357858",
+      "playerId": "346119",
+      "status": "pre_game",
+      "player": "Antonio Williams",
+      "stat": "Receiving Yards",
+      "line": "37.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 07:20 PM CST",
+      "startTimeCST": "11/01/26 07:20 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 7137,
+      "gameId": "191821",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16237025",
@@ -163,9 +163,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6271,
+      "rank": 7140,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367094",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Longest Completion",
-      "line": "33.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6276,
+      "rank": 7143,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16238617",
@@ -205,9 +205,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6278,
+      "rank": 7146,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16363927",
@@ -226,30 +226,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6293,
+      "rank": 7160,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16357922",
-      "playerId": "278437",
-      "status": "pre_game",
-      "player": "Treylon Burks",
-      "stat": "Receiving Yards",
-      "line": "22.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 07:20 PM CST",
-      "startTimeCST": "11/01/26 07:20 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 6327,
-      "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16357905",
@@ -268,17 +247,17 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6329,
+      "rank": 7202,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
-      "projectionId": "16364313",
-      "playerId": "336581",
+      "projectionId": "16357922",
+      "playerId": "278437",
       "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Rush Yards in First 5 Attempts",
-      "line": "19.5",
+      "player": "Treylon Burks",
+      "stat": "Receiving Yards",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -289,9 +268,30 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6345,
+      "rank": 7203,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16367328",
+      "playerId": "346119",
+      "status": "pre_game",
+      "player": "Antonio Williams",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 07:20 PM CST",
+      "startTimeCST": "11/01/26 07:20 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 7242,
+      "gameId": "191821",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367091",
@@ -310,9 +310,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6369,
+      "rank": 7244,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367117",
@@ -331,17 +331,17 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6373,
+      "rank": 7248,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
-      "projectionId": "16367328",
-      "playerId": "346119",
+      "projectionId": "16364313",
+      "playerId": "336581",
       "status": "pre_game",
-      "player": "Antonio Williams",
-      "stat": "Longest Reception",
-      "line": "16.5",
+      "player": "Rachaad White",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -352,9 +352,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6375,
+      "rank": 7255,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367121",
@@ -373,9 +373,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6380,
+      "rank": 7256,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367341",
@@ -394,9 +394,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6381,
+      "rank": 7257,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16357855",
@@ -415,9 +415,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6409,
+      "rank": 7290,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367087",
@@ -436,9 +436,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6410,
+      "rank": 7291,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16357882",
@@ -457,30 +457,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6413,
+      "rank": 7294,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16367243",
-      "playerId": "336581",
-      "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Rush Attempts",
-      "line": "12",
-      "sport": "NFL",
-      "startTime": "11/01/26 07:20 PM CST",
-      "startTimeCST": "11/01/26 07:20 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 6420,
-      "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16367238",
@@ -499,9 +478,30 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6423,
+      "rank": 7304,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16367243",
+      "playerId": "336581",
+      "status": "pre_game",
+      "player": "Rachaad White",
+      "stat": "Rush Attempts",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 07:20 PM CST",
+      "startTimeCST": "11/01/26 07:20 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 7305,
+      "gameId": "191821",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16372550",
@@ -520,9 +520,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6428,
+      "rank": 7313,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16397569",
@@ -541,9 +541,30 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6466,
+      "rank": 7362,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16372540",
+      "playerId": "210778",
+      "status": "pre_game",
+      "player": "Jayden Daniels",
+      "stat": "Rush Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 07:20 PM CST",
+      "startTimeCST": "11/01/26 07:20 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 7388,
+      "gameId": "191821",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364222",
@@ -562,9 +583,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6483,
+      "rank": 7402,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364224",
@@ -583,9 +604,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6501,
+      "rank": 7425,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364223",
@@ -604,9 +625,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6507,
+      "rank": 7431,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16420236",
@@ -625,9 +646,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6509,
+      "rank": 7433,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16357931",
@@ -646,9 +667,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6525,
+      "rank": 7451,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364314",
@@ -656,7 +677,7 @@
       "status": "pre_game",
       "player": "Rachaad White",
       "stat": "Rush Yards Per Carry",
-      "line": "3.9",
+      "line": "3.2",
       "sport": "NFL",
       "startTime": "11/01/26 07:20 PM CST",
       "startTimeCST": "11/01/26 07:20 PM CST",
@@ -667,9 +688,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6526,
+      "rank": 7485,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16402759",
@@ -688,9 +709,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6545,
+      "rank": 7487,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16440378",
@@ -709,9 +730,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6546,
+      "rank": 7488,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364225",
@@ -730,9 +751,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6558,
+      "rank": 7500,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16402758",
@@ -751,9 +772,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6567,
+      "rank": 7512,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16348733",
@@ -772,9 +793,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6571,
+      "rank": 7518,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16316136",
@@ -793,9 +814,9 @@
       "teamCode": "WAS",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 6618,
+      "rank": 7575,
       "gameId": "191821",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     }
   ]
 }

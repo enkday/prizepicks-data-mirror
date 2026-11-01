@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-10-31T12:05:58.542Z",
-  "scrapedDate": "Saturday, October 31, 2026 at 07:05 AM CDT",
+  "scrapedAt": "2026-11-01T12:05:55.977Z",
+  "scrapedDate": "Sunday, November 1, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 968,
-    "sourceCount": 7072,
-    "acceptedCount": 968,
-    "excludedCount": 6104,
+    "count": 1065,
+    "sourceCount": 8164,
+    "acceptedCount": 1065,
+    "excludedCount": 7099,
     "rejectedCount": 0,
-    "publishedCount": 968,
-    "providerFetchedAt": "2026-10-31T12:04:48.084Z",
+    "publishedCount": 1065,
+    "providerFetchedAt": "2026-11-01T12:04:46.591Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 43,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "16235133",
@@ -37,9 +37,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1773,
+      "rank": 1953,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16443944",
@@ -58,9 +58,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1804,
+      "rank": 1988,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235236",
@@ -79,9 +79,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1834,
+      "rank": 2014,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235238",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Bhayshul Tuten",
       "stat": "Rush Yards",
-      "line": "64.5",
+      "line": "66.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1835,
+      "rank": 2015,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16308527",
@@ -121,30 +121,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1836,
+      "rank": 2016,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16235248",
-      "playerId": "213935",
-      "status": "pre_game",
-      "player": "Brenton Strange",
-      "stat": "Receiving Yards",
-      "line": "40.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 1871,
-      "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235065",
@@ -163,9 +142,30 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1874,
+      "rank": 2057,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16235248",
+      "playerId": "213935",
+      "status": "pre_game",
+      "player": "Brenton Strange",
+      "stat": "Receiving Yards",
+      "line": "39.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2067,
+      "gameId": "191582",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235097",
@@ -184,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1897,
+      "rank": 2083,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235186",
@@ -205,9 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1904,
+      "rank": 2088,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235188",
@@ -226,9 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1911,
+      "rank": 2094,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235173",
@@ -247,16 +247,16 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1950,
+      "rank": 2136,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
-      "projectionId": "16331845",
-      "playerId": "246555",
+      "projectionId": "16235096",
+      "playerId": "339223",
       "status": "pre_game",
-      "player": "Bhayshul Tuten",
-      "stat": "Rush Yards in First 5 Attempts",
+      "player": "Josh Cameron",
+      "stat": "Receiving Yards",
       "line": "22.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -268,16 +268,16 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1966,
+      "rank": 2149,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
-      "projectionId": "16235096",
-      "playerId": "339223",
+      "projectionId": "16331845",
+      "playerId": "246555",
       "status": "pre_game",
-      "player": "Josh Cameron",
-      "stat": "Receiving Yards",
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards in First 5 Attempts",
       "line": "21.5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -289,9 +289,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1967,
+      "rank": 2153,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235083",
@@ -310,9 +310,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1980,
+      "rank": 2160,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235089",
@@ -331,9 +331,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2011,
+      "rank": 2199,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235106",
@@ -352,9 +352,51 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2012,
+      "rank": 2200,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16345110",
+      "playerId": "212842",
+      "status": "pre_game",
+      "player": "Brian Thomas Jr.",
+      "stat": "Receiving Yards",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2209,
+      "gameId": "191582",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16434822",
+      "playerId": "246559",
+      "status": "pre_game",
+      "player": "Travis Hunter",
+      "stat": "Receiving Yards",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2210,
+      "gameId": "191582",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235270",
@@ -373,30 +415,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2023,
+      "rank": 2213,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16345110",
-      "playerId": "212842",
-      "status": "pre_game",
-      "player": "Brian Thomas Jr.",
-      "stat": "Receiving Yards",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2026,
-      "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16240422",
@@ -415,30 +436,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2030,
+      "rank": 2220,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16434822",
-      "playerId": "246559",
-      "status": "pre_game",
-      "player": "Travis Hunter",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2045,
-      "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235091",
@@ -457,9 +457,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2057,
+      "rank": 2249,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235259",
@@ -478,9 +478,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2059,
+      "rank": 2251,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16345107",
@@ -499,9 +499,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2066,
+      "rank": 2258,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235217",
@@ -520,9 +520,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2070,
+      "rank": 2265,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16236995",
@@ -541,9 +541,30 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2071,
+      "rank": 2266,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16434841",
+      "playerId": "246559",
+      "status": "pre_game",
+      "player": "Travis Hunter",
+      "stat": "Longest Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2269,
+      "gameId": "191582",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235159",
@@ -562,9 +583,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2078,
+      "rank": 2278,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235269",
@@ -583,30 +604,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2080,
+      "rank": 2280,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16434841",
-      "playerId": "246559",
-      "status": "pre_game",
-      "player": "Travis Hunter",
-      "stat": "Longest Reception",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2097,
-      "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16390474",
@@ -625,9 +625,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2119,
+      "rank": 2317,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16234985",
@@ -646,9 +646,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2123,
+      "rank": 2323,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235055",
@@ -667,9 +667,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2124,
+      "rank": 2324,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16235193",
@@ -688,9 +688,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2128,
+      "rank": 2328,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16313372",
@@ -709,9 +709,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2130,
+      "rank": 2330,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364197",
@@ -719,6 +719,27 @@
       "status": "pre_game",
       "player": "Brenton Strange",
       "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2365,
+      "gameId": "191582",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16235166",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Receptions",
       "line": "5",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
@@ -730,9 +751,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2161,
+      "rank": 2373,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364198",
@@ -751,30 +772,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2162,
+      "rank": 2374,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
-    },
-    {
-      "projectionId": "16235166",
-      "playerId": "216955",
-      "status": "pre_game",
-      "player": "Parker Washington",
-      "stat": "Receptions",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "11/01/26 12:00 PM CST",
-      "startTimeCST": "11/01/26 12:00 PM CST",
-      "startDateCST": "2026-11-01",
-      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2164,
-      "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16331846",
@@ -782,7 +782,7 @@
       "status": "pre_game",
       "player": "Bhayshul Tuten",
       "stat": "Rush Yards Per Carry",
-      "line": "4.5",
+      "line": "4.2",
       "sport": "NFL",
       "startTime": "11/01/26 12:00 PM CST",
       "startTimeCST": "11/01/26 12:00 PM CST",
@@ -793,9 +793,30 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2173,
+      "rank": 2406,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
+    },
+    {
+      "projectionId": "16235145",
+      "playerId": "213935",
+      "status": "pre_game",
+      "player": "Brenton Strange",
+      "stat": "Receptions",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/01/26 12:00 PM CST",
+      "startTimeCST": "11/01/26 12:00 PM CST",
+      "startDateCST": "2026-11-01",
+      "startTimeIso": "2026-11-01T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2407,
+      "gameId": "191582",
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16465844",
@@ -814,9 +835,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2212,
+      "rank": 2431,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16420225",
@@ -835,9 +856,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2214,
+      "rank": 2440,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16364196",
@@ -856,9 +877,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2226,
+      "rank": 2452,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16345113",
@@ -877,9 +898,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2252,
+      "rank": 2478,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16440366",
@@ -898,9 +919,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2264,
+      "rank": 2492,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     },
     {
       "projectionId": "16283437",
@@ -919,9 +940,9 @@
       "teamCode": "JAC",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2302,
+      "rank": 2537,
       "gameId": "191582",
-      "providerFetchedAt": "2026-10-31T12:04:48.084Z"
+      "providerFetchedAt": "2026-11-01T12:04:46.591Z"
     }
   ]
 }
