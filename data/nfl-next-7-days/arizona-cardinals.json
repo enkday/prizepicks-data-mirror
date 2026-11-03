@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-11-03T12:07:06.700Z",
+  "scrapedDate": "Tuesday, November 3, 2026 at 06:07 AM CST",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NFL",
+    "ok": true,
+    "status": 200,
+    "count": 474,
+    "sourceCount": 2983,
+    "acceptedCount": 474,
+    "excludedCount": 2509,
+    "rejectedCount": 0,
+    "publishedCount": 474,
+    "providerFetchedAt": "2026-11-03T12:05:07.981Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NFL",
+  "day": "next-7-days",
+  "team": "Arizona Cardinals",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "16577049",
+      "playerId": "211118",
+      "status": "pre_game",
+      "player": "Trey McBride",
+      "stat": "Receiving Yards",
+      "line": "68.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 2421,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+    }
+  ]
+}

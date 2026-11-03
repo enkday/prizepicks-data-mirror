@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-11-03T12:07:06.700Z",
+  "scrapedDate": "Tuesday, November 3, 2026 at 06:07 AM CST",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NBA",
+    "ok": true,
+    "status": 200,
+    "count": 179,
+    "sourceCount": 722,
+    "acceptedCount": 179,
+    "excludedCount": 543,
+    "rejectedCount": 0,
+    "publishedCount": 179,
+    "providerFetchedAt": "2026-11-03T12:06:32.822Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NBA",
+  "day": "tomorrow",
+  "team": "Denver Nuggets",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "16579986",
+      "playerId": "188013",
+      "status": "pre_game",
+      "player": "Nikola Jokić",
+      "stat": "Points",
+      "line": "25.5",
+      "sport": "NBA",
+      "startTime": "11/04/26 08:10 PM CST",
+      "startTimeCST": "11/04/26 08:10 PM CST",
+      "startDateCST": "2026-11-04",
+      "startTimeIso": "2026-11-04T21:10:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Nuggets",
+      "teamCode": "DEN",
+      "Opponent": "Toronto Raptors",
+      "opponentCode": "TOR",
+      "rank": 714,
+      "gameId": "192600",
+      "providerFetchedAt": "2026-11-03T12:06:32.822Z"
+    }
+  ]
+}
