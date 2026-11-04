@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-03T12:07:06.700Z",
-  "scrapedDate": "Tuesday, November 3, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-04T12:07:27.991Z",
+  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 474,
-    "sourceCount": 2983,
-    "acceptedCount": 474,
-    "excludedCount": 2509,
+    "count": 629,
+    "sourceCount": 4518,
+    "acceptedCount": 629,
+    "excludedCount": 3889,
     "rejectedCount": 0,
-    "publishedCount": 474,
-    "providerFetchedAt": "2026-11-03T12:05:07.981Z",
+    "publishedCount": 629,
+    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Kansas City Chiefs",
-  "totalProps": 31,
+  "totalProps": 33,
   "props": [
     {
       "projectionId": "16557933",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Patrick Mahomes",
       "stat": "Pass Yards",
-      "line": "231.5",
+      "line": "250.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1805,
+      "rank": 2138,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16576404",
@@ -58,9 +58,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1829,
+      "rank": 2164,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16577039",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Rashee Rice",
       "stat": "Receiving Yards",
-      "line": "49.5",
+      "line": "64.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1855,
+      "rank": 2178,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16577038",
@@ -100,9 +100,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1871,
+      "rank": 2206,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587619",
@@ -121,30 +121,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1894,
+      "rank": 2227,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16587677",
-      "playerId": "206295",
-      "status": "pre_game",
-      "player": "Patrick Mahomes",
-      "stat": "Pass Attempts",
-      "line": "32.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1898,
-      "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587645",
@@ -152,7 +131,7 @@
       "status": "pre_game",
       "player": "Xavier Worthy",
       "stat": "Receiving Yards",
-      "line": "30.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -163,9 +142,30 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1899,
+      "rank": 2231,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16587677",
+      "playerId": "206295",
+      "status": "pre_game",
+      "player": "Patrick Mahomes",
+      "stat": "Pass Attempts",
+      "line": "31.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2232,
+      "gameId": "193710",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587615",
@@ -184,9 +184,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1933,
+      "rank": 2265,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587654",
@@ -205,9 +205,30 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1934,
+      "rank": 2266,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16587675",
+      "playerId": "320186",
+      "status": "pre_game",
+      "player": "Kenneth Walker III",
+      "stat": "Rush Attempts",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2268,
+      "gameId": "193710",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587601",
@@ -226,30 +247,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1937,
+      "rank": 2269,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16587675",
-      "playerId": "320186",
-      "status": "pre_game",
-      "player": "Kenneth Walker III",
-      "stat": "Rush Attempts",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1939,
-      "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587676",
@@ -268,9 +268,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1940,
+      "rank": 2271,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587610",
@@ -289,9 +289,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1964,
+      "rank": 2296,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587626",
@@ -310,9 +310,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1965,
+      "rank": 2297,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16577040",
@@ -331,9 +331,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1966,
+      "rank": 2299,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16557908",
@@ -352,9 +352,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1971,
+      "rank": 2304,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587608",
@@ -373,9 +373,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1972,
+      "rank": 2305,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587638",
@@ -394,9 +394,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1974,
+      "rank": 2306,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587612",
@@ -415,30 +415,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1975,
+      "rank": 2308,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16587647",
-      "playerId": "337714",
-      "status": "pre_game",
-      "player": "Emmett Johnson",
-      "stat": "Receiving Yards",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 1976,
-      "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587603",
@@ -457,9 +436,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1977,
+      "rank": 2309,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587613",
@@ -478,9 +457,51 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1978,
+      "rank": 2310,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16587647",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Receiving Yards",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2311,
+      "gameId": "193710",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16587617",
+      "playerId": "206295",
+      "status": "pre_game",
+      "player": "Patrick Mahomes",
+      "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2316,
+      "gameId": "193710",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587683",
@@ -499,17 +520,17 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1983,
+      "rank": 2317,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16587617",
-      "playerId": "206295",
+      "projectionId": "16628506",
+      "playerId": "206325",
       "status": "pre_game",
-      "player": "Patrick Mahomes",
-      "stat": "Longest Rush",
-      "line": "7.5",
+      "player": "Harrison Butker",
+      "stat": "Kicking Points",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -520,9 +541,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1984,
+      "rank": 2318,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587599",
@@ -541,9 +562,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1989,
+      "rank": 2323,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587650",
@@ -562,9 +583,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 1992,
+      "rank": 2327,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587688",
@@ -583,9 +604,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2002,
+      "rank": 2337,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587621",
@@ -604,9 +625,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2004,
+      "rank": 2340,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587657",
@@ -614,7 +635,7 @@
       "status": "pre_game",
       "player": "Jalen Royals",
       "stat": "Longest Reception",
-      "line": "2.5",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -625,30 +646,9 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2022,
+      "rank": 2376,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16587665",
-      "playerId": "244036",
-      "status": "pre_game",
-      "player": "Jalen Royals",
-      "stat": "Receiving Yards",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 2023,
-      "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16587660",
@@ -667,9 +667,51 @@
       "teamCode": "KC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 2042,
+      "rank": 2377,
       "gameId": "193710",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16587665",
+      "playerId": "244036",
+      "status": "pre_game",
+      "player": "Jalen Royals",
+      "stat": "Receiving Yards",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2378,
+      "gameId": "193710",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16587659",
+      "playerId": "244036",
+      "status": "pre_game",
+      "player": "Jalen Royals",
+      "stat": "Receptions",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 2411,
+      "gameId": "193710",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     }
   ]
 }

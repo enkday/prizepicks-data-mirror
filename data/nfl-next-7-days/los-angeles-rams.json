@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-03T12:07:06.700Z",
-  "scrapedDate": "Tuesday, November 3, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-04T12:07:27.991Z",
+  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 474,
-    "sourceCount": 2983,
-    "acceptedCount": 474,
-    "excludedCount": 2509,
+    "count": 629,
+    "sourceCount": 4518,
+    "acceptedCount": 629,
+    "excludedCount": 3889,
     "rejectedCount": 0,
-    "publishedCount": 474,
-    "providerFetchedAt": "2026-11-03T12:05:07.981Z",
+    "publishedCount": 629,
+    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Rams",
-  "totalProps": 6,
+  "totalProps": 11,
   "props": [
     {
       "projectionId": "16557934",
@@ -37,9 +37,9 @@
       "teamCode": "LA",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2077,
+      "rank": 2425,
       "gameId": "193713",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16577042",
@@ -58,9 +58,9 @@
       "teamCode": "LA",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2079,
+      "rank": 2449,
       "gameId": "193713",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16576406",
@@ -79,9 +79,9 @@
       "teamCode": "LA",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2080,
+      "rank": 2466,
       "gameId": "193713",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16576407",
@@ -100,9 +100,114 @@
       "teamCode": "LA",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2081,
+      "rank": 2483,
       "gameId": "193713",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16669171",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Pass Attempts",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2500,
+      "gameId": "193713",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16669187",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Pass Completions",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2530,
+      "gameId": "193713",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16670204",
+      "playerId": "246551",
+      "status": "pre_game",
+      "player": "Kyren Williams",
+      "stat": "Receiving Yards",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2543,
+      "gameId": "193713",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16669906",
+      "playerId": "246551",
+      "status": "pre_game",
+      "player": "Kyren Williams",
+      "stat": "Rush Attempts",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2552,
+      "gameId": "193713",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16669842",
+      "playerId": "246579",
+      "status": "pre_game",
+      "player": "Blake Corum",
+      "stat": "Rush Attempts",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 2564,
+      "gameId": "193713",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16546207",
@@ -121,9 +226,9 @@
       "teamCode": "LA",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2104,
+      "rank": 2631,
       "gameId": "193713",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16576405",
@@ -142,9 +247,9 @@
       "teamCode": "LA",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 2116,
+      "rank": 2642,
       "gameId": "193713",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     }
   ]
 }

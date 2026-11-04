@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-03T12:07:06.700Z",
-  "scrapedDate": "Tuesday, November 3, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-04T12:07:27.991Z",
+  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 474,
-    "sourceCount": 2983,
-    "acceptedCount": 474,
-    "excludedCount": 2509,
+    "count": 629,
+    "sourceCount": 4518,
+    "acceptedCount": 629,
+    "excludedCount": 3889,
     "rejectedCount": 0,
-    "publishedCount": 474,
-    "providerFetchedAt": "2026-11-03T12:05:07.981Z",
+    "publishedCount": 629,
+    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 43,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "16532598",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": "237.5",
+      "line": "235.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
       "startTimeCST": "11/05/26 07:15 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 12,
+      "rank": 15,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16609182",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Passer Rating",
+      "line": "95.5",
+      "sport": "NFL",
+      "startTime": "11/05/26 07:15 PM CST",
+      "startTimeCST": "11/05/26 07:15 PM CST",
+      "startDateCST": "2026-11-05",
+      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 42,
+      "gameId": "192939",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16535121",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Bhayshul Tuten",
       "stat": "Rush Yards",
-      "line": "66.5",
+      "line": "71.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
       "startTimeCST": "11/05/26 07:15 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 71,
+      "rank": 58,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16536451",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "Parker Washington",
       "stat": "Receiving Yards",
-      "line": "63.5",
+      "line": "64.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
       "startTimeCST": "11/05/26 07:15 PM CST",
@@ -79,9 +100,30 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 72,
+      "rank": 69,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16532827",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Completion Percentage",
+      "line": "61.2",
+      "sport": "NFL",
+      "startTime": "11/05/26 07:15 PM CST",
+      "startTimeCST": "11/05/26 07:15 PM CST",
+      "startDateCST": "2026-11-05",
+      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 70,
+      "gameId": "192939",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16536490",
@@ -89,7 +131,7 @@
       "status": "pre_game",
       "player": "Jakobi Meyers",
       "stat": "Receiving Yards",
-      "line": "40.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
       "startTimeCST": "11/05/26 07:15 PM CST",
@@ -102,7 +144,7 @@
       "opponentCode": "BAL",
       "rank": 97,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16558201",
@@ -121,9 +163,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 118,
+      "rank": 112,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16536506",
@@ -142,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 121,
+      "rank": 116,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16532834",
@@ -152,7 +194,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Attempts",
-      "line": "31.5",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
       "startTimeCST": "11/05/26 07:15 PM CST",
@@ -163,30 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 125,
+      "rank": 123,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16534866",
-      "playerId": "336495",
-      "status": "pre_game",
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Rush Yards",
-      "line": "28.5",
-      "sport": "NFL",
-      "startTime": "11/05/26 07:15 PM CST",
-      "startTimeCST": "11/05/26 07:15 PM CST",
-      "startDateCST": "2026-11-05",
-      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 161,
-      "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16558466",
@@ -205,9 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 165,
+      "rank": 160,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16548386",
@@ -226,9 +247,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 186,
+      "rank": 182,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16558188",
@@ -247,30 +268,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 202,
+      "rank": 195,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16558202",
-      "playerId": "213935",
-      "status": "pre_game",
-      "player": "Brenton Strange",
-      "stat": "Longest Reception",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "11/05/26 07:15 PM CST",
-      "startTimeCST": "11/05/26 07:15 PM CST",
-      "startDateCST": "2026-11-05",
-      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 222,
-      "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16539633",
@@ -289,15 +289,36 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 226,
+      "rank": 215,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16556969",
-      "playerId": "339223",
+      "projectionId": "16558202",
+      "playerId": "213935",
       "status": "pre_game",
-      "player": "Josh Cameron",
+      "player": "Brenton Strange",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/05/26 07:15 PM CST",
+      "startTimeCST": "11/05/26 07:15 PM CST",
+      "startDateCST": "2026-11-05",
+      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 216,
+      "gameId": "192939",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16536475",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
       "stat": "Receiving Yards",
       "line": "14.5",
       "sport": "NFL",
@@ -310,9 +331,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 241,
+      "rank": 224,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16558100",
@@ -331,15 +352,15 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 243,
+      "rank": 232,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16536475",
-      "playerId": "246555",
+      "projectionId": "16556978",
+      "playerId": "212842",
       "status": "pre_game",
-      "player": "Bhayshul Tuten",
+      "player": "Brian Thomas Jr.",
       "stat": "Receiving Yards",
       "line": "12.5",
       "sport": "NFL",
@@ -354,7 +375,7 @@
       "opponentCode": "BAL",
       "rank": 260,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16557086",
@@ -373,15 +394,15 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 269,
+      "rank": 264,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16556978",
-      "playerId": "212842",
+      "projectionId": "16556969",
+      "playerId": "339223",
       "status": "pre_game",
-      "player": "Brian Thomas Jr.",
+      "player": "Josh Cameron",
       "stat": "Receiving Yards",
       "line": "10.5",
       "sport": "NFL",
@@ -394,36 +415,15 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 271,
+      "rank": 265,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16558099",
-      "playerId": "336495",
+      "projectionId": "16558471",
+      "playerId": "212842",
       "status": "pre_game",
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Longest Rush",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/05/26 07:15 PM CST",
-      "startTimeCST": "11/05/26 07:15 PM CST",
-      "startDateCST": "2026-11-05",
-      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 272,
-      "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16558468",
-      "playerId": "339223",
-      "status": "pre_game",
-      "player": "Josh Cameron",
+      "player": "Brian Thomas Jr.",
       "stat": "Longest Reception",
       "line": "10.5",
       "sport": "NFL",
@@ -436,9 +436,30 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 273,
+      "rank": 266,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16556963",
+      "playerId": "246559",
+      "status": "pre_game",
+      "player": "Travis Hunter",
+      "stat": "Receiving Yards",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/05/26 07:15 PM CST",
+      "startTimeCST": "11/05/26 07:15 PM CST",
+      "startDateCST": "2026-11-05",
+      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 281,
+      "gameId": "192939",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16558098",
@@ -457,17 +478,17 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 289,
+      "rank": 284,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16556963",
-      "playerId": "246559",
+      "projectionId": "16558468",
+      "playerId": "339223",
       "status": "pre_game",
-      "player": "Travis Hunter",
-      "stat": "Receiving Yards",
-      "line": "8.5",
+      "player": "Josh Cameron",
+      "stat": "Longest Reception",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
       "startTimeCST": "11/05/26 07:15 PM CST",
@@ -478,15 +499,15 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 306,
+      "rank": 285,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16558471",
-      "playerId": "212842",
+      "projectionId": "16558520",
+      "playerId": "246559",
       "status": "pre_game",
-      "player": "Brian Thomas Jr.",
+      "player": "Travis Hunter",
       "stat": "Longest Reception",
       "line": "8.5",
       "sport": "NFL",
@@ -499,9 +520,30 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
+      "rank": 304,
+      "gameId": "192939",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16585488",
+      "playerId": "211198",
+      "status": "pre_game",
+      "player": "Cam Little",
+      "stat": "Kicking Points",
+      "line": "8",
+      "sport": "NFL",
+      "startTime": "11/05/26 07:15 PM CST",
+      "startTimeCST": "11/05/26 07:15 PM CST",
+      "startDateCST": "2026-11-05",
+      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
       "rank": 307,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16556356",
@@ -520,9 +562,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 316,
+      "rank": 312,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16558194",
@@ -541,30 +583,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 318,
+      "rank": 314,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16558206",
-      "playerId": "338095",
-      "status": "pre_game",
-      "player": "Nate Boerkircher",
-      "stat": "Longest Reception",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/05/26 07:15 PM CST",
-      "startTimeCST": "11/05/26 07:15 PM CST",
-      "startDateCST": "2026-11-05",
-      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 319,
-      "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16558459",
@@ -583,9 +604,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 320,
+      "rank": 315,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578158",
@@ -604,16 +625,37 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 322,
+      "rank": 319,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16558520",
-      "playerId": "246559",
+      "projectionId": "16558206",
+      "playerId": "338095",
       "status": "pre_game",
-      "player": "Travis Hunter",
+      "player": "Nate Boerkircher",
       "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/05/26 07:15 PM CST",
+      "startTimeCST": "11/05/26 07:15 PM CST",
+      "startDateCST": "2026-11-05",
+      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 326,
+      "gameId": "192939",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16609195",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Consecutive Pass Completions",
       "line": "5.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
@@ -625,9 +667,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 345,
+      "rank": 343,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578154",
@@ -646,9 +688,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 347,
+      "rank": 349,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578156",
@@ -667,9 +709,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 348,
+      "rank": 350,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16536429",
@@ -688,9 +730,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 349,
+      "rank": 351,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16536540",
@@ -709,16 +751,16 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 379,
+      "rank": 387,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16558180",
-      "playerId": "210950",
+      "projectionId": "16610031",
+      "playerId": "213279",
       "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Rush Attempts",
+      "player": "Logan Cooke",
+      "stat": "Punts",
       "line": "3.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
@@ -730,9 +772,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 383,
+      "rank": 394,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578153",
@@ -751,9 +793,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 411,
+      "rank": 424,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578157",
@@ -772,9 +814,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 412,
+      "rank": 425,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578155",
@@ -793,9 +835,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 416,
+      "rank": 430,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578159",
@@ -814,9 +856,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 436,
+      "rank": 450,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16578160",
@@ -835,16 +877,16 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 437,
+      "rank": 451,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16588233",
-      "playerId": "339223",
+      "projectionId": "16609459",
+      "playerId": "210950",
       "status": "pre_game",
-      "player": "Josh Cameron",
-      "stat": "Receptions",
+      "player": "Trevor Lawrence",
+      "stat": "Sacks Taken",
       "line": "1.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
@@ -856,17 +898,17 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 439,
+      "rank": 456,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
-      "projectionId": "16558097",
-      "playerId": "336495",
+      "projectionId": "16610095",
+      "playerId": "213279",
       "status": "pre_game",
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Longest Reception",
-      "line": "0.5",
+      "player": "Logan Cooke",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "11/05/26 07:15 PM CST",
       "startTimeCST": "11/05/26 07:15 PM CST",
@@ -877,30 +919,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 472,
+      "rank": 457,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
-    },
-    {
-      "projectionId": "16558101",
-      "playerId": "336495",
-      "status": "pre_game",
-      "player": "Chris Rodriguez Jr.",
-      "stat": "Receiving Yards",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/05/26 07:15 PM CST",
-      "startTimeCST": "11/05/26 07:15 PM CST",
-      "startDateCST": "2026-11-05",
-      "startTimeIso": "2026-11-05T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 473,
-      "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16591638",
@@ -919,9 +940,9 @@
       "teamCode": "JAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 476,
+      "rank": 491,
       "gameId": "192939",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     }
   ]
 }

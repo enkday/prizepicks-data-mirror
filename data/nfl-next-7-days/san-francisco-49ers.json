@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-03T12:07:06.700Z",
-  "scrapedDate": "Tuesday, November 3, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-04T12:07:27.991Z",
+  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 474,
-    "sourceCount": 2983,
-    "acceptedCount": 474,
-    "excludedCount": 2509,
+    "count": 629,
+    "sourceCount": 4518,
+    "acceptedCount": 629,
+    "excludedCount": 3889,
     "rejectedCount": 0,
-    "publishedCount": 474,
-    "providerFetchedAt": "2026-11-03T12:05:07.981Z",
+    "publishedCount": 629,
+    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 3,
+  "totalProps": 5,
   "props": [
     {
       "projectionId": "16557940",
@@ -37,9 +37,9 @@
       "teamCode": "SF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 2423,
+      "rank": 3436,
       "gameId": "193715",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16576409",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Christian McCaffrey",
       "stat": "Rush Yards",
-      "line": "55.5",
+      "line": "60.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -58,9 +58,51 @@
       "teamCode": "SF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 2425,
+      "rank": 3469,
       "gameId": "193715",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16647289",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Pass Attempts",
+      "line": "30.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 3504,
+      "gameId": "193715",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16647254",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Pass Completions",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 3531,
+      "gameId": "193715",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16557915",
@@ -68,7 +110,7 @@
       "status": "pre_game",
       "player": "Brock Purdy",
       "stat": "Rush Yards",
-      "line": "18.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -79,9 +121,9 @@
       "teamCode": "SF",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 2427,
+      "rank": 3548,
       "gameId": "193715",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     }
   ]
 }

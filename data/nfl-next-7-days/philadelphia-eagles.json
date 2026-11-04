@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-03T12:07:06.700Z",
-  "scrapedDate": "Tuesday, November 3, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-04T12:07:27.991Z",
+  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 474,
-    "sourceCount": 2983,
-    "acceptedCount": 474,
-    "excludedCount": 2509,
+    "count": 629,
+    "sourceCount": 4518,
+    "acceptedCount": 629,
+    "excludedCount": 3889,
     "rejectedCount": 0,
-    "publishedCount": 474,
-    "providerFetchedAt": "2026-11-03T12:05:07.981Z",
+    "publishedCount": 629,
+    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 6,
+  "totalProps": 7,
   "props": [
     {
       "projectionId": "16557925",
@@ -37,9 +37,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 844,
+      "rank": 933,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16569809",
@@ -58,9 +58,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 894,
+      "rank": 980,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16569831",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Tanner McKee",
       "stat": "Longest Completion",
-      "line": "31.5",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 896,
+      "rank": 982,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16569940",
@@ -100,9 +100,30 @@
       "teamCode": "PHI",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 913,
+      "rank": 1000,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+    },
+    {
+      "projectionId": "16571091",
+      "playerId": "210364",
+      "status": "pre_game",
+      "player": "Jake Elliott",
+      "stat": "Kicking Points",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 1029,
+      "gameId": "193711",
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16569854",
@@ -121,9 +142,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 952,
+      "rank": 1039,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     },
     {
       "projectionId": "16569936",
@@ -142,9 +163,9 @@
       "teamCode": "PHI",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 956,
+      "rank": 1043,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-03T12:05:07.981Z"
+      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
     }
   ]
 }
