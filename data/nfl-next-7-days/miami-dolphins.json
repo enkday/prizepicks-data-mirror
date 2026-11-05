@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-04T12:07:27.991Z",
-  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-05T12:06:37.450Z",
+  "scrapedDate": "Thursday, November 5, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 629,
-    "sourceCount": 4518,
-    "acceptedCount": 629,
-    "excludedCount": 3889,
+    "count": 782,
+    "sourceCount": 5638,
+    "acceptedCount": 782,
+    "excludedCount": 4856,
     "rejectedCount": 0,
-    "publishedCount": 629,
-    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
+    "publishedCount": 782,
+    "providerFetchedAt": "2026-11-05T12:05:27.266Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Miami Dolphins",
-  "totalProps": 23,
+  "totalProps": 26,
   "props": [
     {
       "projectionId": "16557927",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Malik Willis",
       "stat": "Pass Yards",
-      "line": "201.5",
+      "line": "207.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1115,
+      "rank": 1332,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573465",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Ollie Gordon II",
       "stat": "Rush Yards",
-      "line": "74.5",
+      "line": "70.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1159,
+      "rank": 1381,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573398",
@@ -79,9 +79,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1206,
+      "rank": 1422,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573452",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Greg Dulcich",
       "stat": "Receiving Yards",
-      "line": "39.5",
+      "line": "38.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1215,
+      "rank": 1444,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573493",
@@ -121,30 +121,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1224,
+      "rank": 1445,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16557902",
-      "playerId": "320301",
-      "status": "pre_game",
-      "player": "Malik Willis",
-      "stat": "Rush Yards",
-      "line": "33.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 1228,
-      "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573515",
@@ -163,9 +142,30 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1229,
+      "rank": 1448,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16557902",
+      "playerId": "320301",
+      "status": "pre_game",
+      "player": "Malik Willis",
+      "stat": "Rush Yards",
+      "line": "29.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 1456,
+      "gameId": "193714",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573261",
@@ -184,9 +184,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1258,
+      "rank": 1482,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573497",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Chris Bell",
       "stat": "Receiving Yards",
-      "line": "23.5",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -205,9 +205,30 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1274,
+      "rank": 1501,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16650525",
+      "playerId": "252681",
+      "status": "pre_game",
+      "player": "Ollie Gordon II",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 1507,
+      "gameId": "193714",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573295",
@@ -226,9 +247,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1311,
+      "rank": 1540,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573355",
@@ -247,9 +268,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1312,
+      "rank": 1541,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16593086",
@@ -268,9 +289,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1314,
+      "rank": 1544,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573288",
@@ -289,9 +310,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1317,
+      "rank": 1548,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573373",
@@ -310,9 +331,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1318,
+      "rank": 1549,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573287",
@@ -331,9 +352,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1319,
+      "rank": 1552,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573274",
@@ -352,9 +373,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1333,
+      "rank": 1566,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573290",
@@ -373,51 +394,9 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1334,
+      "rank": 1567,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16573275",
-      "playerId": "252681",
-      "status": "pre_game",
-      "player": "Ollie Gordon II",
-      "stat": "Longest Reception",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 1341,
-      "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16573304",
-      "playerId": "252681",
-      "status": "pre_game",
-      "player": "Ollie Gordon II",
-      "stat": "Receiving Yards",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Detroit Lions",
-      "opponentCode": "DET",
-      "rank": 1342,
-      "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573361",
@@ -436,9 +415,30 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1343,
+      "rank": 1585,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16573304",
+      "playerId": "252681",
+      "status": "pre_game",
+      "player": "Ollie Gordon II",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 1602,
+      "gameId": "193714",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573773",
@@ -457,9 +457,51 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1361,
+      "rank": 1613,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16573440",
+      "playerId": "320301",
+      "status": "pre_game",
+      "player": "Malik Willis",
+      "stat": "Rush Attempts",
+      "line": "6",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 1617,
+      "gameId": "193714",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16650524",
+      "playerId": "252681",
+      "status": "pre_game",
+      "player": "Ollie Gordon II",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.3",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 1647,
+      "gameId": "193714",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16573439",
@@ -478,17 +520,17 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1386,
+      "rank": 1648,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
-      "projectionId": "16573357",
-      "playerId": "273240",
+      "projectionId": "16697817",
+      "playerId": "252681",
       "status": "pre_game",
-      "player": "Greg Dulcich",
+      "player": "Ollie Gordon II",
       "stat": "Receptions",
-      "line": "3.5",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -499,9 +541,30 @@
       "teamCode": "MIA",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 1387,
+      "rank": 1694,
       "gameId": "193714",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16685553",
+      "playerId": "320301",
+      "status": "pre_game",
+      "player": "Malik Willis",
+      "stat": "Pass TDs",
+      "line": "1",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 1695,
+      "gameId": "193714",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     }
   ]
 }

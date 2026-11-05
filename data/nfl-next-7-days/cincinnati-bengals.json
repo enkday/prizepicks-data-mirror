@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-04T12:07:27.991Z",
-  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-05T12:06:37.450Z",
+  "scrapedDate": "Thursday, November 5, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 629,
-    "sourceCount": 4518,
-    "acceptedCount": 629,
-    "excludedCount": 3889,
+    "count": 782,
+    "sourceCount": 5638,
+    "acceptedCount": 782,
+    "excludedCount": 4856,
     "rejectedCount": 0,
-    "publishedCount": 629,
-    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
+    "publishedCount": 782,
+    "providerFetchedAt": "2026-11-05T12:05:27.266Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cincinnati Bengals",
-  "totalProps": 35,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "16557922",
@@ -37,9 +37,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 506,
+      "rank": 582,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16566874",
@@ -58,9 +58,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 565,
+      "rank": 642,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16566871",
@@ -79,9 +79,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 566,
+      "rank": 643,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16566877",
@@ -100,9 +100,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 587,
+      "rank": 664,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571691",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Longest Completion",
-      "line": "38.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "11/08/26 08:30 AM CST",
       "startTimeCST": "11/08/26 08:30 AM CST",
@@ -121,9 +121,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 625,
+      "rank": 686,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571693",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Pass Attempts",
-      "line": "36.5",
+      "line": "36",
       "sport": "NFL",
       "startTime": "11/08/26 08:30 AM CST",
       "startTimeCST": "11/08/26 08:30 AM CST",
@@ -142,9 +142,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 629,
+      "rank": 710,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16566876",
@@ -163,9 +163,30 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 668,
+      "rank": 747,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16571837",
+      "playerId": "152593",
+      "status": "pre_game",
+      "player": "Tee Higgins",
+      "stat": "Longest Reception",
+      "line": "26.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 08:30 AM CST",
+      "startTimeCST": "11/08/26 08:30 AM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 751,
+      "gameId": "193707",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571726",
@@ -184,30 +205,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 674,
+      "rank": 756,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16571837",
-      "playerId": "152593",
-      "status": "pre_game",
-      "player": "Tee Higgins",
-      "stat": "Longest Reception",
-      "line": "24.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 08:30 AM CST",
-      "startTimeCST": "11/08/26 08:30 AM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 676,
-      "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571843",
@@ -226,9 +226,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 677,
+      "rank": 758,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16566870",
@@ -236,7 +236,7 @@
       "status": "pre_game",
       "player": "Chase Brown",
       "stat": "Receiving Yards",
-      "line": "19.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/08/26 08:30 AM CST",
       "startTimeCST": "11/08/26 08:30 AM CST",
@@ -247,9 +247,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 697,
+      "rank": 775,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571924",
@@ -268,9 +268,30 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 727,
+      "rank": 822,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16588358",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 08:30 AM CST",
+      "startTimeCST": "11/08/26 08:30 AM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 824,
+      "gameId": "193707",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571758",
@@ -289,9 +310,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 730,
+      "rank": 826,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571908",
@@ -310,9 +331,30 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 735,
+      "rank": 831,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16571662",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Longest Rush",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 08:30 AM CST",
+      "startTimeCST": "11/08/26 08:30 AM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 836,
+      "gameId": "193707",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571733",
@@ -331,30 +373,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 741,
+      "rank": 837,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16572191",
-      "playerId": "211234",
-      "status": "pre_game",
-      "player": "Chase Brown",
-      "stat": "Longest Rush",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 08:30 AM CST",
-      "startTimeCST": "11/08/26 08:30 AM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 758,
-      "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571902",
@@ -373,17 +394,17 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 766,
+      "rank": 865,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
-      "projectionId": "16571920",
+      "projectionId": "16572001",
       "playerId": "211234",
       "status": "pre_game",
       "player": "Chase Brown",
       "stat": "Longest Reception",
-      "line": "9.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "11/08/26 08:30 AM CST",
       "startTimeCST": "11/08/26 08:30 AM CST",
@@ -394,9 +415,30 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 778,
+      "rank": 871,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16682485",
+      "playerId": "249686",
+      "status": "pre_game",
+      "player": "Samaje Perine",
+      "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 08:30 AM CST",
+      "startTimeCST": "11/08/26 08:30 AM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 900,
+      "gameId": "193707",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16628472",
@@ -415,51 +457,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 796,
+      "rank": 902,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16571669",
-      "playerId": "249686",
-      "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Longest Rush",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 08:30 AM CST",
-      "startTimeCST": "11/08/26 08:30 AM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 797,
-      "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16571811",
-      "playerId": "214063",
-      "status": "pre_game",
-      "player": "Drew Sample",
-      "stat": "Receiving Yards",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 08:30 AM CST",
-      "startTimeCST": "11/08/26 08:30 AM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 801,
-      "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16557899",
@@ -478,9 +478,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 805,
+      "rank": 914,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16566872",
@@ -499,30 +499,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 806,
+      "rank": 915,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16571954",
-      "playerId": "214063",
-      "status": "pre_game",
-      "player": "Drew Sample",
-      "stat": "Longest Reception",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 08:30 AM CST",
-      "startTimeCST": "11/08/26 08:30 AM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 808,
-      "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571678",
@@ -541,9 +520,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 814,
+      "rank": 924,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571723",
@@ -562,15 +541,36 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 815,
+      "rank": 925,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
-      "projectionId": "16571782",
-      "playerId": "249686",
+      "projectionId": "16571811",
+      "playerId": "214063",
       "status": "pre_game",
-      "player": "Samaje Perine",
+      "player": "Drew Sample",
+      "stat": "Receiving Yards",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 08:30 AM CST",
+      "startTimeCST": "11/08/26 08:30 AM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 927,
+      "gameId": "193707",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16571954",
+      "playerId": "214063",
+      "status": "pre_game",
+      "player": "Drew Sample",
       "stat": "Longest Reception",
       "line": "5.5",
       "sport": "NFL",
@@ -583,9 +583,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 817,
+      "rank": 932,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16641430",
@@ -604,9 +604,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 823,
+      "rank": 933,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571701",
@@ -625,16 +625,37 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 825,
+      "rank": 940,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
-      "projectionId": "16588391",
+      "projectionId": "16571782",
+      "playerId": "249686",
+      "status": "pre_game",
+      "player": "Samaje Perine",
+      "stat": "Longest Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 08:30 AM CST",
+      "startTimeCST": "11/08/26 08:30 AM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 942,
+      "gameId": "193707",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16588366",
       "playerId": "211234",
       "status": "pre_game",
       "player": "Chase Brown",
-      "stat": "Receptions",
+      "stat": "Rush Yards Per Carry",
       "line": "3.5",
       "sport": "NFL",
       "startTime": "11/08/26 08:30 AM CST",
@@ -646,9 +667,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 848,
+      "rank": 970,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16566875",
@@ -667,9 +688,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 853,
+      "rank": 981,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571667",
@@ -688,9 +709,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 854,
+      "rank": 982,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571746",
@@ -709,9 +730,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 864,
+      "rank": 999,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16542705",
@@ -730,9 +751,30 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 909,
+      "rank": 1045,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16571689",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Rush TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 08:30 AM CST",
+      "startTimeCST": "11/08/26 08:30 AM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1047,
+      "gameId": "193707",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16571703",
@@ -751,9 +793,9 @@
       "teamCode": "CIN",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 911,
+      "rank": 1048,
       "gameId": "193707",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     }
   ]
 }

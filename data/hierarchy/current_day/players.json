@@ -1,1116 +1,325 @@
 [
   {
-    "playerId": "ball-state-cardinals_keldric-luster_e8a60859",
-    "playerName": "Keldric Luster",
-    "teamCode": "ball-state-cardinals",
+    "playerId": "jacksonville-jaguars_trevor-lawrence_ed59aaf6",
+    "playerName": "Trevor Lawrence",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "210950"
+  },
+  {
+    "playerId": "baltimore-ravens_joe-fagnano_a180d742",
+    "playerName": "Joe Fagnano",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "350919"
+  },
+  {
+    "playerId": "baltimore-ravens_derrick-henry_7473b86f",
+    "playerName": "Derrick Henry",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "206297"
+  },
+  {
+    "playerId": "jacksonville-jaguars_parker-washington_4f3b7f13",
+    "playerName": "Parker Washington",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "216955"
+  },
+  {
+    "playerId": "jacksonville-jaguars_bhayshul-tuten_fa2ab902",
+    "playerName": "Bhayshul Tuten",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "246555"
+  },
+  {
+    "playerId": "baltimore-ravens_zay-flowers_5e9e5a60",
+    "playerName": "Zay Flowers",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "210203"
+  },
+  {
+    "playerId": "jacksonville-jaguars_jakobi-meyers_0047153c",
+    "playerName": "Jakobi Meyers",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "277422"
+  },
+  {
+    "playerId": "jacksonville-jaguars_brenton-strange_cc2f32e3",
+    "playerName": "Brenton Strange",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "213935"
+  },
+  {
+    "playerId": "baltimore-ravens_mark-andrews_8e307d07",
+    "playerName": "Mark Andrews",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "206299"
+  },
+  {
+    "playerId": "baltimore-ravens_rashod-bateman_a3be80bd",
+    "playerName": "Rashod Bateman",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "210204"
+  },
+  {
+    "playerId": "baltimore-ravens_ja'kobi-lane_f6c11895",
+    "playerName": "Ja'Kobi Lane",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "336465"
+  },
+  {
+    "playerId": "baltimore-ravens_justice-hill_d17c42fa",
+    "playerName": "Justice Hill",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "211187"
+  },
+  {
+    "playerId": "jacksonville-jaguars_brian-thomas-jr._47c89046",
+    "playerName": "Brian Thomas Jr.",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "212842"
+  },
+  {
+    "playerId": "jacksonville-jaguars_josh-cameron_a32a3e6c",
+    "playerName": "Josh Cameron",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "339223"
+  },
+  {
+    "playerId": "jacksonville-jaguars_travis-hunter_1549334f",
+    "playerName": "Travis Hunter",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "246559"
+  },
+  {
+    "playerId": "jacksonville-jaguars_cam-little_c7778559",
+    "playerName": "Cam Little",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "211198"
+  },
+  {
+    "playerId": "jacksonville-jaguars_nate-boerkircher_bf0b96a9",
+    "playerName": "Nate Boerkircher",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "338095"
+  },
+  {
+    "playerId": "baltimore-ravens_josh-cuevas_bed2aae7",
+    "playerName": "Josh Cuevas",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "336458"
+  },
+  {
+    "playerId": "baltimore-ravens_jake-moody_34e2daf5",
+    "playerName": "Jake Moody",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "361121"
+  },
+  {
+    "playerId": "baltimore-ravens_ryan-eckley_da1523a7",
+    "playerName": "Ryan Eckley",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "343567"
+  },
+  {
+    "playerId": "jacksonville-jaguars_logan-cooke_851f1e60",
+    "playerName": "Logan Cooke",
+    "teamCode": "jacksonville-jaguars",
+    "sport": "NFL",
+    "nativePlayerId": "213279"
+  },
+  {
+    "playerId": "baltimore-ravens_matt-hibner_55a74a1c",
+    "playerName": "Matt Hibner",
+    "teamCode": "baltimore-ravens",
+    "sport": "NFL",
+    "nativePlayerId": "336460"
+  },
+  {
+    "playerId": "florida-atlantic-owls_caden-veltkamp_3d64877b",
+    "playerName": "Caden Veltkamp",
+    "teamCode": "florida-atlantic-owls",
     "sport": "NCAAF",
-    "nativePlayerId": "344522"
+    "nativePlayerId": "259135"
   },
   {
-    "playerId": "umass-minutemen_pop-watson-iii_d63ce9cd",
-    "playerName": "Pop Watson III",
-    "teamCode": "umass-minutemen",
+    "playerId": "utsa-roadrunners_owen-mccown_80314038",
+    "playerName": "Owen McCown",
+    "teamCode": "utsa-roadrunners",
     "sport": "NCAAF",
-    "nativePlayerId": "337398"
+    "nativePlayerId": "257641"
   },
   {
-    "playerId": "umass-minutemen_elijah-faulkner_1e9f061e",
-    "playerName": "Elijah Faulkner",
-    "teamCode": "umass-minutemen",
+    "playerId": "florida-atlantic-owls_easton-messer_148dfc94",
+    "playerName": "Easton Messer",
+    "teamCode": "florida-atlantic-owls",
     "sport": "NCAAF",
-    "nativePlayerId": "282517"
+    "nativePlayerId": "259137"
   },
   {
-    "playerId": "ball-state-cardinals_tj-horton_bef70294",
-    "playerName": "TJ Horton",
-    "teamCode": "ball-state-cardinals",
+    "playerId": "utsa-roadrunners_will-henderson-iii_8b5af08f",
+    "playerName": "Will Henderson III",
+    "teamCode": "utsa-roadrunners",
     "sport": "NCAAF",
-    "nativePlayerId": "258217"
+    "nativePlayerId": "257647"
   },
   {
-    "playerId": "ball-state-cardinals_donovan-hamilton_2edf16e9",
-    "playerName": "Donovan Hamilton",
-    "teamCode": "ball-state-cardinals",
+    "playerId": "florida-atlantic-owls_kelby-valsin_bf289edf",
+    "playerName": "Kelby Valsin",
+    "teamCode": "florida-atlantic-owls",
     "sport": "NCAAF",
-    "nativePlayerId": "276845"
+    "nativePlayerId": "338293"
   },
   {
-    "playerId": "ball-state-cardinals_jamarion-mcdougle_fc41df00",
-    "playerName": "Jamarion McDougle",
-    "teamCode": "ball-state-cardinals",
+    "playerId": "utsa-roadrunners_david-amador-ii_46ab0e7e",
+    "playerName": "David Amador II",
+    "teamCode": "utsa-roadrunners",
     "sport": "NCAAF",
-    "nativePlayerId": "258212"
+    "nativePlayerId": "257632"
   },
   {
-    "playerId": "ball-state-cardinals_jabari-smith-jr._7bb9c6f8",
-    "playerName": "Jabari Smith Jr.",
-    "teamCode": "ball-state-cardinals",
+    "playerId": "florida-atlantic-owls_dominique-henry_188836d2",
+    "playerName": "Dominique Henry",
+    "teamCode": "florida-atlantic-owls",
     "sport": "NCAAF",
-    "nativePlayerId": "344519"
+    "nativePlayerId": "338291"
   },
   {
-    "playerId": "toledo-rockets_john-alan-richter_b8d650e3",
-    "playerName": "John Alan Richter",
-    "teamCode": "toledo-rockets",
+    "playerId": "florida-atlantic-owls_leonard-farrow_8123ac2d",
+    "playerName": "Leonard Farrow",
+    "teamCode": "florida-atlantic-owls",
     "sport": "NCAAF",
-    "nativePlayerId": "340455"
+    "nativePlayerId": "341142"
   },
   {
-    "playerId": "sacramento-state-hornets_jackson-sharman_6e769d3c",
-    "playerName": "Jackson Sharman",
-    "teamCode": "sacramento-state-hornets",
+    "playerId": "utsa-roadrunners_mekhi-anderson_7ec070a5",
+    "playerName": "Mekhi Anderson",
+    "teamCode": "utsa-roadrunners",
     "sport": "NCAAF",
-    "nativePlayerId": "343947"
+    "nativePlayerId": "343277"
   },
   {
-    "playerId": "toledo-rockets_cj-miller_1055ba39",
-    "playerName": "CJ Miller",
-    "teamCode": "toledo-rockets",
+    "playerId": "utsa-roadrunners_aj-wilson_8ccc6500",
+    "playerName": "AJ Wilson",
+    "teamCode": "utsa-roadrunners",
     "sport": "NCAAF",
-    "nativePlayerId": "340453"
+    "nativePlayerId": "259209"
   },
   {
-    "playerId": "toledo-rockets_adjatay-dabbs_61b8a5d4",
-    "playerName": "Adjatay Dabbs",
-    "teamCode": "toledo-rockets",
+    "playerId": "utsa-roadrunners_dj-allen-jr._a4a89ea0",
+    "playerName": "DJ Allen Jr.",
+    "teamCode": "utsa-roadrunners",
     "sport": "NCAAF",
-    "nativePlayerId": "340451"
+    "nativePlayerId": "257630"
   },
   {
-    "playerId": "toledo-rockets_bryson-hammer_0377560a",
-    "playerName": "Bryson Hammer",
-    "teamCode": "toledo-rockets",
+    "playerId": "utsa-roadrunners_michael-petro_6b24a407",
+    "playerName": "Michael Petro",
+    "teamCode": "utsa-roadrunners",
     "sport": "NCAAF",
-    "nativePlayerId": "344494"
+    "nativePlayerId": "288629"
   },
   {
-    "playerId": "sacramento-state-hornets_isaiah-ene_ae8df81f",
-    "playerName": "Isaiah Ene",
-    "teamCode": "sacramento-state-hornets",
+    "playerId": "florida-atlantic-owls_owen-pollock_3ca5049a",
+    "playerName": "Owen Pollock",
+    "teamCode": "florida-atlantic-owls",
     "sport": "NCAAF",
-    "nativePlayerId": "344757"
+    "nativePlayerId": "357757"
   },
   {
-    "playerId": "sacramento-state-hornets_onterrio-smith-jr._0dc41578",
-    "playerName": "Onterrio Smith Jr.",
-    "teamCode": "sacramento-state-hornets",
+    "playerId": "southern-miss-golden-eagles_landry-lyddy_d2c69253",
+    "playerName": "Landry Lyddy",
+    "teamCode": "southern-miss-golden-eagles",
     "sport": "NCAAF",
-    "nativePlayerId": "338305"
+    "nativePlayerId": "347454"
   },
   {
-    "playerId": "sacramento-state-hornets_matt-coleman_a5d64026",
-    "playerName": "Matt Coleman",
-    "teamCode": "sacramento-state-hornets",
+    "playerId": "james-madison-dukes_camden-coleman_3c412f26",
+    "playerName": "Camden Coleman",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "347527"
+    "nativePlayerId": "340489"
   },
   {
-    "playerId": "toledo-rockets_daryl-barnett-jr._3bed900e",
-    "playerName": "Daryl Barnett Jr.",
-    "teamCode": "toledo-rockets",
+    "playerId": "james-madison-dukes_seth-cromwell_83e531d4",
+    "playerName": "Seth Cromwell",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "340454"
+    "nativePlayerId": "340502"
   },
   {
-    "playerId": "sacramento-state-hornets_raiden-brown_1d3ac3de",
-    "playerName": "Raiden Brown",
-    "teamCode": "sacramento-state-hornets",
+    "playerId": "southern-miss-golden-eagles_steven-robinson_10829a77",
+    "playerName": "Steven Robinson",
+    "teamCode": "southern-miss-golden-eagles",
     "sport": "NCAAF",
-    "nativePlayerId": "338306"
+    "nativePlayerId": "343934"
   },
   {
-    "playerId": "toledo-rockets_reice-griffith_f4b8a98f",
-    "playerName": "Reice Griffith",
-    "teamCode": "toledo-rockets",
+    "playerId": "southern-miss-golden-eagles_mario-sanders-ii_81ea2653",
+    "playerName": "Mario Sanders II",
+    "teamCode": "southern-miss-golden-eagles",
     "sport": "NCAAF",
-    "nativePlayerId": "361154"
+    "nativePlayerId": "343932"
   },
   {
-    "playerId": "sacramento-state-hornets_grant-meadors_2e053aa8",
-    "playerName": "Grant Meadors",
-    "teamCode": "sacramento-state-hornets",
+    "playerId": "james-madison-dukes_corey-scott_d07b7936",
+    "playerName": "Corey Scott",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "361153"
+    "nativePlayerId": "340491"
   },
   {
-    "playerId": "central-michigan-chippewas_jadyn-glasser_06df36bc",
-    "playerName": "Jadyn Glasser",
-    "teamCode": "central-michigan-chippewas",
+    "playerId": "james-madison-dukes_michael-scott_569ac459",
+    "playerName": "Michael Scott",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "257985"
+    "nativePlayerId": "259702"
   },
   {
-    "playerId": "eastern-michigan-eagles_amareon-blue_eaa71633",
-    "playerName": "Amareon Blue",
-    "teamCode": "eastern-michigan-eagles",
+    "playerId": "james-madison-dukes_braeden-wisloski_e64e78ed",
+    "playerName": "Braeden Wisloski",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "338296"
+    "nativePlayerId": "259781"
   },
   {
-    "playerId": "central-michigan-chippewas_tommy-mcintosh_bf88e13b",
-    "playerName": "Tommy McIntosh",
-    "teamCode": "central-michigan-chippewas",
+    "playerId": "james-madison-dukes_cole-keller_9e5abb3a",
+    "playerName": "Cole Keller",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "257994"
+    "nativePlayerId": "340490"
   },
   {
-    "playerId": "central-michigan-chippewas_braylen-naves_a2936538",
-    "playerName": "Braylen Naves",
-    "teamCode": "central-michigan-chippewas",
+    "playerId": "james-madison-dukes_nick-herman_eceea93f",
+    "playerName": "Nick Herman",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "341088"
+    "nativePlayerId": "340499"
   },
   {
-    "playerId": "eastern-michigan-eagles_joshua-long_b5aa1792",
-    "playerName": "Joshua Long",
-    "teamCode": "eastern-michigan-eagles",
+    "playerId": "james-madison-dukes_jeremiah-harrison_a8a670b6",
+    "playerName": "Jeremiah Harrison",
+    "teamCode": "james-madison-dukes",
     "sport": "NCAAF",
-    "nativePlayerId": "282202"
-  },
-  {
-    "playerId": "central-michigan-chippewas_jayden-clerveaux_72183684",
-    "playerName": "Jayden Clerveaux",
-    "teamCode": "central-michigan-chippewas",
-    "sport": "NCAAF",
-    "nativePlayerId": "341091"
-  },
-  {
-    "playerId": "eastern-michigan-eagles_nick-devereaux_3947cc6c",
-    "playerName": "Nick Devereaux",
-    "teamCode": "eastern-michigan-eagles",
-    "sport": "NCAAF",
-    "nativePlayerId": "282203"
-  },
-  {
-    "playerId": "eastern-michigan-eagles_harold-mack_dd2ff11c",
-    "playerName": "Harold Mack",
-    "teamCode": "eastern-michigan-eagles",
-    "sport": "NCAAF",
-    "nativePlayerId": "282200"
-  },
-  {
-    "playerId": "central-michigan-chippewas_vaughn-blue_d69ea994",
-    "playerName": "Vaughn Blue",
-    "teamCode": "central-michigan-chippewas",
-    "sport": "NCAAF",
-    "nativePlayerId": "341101"
-  },
-  {
-    "playerId": "eastern-michigan-eagles_benson-prosper_94bd318f",
-    "playerName": "Benson Prosper",
-    "teamCode": "eastern-michigan-eagles",
-    "sport": "NCAAF",
-    "nativePlayerId": "341419"
-  },
-  {
-    "playerId": "eastern-michigan-eagles_joey-mattord_a6de17bc",
-    "playerName": "Joey Mattord",
-    "teamCode": "eastern-michigan-eagles",
-    "sport": "NCAAF",
-    "nativePlayerId": "338303"
-  },
-  {
-    "playerId": "eastern-michigan-eagles_braydon-bennett_bf070de7",
-    "playerName": "Braydon Bennett",
-    "teamCode": "eastern-michigan-eagles",
-    "sport": "NCAAF",
-    "nativePlayerId": "338297"
-  },
-  {
-    "playerId": "eastern-michigan-eagles_rudy-kessinger_d92e6d5c",
-    "playerName": "Rudy Kessinger",
-    "teamCode": "eastern-michigan-eagles",
-    "sport": "NCAAF",
-    "nativePlayerId": "345117"
-  },
-  {
-    "playerId": "central-michigan-chippewas_caden-vanhuis_9385c47d",
-    "playerName": "Caden VanHuis",
-    "teamCode": "central-michigan-chippewas",
-    "sport": "NCAAF",
-    "nativePlayerId": "361357"
-  },
-  {
-    "playerId": "philadelphia-76ers_jaylen-brown_21615b63",
-    "playerName": "Jaylen Brown",
-    "teamCode": "philadelphia-76ers",
-    "sport": "NBA",
-    "nativePlayerId": "352810"
-  },
-  {
-    "playerId": "atlanta-hawks_nickeil-alexander-walker_03dcffc3",
-    "playerName": "Nickeil Alexander-Walker",
-    "teamCode": "atlanta-hawks",
-    "sport": "NBA",
-    "nativePlayerId": "271664"
-  },
-  {
-    "playerId": "atlanta-hawks_jalen-johnson_1cd0acb2",
-    "playerName": "Jalen Johnson",
-    "teamCode": "atlanta-hawks",
-    "sport": "NBA",
-    "nativePlayerId": "87857"
-  },
-  {
-    "playerId": "washington-wizards_trae-young_1a760857",
-    "playerName": "Trae Young",
-    "teamCode": "washington-wizards",
-    "sport": "NBA",
-    "nativePlayerId": "304617"
-  },
-  {
-    "playerId": "washington-wizards_aj-dybantsa_2f4a8ddc",
-    "playerName": "AJ Dybantsa",
-    "teamCode": "washington-wizards",
-    "sport": "NBA",
-    "nativePlayerId": "354452"
-  },
-  {
-    "playerId": "washington-wizards_anthony-davis_154b9b1b",
-    "playerName": "Anthony Davis",
-    "teamCode": "washington-wizards",
-    "sport": "NBA",
-    "nativePlayerId": "306257"
-  },
-  {
-    "playerId": "atlanta-hawks_cj-mccollum_ba0971f7",
-    "playerName": "CJ McCollum",
-    "teamCode": "atlanta-hawks",
-    "sport": "NBA",
-    "nativePlayerId": "291777"
-  },
-  {
-    "playerId": "washington-wizards_kyshawn-george_8974b440",
-    "playerName": "Kyshawn George",
-    "teamCode": "washington-wizards",
-    "sport": "NBA",
-    "nativePlayerId": "218128"
-  },
-  {
-    "playerId": "atlanta-hawks_onyeka-okongwu_612c6c66",
-    "playerName": "Onyeka Okongwu",
-    "teamCode": "atlanta-hawks",
-    "sport": "NBA",
-    "nativePlayerId": "25424"
-  },
-  {
-    "playerId": "atlanta-hawks_dyson-daniels_cccdec88",
-    "playerName": "Dyson Daniels",
-    "teamCode": "atlanta-hawks",
-    "sport": "NBA",
-    "nativePlayerId": "216868"
-  },
-  {
-    "playerId": "atlanta-hawks_aaron-wiggins_63fecf56",
-    "playerName": "Aaron Wiggins",
-    "teamCode": "atlanta-hawks",
-    "sport": "NBA",
-    "nativePlayerId": "354778"
-  },
-  {
-    "playerId": "washington-wizards_alex-sarr_07d9f76b",
-    "playerName": "Alex Sarr",
-    "teamCode": "washington-wizards",
-    "sport": "NBA",
-    "nativePlayerId": "217304"
-  },
-  {
-    "playerId": "atlanta-hawks_luguentz-dort_880a1f46",
-    "playerName": "Luguentz Dort",
-    "teamCode": "atlanta-hawks",
-    "sport": "NBA",
-    "nativePlayerId": "354781"
-  },
-  {
-    "playerId": "washington-wizards_tre-johnson_3c9dfd38",
-    "playerName": "Tre Johnson",
-    "teamCode": "washington-wizards",
-    "sport": "NBA",
-    "nativePlayerId": "271616"
-  },
-  {
-    "playerId": "washington-wizards_bilal-coulibaly_1beb84e4",
-    "playerName": "Bilal Coulibaly",
-    "teamCode": "washington-wizards",
-    "sport": "NBA",
-    "nativePlayerId": "175142"
-  },
-  {
-    "playerId": "philadelphia-76ers_joel-embiid_16fc2081",
-    "playerName": "Joel Embiid",
-    "teamCode": "philadelphia-76ers",
-    "sport": "NBA",
-    "nativePlayerId": "187996"
-  },
-  {
-    "playerId": "philadelphia-76ers_lebron-james_28974fbc",
-    "playerName": "LeBron James",
-    "teamCode": "philadelphia-76ers",
-    "sport": "NBA",
-    "nativePlayerId": "336267"
-  },
-  {
-    "playerId": "detroit-pistons_duncan-robinson_bbd7c688",
-    "playerName": "Duncan Robinson",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "272048"
-  },
-  {
-    "playerId": "detroit-pistons_paul-reed_0c544420",
-    "playerName": "Paul Reed",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "222928"
-  },
-  {
-    "playerId": "detroit-pistons_john-collins_ab7dbed4",
-    "playerName": "John Collins",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "352807"
-  },
-  {
-    "playerId": "philadelphia-76ers_vj-edgecombe_ec24c901",
-    "playerName": "VJ Edgecombe",
-    "teamCode": "philadelphia-76ers",
-    "sport": "NBA",
-    "nativePlayerId": "271603"
-  },
-  {
-    "playerId": "detroit-pistons_ausar-thompson_a3583d6b",
-    "playerName": "Ausar Thompson",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "173789"
-  },
-  {
-    "playerId": "detroit-pistons_daniss-jenkins_ef580de8",
-    "playerName": "Daniss Jenkins",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "279579"
-  },
-  {
-    "playerId": "philadelphia-76ers_anfernee-simons_ae2f0aeb",
-    "playerName": "Anfernee Simons",
-    "teamCode": "philadelphia-76ers",
-    "sport": "NBA",
-    "nativePlayerId": "354470"
-  },
-  {
-    "playerId": "detroit-pistons_cade-cunningham_a5c378ac",
-    "playerName": "Cade Cunningham",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "59107"
-  },
-  {
-    "playerId": "philadelphia-76ers_tyrese-maxey_f851569f",
-    "playerName": "Tyrese Maxey",
-    "teamCode": "philadelphia-76ers",
-    "sport": "NBA",
-    "nativePlayerId": "188005"
-  },
-  {
-    "playerId": "detroit-pistons_kevin-huerter_c1391a31",
-    "playerName": "Kevin Huerter",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "299900"
-  },
-  {
-    "playerId": "detroit-pistons_javonte-green_c42086f0",
-    "playerName": "Javonte Green",
-    "teamCode": "detroit-pistons",
-    "sport": "NBA",
-    "nativePlayerId": "273877"
-  },
-  {
-    "playerId": "boston-celtics_paul-george_7a2e642d",
-    "playerName": "Paul George",
-    "teamCode": "boston-celtics",
-    "sport": "NBA",
-    "nativePlayerId": "352809"
-  },
-  {
-    "playerId": "boston-celtics_jayson-tatum_308b442a",
-    "playerName": "Jayson Tatum",
-    "teamCode": "boston-celtics",
-    "sport": "NBA",
-    "nativePlayerId": "187999"
-  },
-  {
-    "playerId": "boston-celtics_payton-pritchard_6e583ca7",
-    "playerName": "Payton Pritchard",
-    "teamCode": "boston-celtics",
-    "sport": "NBA",
-    "nativePlayerId": "25443"
-  },
-  {
-    "playerId": "boston-celtics_derrick-white_f209ffc5",
-    "playerName": "Derrick White",
-    "teamCode": "boston-celtics",
-    "sport": "NBA",
-    "nativePlayerId": "60021"
-  },
-  {
-    "playerId": "milwaukee-bucks_jaime-jaquez-jr._bfad59c2",
-    "playerName": "Jaime Jaquez Jr.",
-    "teamCode": "milwaukee-bucks",
-    "sport": "NBA",
-    "nativePlayerId": "354454"
-  },
-  {
-    "playerId": "milwaukee-bucks_brayden-burries_4e117c02",
-    "playerName": "Brayden Burries",
-    "teamCode": "milwaukee-bucks",
-    "sport": "NBA",
-    "nativePlayerId": "353325"
-  },
-  {
-    "playerId": "boston-celtics_neemias-queta_7f84f201",
-    "playerName": "Neemias Queta",
-    "teamCode": "boston-celtics",
-    "sport": "NBA",
-    "nativePlayerId": "186551"
-  },
-  {
-    "playerId": "milwaukee-bucks_ryan-rollins_b83816fd",
-    "playerName": "Ryan Rollins",
-    "teamCode": "milwaukee-bucks",
-    "sport": "NBA",
-    "nativePlayerId": "195543"
-  },
-  {
-    "playerId": "milwaukee-bucks_myles-turner_44fc4afc",
-    "playerName": "Myles Turner",
-    "teamCode": "milwaukee-bucks",
-    "sport": "NBA",
-    "nativePlayerId": "269527"
-  },
-  {
-    "playerId": "milwaukee-bucks_kyle-kuzma_2532bd2f",
-    "playerName": "Kyle Kuzma",
-    "teamCode": "milwaukee-bucks",
-    "sport": "NBA",
-    "nativePlayerId": "227344"
-  },
-  {
-    "playerId": "milwaukee-bucks_kel'el-ware_0f92d791",
-    "playerName": "Kel'el Ware",
-    "teamCode": "milwaukee-bucks",
-    "sport": "NBA",
-    "nativePlayerId": "353313"
-  },
-  {
-    "playerId": "milwaukee-bucks_aj-green_4775ae2e",
-    "playerName": "AJ Green",
-    "teamCode": "milwaukee-bucks",
-    "sport": "NBA",
-    "nativePlayerId": "91680"
-  },
-  {
-    "playerId": "boston-celtics_hugo-gonzález_62fd9be2",
-    "playerName": "Hugo González",
-    "teamCode": "boston-celtics",
-    "sport": "NBA",
-    "nativePlayerId": "289358"
-  },
-  {
-    "playerId": "charlotte-hornets_brandon-miller_b59b1ac7",
-    "playerName": "Brandon Miller",
-    "teamCode": "charlotte-hornets",
-    "sport": "NBA",
-    "nativePlayerId": "174280"
-  },
-  {
-    "playerId": "brooklyn-nets_michael-porter-jr._30270461",
-    "playerName": "Michael Porter Jr.",
-    "teamCode": "brooklyn-nets",
-    "sport": "NBA",
-    "nativePlayerId": "271599"
-  },
-  {
-    "playerId": "brooklyn-nets_julius-randle_54ca3b18",
-    "playerName": "Julius Randle",
-    "teamCode": "brooklyn-nets",
-    "sport": "NBA",
-    "nativePlayerId": "353192"
-  },
-  {
-    "playerId": "charlotte-hornets_naz-reid_1df1c479",
-    "playerName": "Naz Reid",
-    "teamCode": "charlotte-hornets",
-    "sport": "NBA",
-    "nativePlayerId": "353190"
-  },
-  {
-    "playerId": "charlotte-hornets_coby-white_b9ba833e",
-    "playerName": "Coby White",
-    "teamCode": "charlotte-hornets",
-    "sport": "NBA",
-    "nativePlayerId": "302616"
-  },
-  {
-    "playerId": "charlotte-hornets_kon-knueppel_ac57698d",
-    "playerName": "Kon Knueppel",
-    "teamCode": "charlotte-hornets",
-    "sport": "NBA",
-    "nativePlayerId": "271661"
-  },
-  {
-    "playerId": "brooklyn-nets_mikel-brown-jr._f7eaa817",
-    "playerName": "Mikel Brown Jr.",
-    "teamCode": "brooklyn-nets",
-    "sport": "NBA",
-    "nativePlayerId": "353323"
-  },
-  {
-    "playerId": "brooklyn-nets_nolan-traore_05e7b629",
-    "playerName": "Nolan Traore",
-    "teamCode": "brooklyn-nets",
-    "sport": "NBA",
-    "nativePlayerId": "272500"
-  },
-  {
-    "playerId": "charlotte-hornets_grayson-allen_22f37357",
-    "playerName": "Grayson Allen",
-    "teamCode": "charlotte-hornets",
-    "sport": "NBA",
-    "nativePlayerId": "354750"
-  },
-  {
-    "playerId": "charlotte-hornets_moussa-diabaté_77cee903",
-    "playerName": "Moussa Diabaté",
-    "teamCode": "charlotte-hornets",
-    "sport": "NBA",
-    "nativePlayerId": "227548"
-  },
-  {
-    "playerId": "brooklyn-nets_moritz-wagner_5017d489",
-    "playerName": "Moritz Wagner",
-    "teamCode": "brooklyn-nets",
-    "sport": "NBA",
-    "nativePlayerId": "354802"
-  },
-  {
-    "playerId": "brooklyn-nets_day'ron-sharpe_2b6a7b77",
-    "playerName": "Day'Ron Sharpe",
-    "teamCode": "brooklyn-nets",
-    "sport": "NBA",
-    "nativePlayerId": "58846"
-  },
-  {
-    "playerId": "charlotte-hornets_dennis-schröder_77cb65d8",
-    "playerName": "Dennis Schröder",
-    "teamCode": "charlotte-hornets",
-    "sport": "NBA",
-    "nativePlayerId": "353743"
-  },
-  {
-    "playerId": "brooklyn-nets_noah-clowney_2574609c",
-    "playerName": "Noah Clowney",
-    "teamCode": "brooklyn-nets",
-    "sport": "NBA",
-    "nativePlayerId": "182682"
-  },
-  {
-    "playerId": "chicago-bulls_norman-powell_cbf1363c",
-    "playerName": "Norman Powell",
-    "teamCode": "chicago-bulls",
-    "sport": "NBA",
-    "nativePlayerId": "353194"
-  },
-  {
-    "playerId": "chicago-bulls_caleb-wilson_140c3d9b",
-    "playerName": "Caleb Wilson",
-    "teamCode": "chicago-bulls",
-    "sport": "NBA",
-    "nativePlayerId": "350118"
-  },
-  {
-    "playerId": "new-york-knicks_og-anunoby_1cac2870",
-    "playerName": "OG Anunoby",
-    "teamCode": "new-york-knicks",
-    "sport": "NBA",
-    "nativePlayerId": "183158"
-  },
-  {
-    "playerId": "chicago-bulls_matas-buzelis_05eafa68",
-    "playerName": "Matas Buzelis",
-    "teamCode": "chicago-bulls",
-    "sport": "NBA",
-    "nativePlayerId": "221319"
-  },
-  {
-    "playerId": "new-york-knicks_karl-anthony-towns_766a74e9",
-    "playerName": "Karl-Anthony Towns",
-    "teamCode": "new-york-knicks",
-    "sport": "NBA",
-    "nativePlayerId": "216220"
-  },
-  {
-    "playerId": "chicago-bulls_josh-giddey_f1bf4dcc",
-    "playerName": "Josh Giddey",
-    "teamCode": "chicago-bulls",
-    "sport": "NBA",
-    "nativePlayerId": "216747"
-  },
-  {
-    "playerId": "chicago-bulls_jalen-smith_6a3d8949",
-    "playerName": "Jalen Smith",
-    "teamCode": "chicago-bulls",
-    "sport": "NBA",
-    "nativePlayerId": "217498"
-  },
-  {
-    "playerId": "new-york-knicks_mikal-bridges_2f632616",
-    "playerName": "Mikal Bridges",
-    "teamCode": "new-york-knicks",
-    "sport": "NBA",
-    "nativePlayerId": "216219"
-  },
-  {
-    "playerId": "new-york-knicks_josh-hart_9debc800",
-    "playerName": "Josh Hart",
-    "teamCode": "new-york-knicks",
-    "sport": "NBA",
-    "nativePlayerId": "123595"
-  },
-  {
-    "playerId": "new-york-knicks_jalen-brunson_db44ebeb",
-    "playerName": "Jalen Brunson",
-    "teamCode": "new-york-knicks",
-    "sport": "NBA",
-    "nativePlayerId": "188004"
-  },
-  {
-    "playerId": "new-york-knicks_landry-shamet_84d8ac96",
-    "playerName": "Landry Shamet",
-    "teamCode": "new-york-knicks",
-    "sport": "NBA",
-    "nativePlayerId": "231331"
-  },
-  {
-    "playerId": "chicago-bulls_tre-jones_7c755f67",
-    "playerName": "Tre Jones",
-    "teamCode": "chicago-bulls",
-    "sport": "NBA",
-    "nativePlayerId": "227986"
-  },
-  {
-    "playerId": "new-york-knicks_andre-drummond_e722a50d",
-    "playerName": "Andre Drummond",
-    "teamCode": "new-york-knicks",
-    "sport": "NBA",
-    "nativePlayerId": "354477"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_ajay-mitchell_6e9d727a",
-    "playerName": "Ajay Mitchell",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "272369"
-  },
-  {
-    "playerId": "cleveland-cavaliers_james-harden_94521435",
-    "playerName": "James Harden",
-    "teamCode": "cleveland-cavaliers",
-    "sport": "NBA",
-    "nativePlayerId": "299373"
-  },
-  {
-    "playerId": "cleveland-cavaliers_evan-mobley_2cc94afc",
-    "playerName": "Evan Mobley",
-    "teamCode": "cleveland-cavaliers",
-    "sport": "NBA",
-    "nativePlayerId": "53979"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_jared-mccain_de9acb15",
-    "playerName": "Jared McCain",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "299469"
-  },
-  {
-    "playerId": "cleveland-cavaliers_jarrett-allen_a1e09ab2",
-    "playerName": "Jarrett Allen",
-    "teamCode": "cleveland-cavaliers",
-    "sport": "NBA",
-    "nativePlayerId": "26792"
-  },
-  {
-    "playerId": "cleveland-cavaliers_meleek-thomas_f070caa0",
-    "playerName": "Meleek Thomas",
-    "teamCode": "cleveland-cavaliers",
-    "sport": "NBA",
-    "nativePlayerId": "358384"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_isaiah-hartenstein_e20ac1f9",
-    "playerName": "Isaiah Hartenstein",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "220343"
-  },
-  {
-    "playerId": "cleveland-cavaliers_sam-merrill_80a7837d",
-    "playerName": "Sam Merrill",
-    "teamCode": "cleveland-cavaliers",
-    "sport": "NBA",
-    "nativePlayerId": "125464"
-  },
-  {
-    "playerId": "cleveland-cavaliers_mario-hezonja_a72947c5",
-    "playerName": "Mario Hezonja",
-    "teamCode": "cleveland-cavaliers",
-    "sport": "NBA",
-    "nativePlayerId": "357675"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_alex-caruso_d3dc4d6d",
-    "playerName": "Alex Caruso",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "216805"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_kenrich-williams_b1141d3c",
-    "playerName": "Kenrich Williams",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "25413"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_aday-mara_6846c0a2",
-    "playerName": "Aday Mara",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "355211"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_jaylin-williams_9fa19f37",
-    "playerName": "Jaylin Williams",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "87417"
-  },
-  {
-    "playerId": "cleveland-cavaliers_donovan-mitchell_2d72c3a0",
-    "playerName": "Donovan Mitchell",
-    "teamCode": "cleveland-cavaliers",
-    "sport": "NBA",
-    "nativePlayerId": "188006"
-  },
-  {
-    "playerId": "oklahoma-city-thunder_shai-gilgeous-alexander_bb98add3",
-    "playerName": "Shai Gilgeous-Alexander",
-    "teamCode": "oklahoma-city-thunder",
-    "sport": "NBA",
-    "nativePlayerId": "188011"
-  },
-  {
-    "playerId": "utah-jazz_keyonte-george_8b89f15e",
-    "playerName": "Keyonte George",
-    "teamCode": "utah-jazz",
-    "sport": "NBA",
-    "nativePlayerId": "175137"
-  },
-  {
-    "playerId": "new-orleans-pelicans_dejounte-murray_ac994cb4",
-    "playerName": "Dejounte Murray",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "216739"
-  },
-  {
-    "playerId": "new-orleans-pelicans_trey-murphy-iii_734f2d49",
-    "playerName": "Trey Murphy III",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "54095"
-  },
-  {
-    "playerId": "utah-jazz_lauri-markkanen_444d7377",
-    "playerName": "Lauri Markkanen",
-    "teamCode": "utah-jazz",
-    "sport": "NBA",
-    "nativePlayerId": "79926"
-  },
-  {
-    "playerId": "new-orleans-pelicans_jeremiah-fears_a3b5935d",
-    "playerName": "Jeremiah Fears",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "269525"
-  },
-  {
-    "playerId": "utah-jazz_darryn-peterson_633d9cac",
-    "playerName": "Darryn Peterson",
-    "teamCode": "utah-jazz",
-    "sport": "NBA",
-    "nativePlayerId": "353787"
-  },
-  {
-    "playerId": "utah-jazz_ace-bailey_42b96dec",
-    "playerName": "Ace Bailey",
-    "teamCode": "utah-jazz",
-    "sport": "NBA",
-    "nativePlayerId": "272396"
-  },
-  {
-    "playerId": "new-orleans-pelicans_saddiq-bey_10666df8",
-    "playerName": "Saddiq Bey",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "272401"
-  },
-  {
-    "playerId": "new-orleans-pelicans_karlo-matković_f788fee2",
-    "playerName": "Karlo Matković",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "229773"
-  },
-  {
-    "playerId": "utah-jazz_brice-sensabaugh_8303f68f",
-    "playerName": "Brice Sensabaugh",
-    "teamCode": "utah-jazz",
-    "sport": "NBA",
-    "nativePlayerId": "178828"
-  },
-  {
-    "playerId": "utah-jazz_jaxson-hayes_bfb29fe5",
-    "playerName": "Jaxson Hayes",
-    "teamCode": "utah-jazz",
-    "sport": "NBA",
-    "nativePlayerId": "353952"
-  },
-  {
-    "playerId": "new-orleans-pelicans_herbert-jones_c83b8b15",
-    "playerName": "Herbert Jones",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "56913"
-  },
-  {
-    "playerId": "new-orleans-pelicans_zion-williamson_46ea4244",
-    "playerName": "Zion Williamson",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "10790"
-  },
-  {
-    "playerId": "utah-jazz_isaiah-collier_68703cda",
-    "playerName": "Isaiah Collier",
-    "teamCode": "utah-jazz",
-    "sport": "NBA",
-    "nativePlayerId": "223674"
-  },
-  {
-    "playerId": "new-orleans-pelicans_derik-queen_fadb0e69",
-    "playerName": "Derik Queen",
-    "teamCode": "new-orleans-pelicans",
-    "sport": "NBA",
-    "nativePlayerId": "273035"
-  },
-  {
-    "playerId": "indiana-pacers_pascal-siakam_62675b9d",
-    "playerName": "Pascal Siakam",
-    "teamCode": "indiana-pacers",
-    "sport": "NBA",
-    "nativePlayerId": "185263"
-  },
-  {
-    "playerId": "indiana-pacers_andrew-nembhard_f34cb944",
-    "playerName": "Andrew Nembhard",
-    "teamCode": "indiana-pacers",
-    "sport": "NBA",
-    "nativePlayerId": "87352"
-  },
-  {
-    "playerId": "memphis-grizzlies_cameron-boozer_4cfd1523",
-    "playerName": "Cameron Boozer",
-    "teamCode": "memphis-grizzlies",
-    "sport": "NBA",
-    "nativePlayerId": "350119"
-  },
-  {
-    "playerId": "memphis-grizzlies_ty-jerome_dcfdd4ec",
-    "playerName": "Ty Jerome",
-    "teamCode": "memphis-grizzlies",
-    "sport": "NBA",
-    "nativePlayerId": "297767"
-  },
-  {
-    "playerId": "memphis-grizzlies_cedric-coward_b200ea43",
-    "playerName": "Cedric Coward",
-    "teamCode": "memphis-grizzlies",
-    "sport": "NBA",
-    "nativePlayerId": "272067"
-  },
-  {
-    "playerId": "indiana-pacers_ivica-zubac_8078151c",
-    "playerName": "Ivica Zubac",
-    "teamCode": "indiana-pacers",
-    "sport": "NBA",
-    "nativePlayerId": "300002"
-  },
-  {
-    "playerId": "indiana-pacers_aaron-nesmith_ecef4c2b",
-    "playerName": "Aaron Nesmith",
-    "teamCode": "indiana-pacers",
-    "sport": "NBA",
-    "nativePlayerId": "87498"
-  },
-  {
-    "playerId": "memphis-grizzlies_jerami-grant_03429796",
-    "playerName": "Jerami Grant",
-    "teamCode": "memphis-grizzlies",
-    "sport": "NBA",
-    "nativePlayerId": "354809"
-  },
-  {
-    "playerId": "memphis-grizzlies_jaylen-wells_16430183",
-    "playerName": "Jaylen Wells",
-    "teamCode": "memphis-grizzlies",
-    "sport": "NBA",
-    "nativePlayerId": "217923"
-  },
-  {
-    "playerId": "indiana-pacers_kelly-oubre-jr._c7c1c4d8",
-    "playerName": "Kelly Oubre Jr.",
-    "teamCode": "indiana-pacers",
-    "sport": "NBA",
-    "nativePlayerId": "354619"
-  },
-  {
-    "playerId": "memphis-grizzlies_zach-edey_178d9d4d",
-    "playerName": "Zach Edey",
-    "teamCode": "memphis-grizzlies",
-    "sport": "NBA",
-    "nativePlayerId": "216769"
-  },
-  {
-    "playerId": "memphis-grizzlies_cam-spencer_7dd4e55c",
-    "playerName": "Cam Spencer",
-    "teamCode": "memphis-grizzlies",
-    "sport": "NBA",
-    "nativePlayerId": "217457"
-  },
-  {
-    "playerId": "houston-rockets_kevin-durant_8f770770",
-    "playerName": "Kevin Durant",
-    "teamCode": "houston-rockets",
-    "sport": "NBA",
-    "nativePlayerId": "265114"
-  },
-  {
-    "playerId": "minnesota-timberwolves_lamelo-ball_e0cfae75",
-    "playerName": "LaMelo Ball",
-    "teamCode": "minnesota-timberwolves",
-    "sport": "NBA",
-    "nativePlayerId": "353198"
-  },
-  {
-    "playerId": "houston-rockets_alperen-şengün_d085288f",
-    "playerName": "Alperen Şengün",
-    "teamCode": "houston-rockets",
-    "sport": "NBA",
-    "nativePlayerId": "55716"
-  },
-  {
-    "playerId": "minnesota-timberwolves_jaden-mcdaniels_34bc2981",
-    "playerName": "Jaden McDaniels",
-    "teamCode": "minnesota-timberwolves",
-    "sport": "NBA",
-    "nativePlayerId": "25445"
-  },
-  {
-    "playerId": "minnesota-timberwolves_ayo-dosunmu_aa70d84f",
-    "playerName": "Ayo Dosunmu",
-    "teamCode": "minnesota-timberwolves",
-    "sport": "NBA",
-    "nativePlayerId": "299532"
-  },
-  {
-    "playerId": "houston-rockets_amen-thompson_31beb4e4",
-    "playerName": "Amen Thompson",
-    "teamCode": "houston-rockets",
-    "sport": "NBA",
-    "nativePlayerId": "174285"
-  },
-  {
-    "playerId": "minnesota-timberwolves_jonathan-kuminga_1efa7047",
-    "playerName": "Jonathan Kuminga",
-    "teamCode": "minnesota-timberwolves",
-    "sport": "NBA",
-    "nativePlayerId": "354462"
-  },
-  {
-    "playerId": "houston-rockets_jabari-smith-jr._58320adb",
-    "playerName": "Jabari Smith Jr.",
-    "teamCode": "houston-rockets",
-    "sport": "NBA",
-    "nativePlayerId": "79867"
-  },
-  {
-    "playerId": "houston-rockets_fred-vanvleet_3bc70bf1",
-    "playerName": "Fred VanVleet",
-    "teamCode": "houston-rockets",
-    "sport": "NBA",
-    "nativePlayerId": "173586"
-  },
-  {
-    "playerId": "minnesota-timberwolves_rudy-gobert_f0b8fc7e",
-    "playerName": "Rudy Gobert",
-    "teamCode": "minnesota-timberwolves",
-    "sport": "NBA",
-    "nativePlayerId": "87384"
-  },
-  {
-    "playerId": "houston-rockets_tari-eason_68cb547d",
-    "playerName": "Tari Eason",
-    "teamCode": "houston-rockets",
-    "sport": "NBA",
-    "nativePlayerId": "92908"
-  },
-  {
-    "playerId": "minnesota-timberwolves_joan-beringer_bb140e94",
-    "playerName": "Joan Beringer",
-    "teamCode": "minnesota-timberwolves",
-    "sport": "NBA",
-    "nativePlayerId": "292412"
-  },
-  {
-    "playerId": "houston-rockets_marcus-smart_2af091cb",
-    "playerName": "Marcus Smart",
-    "teamCode": "houston-rockets",
-    "sport": "NBA",
-    "nativePlayerId": "355196"
-  },
-  {
-    "playerId": "portland-trail-blazers_deni-avdija_4ff818ff",
-    "playerName": "Deni Avdija",
-    "teamCode": "portland-trail-blazers",
-    "sport": "NBA",
-    "nativePlayerId": "216763"
-  },
-  {
-    "playerId": "phoenix-suns_dillon-brooks_a2b6937e",
-    "playerName": "Dillon Brooks",
-    "teamCode": "phoenix-suns",
-    "sport": "NBA",
-    "nativePlayerId": "269531"
-  },
-  {
-    "playerId": "phoenix-suns_miles-bridges_d81178ce",
-    "playerName": "Miles Bridges",
-    "teamCode": "phoenix-suns",
-    "sport": "NBA",
-    "nativePlayerId": "353918"
+    "nativePlayerId": "340494"
   },
   {
     "playerId": "phoenix-suns_devin-booker_6914414b",
@@ -1120,6 +329,20 @@
     "nativePlayerId": "188014"
   },
   {
+    "playerId": "orlando-magic_franz-wagner_6e714143",
+    "playerName": "Franz Wagner",
+    "teamCode": "orlando-magic",
+    "sport": "NBA",
+    "nativePlayerId": "55372"
+  },
+  {
+    "playerId": "orlando-magic_desmond-bane_e9bbbe3a",
+    "playerName": "Desmond Bane",
+    "teamCode": "orlando-magic",
+    "sport": "NBA",
+    "nativePlayerId": "271602"
+  },
+  {
     "playerId": "phoenix-suns_jalen-green_0e4a546c",
     "playerName": "Jalen Green",
     "teamCode": "phoenix-suns",
@@ -1127,39 +350,39 @@
     "nativePlayerId": "272587"
   },
   {
-    "playerId": "portland-trail-blazers_damian-lillard_a8245544",
-    "playerName": "Damian Lillard",
-    "teamCode": "portland-trail-blazers",
+    "playerId": "phoenix-suns_miles-bridges_d81178ce",
+    "playerName": "Miles Bridges",
+    "teamCode": "phoenix-suns",
     "sport": "NBA",
-    "nativePlayerId": "1738"
+    "nativePlayerId": "353918"
   },
   {
-    "playerId": "portland-trail-blazers_scoot-henderson_a95c8a10",
-    "playerName": "Scoot Henderson",
-    "teamCode": "portland-trail-blazers",
+    "playerId": "phoenix-suns_dillon-brooks_a2b6937e",
+    "playerName": "Dillon Brooks",
+    "teamCode": "phoenix-suns",
     "sport": "NBA",
-    "nativePlayerId": "174235"
+    "nativePlayerId": "269531"
   },
   {
-    "playerId": "portland-trail-blazers_jrue-holiday_56fbd8b8",
-    "playerName": "Jrue Holiday",
-    "teamCode": "portland-trail-blazers",
+    "playerId": "orlando-magic_anthony-black_925b6727",
+    "playerName": "Anthony Black",
+    "teamCode": "orlando-magic",
     "sport": "NBA",
-    "nativePlayerId": "269530"
+    "nativePlayerId": "173641"
   },
   {
-    "playerId": "portland-trail-blazers_toumani-camara_5454fae4",
-    "playerName": "Toumani Camara",
-    "teamCode": "portland-trail-blazers",
+    "playerId": "orlando-magic_tristan-da-silva_0f3fac71",
+    "playerName": "Tristan da Silva",
+    "teamCode": "orlando-magic",
     "sport": "NBA",
-    "nativePlayerId": "175130"
+    "nativePlayerId": "218628"
   },
   {
-    "playerId": "portland-trail-blazers_donovan-clingan_b0458cd4",
-    "playerName": "Donovan Clingan",
-    "teamCode": "portland-trail-blazers",
+    "playerId": "orlando-magic_wendell-carter-jr._1576a802",
+    "playerName": "Wendell Carter Jr.",
+    "teamCode": "orlando-magic",
     "sport": "NBA",
-    "nativePlayerId": "219067"
+    "nativePlayerId": "37711"
   },
   {
     "playerId": "phoenix-suns_collin-gillespie_45f58226",
@@ -1169,305 +392,32 @@
     "nativePlayerId": "233411"
   },
   {
+    "playerId": "orlando-magic_jase-richardson_29482876",
+    "playerName": "Jase Richardson",
+    "teamCode": "orlando-magic",
+    "sport": "NBA",
+    "nativePlayerId": "287406"
+  },
+  {
+    "playerId": "orlando-magic_jamal-cain_94a1727d",
+    "playerName": "Jamal Cain",
+    "teamCode": "orlando-magic",
+    "sport": "NBA",
+    "nativePlayerId": "309613"
+  },
+  {
+    "playerId": "phoenix-suns_oso-ighodaro_2f69dee3",
+    "playerName": "Oso Ighodaro",
+    "teamCode": "phoenix-suns",
+    "sport": "NBA",
+    "nativePlayerId": "221315"
+  },
+  {
     "playerId": "phoenix-suns_khaman-maluach_caf5d5a0",
     "playerName": "Khaman Maluach",
     "teamCode": "phoenix-suns",
     "sport": "NBA",
     "nativePlayerId": "355013"
-  },
-  {
-    "playerId": "denver-nuggets_jamal-murray_cdf02115",
-    "playerName": "Jamal Murray",
-    "teamCode": "denver-nuggets",
-    "sport": "NBA",
-    "nativePlayerId": "1290"
-  },
-  {
-    "playerId": "toronto-raptors_scottie-barnes_8b5637db",
-    "playerName": "Scottie Barnes",
-    "teamCode": "toronto-raptors",
-    "sport": "NBA",
-    "nativePlayerId": "188002"
-  },
-  {
-    "playerId": "toronto-raptors_rj-barrett_8bdd9499",
-    "playerName": "RJ Barrett",
-    "teamCode": "toronto-raptors",
-    "sport": "NBA",
-    "nativePlayerId": "183185"
-  },
-  {
-    "playerId": "toronto-raptors_immanuel-quickley_8013bb79",
-    "playerName": "Immanuel Quickley",
-    "teamCode": "toronto-raptors",
-    "sport": "NBA",
-    "nativePlayerId": "183194"
-  },
-  {
-    "playerId": "denver-nuggets_nikola-jokić_8370f52d",
-    "playerName": "Nikola Jokić",
-    "teamCode": "denver-nuggets",
-    "sport": "NBA",
-    "nativePlayerId": "188013"
-  },
-  {
-    "playerId": "denver-nuggets_aaron-gordon_0bc8c1d8",
-    "playerName": "Aaron Gordon",
-    "teamCode": "denver-nuggets",
-    "sport": "NBA",
-    "nativePlayerId": "37691"
-  },
-  {
-    "playerId": "denver-nuggets_christian-braun_2446b330",
-    "playerName": "Christian Braun",
-    "teamCode": "denver-nuggets",
-    "sport": "NBA",
-    "nativePlayerId": "79885"
-  },
-  {
-    "playerId": "toronto-raptors_ja'kobe-walter_0b795d93",
-    "playerName": "Ja'Kobe Walter",
-    "teamCode": "toronto-raptors",
-    "sport": "NBA",
-    "nativePlayerId": "220934"
-  },
-  {
-    "playerId": "denver-nuggets_cameron-johnson_9776dc49",
-    "playerName": "Cameron Johnson",
-    "teamCode": "denver-nuggets",
-    "sport": "NBA",
-    "nativePlayerId": "269528"
-  },
-  {
-    "playerId": "denver-nuggets_demar-derozan_8f572d13",
-    "playerName": "DeMar DeRozan",
-    "teamCode": "denver-nuggets",
-    "sport": "NBA",
-    "nativePlayerId": "356153"
-  },
-  {
-    "playerId": "toronto-raptors_collin-murray-boyles_a3ac790b",
-    "playerName": "Collin Murray-Boyles",
-    "teamCode": "toronto-raptors",
-    "sport": "NBA",
-    "nativePlayerId": "274051"
-  },
-  {
-    "playerId": "toronto-raptors_jakob-poeltl_cf369e16",
-    "playerName": "Jakob Poeltl",
-    "teamCode": "toronto-raptors",
-    "sport": "NBA",
-    "nativePlayerId": "96540"
-  },
-  {
-    "playerId": "toronto-raptors_jamal-shead_16c04eb8",
-    "playerName": "Jamal Shead",
-    "teamCode": "toronto-raptors",
-    "sport": "NBA",
-    "nativePlayerId": "217699"
-  },
-  {
-    "playerId": "dallas-mavericks_kyrie-irving_8c71c38c",
-    "playerName": "Kyrie Irving",
-    "teamCode": "dallas-mavericks",
-    "sport": "NBA",
-    "nativePlayerId": "96236"
-  },
-  {
-    "playerId": "san-antonio-spurs_dylan-harper_2d70eb20",
-    "playerName": "Dylan Harper",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "271607"
-  },
-  {
-    "playerId": "san-antonio-spurs_stephon-castle_f76f86bb",
-    "playerName": "Stephon Castle",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "217804"
-  },
-  {
-    "playerId": "san-antonio-spurs_de'aaron-fox_a3e4a0b5",
-    "playerName": "De'Aaron Fox",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "226913"
-  },
-  {
-    "playerId": "san-antonio-spurs_devin-vassell_268f15bb",
-    "playerName": "Devin Vassell",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "56347"
-  },
-  {
-    "playerId": "dallas-mavericks_p.j.-washington_e03220e1",
-    "playerName": "P.J. Washington",
-    "teamCode": "dallas-mavericks",
-    "sport": "NBA",
-    "nativePlayerId": "187519"
-  },
-  {
-    "playerId": "dallas-mavericks_naji-marshall_1a42a618",
-    "playerName": "Naji Marshall",
-    "teamCode": "dallas-mavericks",
-    "sport": "NBA",
-    "nativePlayerId": "217481"
-  },
-  {
-    "playerId": "san-antonio-spurs_victor-wembanyama_b7f89491",
-    "playerName": "Victor Wembanyama",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "173819"
-  },
-  {
-    "playerId": "san-antonio-spurs_julian-champagnie_1e3ab8f4",
-    "playerName": "Julian Champagnie",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "125266"
-  },
-  {
-    "playerId": "dallas-mavericks_daniel-gafford_e0764be1",
-    "playerName": "Daniel Gafford",
-    "teamCode": "dallas-mavericks",
-    "sport": "NBA",
-    "nativePlayerId": "187518"
-  },
-  {
-    "playerId": "san-antonio-spurs_keldon-johnson_c6c3b225",
-    "playerName": "Keldon Johnson",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "55140"
-  },
-  {
-    "playerId": "dallas-mavericks_zaccharie-risacher_61def664",
-    "playerName": "Zaccharie Risacher",
-    "teamCode": "dallas-mavericks",
-    "sport": "NBA",
-    "nativePlayerId": "353314"
-  },
-  {
-    "playerId": "dallas-mavericks_cooper-flagg_28f73484",
-    "playerName": "Cooper Flagg",
-    "teamCode": "dallas-mavericks",
-    "sport": "NBA",
-    "nativePlayerId": "269519"
-  },
-  {
-    "playerId": "san-antonio-spurs_luke-kornet_912168c3",
-    "playerName": "Luke Kornet",
-    "teamCode": "san-antonio-spurs",
-    "sport": "NBA",
-    "nativePlayerId": "272423"
-  },
-  {
-    "playerId": "dallas-mavericks_caleb-martin_44682b39",
-    "playerName": "Caleb Martin",
-    "teamCode": "dallas-mavericks",
-    "sport": "NBA",
-    "nativePlayerId": "230608"
-  },
-  {
-    "playerId": "los-angeles-lakers_austin-reaves_4704a8ca",
-    "playerName": "Austin Reaves",
-    "teamCode": "los-angeles-lakers",
-    "sport": "NBA",
-    "nativePlayerId": "55934"
-  },
-  {
-    "playerId": "sacramento-kings_darius-acuff-jr._e1567ed3",
-    "playerName": "Darius Acuff Jr.",
-    "teamCode": "sacramento-kings",
-    "sport": "NBA",
-    "nativePlayerId": "352881"
-  },
-  {
-    "playerId": "los-angeles-lakers_luka-dončić_122765da",
-    "playerName": "Luka Dončić",
-    "teamCode": "los-angeles-lakers",
-    "sport": "NBA",
-    "nativePlayerId": "227710"
-  },
-  {
-    "playerId": "sacramento-kings_zach-lavine_98e2ed7b",
-    "playerName": "Zach LaVine",
-    "teamCode": "sacramento-kings",
-    "sport": "NBA",
-    "nativePlayerId": "226921"
-  },
-  {
-    "playerId": "sacramento-kings_domantas-sabonis_1d9f39a2",
-    "playerName": "Domantas Sabonis",
-    "teamCode": "sacramento-kings",
-    "sport": "NBA",
-    "nativePlayerId": "59923"
-  },
-  {
-    "playerId": "sacramento-kings_de'andre-hunter_34b3326e",
-    "playerName": "De'Andre Hunter",
-    "teamCode": "sacramento-kings",
-    "sport": "NBA",
-    "nativePlayerId": "298766"
-  },
-  {
-    "playerId": "los-angeles-lakers_walker-kessler_ec86bdc9",
-    "playerName": "Walker Kessler",
-    "teamCode": "los-angeles-lakers",
-    "sport": "NBA",
-    "nativePlayerId": "352978"
-  },
-  {
-    "playerId": "sacramento-kings_precious-achiuwa_91c5373d",
-    "playerName": "Precious Achiuwa",
-    "teamCode": "sacramento-kings",
-    "sport": "NBA",
-    "nativePlayerId": "278654"
-  },
-  {
-    "playerId": "los-angeles-lakers_quentin-grimes_2ea521ef",
-    "playerName": "Quentin Grimes",
-    "teamCode": "los-angeles-lakers",
-    "sport": "NBA",
-    "nativePlayerId": "354548"
-  },
-  {
-    "playerId": "los-angeles-lakers_ziaire-williams_7b68d309",
-    "playerName": "Ziaire Williams",
-    "teamCode": "los-angeles-lakers",
-    "sport": "NBA",
-    "nativePlayerId": "355212"
-  },
-  {
-    "playerId": "los-angeles-lakers_jake-laravia_a5866e80",
-    "playerName": "Jake LaRavia",
-    "teamCode": "los-angeles-lakers",
-    "sport": "NBA",
-    "nativePlayerId": "271614"
-  },
-  {
-    "playerId": "los-angeles-lakers_matisse-thybulle_71688479",
-    "playerName": "Matisse Thybulle",
-    "teamCode": "los-angeles-lakers",
-    "sport": "NBA",
-    "nativePlayerId": "354481"
-  },
-  {
-    "playerId": "sacramento-kings_malik-monk_60bd573e",
-    "playerName": "Malik Monk",
-    "teamCode": "sacramento-kings",
-    "sport": "NBA",
-    "nativePlayerId": "87899"
-  },
-  {
-    "playerId": "la-clippers_darius-garland_7ddfb4ed",
-    "playerName": "Darius Garland",
-    "teamCode": "la-clippers",
-    "sport": "NBA",
-    "nativePlayerId": "304023"
   },
   {
     "playerId": "miami-heat_giannis-antetokounmpo_36196d24",
@@ -1477,6 +427,13 @@
     "nativePlayerId": "353191"
   },
   {
+    "playerId": "golden-state-warriors_stephen-curry_daddb335",
+    "playerName": "Stephen Curry",
+    "teamCode": "golden-state-warriors",
+    "sport": "NBA",
+    "nativePlayerId": "188015"
+  },
+  {
     "playerId": "miami-heat_bam-adebayo_c1706980",
     "playerName": "Bam Adebayo",
     "teamCode": "miami-heat",
@@ -1484,18 +441,18 @@
     "nativePlayerId": "188000"
   },
   {
-    "playerId": "la-clippers_rui-hachimura_7935e851",
-    "playerName": "Rui Hachimura",
-    "teamCode": "la-clippers",
+    "playerId": "golden-state-warriors_yaxel-lendeborg_1d60c5d4",
+    "playerName": "Yaxel Lendeborg",
+    "teamCode": "golden-state-warriors",
     "sport": "NBA",
-    "nativePlayerId": "353239"
+    "nativePlayerId": "352891"
   },
   {
-    "playerId": "miami-heat_andrew-wiggins_1ab12b39",
-    "playerName": "Andrew Wiggins",
-    "teamCode": "miami-heat",
+    "playerId": "golden-state-warriors_brandin-podziemski_403885df",
+    "playerName": "Brandin Podziemski",
+    "teamCode": "golden-state-warriors",
     "sport": "NBA",
-    "nativePlayerId": "227725"
+    "nativePlayerId": "173745"
   },
   {
     "playerId": "miami-heat_davion-mitchell_344077f2",
@@ -1505,34 +462,6 @@
     "nativePlayerId": "227883"
   },
   {
-    "playerId": "miami-heat_pelle-larsson_84f4b2ce",
-    "playerName": "Pelle Larsson",
-    "teamCode": "miami-heat",
-    "sport": "NBA",
-    "nativePlayerId": "233790"
-  },
-  {
-    "playerId": "la-clippers_keaton-wagler_c54a01fb",
-    "playerName": "Keaton Wagler",
-    "teamCode": "la-clippers",
-    "sport": "NBA",
-    "nativePlayerId": "353355"
-  },
-  {
-    "playerId": "la-clippers_brook-lopez_e6917eb4",
-    "playerName": "Brook Lopez",
-    "teamCode": "la-clippers",
-    "sport": "NBA",
-    "nativePlayerId": "271618"
-  },
-  {
-    "playerId": "la-clippers_derrick-jones-jr._34d5d940",
-    "playerName": "Derrick Jones Jr.",
-    "teamCode": "la-clippers",
-    "sport": "NBA",
-    "nativePlayerId": "216775"
-  },
-  {
     "playerId": "miami-heat_klay-thompson_28e47b05",
     "playerName": "Klay Thompson",
     "teamCode": "miami-heat",
@@ -1540,38 +469,52 @@
     "nativePlayerId": "353256"
   },
   {
-    "playerId": "la-clippers_max-strus_7621c3c9",
-    "playerName": "Max Strus",
-    "teamCode": "la-clippers",
-    "sport": "NBA",
-    "nativePlayerId": "360859"
-  },
-  {
-    "playerId": "miami-heat_bobby-portis-jr._d2dd9bb0",
-    "playerName": "Bobby Portis Jr.",
+    "playerId": "miami-heat_andrew-wiggins_1ab12b39",
+    "playerName": "Andrew Wiggins",
     "teamCode": "miami-heat",
     "sport": "NBA",
-    "nativePlayerId": "354461"
+    "nativePlayerId": "227725"
   },
   {
-    "playerId": "la-clippers_isaiah-jackson_6af432bc",
-    "playerName": "Isaiah Jackson",
-    "teamCode": "la-clippers",
-    "sport": "NBA",
-    "nativePlayerId": "305139"
-  },
-  {
-    "playerId": "miami-heat_tim-hardaway-jr._1374de2d",
-    "playerName": "Tim Hardaway Jr.",
+    "playerId": "miami-heat_pelle-larsson_84f4b2ce",
+    "playerName": "Pelle Larsson",
     "teamCode": "miami-heat",
     "sport": "NBA",
-    "nativePlayerId": "354627"
+    "nativePlayerId": "233790"
   },
   {
-    "playerId": "la-clippers_kris-dunn_fa0f08ae",
-    "playerName": "Kris Dunn",
-    "teamCode": "la-clippers",
+    "playerId": "golden-state-warriors_de'anthony-melton_df1a0c31",
+    "playerName": "De'Anthony Melton",
+    "teamCode": "golden-state-warriors",
     "sport": "NBA",
-    "nativePlayerId": "217539"
+    "nativePlayerId": "217540"
+  },
+  {
+    "playerId": "golden-state-warriors_brandon-williams_cfa3466a",
+    "playerName": "Brandon Williams",
+    "teamCode": "golden-state-warriors",
+    "sport": "NBA",
+    "nativePlayerId": "353776"
+  },
+  {
+    "playerId": "golden-state-warriors_georges-niang_c30e4155",
+    "playerName": "Georges Niang",
+    "teamCode": "golden-state-warriors",
+    "sport": "NBA",
+    "nativePlayerId": "356292"
+  },
+  {
+    "playerId": "golden-state-warriors_will-richard_3f562d9d",
+    "playerName": "Will Richard",
+    "teamCode": "golden-state-warriors",
+    "sport": "NBA",
+    "nativePlayerId": "273012"
+  },
+  {
+    "playerId": "golden-state-warriors_draymond-green_fbdd90b2",
+    "playerName": "Draymond Green",
+    "teamCode": "golden-state-warriors",
+    "sport": "NBA",
+    "nativePlayerId": "54811"
   }
 ]

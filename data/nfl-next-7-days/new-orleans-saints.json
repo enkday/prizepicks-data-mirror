@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-04T12:07:27.991Z",
-  "scrapedDate": "Wednesday, November 4, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-05T12:06:37.450Z",
+  "scrapedDate": "Thursday, November 5, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 629,
-    "sourceCount": 4518,
-    "acceptedCount": 629,
-    "excludedCount": 3889,
+    "count": 782,
+    "sourceCount": 5638,
+    "acceptedCount": 782,
+    "excludedCount": 4856,
     "rejectedCount": 0,
-    "publishedCount": 629,
-    "providerFetchedAt": "2026-11-04T12:05:18.081Z",
+    "publishedCount": 782,
+    "providerFetchedAt": "2026-11-05T12:05:27.266Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New Orleans Saints",
-  "totalProps": 16,
+  "totalProps": 15,
   "props": [
     {
       "projectionId": "16557931",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Pass Yards",
-      "line": "240.5",
+      "line": "223.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1893,
+      "rank": 2196,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577037",
@@ -58,9 +58,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1917,
+      "rank": 2208,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577963",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Devaughn Vele",
       "stat": "Receiving Yards",
-      "line": "45.5",
+      "line": "43.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -79,30 +79,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1951,
+      "rank": 2222,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16577746",
-      "playerId": "246565",
-      "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "Pass Attempts",
-      "line": "35.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1974,
-      "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577952",
@@ -110,7 +89,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Longest Completion",
-      "line": "35.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -121,9 +100,30 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1975,
+      "rank": 2232,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+    },
+    {
+      "projectionId": "16577746",
+      "playerId": "246565",
+      "status": "pre_game",
+      "player": "Tyler Shough",
+      "stat": "Pass Attempts",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2235,
+      "gameId": "193712",
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577936",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Juwan Johnson",
       "stat": "Receiving Yards",
-      "line": "29.5",
+      "line": "27.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1996,
+      "rank": 2249,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577864",
@@ -163,9 +163,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2002,
+      "rank": 2253,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577980",
@@ -173,7 +173,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Pass Completions",
-      "line": "23.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2006,
+      "rank": 2256,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577921",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Devaughn Vele",
       "stat": "Longest Reception",
-      "line": "19.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2024,
+      "rank": 2267,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577987",
@@ -226,9 +226,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2034,
+      "rank": 2270,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16557906",
@@ -247,9 +247,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2037,
+      "rank": 2275,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577826",
@@ -257,7 +257,7 @@
       "status": "pre_game",
       "player": "Noah Fant",
       "stat": "Receiving Yards",
-      "line": "10.5",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -268,9 +268,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2039,
+      "rank": 2278,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577915",
@@ -278,7 +278,7 @@
       "status": "pre_game",
       "player": "Noah Fant",
       "stat": "Longest Reception",
-      "line": "8.5",
+      "line": "7.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -289,9 +289,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2046,
+      "rank": 2282,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577742",
@@ -299,7 +299,7 @@
       "status": "pre_game",
       "player": "Tyler Shough",
       "stat": "Longest Rush",
-      "line": "4.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -310,30 +310,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2065,
+      "rank": 2283,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
-    },
-    {
-      "projectionId": "16577943",
-      "playerId": "246565",
-      "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "Pass TDs",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 2096,
-      "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     },
     {
       "projectionId": "16577903",
@@ -352,9 +331,9 @@
       "teamCode": "NO",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 2125,
+      "rank": 2325,
       "gameId": "193712",
-      "providerFetchedAt": "2026-11-04T12:05:18.081Z"
+      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
     }
   ]
 }
