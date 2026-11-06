@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-05T12:06:37.450Z",
-  "scrapedDate": "Thursday, November 5, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-06T12:07:27.046Z",
+  "scrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 782,
-    "sourceCount": 5638,
-    "acceptedCount": 782,
-    "excludedCount": 4856,
+    "count": 937,
+    "sourceCount": 6411,
+    "acceptedCount": 937,
+    "excludedCount": 5474,
     "rejectedCount": 0,
-    "publishedCount": 782,
-    "providerFetchedAt": "2026-11-05T12:05:27.266Z",
+    "publishedCount": 937,
+    "providerFetchedAt": "2026-11-06T12:05:16.195Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 28,
+  "totalProps": 37,
   "props": [
     {
       "projectionId": "16557943",
@@ -37,9 +37,30 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4892,
+      "rank": 5478,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16711623",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Passer Rating",
+      "line": "87.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5510,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16576410",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Rush Yards",
-      "line": "63.5",
+      "line": "65.5",
       "sport": "NFL",
       "startTime": "11/08/26 07:20 PM CST",
       "startTimeCST": "11/08/26 07:20 PM CST",
@@ -58,9 +79,30 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4946,
+      "rank": 5539,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16623382",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Completion Percentage",
+      "line": "62.7",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5543,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16620759",
@@ -68,7 +110,7 @@
       "status": "pre_game",
       "player": "Emeka Egbuka",
       "stat": "Receiving Yards",
-      "line": "52.5",
+      "line": "49.5",
       "sport": "NFL",
       "startTime": "11/08/26 07:20 PM CST",
       "startTimeCST": "11/08/26 07:20 PM CST",
@@ -79,9 +121,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 4960,
+      "rank": 5557,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16626771",
@@ -100,9 +142,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5004,
+      "rank": 5598,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16702008",
@@ -121,9 +163,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5009,
+      "rank": 5604,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16623377",
@@ -142,9 +184,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5017,
+      "rank": 5614,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16701979",
@@ -163,30 +205,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5040,
+      "rank": 5642,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
-    },
-    {
-      "projectionId": "16650328",
-      "playerId": "246561",
-      "status": "pre_game",
-      "player": "Emeka Egbuka",
-      "stat": "Longest Reception",
-      "line": "22.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 07:20 PM CST",
-      "startTimeCST": "11/08/26 07:20 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 5058,
-      "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16626761",
@@ -205,9 +226,30 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5060,
+      "rank": 5664,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16650328",
+      "playerId": "246561",
+      "status": "pre_game",
+      "player": "Emeka Egbuka",
+      "stat": "Longest Reception",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5665,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16623369",
@@ -226,9 +268,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5064,
+      "rank": 5668,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16626776",
@@ -247,9 +289,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5090,
+      "rank": 5701,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16702000",
@@ -268,9 +310,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5098,
+      "rank": 5713,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16557919",
@@ -289,9 +331,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5099,
+      "rank": 5715,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16642742",
@@ -310,51 +352,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5101,
+      "rank": 5717,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
-    },
-    {
-      "projectionId": "16626766",
-      "playerId": "212264",
-      "status": "pre_game",
-      "player": "Bucky Irving",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 07:20 PM CST",
-      "startTimeCST": "11/08/26 07:20 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 5105,
-      "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
-    },
-    {
-      "projectionId": "16701977",
-      "playerId": "210869",
-      "status": "pre_game",
-      "player": "Cade Otton",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 07:20 PM CST",
-      "startTimeCST": "11/08/26 07:20 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Chicago Bears",
-      "opponentCode": "CHI",
-      "rank": 5115,
-      "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16626694",
@@ -373,9 +373,114 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5118,
+      "rank": 5737,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16626766",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5738,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16701977",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5742,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16722425",
+      "playerId": "336287",
+      "status": "pre_game",
+      "player": "Ted Hurst III",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5743,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16722433",
+      "playerId": "254945",
+      "status": "pre_game",
+      "player": "Tez Johnson",
+      "stat": "Receiving Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5745,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16722423",
+      "playerId": "336287",
+      "status": "pre_game",
+      "player": "Ted Hurst III",
+      "stat": "Longest Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5754,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16626741",
@@ -394,9 +499,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5131,
+      "rank": 5760,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16626791",
@@ -415,9 +520,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5132,
+      "rank": 5761,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16626702",
@@ -436,9 +541,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5136,
+      "rank": 5766,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16633712",
@@ -457,9 +562,30 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5147,
+      "rank": 5782,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16626711",
+      "playerId": "336288",
+      "status": "pre_game",
+      "player": "Kenny Gainwell",
+      "stat": "Rush Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5796,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16628514",
@@ -478,17 +604,17 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5157,
+      "rank": 5799,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16626711",
-      "playerId": "336288",
+      "projectionId": "16719189",
+      "playerId": "246561",
       "status": "pre_game",
-      "player": "Kenny Gainwell",
-      "stat": "Rush Attempts",
-      "line": "6",
+      "player": "Emeka Egbuka",
+      "stat": "Rec Targets",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/08/26 07:20 PM CST",
       "startTimeCST": "11/08/26 07:20 PM CST",
@@ -499,9 +625,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5160,
+      "rank": 5802,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16623378",
@@ -520,17 +646,17 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5179,
+      "rank": 5825,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16626689",
-      "playerId": "211073",
+      "projectionId": "16722941",
+      "playerId": "246561",
       "status": "pre_game",
-      "player": "Baker Mayfield",
-      "stat": "Rush Attempts",
-      "line": "3.5",
+      "player": "Emeka Egbuka",
+      "stat": "Receptions",
+      "line": "4",
       "sport": "NFL",
       "startTime": "11/08/26 07:20 PM CST",
       "startTimeCST": "11/08/26 07:20 PM CST",
@@ -541,16 +667,37 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5185,
+      "rank": 5827,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16701936",
+      "projectionId": "16719188",
       "playerId": "212264",
       "status": "pre_game",
       "player": "Bucky Irving",
-      "stat": "Receptions",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5852,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16719190",
+      "playerId": "336288",
+      "status": "pre_game",
+      "player": "Kenny Gainwell",
+      "stat": "Rec Targets",
       "line": "2.5",
       "sport": "NFL",
       "startTime": "11/08/26 07:20 PM CST",
@@ -562,9 +709,30 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5205,
+      "rank": 5868,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16722942",
+      "playerId": "336288",
+      "status": "pre_game",
+      "player": "Kenny Gainwell",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5869,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16628507",
@@ -583,9 +751,30 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5220,
+      "rank": 5882,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16605874",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 07:20 PM CST",
+      "startTimeCST": "11/08/26 07:20 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Chicago Bears",
+      "opponentCode": "CHI",
+      "rank": 5896,
+      "gameId": "194069",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16620130",
@@ -604,9 +793,9 @@
       "teamCode": "TB",
       "Opponent": "Chicago Bears",
       "opponentCode": "CHI",
-      "rank": 5246,
+      "rank": 5916,
       "gameId": "194069",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     }
   ]
 }

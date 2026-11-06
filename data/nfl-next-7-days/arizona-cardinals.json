@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-05T12:06:37.450Z",
-  "scrapedDate": "Thursday, November 5, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-06T12:07:27.046Z",
+  "scrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 782,
-    "sourceCount": 5638,
-    "acceptedCount": 782,
-    "excludedCount": 4856,
+    "count": 937,
+    "sourceCount": 6411,
+    "acceptedCount": 937,
+    "excludedCount": 5474,
     "rejectedCount": 0,
-    "publishedCount": 782,
-    "providerFetchedAt": "2026-11-05T12:05:27.266Z",
+    "publishedCount": 937,
+    "providerFetchedAt": "2026-11-06T12:05:16.195Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Arizona Cardinals",
-  "totalProps": 22,
+  "totalProps": 27,
   "props": [
     {
       "projectionId": "16632838",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Gardner Minshew II",
       "stat": "Pass Yards",
-      "line": "201.5",
+      "line": "196.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 3871,
+      "rank": 4149,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16577049",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Trey McBride",
       "stat": "Receiving Yards",
-      "line": "58.5",
+      "line": "60.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -58,17 +58,17 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 3926,
+      "rank": 4200,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16681737",
-      "playerId": "336277",
+      "projectionId": "16659868",
+      "playerId": "361109",
       "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Rush Yards",
-      "line": "50.5",
+      "player": "Gardner Minshew II",
+      "stat": "Completion Percentage",
+      "line": "59.4",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 3930,
+      "rank": 4213,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16632821",
@@ -100,9 +100,30 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 3938,
+      "rank": 4226,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16681737",
+      "playerId": "336277",
+      "status": "pre_game",
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": "47.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 4228,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16632683",
@@ -121,9 +142,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 3964,
+      "rank": 4253,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16632748",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Gardner Minshew II",
       "stat": "Longest Completion",
-      "line": "32.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -142,30 +163,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 3967,
+      "rank": 4258,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
-    },
-    {
-      "projectionId": "16632766",
-      "playerId": "210815",
-      "status": "pre_game",
-      "player": "Michael Wilson",
-      "stat": "Longest Reception",
-      "line": "20.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeCST": "11/08/26 03:25 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Seattle Seahawks",
-      "opponentCode": "SEA",
-      "rank": 4010,
-      "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16652841",
@@ -184,9 +184,30 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4012,
+      "rank": 4313,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16632766",
+      "playerId": "210815",
+      "status": "pre_game",
+      "player": "Michael Wilson",
+      "stat": "Longest Reception",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 4323,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16632832",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Trey McBride",
       "stat": "Longest Reception",
-      "line": "18.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -205,17 +226,17 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4037,
+      "rank": 4343,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16632714",
-      "playerId": "214710",
+      "projectionId": "16681724",
+      "playerId": "336277",
       "status": "pre_game",
-      "player": "Elijah Higgins",
+      "player": "Tyler Allgeier",
       "stat": "Receiving Yards",
-      "line": "14.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -226,9 +247,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4048,
+      "rank": 4347,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16681736",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Tyler Allgeier",
       "stat": "Rush Attempts",
-      "line": "14.5",
+      "line": "15",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4054,
+      "rank": 4358,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16691976",
@@ -268,17 +289,17 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4056,
+      "rank": 4364,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16681724",
-      "playerId": "336277",
+      "projectionId": "16632714",
+      "playerId": "214710",
       "status": "pre_game",
-      "player": "Tyler Allgeier",
+      "player": "Elijah Higgins",
       "stat": "Receiving Yards",
-      "line": "12.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -289,9 +310,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4065,
+      "rank": 4375,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16681717",
@@ -310,9 +331,30 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4067,
+      "rank": 4389,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16691983",
+      "playerId": "338234",
+      "status": "pre_game",
+      "player": "Reggie Virgil",
+      "stat": "Longest Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 4391,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16632752",
@@ -331,15 +373,15 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4072,
+      "rank": 4397,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16691983",
-      "playerId": "338234",
+      "projectionId": "16681720",
+      "playerId": "336277",
       "status": "pre_game",
-      "player": "Reggie Virgil",
+      "player": "Tyler Allgeier",
       "stat": "Longest Reception",
       "line": "9.5",
       "sport": "NFL",
@@ -352,17 +394,17 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4089,
+      "rank": 4413,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16681720",
-      "playerId": "336277",
+      "projectionId": "16718455",
+      "playerId": "211118",
       "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Longest Reception",
-      "line": "7.5",
+      "player": "Trey McBride",
+      "stat": "Rec Targets",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -373,9 +415,30 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4100,
+      "rank": 4423,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16718452",
+      "playerId": "210815",
+      "status": "pre_game",
+      "player": "Michael Wilson",
+      "stat": "Rec Targets",
+      "line": "8",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 4433,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16663103",
@@ -394,9 +457,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4103,
+      "rank": 4443,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16632799",
@@ -415,9 +478,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4116,
+      "rank": 4457,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16652840",
@@ -436,9 +499,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4122,
+      "rank": 4468,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16632650",
@@ -457,9 +520,9 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4123,
+      "rank": 4469,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16663100",
@@ -478,9 +541,51 @@
       "teamCode": "ARI",
       "Opponent": "Seattle Seahawks",
       "opponentCode": "SEA",
-      "rank": 4130,
+      "rank": 4474,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16718450",
+      "playerId": "214710",
+      "status": "pre_game",
+      "player": "Elijah Higgins",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 4516,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16718451",
+      "playerId": "338234",
+      "status": "pre_game",
+      "player": "Reggie Virgil",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Seattle Seahawks",
+      "opponentCode": "SEA",
+      "rank": 4517,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     }
   ]
 }

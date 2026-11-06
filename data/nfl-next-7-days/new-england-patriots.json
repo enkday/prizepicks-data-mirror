@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-05T12:06:37.450Z",
-  "scrapedDate": "Thursday, November 5, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-06T12:07:27.046Z",
+  "scrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 782,
-    "sourceCount": 5638,
-    "acceptedCount": 782,
-    "excludedCount": 4856,
+    "count": 937,
+    "sourceCount": 6411,
+    "acceptedCount": 937,
+    "excludedCount": 5474,
     "rejectedCount": 0,
-    "publishedCount": 782,
-    "providerFetchedAt": "2026-11-05T12:05:27.266Z",
+    "publishedCount": 937,
+    "providerFetchedAt": "2026-11-06T12:05:16.195Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New England Patriots",
-  "totalProps": 17,
+  "totalProps": 26,
   "props": [
     {
       "projectionId": "16557942",
@@ -37,9 +37,51 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4573,
+      "rank": 5083,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16711622",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Passer Rating",
+      "line": "94.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5106,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16574404",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Completion Percentage",
+      "line": "61.9",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5133,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16566291",
@@ -47,7 +89,7 @@
       "status": "pre_game",
       "player": "Rhamondre Stevenson",
       "stat": "Rush Yards",
-      "line": "54.5",
+      "line": "55.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -58,9 +100,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4620,
+      "rank": 5143,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16567025",
@@ -68,7 +110,7 @@
       "status": "pre_game",
       "player": "Drake Maye",
       "stat": "Longest Completion",
-      "line": "35.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -79,9 +121,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4656,
+      "rank": 5187,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16567029",
@@ -100,9 +142,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4661,
+      "rank": 5192,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16557918",
@@ -121,9 +163,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4688,
+      "rank": 5217,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16567079",
@@ -131,7 +173,7 @@
       "status": "pre_game",
       "player": "Rhamondre Stevenson",
       "stat": "Receiving Yards",
-      "line": "20.5",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -142,9 +184,30 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4704,
+      "rank": 5224,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16713209",
+      "playerId": "339720",
+      "status": "pre_game",
+      "player": "Corey Kiner",
+      "stat": "Rush Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5234,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16567228",
@@ -163,9 +226,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4705,
+      "rank": 5236,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16588455",
@@ -184,9 +247,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4726,
+      "rank": 5260,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16567018",
@@ -205,9 +268,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4740,
+      "rank": 5289,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16688723",
@@ -226,9 +289,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4748,
+      "rank": 5296,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16566968",
@@ -247,9 +310,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4749,
+      "rank": 5298,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16567046",
@@ -268,9 +331,72 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4750,
+      "rank": 5299,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16724243",
+      "playerId": "339720",
+      "status": "pre_game",
+      "player": "Corey Kiner",
+      "stat": "Rush Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5343,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16716384",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Rush Attempts",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5352,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16719176",
+      "playerId": "210968",
+      "status": "pre_game",
+      "player": "Rhamondre Stevenson",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5363,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16588454",
@@ -289,9 +415,51 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4794,
+      "rank": 5364,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16711638",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Sacks Taken",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5377,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16714963",
+      "playerId": "210968",
+      "status": "pre_game",
+      "player": "Rhamondre Stevenson",
+      "stat": "Receptions",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5378,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16566061",
@@ -310,9 +478,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4827,
+      "rank": 5405,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16568404",
@@ -331,9 +499,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4833,
+      "rank": 5410,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16559273",
@@ -352,9 +520,9 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4842,
+      "rank": 5424,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16574235",
@@ -373,9 +541,30 @@
       "teamCode": "NE",
       "Opponent": "Green Bay Packers",
       "opponentCode": "GB",
-      "rank": 4866,
+      "rank": 5447,
       "gameId": "193717",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16724374",
+      "playerId": "339720",
+      "status": "pre_game",
+      "player": "Corey Kiner",
+      "stat": "Receptions",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5454,
+      "gameId": "193717",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     }
   ]
 }

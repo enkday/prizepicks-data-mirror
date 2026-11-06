@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-05T12:06:37.450Z",
-  "scrapedDate": "Thursday, November 5, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-06T12:07:27.046Z",
+  "scrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 782,
-    "sourceCount": 5638,
-    "acceptedCount": 782,
-    "excludedCount": 4856,
+    "count": 937,
+    "sourceCount": 6411,
+    "acceptedCount": 937,
+    "excludedCount": 5474,
     "rejectedCount": 0,
-    "publishedCount": 782,
-    "providerFetchedAt": "2026-11-05T12:05:27.266Z",
+    "publishedCount": 937,
+    "providerFetchedAt": "2026-11-06T12:05:16.195Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 25,
+  "totalProps": 28,
   "props": [
     {
       "projectionId": "16557924",
@@ -37,9 +37,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1074,
+      "rank": 562,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569935",
@@ -58,9 +58,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1102,
+      "rank": 593,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569948",
@@ -79,9 +79,30 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1114,
+      "rank": 607,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16679129",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Completion Percentage",
+      "line": "57.4",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 609,
+      "gameId": "193711",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569951",
@@ -100,9 +121,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1124,
+      "rank": 621,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569836",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "J.J. McCarthy",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1140,
+      "rank": 640,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569810",
@@ -142,9 +163,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1147,
+      "rank": 646,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569962",
@@ -163,9 +184,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1162,
+      "rank": 661,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569923",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Malik Nabers",
       "stat": "Longest Reception",
-      "line": "25.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -184,30 +205,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1165,
+      "rank": 670,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
-    },
-    {
-      "projectionId": "16569867",
-      "playerId": "320276",
-      "status": "pre_game",
-      "player": "Isaiah Likely",
-      "stat": "Longest Reception",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1191,
-      "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569850",
@@ -226,16 +226,37 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1192,
+      "rank": 696,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16569886",
-      "playerId": "246533",
+      "projectionId": "16569867",
+      "playerId": "320276",
       "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Rush Attempts",
+      "player": "Isaiah Likely",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 697,
+      "gameId": "193711",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16569870",
+      "playerId": "336250",
+      "status": "pre_game",
+      "player": "Malachi Fields",
+      "stat": "Longest Reception",
       "line": "16.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -247,30 +268,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1196,
+      "rank": 700,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
-    },
-    {
-      "projectionId": "16569870",
-      "playerId": "336250",
-      "status": "pre_game",
-      "player": "Malachi Fields",
-      "stat": "Longest Reception",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1198,
-      "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569894",
@@ -278,7 +278,7 @@
       "status": "pre_game",
       "player": "J.J. McCarthy",
       "stat": "Rush Yards",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -289,9 +289,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1208,
+      "rank": 708,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569839",
@@ -310,9 +310,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1211,
+      "rank": 723,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569920",
@@ -331,9 +331,30 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1212,
+      "rank": 724,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16569845",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Longest Rush",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 730,
+      "gameId": "193711",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569877",
@@ -352,30 +373,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1215,
+      "rank": 731,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
-    },
-    {
-      "projectionId": "16569845",
-      "playerId": "353317",
-      "status": "pre_game",
-      "player": "J.J. McCarthy",
-      "stat": "Longest Rush",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1219,
-      "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569893",
@@ -383,7 +383,7 @@
       "status": "pre_game",
       "player": "Cam Skattebo",
       "stat": "Receiving Yards",
-      "line": "9.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -394,9 +394,30 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1221,
+      "rank": 747,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16719182",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Rec Targets",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 749,
+      "gameId": "193711",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569882",
@@ -415,9 +436,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1232,
+      "rank": 751,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569862",
@@ -436,9 +457,30 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1234,
+      "rank": 755,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16719180",
+      "playerId": "320276",
+      "status": "pre_game",
+      "player": "Isaiah Likely",
+      "stat": "Rec Targets",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 759,
+      "gameId": "193711",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16678251",
@@ -457,9 +499,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1240,
+      "rank": 763,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569848",
@@ -478,17 +520,17 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1244,
+      "rank": 768,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
-      "projectionId": "16569827",
-      "playerId": "336475",
+      "projectionId": "16719181",
+      "playerId": "336250",
       "status": "pre_game",
-      "player": "Dominic Zvada",
-      "stat": "FG Made",
-      "line": "1.5",
+      "player": "Malachi Fields",
+      "stat": "Rec Targets",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -499,9 +541,30 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1269,
+      "rank": 785,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+    },
+    {
+      "projectionId": "16719179",
+      "playerId": "336247",
+      "status": "pre_game",
+      "player": "Darnell Mooney",
+      "stat": "Rec Targets",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 801,
+      "gameId": "193711",
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569982",
@@ -520,9 +583,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1272,
+      "rank": 810,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     },
     {
       "projectionId": "16569851",
@@ -541,9 +604,9 @@
       "teamCode": "NYG",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1298,
+      "rank": 841,
       "gameId": "193711",
-      "providerFetchedAt": "2026-11-05T12:05:27.266Z"
+      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
     }
   ]
 }
