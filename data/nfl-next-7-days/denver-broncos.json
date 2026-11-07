@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-06T12:07:27.046Z",
-  "scrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-07T12:05:58.755Z",
+  "scrapedDate": "Saturday, November 7, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 937,
-    "sourceCount": 6411,
-    "acceptedCount": 937,
-    "excludedCount": 5474,
+    "count": 1097,
+    "sourceCount": 7718,
+    "acceptedCount": 1097,
+    "excludedCount": 6621,
     "rejectedCount": 0,
-    "publishedCount": 937,
-    "providerFetchedAt": "2026-11-06T12:05:16.195Z",
+    "publishedCount": 1097,
+    "providerFetchedAt": "2026-11-07T12:04:47.993Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Denver Broncos",
-  "totalProps": 39,
+  "totalProps": 47,
   "props": [
     {
       "projectionId": "16557929",
@@ -37,9 +37,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1341,
+      "rank": 1677,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16711611",
@@ -58,9 +58,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1373,
+      "rank": 1705,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16607204",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Bo Nix",
       "stat": "Completion Percentage",
-      "line": "60",
+      "line": "61.2",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1401,
+      "rank": 1735,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576659",
@@ -100,9 +100,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1412,
+      "rank": 1746,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576681",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Jaylen Waddle",
       "stat": "Receiving Yards",
-      "line": "46.5",
+      "line": "47.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1428,
+      "rank": 1762,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576676",
@@ -131,6 +131,27 @@
       "status": "pre_game",
       "player": "Courtland Sutton",
       "stat": "Receiving Yards",
+      "line": "36.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1792,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576561",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Longest Completion",
       "line": "35.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -142,30 +163,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1456,
+      "rank": 1794,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16576561",
-      "playerId": "211036",
-      "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "Longest Completion",
-      "line": "34.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1457,
-      "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576689",
@@ -184,9 +184,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1461,
+      "rank": 1799,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576507",
@@ -194,27 +194,6 @@
       "status": "pre_game",
       "player": "J.K. Dobbins",
       "stat": "Rush Yards",
-      "line": "25.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1503,
-      "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16576663",
-      "playerId": "338940",
-      "status": "pre_game",
-      "player": "Jonah Coleman",
-      "stat": "Receiving Yards",
       "line": "24.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -226,9 +205,30 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1506,
+      "rank": 1842,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576663",
+      "playerId": "338940",
+      "status": "pre_game",
+      "player": "Jonah Coleman",
+      "stat": "Receiving Yards",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1854,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576691",
@@ -247,9 +247,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1521,
+      "rank": 1864,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576494",
@@ -268,9 +268,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1530,
+      "rank": 1873,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576619",
@@ -289,17 +289,17 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1539,
+      "rank": 1881,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16576513",
-      "playerId": "211246",
+      "projectionId": "16715653",
+      "playerId": "338940",
       "status": "pre_game",
-      "player": "Courtland Sutton",
-      "stat": "Longest Reception",
-      "line": "17.5",
+      "player": "Jonah Coleman",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -310,16 +310,79 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1567,
+      "rank": 1901,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16557904",
-      "playerId": "211036",
+      "projectionId": "16751250",
+      "playerId": "246566",
       "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "Rush Yards",
+      "player": "Pat Bryant",
+      "stat": "Receiving Yards",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1905,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576513",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1915,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576560",
+      "playerId": "338940",
+      "status": "pre_game",
+      "player": "Jonah Coleman",
+      "stat": "Longest Rush",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1924,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16751865",
+      "playerId": "246566",
+      "status": "pre_game",
+      "player": "Pat Bryant",
+      "stat": "Longest Reception",
       "line": "14.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -331,17 +394,17 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1582,
+      "rank": 1951,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16576560",
+      "projectionId": "16741716",
       "playerId": "338940",
       "status": "pre_game",
       "player": "Jonah Coleman",
-      "stat": "Longest Rush",
-      "line": "13.5",
+      "stat": "Rush Attempts",
+      "line": "13",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -352,16 +415,16 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1611,
+      "rank": 1958,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16576512",
-      "playerId": "246530",
+      "projectionId": "16557904",
+      "playerId": "211036",
       "status": "pre_game",
-      "player": "Evan Engram",
-      "stat": "Longest Reception",
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -373,9 +436,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1615,
+      "rank": 1959,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576466",
@@ -394,9 +457,51 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1622,
+      "rank": 1966,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576512",
+      "playerId": "246530",
+      "status": "pre_game",
+      "player": "Evan Engram",
+      "stat": "Longest Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1967,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576454",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Longest Rush",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 1972,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576453",
@@ -415,30 +520,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1633,
+      "rank": 1979,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16576454",
-      "playerId": "246531",
-      "status": "pre_game",
-      "player": "J.K. Dobbins",
-      "stat": "Longest Rush",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1634,
-      "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576677",
@@ -457,9 +541,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1636,
+      "rank": 1981,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576474",
@@ -478,30 +562,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1668,
+      "rank": 2023,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16576563",
-      "playerId": "216282",
-      "status": "pre_game",
-      "player": "Troy Franklin",
-      "stat": "Longest Reception",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1672,
-      "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16620994",
@@ -520,9 +583,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1676,
+      "rank": 2029,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16628483",
@@ -541,9 +604,30 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1678,
+      "rank": 2031,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576563",
+      "playerId": "216282",
+      "status": "pre_game",
+      "player": "Troy Franklin",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2037,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576632",
@@ -562,9 +646,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1683,
+      "rank": 2038,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718536",
@@ -583,9 +667,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1691,
+      "rank": 2045,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576468",
@@ -604,9 +688,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1696,
+      "rank": 2050,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576594",
@@ -625,9 +709,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1703,
+      "rank": 2057,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718534",
@@ -646,9 +730,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1711,
+      "rank": 2067,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718538",
@@ -667,9 +751,51 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1729,
+      "rank": 2088,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16715654",
+      "playerId": "338940",
+      "status": "pre_game",
+      "player": "Jonah Coleman",
+      "stat": "Rush Yards Per Carry",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2102,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16746841",
+      "playerId": "260650",
+      "status": "pre_game",
+      "player": "Jeremy Crawshaw",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2103,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576475",
@@ -688,30 +814,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1732,
+      "rank": 2106,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16576573",
-      "playerId": "246531",
-      "status": "pre_game",
-      "player": "J.K. Dobbins",
-      "stat": "Receiving Yards",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 1737,
-      "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16701017",
@@ -730,9 +835,51 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1749,
+      "rank": 2122,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16764327",
+      "playerId": "246566",
+      "status": "pre_game",
+      "player": "Pat Bryant",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2139,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16576573",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Receiving Yards",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2141,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718535",
@@ -751,9 +898,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1781,
+      "rank": 2156,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718537",
@@ -772,9 +919,30 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1784,
+      "rank": 2166,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16747626",
+      "playerId": "246530",
+      "status": "pre_game",
+      "player": "Evan Engram",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 2168,
+      "gameId": "193708",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16701285",
@@ -793,9 +961,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1805,
+      "rank": 2188,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718539",
@@ -814,17 +982,17 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1810,
+      "rank": 2193,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16701286",
-      "playerId": "216971",
+      "projectionId": "16746856",
+      "playerId": "260650",
       "status": "pre_game",
-      "player": "Nate Adkins",
-      "stat": "Receptions",
-      "line": "0.5",
+      "player": "Jeremy Crawshaw",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -835,9 +1003,9 @@
       "teamCode": "DEN",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 1854,
+      "rank": 2199,
       "gameId": "193708",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     }
   ]
 }

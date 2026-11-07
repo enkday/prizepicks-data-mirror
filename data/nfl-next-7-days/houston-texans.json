@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-06T12:07:27.046Z",
-  "scrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-07T12:05:58.755Z",
+  "scrapedDate": "Saturday, November 7, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 937,
-    "sourceCount": 6411,
-    "acceptedCount": 937,
-    "excludedCount": 5474,
+    "count": 1097,
+    "sourceCount": 7718,
+    "acceptedCount": 1097,
+    "excludedCount": 6621,
     "rejectedCount": 0,
-    "publishedCount": 937,
-    "providerFetchedAt": "2026-11-06T12:05:16.195Z",
+    "publishedCount": 1097,
+    "providerFetchedAt": "2026-11-07T12:04:47.993Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Houston Texans",
-  "totalProps": 41,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "16557937",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "C.J. Stroud",
       "stat": "Pass Yards",
-      "line": "248.5",
+      "line": "251.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
       "startTimeCST": "11/08/26 03:05 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3580,
+      "rank": 4360,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16711617",
@@ -58,9 +58,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3616,
+      "rank": 4398,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16622693",
+      "playerId": "210953",
+      "status": "pre_game",
+      "player": "C.J. Stroud",
+      "stat": "Completion Percentage",
+      "line": "68.7",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4419,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16573656",
@@ -79,30 +100,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3639,
+      "rank": 4420,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16622693",
-      "playerId": "210953",
-      "status": "pre_game",
-      "player": "C.J. Stroud",
-      "stat": "Completion Percentage",
-      "line": "67.2",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:05 PM CST",
-      "startTimeCST": "11/08/26 03:05 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3642,
-      "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16620056",
@@ -121,9 +121,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3644,
+      "rank": 4426,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16573640",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "C.J. Stroud",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
       "startTimeCST": "11/08/26 03:05 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3706,
+      "rank": 4487,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16573635",
@@ -152,27 +152,6 @@
       "status": "pre_game",
       "player": "Dalton Schultz",
       "stat": "Receiving Yards",
-      "line": "34.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:05 PM CST",
-      "startTimeCST": "11/08/26 03:05 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3711,
-      "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16573616",
-      "playerId": "210953",
-      "status": "pre_game",
-      "player": "C.J. Stroud",
-      "stat": "Pass Attempts",
       "line": "33.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
@@ -184,17 +163,17 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3713,
+      "rank": 4495,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16620076",
-      "playerId": "350976",
+      "projectionId": "16573616",
+      "playerId": "210953",
       "status": "pre_game",
-      "player": "Marvin Harrison Jr.",
-      "stat": "Receiving Yards",
-      "line": "26.5",
+      "player": "C.J. Stroud",
+      "stat": "Pass Attempts",
+      "line": "32.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
       "startTimeCST": "11/08/26 03:05 PM CST",
@@ -205,9 +184,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3761,
+      "rank": 4497,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16573570",
@@ -226,9 +205,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3763,
+      "rank": 4540,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16620076",
+      "playerId": "350976",
+      "status": "pre_game",
+      "player": "Marvin Harrison Jr.",
+      "stat": "Receiving Yards",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4543,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16573595",
@@ -247,9 +247,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3777,
+      "rank": 4558,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16700227",
@@ -257,7 +257,7 @@
       "status": "pre_game",
       "player": "Xavier Hutchinson",
       "stat": "Receiving Yards",
-      "line": "19.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
       "startTimeCST": "11/08/26 03:05 PM CST",
@@ -268,9 +268,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3810,
+      "rank": 4560,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16624025",
@@ -278,27 +278,6 @@
       "status": "pre_game",
       "player": "Woody Marks",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:05 PM CST",
-      "startTimeCST": "11/08/26 03:05 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3822,
-      "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16700266",
-      "playerId": "340994",
-      "status": "pre_game",
-      "player": "Kayshon Boutte",
-      "stat": "Receiving Yards",
       "line": "17.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
@@ -310,9 +289,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3830,
+      "rank": 4607,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16624023",
@@ -331,9 +310,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3832,
+      "rank": 4612,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16573581",
+      "playerId": "210861",
+      "status": "pre_game",
+      "player": "Dalton Schultz",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4618,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16627798",
@@ -352,15 +352,15 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3837,
+      "rank": 4620,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16700267",
-      "playerId": "210957",
+      "projectionId": "16700266",
+      "playerId": "340994",
       "status": "pre_game",
-      "player": "Tank Dell",
+      "player": "Kayshon Boutte",
       "stat": "Receiving Yards",
       "line": "15.5",
       "sport": "NFL",
@@ -373,16 +373,16 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3839,
+      "rank": 4622,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16573581",
-      "playerId": "210861",
+      "projectionId": "16700267",
+      "playerId": "210957",
       "status": "pre_game",
-      "player": "Dalton Schultz",
-      "stat": "Longest Reception",
+      "player": "Tank Dell",
+      "stat": "Receiving Yards",
       "line": "14.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
@@ -394,9 +394,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3842,
+      "rank": 4632,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16620027",
@@ -415,9 +415,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3866,
+      "rank": 4651,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16700221",
+      "playerId": "216025",
+      "status": "pre_game",
+      "player": "Xavier Hutchinson",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4656,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16627367",
@@ -436,30 +457,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3873,
+      "rank": 4660,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16700221",
-      "playerId": "216025",
-      "status": "pre_game",
-      "player": "Xavier Hutchinson",
-      "stat": "Longest Reception",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:05 PM CST",
-      "startTimeCST": "11/08/26 03:05 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3877,
-      "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16700251",
@@ -478,9 +478,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3881,
+      "rank": 4668,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16700253",
@@ -488,7 +488,7 @@
       "status": "pre_game",
       "player": "Kayshon Boutte",
       "stat": "Longest Reception",
-      "line": "10.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
       "startTimeCST": "11/08/26 03:05 PM CST",
@@ -499,9 +499,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3887,
+      "rank": 4669,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16627370",
@@ -520,9 +520,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3903,
+      "rank": 4689,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16701733",
@@ -541,9 +541,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3932,
+      "rank": 4729,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16557912",
@@ -562,9 +562,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3934,
+      "rank": 4731,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16683273",
@@ -583,9 +583,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3939,
+      "rank": 4736,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16701734",
+      "playerId": "338241",
+      "status": "pre_game",
+      "player": "Foster Moreau",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4738,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718554",
@@ -604,30 +625,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3945,
+      "rank": 4743,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16701734",
-      "playerId": "338241",
-      "status": "pre_game",
-      "player": "Foster Moreau",
-      "stat": "Longest Reception",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:05 PM CST",
-      "startTimeCST": "11/08/26 03:05 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 3954,
-      "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16573590",
@@ -646,9 +646,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3965,
+      "rank": 4761,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16622680",
@@ -667,9 +667,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3980,
+      "rank": 4775,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718550",
@@ -688,9 +688,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 3982,
+      "rank": 4777,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718553",
@@ -698,7 +698,7 @@
       "status": "pre_game",
       "player": "Marvin Harrison Jr.",
       "stat": "Rec Targets",
-      "line": "4.5",
+      "line": "4",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
       "startTimeCST": "11/08/26 03:05 PM CST",
@@ -709,9 +709,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4003,
+      "rank": 4817,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16624028",
@@ -719,7 +719,7 @@
       "status": "pre_game",
       "player": "Woody Marks",
       "stat": "Rush Yards Per Carry",
-      "line": "3.7",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
       "startTimeCST": "11/08/26 03:05 PM CST",
@@ -730,9 +730,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4009,
+      "rank": 4828,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718551",
@@ -751,9 +751,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4035,
+      "rank": 4846,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16607722",
@@ -772,30 +772,9 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4043,
+      "rank": 4857,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16620028",
-      "playerId": "350976",
-      "status": "pre_game",
-      "player": "Marvin Harrison Jr.",
-      "stat": "Receptions",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:05 PM CST",
-      "startTimeCST": "11/08/26 03:05 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 4046,
-      "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718552",
@@ -814,9 +793,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4062,
+      "rank": 4874,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16764329",
+      "playerId": "246592",
+      "status": "pre_game",
+      "player": "Woody Marks",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4881,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718555",
@@ -835,9 +835,51 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4067,
+      "rank": 4885,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16747630",
+      "playerId": "246592",
+      "status": "pre_game",
+      "player": "Woody Marks",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4886,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16747631",
+      "playerId": "216025",
+      "status": "pre_game",
+      "player": "Xavier Hutchinson",
+      "stat": "Receptions",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4887,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16619448",
@@ -856,16 +898,16 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4072,
+      "rank": 4892,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16713785",
-      "playerId": "340994",
+      "projectionId": "16764328",
+      "playerId": "338241",
       "status": "pre_game",
-      "player": "Kayshon Boutte",
-      "stat": "Receptions",
+      "player": "Foster Moreau",
+      "stat": "Rec Targets",
       "line": "1.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:05 PM CST",
@@ -877,9 +919,30 @@
       "teamCode": "HOU",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 4086,
+      "rank": 4920,
       "gameId": "193716",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16745590",
+      "playerId": "211286",
+      "status": "pre_game",
+      "player": "Danielle Hunter",
+      "stat": "Sacks",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:05 PM CST",
+      "startTimeCST": "11/08/26 03:05 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4968,
+      "gameId": "193716",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     }
   ]
 }

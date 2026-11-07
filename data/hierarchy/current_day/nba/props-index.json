@@ -1,138 +1,112 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "0380789008f3c1bea09ebb27aa3ba930db734cce9e5a3f074bba6ab307f73429",
-  "sourceScrapedAt": "2026-11-06T12:07:27.046Z",
-  "sourceScrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
-  "observedDate": "2026-11-06",
+  "sourcePayloadHash": "0ef415c22a2120090263ec0a6ef7912c76fb1caca42ab6b2313b3d9b62e5ae84",
+  "sourceScrapedAt": "2026-11-07T12:05:58.755Z",
+  "sourceScrapedDate": "Saturday, November 7, 2026 at 06:05 AM CST",
+  "observedDate": "2026-11-07",
   "completeness": "reported",
   "sport": "NBA",
   "sportSlug": "nba",
   "dayBranch": "current_day",
-  "gameCount": 9,
-  "propCount": 645,
+  "gameCount": 7,
+  "propCount": 557,
   "games": [
     {
-      "gameId": "192945",
+      "gameId": "193253",
       "slate": "Late",
-      "startTime": "11/06/26 06:00 PM CST",
-      "startTimeIso": "2026-11-06T18:00:00-06:00",
+      "startTime": "11/07/26 04:00 PM CST",
+      "startTimeIso": "2026-11-07T16:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Denver Nuggets",
+        "Indiana Pacers"
+      ],
+      "propCount": 77,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/193253.json"
+    },
+    {
+      "gameId": "193735",
+      "slate": "Late",
+      "startTime": "11/07/26 06:30 PM CST",
+      "startTimeIso": "2026-11-07T18:30:00-06:00",
       "eventTimeVerified": true,
       "teams": [
         "Atlanta Hawks",
-        "Washington Wizards"
+        "Brooklyn Nets"
       ],
-      "propCount": 87,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/192945.json"
+      "propCount": 51,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/193735.json"
     },
     {
-      "gameId": "192946",
+      "gameId": "193736",
       "slate": "Late",
-      "startTime": "11/06/26 06:00 PM CST",
-      "startTimeIso": "2026-11-06T18:00:00-06:00",
+      "startTime": "11/07/26 07:00 PM CST",
+      "startTimeIso": "2026-11-07T19:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Boston Celtics",
-        "Charlotte Hornets"
+        "Oklahoma City Thunder",
+        "Washington Wizards"
       ],
-      "propCount": 72,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/192946.json"
+      "propCount": 67,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/193736.json"
     },
     {
-      "gameId": "193246",
+      "gameId": "193737",
       "slate": "Late",
-      "startTime": "11/06/26 06:30 PM CST",
-      "startTimeIso": "2026-11-06T18:30:00-06:00",
+      "startTime": "11/07/26 07:00 PM CST",
+      "startTimeIso": "2026-11-07T19:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
         "Cleveland Cavaliers",
-        "Philadelphia 76ers"
+        "New York Knicks"
       ],
       "propCount": 77,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/193246.json"
+      "path": "/data/hierarchy/current_day/nba/props-by-game/193737.json"
     },
     {
-      "gameId": "193247",
+      "gameId": "193738",
       "slate": "Late",
-      "startTime": "11/06/26 07:00 PM CST",
-      "startTimeIso": "2026-11-06T19:00:00-06:00",
+      "startTime": "11/07/26 07:30 PM CST",
+      "startTimeIso": "2026-11-07T19:30:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Dallas Mavericks",
-        "Utah Jazz"
+        "Golden State Warriors",
+        "Orlando Magic"
       ],
-      "propCount": 65,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/193247.json"
+      "propCount": 94,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/193738.json"
     },
     {
-      "gameId": "193248",
+      "gameId": "193739",
       "slate": "Late",
-      "startTime": "11/06/26 07:00 PM CST",
-      "startTimeIso": "2026-11-06T19:00:00-06:00",
+      "startTime": "11/07/26 08:00 PM CST",
+      "startTimeIso": "2026-11-07T20:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Minnesota Timberwolves",
-        "New Orleans Pelicans"
+        "Houston Rockets",
+        "Phoenix Suns"
       ],
-      "propCount": 87,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/193248.json"
+      "propCount": 100,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/193739.json"
     },
     {
-      "gameId": "193249",
+      "gameId": "193740",
       "slate": "Late",
-      "startTime": "11/06/26 07:00 PM CST",
-      "startTimeIso": "2026-11-06T19:00:00-06:00",
+      "startTime": "11/07/26 09:00 PM CST",
+      "startTimeIso": "2026-11-07T21:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Memphis Grizzlies",
-        "Oklahoma City Thunder"
-      ],
-      "propCount": 69,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/193249.json"
-    },
-    {
-      "gameId": "193250",
-      "slate": "Late",
-      "startTime": "11/06/26 07:00 PM CST",
-      "startTimeIso": "2026-11-06T19:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Milwaukee Bucks",
-        "Toronto Raptors"
-      ],
-      "propCount": 68,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/193250.json"
-    },
-    {
-      "gameId": "193251",
-      "slate": "Late",
-      "startTime": "11/06/26 09:00 PM CST",
-      "startTimeIso": "2026-11-06T21:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Los Angeles Lakers",
-        "Portland Trail Blazers"
-      ],
-      "propCount": 42,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/193251.json"
-    },
-    {
-      "gameId": "193252",
-      "slate": "Late",
-      "startTime": "11/06/26 09:00 PM CST",
-      "startTimeIso": "2026-11-06T21:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Sacramento Kings",
+        "Portland Trail Blazers",
         "San Antonio Spurs"
       ],
-      "propCount": 78,
-      "path": "/data/hierarchy/current_day/nba/props-by-game/193252.json"
+      "propCount": 91,
+      "path": "/data/hierarchy/current_day/nba/props-by-game/193740.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 645,
+      "propCount": 557,
       "path": "/data/hierarchy/current_day/nba/props-by-slate/late.json"
     }
   ]

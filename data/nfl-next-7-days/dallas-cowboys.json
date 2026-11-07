@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-06T12:07:27.046Z",
-  "scrapedDate": "Friday, November 6, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-07T12:05:58.755Z",
+  "scrapedDate": "Saturday, November 7, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 937,
-    "sourceCount": 6411,
-    "acceptedCount": 937,
-    "excludedCount": 5474,
+    "count": 1097,
+    "sourceCount": 7718,
+    "acceptedCount": 1097,
+    "excludedCount": 6621,
     "rejectedCount": 0,
-    "publishedCount": 937,
-    "providerFetchedAt": "2026-11-06T12:05:16.195Z",
+    "publishedCount": 1097,
+    "providerFetchedAt": "2026-11-07T12:04:47.993Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Dallas Cowboys",
-  "totalProps": 33,
+  "totalProps": 34,
   "props": [
     {
       "projectionId": "16557936",
@@ -37,17 +37,17 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3162,
+      "rank": 3853,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16577046",
-      "playerId": "211139",
+      "projectionId": "16746169",
+      "playerId": "211072",
       "status": "pre_game",
-      "player": "CeeDee Lamb",
-      "stat": "Receiving Yards",
-      "line": "81.5",
+      "player": "Dak Prescott",
+      "stat": "Passer Rating",
+      "line": "106.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3211,
+      "rank": 3890,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16577046",
+      "playerId": "211139",
+      "status": "pre_game",
+      "player": "CeeDee Lamb",
+      "stat": "Receiving Yards",
+      "line": "83.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 3899,
+      "gameId": "193709",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16576408",
@@ -79,9 +100,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3218,
+      "rank": 3912,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16674202",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Completion Percentage",
-      "line": "67.2",
+      "line": "68.6",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3231,
+      "rank": 3920,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16577048",
@@ -121,9 +142,30 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3234,
+      "rank": 3924,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+    },
+    {
+      "projectionId": "16577047",
+      "playerId": "216863",
+      "status": "pre_game",
+      "player": "Ryan Flournoy",
+      "stat": "Receiving Yards",
+      "line": "38.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 12:00 PM CST",
+      "startTimeCST": "11/08/26 12:00 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 3980,
+      "gameId": "193709",
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579617",
@@ -142,30 +184,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3278,
+      "rank": 3982,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
-    },
-    {
-      "projectionId": "16577047",
-      "playerId": "216863",
-      "status": "pre_game",
-      "player": "Ryan Flournoy",
-      "stat": "Receiving Yards",
-      "line": "35.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeCST": "11/08/26 12:00 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 3280,
-      "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579572",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Attempts",
-      "line": "33.5",
+      "line": "33",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3287,
+      "rank": 3991,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579630",
@@ -205,9 +226,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3322,
+      "rank": 4026,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579656",
@@ -226,9 +247,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3337,
+      "rank": 4041,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579618",
@@ -247,9 +268,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3342,
+      "rank": 4046,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16674275",
@@ -268,9 +289,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3346,
+      "rank": 4051,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579676",
@@ -289,9 +310,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3356,
+      "rank": 4062,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579588",
@@ -310,9 +331,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3377,
+      "rank": 4088,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579664",
@@ -320,7 +341,7 @@
       "status": "pre_game",
       "player": "Ryan Flournoy",
       "stat": "Longest Reception",
-      "line": "16.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
       "startTimeCST": "11/08/26 12:00 PM CST",
@@ -331,9 +352,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3383,
+      "rank": 4089,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579570",
@@ -352,9 +373,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3385,
+      "rank": 4096,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718530",
@@ -373,16 +394,16 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3433,
+      "rank": 4155,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16628478",
-      "playerId": "211166",
+      "projectionId": "16600234",
+      "playerId": "344777",
       "status": "pre_game",
-      "player": "Brandon Aubrey",
-      "stat": "Kicking Points",
+      "player": "Tyler Goodson",
+      "stat": "Longest Rush",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -394,9 +415,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3436,
+      "rank": 4168,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579690",
@@ -415,9 +436,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3442,
+      "rank": 4174,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16679289",
@@ -436,9 +457,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3445,
+      "rank": 4178,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718531",
@@ -457,9 +478,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3449,
+      "rank": 4181,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579568",
@@ -478,9 +499,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3450,
+      "rank": 4183,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16669314",
@@ -499,9 +520,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3452,
+      "rank": 4185,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16557911",
@@ -520,16 +541,16 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3455,
+      "rank": 4190,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16579626",
+      "projectionId": "16579565",
       "playerId": "344777",
       "status": "pre_game",
       "player": "Tyler Goodson",
-      "stat": "Receiving Yards",
+      "stat": "Rush Attempts",
       "line": "5.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -541,9 +562,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3458,
+      "rank": 4191,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718533",
@@ -562,16 +583,16 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3469,
+      "rank": 4204,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
-      "projectionId": "16579576",
-      "playerId": "244045",
+      "projectionId": "16579626",
+      "playerId": "344777",
       "status": "pre_game",
-      "player": "George Pickens",
-      "stat": "Receptions",
+      "player": "Tyler Goodson",
+      "stat": "Receiving Yards",
       "line": "4.5",
       "sport": "NFL",
       "startTime": "11/08/26 12:00 PM CST",
@@ -583,9 +604,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3470,
+      "rank": 4205,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16579643",
@@ -604,9 +625,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3471,
+      "rank": 4206,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16674277",
@@ -625,9 +646,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3483,
+      "rank": 4230,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16685556",
@@ -646,9 +667,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3512,
+      "rank": 4270,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16718532",
@@ -667,9 +688,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3513,
+      "rank": 4271,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16711636",
@@ -688,9 +709,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3528,
+      "rank": 4286,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     },
     {
       "projectionId": "16548362",
@@ -709,9 +730,9 @@
       "teamCode": "DAL",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 3533,
+      "rank": 4300,
       "gameId": "193709",
-      "providerFetchedAt": "2026-11-06T12:05:16.195Z"
+      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
     }
   ]
 }
