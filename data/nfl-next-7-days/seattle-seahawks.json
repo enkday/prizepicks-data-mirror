@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-07T12:05:58.755Z",
-  "scrapedDate": "Saturday, November 7, 2026 at 06:05 AM CST",
+  "scrapedAt": "2026-11-08T12:05:55.655Z",
+  "scrapedDate": "Sunday, November 8, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1097,
-    "sourceCount": 7718,
-    "acceptedCount": 1097,
-    "excludedCount": 6621,
+    "count": 1170,
+    "sourceCount": 8891,
+    "acceptedCount": 1170,
+    "excludedCount": 7721,
     "rejectedCount": 0,
-    "publishedCount": 1097,
-    "providerFetchedAt": "2026-11-07T12:04:47.993Z",
+    "publishedCount": 1170,
+    "providerFetchedAt": "2026-11-08T12:04:46.673Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Seattle Seahawks",
-  "totalProps": 38,
+  "totalProps": 41,
   "props": [
     {
       "projectionId": "16686343",
@@ -37,9 +37,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4991,
+      "rank": 5811,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16711618",
@@ -58,9 +58,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5022,
+      "rank": 5842,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632807",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Jaxon Smith-Njigba",
       "stat": "Receiving Yards",
-      "line": "91.5",
+      "line": "92.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5023,
+      "rank": 5844,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16697036",
@@ -100,9 +100,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5046,
+      "rank": 5866,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632848",
@@ -121,30 +121,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5062,
+      "rank": 5881,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
-    },
-    {
-      "projectionId": "16632792",
-      "playerId": "211958",
-      "status": "pre_game",
-      "player": "Zach Charbonnet",
-      "stat": "Rush Yards",
-      "line": "37.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeCST": "11/08/26 03:25 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5101,
-      "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16686561",
@@ -152,7 +131,7 @@
       "status": "pre_game",
       "player": "Drew Lock",
       "stat": "Longest Completion",
-      "line": "32.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -163,17 +142,38 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5107,
+      "rank": 5924,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
-      "projectionId": "16754547",
+      "projectionId": "16632792",
+      "playerId": "211958",
+      "status": "pre_game",
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards",
+      "line": "34.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 5926,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
+    },
+    {
+      "projectionId": "16686551",
       "playerId": "344486",
       "status": "pre_game",
       "player": "Drew Lock",
       "stat": "Pass Attempts",
-      "line": "27.5",
+      "line": "27",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5143,
+      "rank": 5960,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632826",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Jaxon Smith-Njigba",
       "stat": "Longest Reception",
-      "line": "25.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -205,30 +205,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5145,
+      "rank": 5961,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
-    },
-    {
-      "projectionId": "16725716",
-      "playerId": "246593",
-      "status": "pre_game",
-      "player": "Cooper Kupp",
-      "stat": "Receiving Yards",
-      "line": "25.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeCST": "11/08/26 03:25 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5148,
-      "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632760",
@@ -247,9 +226,30 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5149,
+      "rank": 5966,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
+    },
+    {
+      "projectionId": "16725716",
+      "playerId": "246593",
+      "status": "pre_game",
+      "player": "Cooper Kupp",
+      "stat": "Receiving Yards",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 5974,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16661828",
@@ -268,9 +268,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5167,
+      "rank": 5985,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16686556",
@@ -289,9 +289,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5200,
+      "rank": 6019,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16756177",
@@ -310,9 +310,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5204,
+      "rank": 6023,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16661830",
@@ -320,7 +320,7 @@
       "status": "pre_game",
       "player": "Zach Charbonnet",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "16.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -331,9 +331,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5205,
+      "rank": 6028,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16689955",
@@ -352,9 +352,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5239,
+      "rank": 6058,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16725711",
@@ -373,9 +373,30 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5242,
+      "rank": 6060,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
+    },
+    {
+      "projectionId": "16632687",
+      "playerId": "320307",
+      "status": "pre_game",
+      "player": "Jadarian Price",
+      "stat": "Rush Attempts",
+      "line": "13",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6061,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632771",
@@ -394,9 +415,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5243,
+      "rank": 6062,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632656",
@@ -415,9 +436,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5252,
+      "rank": 6071,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16756939",
@@ -436,9 +457,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5258,
+      "rank": 6078,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16688938",
@@ -457,9 +478,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5265,
+      "rank": 6090,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16719186",
@@ -478,9 +499,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5266,
+      "rank": 6091,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632642",
@@ -499,9 +520,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5270,
+      "rank": 6095,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632733",
@@ -520,30 +541,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5312,
+      "rank": 6140,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
-    },
-    {
-      "projectionId": "16652843",
-      "playerId": "211959",
-      "status": "pre_game",
-      "player": "Jason Myers",
-      "stat": "Kicking Points",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeCST": "11/08/26 03:25 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5314,
-      "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16747633",
@@ -562,9 +562,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5320,
+      "rank": 6151,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632699",
@@ -583,9 +583,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5323,
+      "rank": 6154,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632779",
@@ -604,9 +604,30 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5324,
+      "rank": 6155,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
+    },
+    {
+      "projectionId": "16697044",
+      "playerId": "344486",
+      "status": "pre_game",
+      "player": "Drew Lock",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6159,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16686327",
@@ -625,9 +646,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5344,
+      "rank": 6186,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16686554",
@@ -646,9 +667,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5345,
+      "rank": 6187,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16661827",
@@ -667,15 +688,57 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5379,
+      "rank": 6232,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16719184",
       "playerId": "215430",
       "status": "pre_game",
       "player": "AJ Barner",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6233,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
+    },
+    {
+      "projectionId": "16779731",
+      "playerId": "246593",
+      "status": "pre_game",
+      "player": "Cooper Kupp",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6234,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
+    },
+    {
+      "projectionId": "16779732",
+      "playerId": "246598",
+      "status": "pre_game",
+      "player": "Tory Horton",
       "stat": "Rec Targets",
       "line": "3.5",
       "sport": "NFL",
@@ -688,9 +751,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5394,
+      "rank": 6260,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16661833",
@@ -698,7 +761,7 @@
       "status": "pre_game",
       "player": "Zach Charbonnet",
       "stat": "Rush Yards Per Carry",
-      "line": "3.3",
+      "line": "3.1",
       "sport": "NFL",
       "startTime": "11/08/26 03:25 PM CST",
       "startTimeCST": "11/08/26 03:25 PM CST",
@@ -709,9 +772,30 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5407,
+      "rank": 6268,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
+    },
+    {
+      "projectionId": "16756101",
+      "playerId": "246593",
+      "status": "pre_game",
+      "player": "Cooper Kupp",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/08/26 03:25 PM CST",
+      "startTimeCST": "11/08/26 03:25 PM CST",
+      "startDateCST": "2026-11-08",
+      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6286,
+      "gameId": "193718",
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16719185",
@@ -730,9 +814,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5427,
+      "rank": 6291,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16719187",
@@ -751,9 +835,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5428,
+      "rank": 6292,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16632682",
@@ -772,30 +856,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5436,
+      "rank": 6300,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
-    },
-    {
-      "projectionId": "16685876",
-      "playerId": "211958",
-      "status": "pre_game",
-      "player": "Zach Charbonnet",
-      "stat": "Receptions",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeCST": "11/08/26 03:25 PM CST",
-      "startDateCST": "2026-11-08",
-      "startTimeIso": "2026-11-08T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5444,
-      "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     },
     {
       "projectionId": "16686339",
@@ -814,9 +877,9 @@
       "teamCode": "SEA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5445,
+      "rank": 6308,
       "gameId": "193718",
-      "providerFetchedAt": "2026-11-07T12:04:47.993Z"
+      "providerFetchedAt": "2026-11-08T12:04:46.673Z"
     }
   ]
 }
