@@ -1,195 +1,34 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "c60a14bf79e2a9f90b8d2a62bb9c6ecaa7eab830cbcd76bfa139885b34ddc3b6",
-  "sourceScrapedAt": "2026-11-08T12:05:55.655Z",
-  "sourceScrapedDate": "Sunday, November 8, 2026 at 06:05 AM CST",
-  "observedDate": "2026-11-08",
+  "sourcePayloadHash": "1105809dcb855b83f6091edcb5e2c3ef597f88ee24885a2f7f07f1163e806643",
+  "sourceScrapedAt": "2026-11-09T12:06:42.460Z",
+  "sourceScrapedDate": "Monday, November 9, 2026 at 06:06 AM CST",
+  "observedDate": "2026-11-09",
   "completeness": "reported",
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 13,
-  "propCount": 1088,
+  "gameCount": 1,
+  "propCount": 84,
   "games": [
     {
-      "gameId": "193707",
-      "slate": "Early",
-      "startTime": "11/08/26 08:30 AM CST",
-      "startTimeIso": "2026-11-08T08:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Atlanta Falcons",
-        "Cincinnati Bengals"
-      ],
-      "propCount": 95,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193707.json"
-    },
-    {
-      "gameId": "193708",
-      "slate": "Early",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeIso": "2026-11-08T12:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Carolina Panthers",
-        "Denver Broncos"
-      ],
-      "propCount": 94,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193708.json"
-    },
-    {
-      "gameId": "193709",
-      "slate": "Early",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeIso": "2026-11-08T12:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Dallas Cowboys",
-        "Indianapolis Colts"
-      ],
-      "propCount": 78,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193709.json"
-    },
-    {
-      "gameId": "193710",
-      "slate": "Early",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeIso": "2026-11-08T12:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Kansas City Chiefs",
-        "New York Jets"
-      ],
-      "propCount": 91,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193710.json"
-    },
-    {
-      "gameId": "193711",
-      "slate": "Early",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeIso": "2026-11-08T12:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "New York Giants",
-        "Philadelphia Eagles"
-      ],
-      "propCount": 82,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193711.json"
-    },
-    {
-      "gameId": "193712",
-      "slate": "Early",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeIso": "2026-11-08T12:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Cleveland Browns",
-        "New Orleans Saints"
-      ],
-      "propCount": 71,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193712.json"
-    },
-    {
-      "gameId": "193713",
-      "slate": "Early",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeIso": "2026-11-08T12:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Los Angeles Rams",
-        "Washington Commanders"
-      ],
-      "propCount": 80,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193713.json"
-    },
-    {
-      "gameId": "193714",
-      "slate": "Early",
-      "startTime": "11/08/26 12:00 PM CST",
-      "startTimeIso": "2026-11-08T12:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Detroit Lions",
-        "Miami Dolphins"
-      ],
-      "propCount": 73,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193714.json"
-    },
-    {
-      "gameId": "193716",
+      "gameId": "194388",
       "slate": "Late",
-      "startTime": "11/08/26 03:05 PM CST",
-      "startTimeIso": "2026-11-08T15:05:00-06:00",
+      "startTime": "11/09/26 07:15 PM CST",
+      "startTimeIso": "2026-11-09T19:15:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Houston Texans",
-        "Los Angeles Chargers"
+        "Buffalo Bills",
+        "Minnesota Vikings"
       ],
-      "propCount": 91,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193716.json"
-    },
-    {
-      "gameId": "193715",
-      "slate": "Late",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeIso": "2026-11-08T15:25:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Las Vegas Raiders",
-        "San Francisco 49ers"
-      ],
-      "propCount": 85,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193715.json"
-    },
-    {
-      "gameId": "193717",
-      "slate": "Late",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeIso": "2026-11-08T15:25:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Green Bay Packers",
-        "New England Patriots"
-      ],
-      "propCount": 87,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193717.json"
-    },
-    {
-      "gameId": "193718",
-      "slate": "Late",
-      "startTime": "11/08/26 03:25 PM CST",
-      "startTimeIso": "2026-11-08T15:25:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Arizona Cardinals",
-        "Seattle Seahawks"
-      ],
-      "propCount": 75,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/193718.json"
-    },
-    {
-      "gameId": "194069",
-      "slate": "Late",
-      "startTime": "11/08/26 07:20 PM CST",
-      "startTimeIso": "2026-11-08T19:20:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Chicago Bears",
-        "Tampa Bay Buccaneers"
-      ],
-      "propCount": 86,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/194069.json"
+      "propCount": 84,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/194388.json"
     }
   ],
   "slates": [
     {
-      "slate": "early",
-      "propCount": 664,
-      "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
-    },
-    {
       "slate": "late",
-      "propCount": 424,
+      "propCount": 84,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
