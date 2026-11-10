@@ -1,0 +1,61 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "920541ee6351dc7fc0e9fb82c40bdb291af93e28b67ee61191e54ecc31c9544d",
+  "sourceScrapedAt": "2026-11-10T12:06:36.104Z",
+  "sourceScrapedDate": "Tuesday, November 10, 2026 at 06:06 AM CST",
+  "observedDate": "2026-11-10",
+  "completeness": "reported",
+  "sport": "NCAAF",
+  "sportSlug": "ncaaf",
+  "dayBranch": "current_day",
+  "gameCount": 3,
+  "propCount": 78,
+  "games": [
+    {
+      "gameId": "194463",
+      "slate": "Late",
+      "startTime": "11/10/26 06:00 PM CST",
+      "startTimeIso": "2026-11-10T18:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Bowling Green Falcons",
+        "Kent State Golden Flashes"
+      ],
+      "propCount": 20,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/194463.json"
+    },
+    {
+      "gameId": "194465",
+      "slate": "Late",
+      "startTime": "11/10/26 06:00 PM CST",
+      "startTimeIso": "2026-11-10T18:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Akron Zips",
+        "Western Michigan Broncos"
+      ],
+      "propCount": 21,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/194465.json"
+    },
+    {
+      "gameId": "194464",
+      "slate": "Late",
+      "startTime": "11/10/26 07:00 PM CST",
+      "startTimeIso": "2026-11-10T19:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Miami (OH) RedHawks",
+        "Ohio Bobcats"
+      ],
+      "propCount": 37,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/194464.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 78,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
+    }
+  ]
+}
