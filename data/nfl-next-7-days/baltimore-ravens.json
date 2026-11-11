@@ -1,32 +1,53 @@
 {
-  "scrapedAt": "2026-11-10T12:06:36.104Z",
-  "scrapedDate": "Tuesday, November 10, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-11T12:06:34.784Z",
+  "scrapedDate": "Wednesday, November 11, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 434,
-    "sourceCount": 2977,
-    "acceptedCount": 434,
-    "excludedCount": 2543,
+    "count": 691,
+    "sourceCount": 4725,
+    "acceptedCount": 691,
+    "excludedCount": 4034,
     "rejectedCount": 0,
-    "publishedCount": 434,
-    "providerFetchedAt": "2026-11-10T12:05:06.633Z",
+    "publishedCount": 691,
+    "providerFetchedAt": "2026-11-11T12:05:24.504Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Baltimore Ravens",
-  "totalProps": 25,
+  "totalProps": 27,
   "props": [
+    {
+      "projectionId": "16873091",
+      "playerId": "361121",
+      "status": "pre_game",
+      "player": "Jake Moody",
+      "stat": "Kicking Points",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1238,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+    },
     {
       "projectionId": "16844154",
       "playerId": "362860",
       "status": "pre_game",
       "player": "Jacoby Brissett",
       "stat": "Pass Yards",
-      "line": "193.5",
+      "line": "190.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -37,9 +58,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2817,
+      "rank": 4566,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834650",
@@ -58,9 +79,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2830,
+      "rank": 4579,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834829",
@@ -79,9 +100,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2833,
+      "rank": 4583,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844265",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Jacoby Brissett",
       "stat": "Longest Completion",
-      "line": "33.5",
+      "line": "32.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2862,
+      "rank": 4610,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844250",
@@ -121,9 +142,30 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2873,
+      "rank": 4620,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+    },
+    {
+      "projectionId": "16834828",
+      "playerId": "206299",
+      "status": "pre_game",
+      "player": "Mark Andrews",
+      "stat": "Receiving Yards",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4630,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844213",
@@ -142,9 +184,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2883,
+      "rank": 4631,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844263",
@@ -163,30 +205,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2885,
+      "rank": 4633,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16834828",
-      "playerId": "206299",
-      "status": "pre_game",
-      "player": "Mark Andrews",
-      "stat": "Receiving Yards",
-      "line": "20.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Los Angeles Chargers",
-      "opponentCode": "LAC",
-      "rank": 2886,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844132",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Justice Hill",
       "stat": "Rush Yards",
-      "line": "18.5",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2902,
+      "rank": 4635,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844220",
@@ -226,9 +247,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2903,
+      "rank": 4651,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844209",
@@ -247,9 +268,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2904,
+      "rank": 4652,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844125",
@@ -268,9 +289,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2905,
+      "rank": 4653,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844198",
@@ -289,9 +310,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2907,
+      "rank": 4655,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844270",
@@ -310,9 +331,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2909,
+      "rank": 4657,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844279",
@@ -331,9 +352,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2910,
+      "rank": 4658,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844261",
@@ -352,9 +373,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2911,
+      "rank": 4659,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844131",
@@ -373,9 +394,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2912,
+      "rank": 4660,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844255",
@@ -394,9 +415,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2913,
+      "rank": 4661,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844268",
@@ -415,9 +436,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2916,
+      "rank": 4664,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844128",
@@ -436,16 +457,37 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2917,
+      "rank": 4665,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
-      "projectionId": "16844129",
+      "projectionId": "16887330",
       "playerId": "362860",
       "status": "pre_game",
       "player": "Jacoby Brissett",
       "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Los Angeles Chargers",
+      "opponentCode": "LAC",
+      "rank": 4666,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+    },
+    {
+      "projectionId": "16844201",
+      "playerId": "336460",
+      "status": "pre_game",
+      "player": "Matt Hibner",
+      "stat": "Receiving Yards",
       "line": "7.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
@@ -457,9 +499,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2918,
+      "rank": 4668,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834830",
@@ -478,16 +520,16 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2920,
+      "rank": 4669,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
-      "projectionId": "16844201",
+      "projectionId": "16844254",
       "playerId": "336460",
       "status": "pre_game",
       "player": "Matt Hibner",
-      "stat": "Receiving Yards",
+      "stat": "Longest Reception",
       "line": "6.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
@@ -499,9 +541,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2921,
+      "rank": 4670,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16844256",
@@ -520,17 +562,17 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2922,
+      "rank": 4671,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
-      "projectionId": "16844254",
-      "playerId": "336460",
+      "projectionId": "16870388",
+      "playerId": "206299",
       "status": "pre_game",
-      "player": "Matt Hibner",
-      "stat": "Longest Reception",
-      "line": "5.5",
+      "player": "Mark Andrews",
+      "stat": "Receptions",
+      "line": "2.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -541,9 +583,9 @@
       "teamCode": "BAL",
       "Opponent": "Los Angeles Chargers",
       "opponentCode": "LAC",
-      "rank": 2928,
+      "rank": 4689,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-10T12:06:36.104Z",
-  "scrapedDate": "Tuesday, November 10, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-11T12:06:34.784Z",
+  "scrapedDate": "Wednesday, November 11, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 434,
-    "sourceCount": 2977,
-    "acceptedCount": 434,
-    "excludedCount": 2543,
+    "count": 691,
+    "sourceCount": 4725,
+    "acceptedCount": 691,
+    "excludedCount": 4034,
     "rejectedCount": 0,
-    "publishedCount": 434,
-    "providerFetchedAt": "2026-11-10T12:05:06.633Z",
+    "publishedCount": 691,
+    "providerFetchedAt": "2026-11-11T12:05:24.504Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Houston Texans",
-  "totalProps": 18,
+  "totalProps": 17,
   "props": [
     {
       "projectionId": "16830904",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "C.J. Stroud",
       "stat": "Pass Yards",
-      "line": "236.5",
+      "line": "241.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1013,
+      "rank": 1987,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834640",
@@ -58,9 +58,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1033,
+      "rank": 2027,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830816",
@@ -79,9 +79,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1039,
+      "rank": 2031,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830756",
@@ -100,9 +100,30 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1081,
+      "rank": 2086,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+    },
+    {
+      "projectionId": "16830921",
+      "playerId": "210957",
+      "status": "pre_game",
+      "player": "Tank Dell",
+      "stat": "Receiving Yards",
+      "line": "35.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2087,
+      "gameId": "196138",
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830916",
@@ -121,30 +142,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1083,
+      "rank": 2089,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16830921",
-      "playerId": "210957",
-      "status": "pre_game",
-      "player": "Tank Dell",
-      "stat": "Receiving Yards",
-      "line": "33.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1084,
-      "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830886",
@@ -152,7 +152,7 @@
       "status": "pre_game",
       "player": "Dalton Schultz",
       "stat": "Receiving Yards",
-      "line": "32.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -163,9 +163,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1085,
+      "rank": 2112,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830875",
@@ -184,9 +184,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1110,
+      "rank": 2124,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830824",
@@ -205,9 +205,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1112,
+      "rank": 2137,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830748",
@@ -226,9 +226,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1113,
+      "rank": 2138,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830804",
@@ -247,9 +247,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1139,
+      "rank": 2166,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830933",
@@ -268,9 +268,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1142,
+      "rank": 2172,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830876",
@@ -289,9 +289,30 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1144,
+      "rank": 2181,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+    },
+    {
+      "projectionId": "16830874",
+      "playerId": "210953",
+      "status": "pre_game",
+      "player": "C.J. Stroud",
+      "stat": "Rush Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Houston Texans",
+      "teamCode": "HOU",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 2206,
+      "gameId": "196138",
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830790",
@@ -310,51 +331,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1161,
+      "rank": 2209,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16830874",
-      "playerId": "210953",
-      "status": "pre_game",
-      "player": "C.J. Stroud",
-      "stat": "Rush Yards",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1163,
-      "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16830871",
-      "playerId": "210861",
-      "status": "pre_game",
-      "player": "Dalton Schultz",
-      "stat": "Receptions",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Houston Texans",
-      "teamCode": "HOU",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 1186,
-      "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830733",
@@ -373,9 +352,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1193,
+      "rank": 2248,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16830772",
@@ -394,9 +373,9 @@
       "teamCode": "HOU",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 1227,
+      "rank": 2294,
       "gameId": "196138",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     }
   ]
 }

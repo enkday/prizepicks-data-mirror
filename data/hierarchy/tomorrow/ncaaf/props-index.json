@@ -1,60 +1,47 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "920541ee6351dc7fc0e9fb82c40bdb291af93e28b67ee61191e54ecc31c9544d",
-  "sourceScrapedAt": "2026-11-10T12:06:36.104Z",
-  "sourceScrapedDate": "Tuesday, November 10, 2026 at 06:06 AM CST",
-  "observedDate": "2026-11-11",
+  "sourcePayloadHash": "375da242a7567833edde6af8c9a05d171b64c7fef76967ca59daee88ee069824",
+  "sourceScrapedAt": "2026-11-11T12:06:34.784Z",
+  "sourceScrapedDate": "Wednesday, November 11, 2026 at 06:06 AM CST",
+  "observedDate": "2026-11-12",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 3,
-  "propCount": 85,
+  "gameCount": 2,
+  "propCount": 29,
   "games": [
     {
-      "gameId": "201201",
+      "gameId": "195370",
       "slate": "Late",
-      "startTime": "11/11/26 06:30 PM CST",
-      "startTimeIso": "2026-11-11T18:30:00-06:00",
+      "startTime": "11/12/26 07:00 PM CST",
+      "startTimeIso": "2026-11-12T19:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Central Michigan Chippewas",
-        "Sacramento State Hornets"
+        "Memphis Tigers",
+        "South Florida Bulls"
       ],
-      "propCount": 28,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/201201.json"
+      "propCount": 22,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/195370.json"
     },
     {
-      "gameId": "201947",
+      "gameId": "195371",
       "slate": "Late",
-      "startTime": "11/11/26 06:30 PM CST",
-      "startTimeIso": "2026-11-11T18:30:00-06:00",
+      "startTime": "11/12/26 08:00 PM CST",
+      "startTimeIso": "2026-11-12T20:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Toledo Rockets",
-        "UMass Minutemen"
+        "Louisiana Ragin' Cajuns",
+        "Louisiana-Monroe Warhawks"
       ],
-      "propCount": 14,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/201947.json"
-    },
-    {
-      "gameId": "201948",
-      "slate": "Late",
-      "startTime": "11/11/26 06:30 PM CST",
-      "startTimeIso": "2026-11-11T18:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Ball State Cardinals",
-        "Buffalo Bulls"
-      ],
-      "propCount": 43,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/201948.json"
+      "propCount": 7,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/195371.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 85,
+      "propCount": 29,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

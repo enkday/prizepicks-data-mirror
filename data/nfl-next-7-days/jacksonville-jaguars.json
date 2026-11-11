@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-10T12:06:36.104Z",
-  "scrapedDate": "Tuesday, November 10, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-11T12:06:34.784Z",
+  "scrapedDate": "Wednesday, November 11, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 434,
-    "sourceCount": 2977,
-    "acceptedCount": 434,
-    "excludedCount": 2543,
+    "count": 691,
+    "sourceCount": 4725,
+    "acceptedCount": 691,
+    "excludedCount": 4034,
     "rejectedCount": 0,
-    "publishedCount": 434,
-    "providerFetchedAt": "2026-11-10T12:05:06.633Z",
+    "publishedCount": 691,
+    "providerFetchedAt": "2026-11-11T12:05:24.504Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 16,
+  "totalProps": 14,
   "props": [
     {
       "projectionId": "16834096",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": "243.5",
+      "line": "233.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -37,30 +37,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1383,
+      "rank": 2570,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16834051",
-      "playerId": "216955",
-      "status": "pre_game",
-      "player": "Parker Washington",
-      "stat": "Receiving Yards",
-      "line": "68.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1412,
-      "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834120",
@@ -79,9 +58,30 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1413,
+      "rank": 2613,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+    },
+    {
+      "projectionId": "16834051",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Receiving Yards",
+      "line": "63.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2614,
+      "gameId": "196139",
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16833996",
@@ -100,9 +100,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1454,
+      "rank": 2658,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834041",
@@ -121,17 +121,17 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1455,
+      "rank": 2659,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
-      "projectionId": "16840133",
+      "projectionId": "16833955",
       "playerId": "210950",
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Attempts",
-      "line": "30.5",
+      "line": "28.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1459,
+      "rank": 2690,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834110",
@@ -163,9 +163,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1481,
+      "rank": 2695,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16833906",
@@ -184,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1488,
+      "rank": 2708,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834061",
@@ -205,30 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1510,
+      "rank": 2733,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16833915",
-      "playerId": "246555",
-      "status": "pre_game",
-      "player": "Bhayshul Tuten",
-      "stat": "Rush Attempts",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1511,
-      "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834072",
@@ -247,30 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1513,
+      "rank": 2734,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16833989",
-      "playerId": "210950",
-      "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Rush Yards",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1518,
-      "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834063",
@@ -289,9 +247,30 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1522,
+      "rank": 2759,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+    },
+    {
+      "projectionId": "16833989",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 2760,
+      "gameId": "196139",
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834071",
@@ -299,7 +278,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Longest Rush",
-      "line": "10.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -310,9 +289,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1523,
+      "rank": 2770,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     },
     {
       "projectionId": "16834091",
@@ -320,7 +299,7 @@
       "status": "pre_game",
       "player": "Bhayshul Tuten",
       "stat": "Longest Reception",
-      "line": "7.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -331,30 +310,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 1532,
+      "rank": 2771,
       "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
-    },
-    {
-      "projectionId": "16833919",
-      "playerId": "216955",
-      "status": "pre_game",
-      "player": "Parker Washington",
-      "stat": "Receptions",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 1542,
-      "gameId": "196139",
-      "providerFetchedAt": "2026-11-10T12:05:06.633Z"
+      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
     }
   ]
 }
