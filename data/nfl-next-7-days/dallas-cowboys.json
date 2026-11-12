@@ -1,18 +1,18 @@
 {
-  "scrapedAt": "2026-11-11T12:06:34.784Z",
-  "scrapedDate": "Wednesday, November 11, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-12T12:07:33.431Z",
+  "scrapedDate": "Thursday, November 12, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 691,
-    "sourceCount": 4725,
-    "acceptedCount": 691,
-    "excludedCount": 4034,
+    "count": 814,
+    "sourceCount": 6229,
+    "acceptedCount": 814,
+    "excludedCount": 5415,
     "rejectedCount": 0,
-    "publishedCount": 691,
-    "providerFetchedAt": "2026-11-11T12:05:24.504Z",
+    "publishedCount": 814,
+    "providerFetchedAt": "2026-11-12T12:05:21.759Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
@@ -37,9 +37,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3759,
+      "rank": 4854,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834516",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Yards",
-      "line": "263.5",
+      "line": "266.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3780,
+      "rank": 4874,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834821",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "CeeDee Lamb",
       "stat": "Receiving Yards",
-      "line": "89.5",
+      "line": "87.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3811,
+      "rank": 4915,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16871910",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Completion Percentage",
+      "line": "67.1",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 4933,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834647",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Rush Yards",
-      "line": "65.5",
+      "line": "63.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3829,
+      "rank": 4934,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16852426",
@@ -121,9 +142,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3869,
+      "rank": 4984,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16852518",
@@ -142,9 +163,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3870,
+      "rank": 4985,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16852524",
@@ -163,30 +184,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3898,
+      "rank": 5024,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
-    },
-    {
-      "projectionId": "16852487",
-      "playerId": "211072",
-      "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Pass Completions",
-      "line": "24.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:25 PM CST",
-      "startTimeCST": "11/15/26 03:25 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 3903,
-      "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16852527",
@@ -194,7 +194,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Rush Attempts",
-      "line": "17.5",
+      "line": "17",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -205,9 +205,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3931,
+      "rank": 5081,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16852517",
@@ -215,6 +215,27 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Longest Rush",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5089,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16852544",
+      "playerId": "244046",
+      "status": "pre_game",
+      "player": "Javonte Williams",
+      "stat": "Receiving Yards",
       "line": "13.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
@@ -226,30 +247,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3950,
+      "rank": 5105,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
-    },
-    {
-      "projectionId": "16852544",
-      "playerId": "244046",
-      "status": "pre_game",
-      "player": "Javonte Williams",
-      "stat": "Receiving Yards",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:25 PM CST",
-      "startTimeCST": "11/15/26 03:25 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 3955,
-      "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834503",
@@ -268,12 +268,12 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3961,
+      "rank": 5120,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
-      "projectionId": "16852398",
+      "projectionId": "16905392",
       "playerId": "244046",
       "status": "pre_game",
       "player": "Javonte Williams",
@@ -289,9 +289,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3973,
+      "rank": 5141,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16865281",
@@ -310,9 +310,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3979,
+      "rank": 5144,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16887335",
@@ -331,9 +331,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3980,
+      "rank": 5146,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16852515",
@@ -352,17 +352,17 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 3982,
+      "rank": 5151,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
-      "projectionId": "16867448",
-      "playerId": "211072",
+      "projectionId": "16880141",
+      "playerId": "244046",
       "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Rush Attempts",
-      "line": "2.5",
+      "player": "Javonte Williams",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.9",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -373,9 +373,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4010,
+      "rank": 5172,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16887337",
@@ -394,9 +394,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4029,
+      "rank": 5211,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16852473",
@@ -415,9 +415,9 @@
       "teamCode": "DAL",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 4056,
+      "rank": 5238,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     }
   ]
 }

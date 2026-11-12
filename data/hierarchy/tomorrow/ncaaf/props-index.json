@@ -1,47 +1,60 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "375da242a7567833edde6af8c9a05d171b64c7fef76967ca59daee88ee069824",
-  "sourceScrapedAt": "2026-11-11T12:06:34.784Z",
-  "sourceScrapedDate": "Wednesday, November 11, 2026 at 06:06 AM CST",
-  "observedDate": "2026-11-12",
+  "sourcePayloadHash": "450f290c23ab80c30f754d80112101cc2d987cafcb3980a109bca9958d6dd0a0",
+  "sourceScrapedAt": "2026-11-12T12:07:33.431Z",
+  "sourceScrapedDate": "Thursday, November 12, 2026 at 06:07 AM CST",
+  "observedDate": "2026-11-13",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 2,
-  "propCount": 29,
+  "gameCount": 3,
+  "propCount": 103,
   "games": [
     {
-      "gameId": "195370",
+      "gameId": "195372",
       "slate": "Late",
-      "startTime": "11/12/26 07:00 PM CST",
-      "startTimeIso": "2026-11-12T19:00:00-06:00",
+      "startTime": "11/13/26 06:00 PM CST",
+      "startTimeIso": "2026-11-13T18:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Memphis Tigers",
-        "South Florida Bulls"
+        "Florida State Seminoles",
+        "Pittsburgh Panthers"
       ],
-      "propCount": 22,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/195370.json"
+      "propCount": 27,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/195372.json"
     },
     {
-      "gameId": "195371",
+      "gameId": "195693",
       "slate": "Late",
-      "startTime": "11/12/26 08:00 PM CST",
-      "startTimeIso": "2026-11-12T20:00:00-06:00",
+      "startTime": "11/13/26 08:00 PM CST",
+      "startTimeIso": "2026-11-13T20:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Louisiana Ragin' Cajuns",
-        "Louisiana-Monroe Warhawks"
+        "Illinois Fighting Illini",
+        "UCLA Bruins"
       ],
-      "propCount": 7,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/195371.json"
+      "propCount": 48,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/195693.json"
+    },
+    {
+      "gameId": "195695",
+      "slate": "Late",
+      "startTime": "11/13/26 09:15 PM CST",
+      "startTimeIso": "2026-11-13T21:15:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Colorado Buffaloes",
+        "Houston Cougars"
+      ],
+      "propCount": 28,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/195695.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 29,
+      "propCount": 103,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

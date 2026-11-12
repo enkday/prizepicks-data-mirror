@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-11T12:06:34.784Z",
-  "scrapedDate": "Wednesday, November 11, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-12T12:07:33.431Z",
+  "scrapedDate": "Thursday, November 12, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 691,
-    "sourceCount": 4725,
-    "acceptedCount": 691,
-    "excludedCount": 4034,
+    "count": 814,
+    "sourceCount": 6229,
+    "acceptedCount": 814,
+    "excludedCount": 5415,
     "rejectedCount": 0,
-    "publishedCount": 691,
-    "providerFetchedAt": "2026-11-11T12:05:24.504Z",
+    "publishedCount": 814,
+    "providerFetchedAt": "2026-11-12T12:05:21.759Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Kansas City Chiefs",
-  "totalProps": 20,
+  "totalProps": 27,
   "props": [
     {
       "projectionId": "16834507",
@@ -37,9 +37,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 978,
+      "rank": 1058,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834638",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Rush Yards",
-      "line": "84.5",
+      "line": "88.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1024,
+      "rank": 1109,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16880111",
+      "playerId": "206295",
+      "status": "pre_game",
+      "player": "Patrick Mahomes",
+      "stat": "Completion Percentage",
+      "line": "66.2",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1132,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834797",
@@ -79,9 +100,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1052,
+      "rank": 1141,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834796",
@@ -100,9 +121,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1068,
+      "rank": 1156,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16869069",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Patrick Mahomes",
       "stat": "Longest Completion",
-      "line": "36.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1093,
+      "rank": 1183,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16869026",
@@ -142,17 +163,17 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1098,
+      "rank": 1186,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
-      "projectionId": "16834800",
-      "playerId": "320186",
+      "projectionId": "16910261",
+      "playerId": "210205",
       "status": "pre_game",
-      "player": "Kenneth Walker III",
+      "player": "Xavier Worthy",
       "stat": "Receiving Yards",
-      "line": "22.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1144,
+      "rank": 1224,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16869028",
@@ -184,9 +205,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1146,
+      "rank": 1243,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16869035",
@@ -205,9 +226,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1147,
+      "rank": 1244,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16869037",
@@ -226,9 +247,30 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1167,
+      "rank": 1267,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16834800",
+      "playerId": "320186",
+      "status": "pre_game",
+      "player": "Kenneth Walker III",
+      "stat": "Receiving Yards",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1282,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16871760",
@@ -247,9 +289,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1177,
+      "rank": 1285,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16853261",
@@ -268,9 +310,30 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1184,
+      "rank": 1294,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16922206",
+      "playerId": "210205",
+      "status": "pre_game",
+      "player": "Xavier Worthy",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1300,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16853283",
@@ -278,7 +341,7 @@
       "status": "pre_game",
       "player": "Kenneth Walker III",
       "stat": "Longest Reception",
-      "line": "12.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -289,36 +352,15 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1202,
+      "rank": 1333,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16881287",
       "playerId": "337714",
       "status": "pre_game",
       "player": "Emmett Johnson",
-      "stat": "Receiving Yards",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Atlanta Falcons",
-      "opponentCode": "ATL",
-      "rank": 1204,
-      "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
-    },
-    {
-      "projectionId": "16869034",
-      "playerId": "210811",
-      "status": "pre_game",
-      "player": "Noah Gray",
       "stat": "Receiving Yards",
       "line": "11.5",
       "sport": "NFL",
@@ -331,16 +373,16 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1205,
+      "rank": 1334,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
-      "projectionId": "16869039",
+      "projectionId": "16869034",
       "playerId": "210811",
       "status": "pre_game",
       "player": "Noah Gray",
-      "stat": "Longest Reception",
+      "stat": "Receiving Yards",
       "line": "10.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -352,9 +394,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1207,
+      "rank": 1341,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16834495",
@@ -373,9 +415,30 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1208,
+      "rank": 1343,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16869039",
+      "playerId": "210811",
+      "status": "pre_game",
+      "player": "Noah Gray",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1345,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16881253",
@@ -394,9 +457,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1216,
+      "rank": 1350,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16869033",
@@ -404,7 +467,7 @@
       "status": "pre_game",
       "player": "Patrick Mahomes",
       "stat": "Longest Rush",
-      "line": "7.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -415,9 +478,93 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1224,
+      "rank": 1370,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16895425",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1372,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16901313",
+      "playerId": "206325",
+      "status": "pre_game",
+      "player": "Harrison Butker",
+      "stat": "Kicking Points",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1388,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16895418",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Longest Rush",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1401,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+    },
+    {
+      "projectionId": "16880062",
+      "playerId": "320186",
+      "status": "pre_game",
+      "player": "Kenneth Walker III",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.9",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 1407,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     },
     {
       "projectionId": "16869044",
@@ -436,9 +583,9 @@
       "teamCode": "KC",
       "Opponent": "Atlanta Falcons",
       "opponentCode": "ATL",
-      "rank": 1292,
+      "rank": 1478,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-11T12:05:24.504Z"
+      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
     }
   ]
 }
