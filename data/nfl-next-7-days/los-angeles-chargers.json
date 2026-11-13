@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-12T12:07:33.431Z",
-  "scrapedDate": "Thursday, November 12, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-13T12:07:05.013Z",
+  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 814,
-    "sourceCount": 6229,
-    "acceptedCount": 814,
-    "excludedCount": 5415,
+    "count": 841,
+    "sourceCount": 6083,
+    "acceptedCount": 841,
+    "excludedCount": 5242,
     "rejectedCount": 0,
-    "publishedCount": 814,
-    "providerFetchedAt": "2026-11-12T12:05:21.759Z",
+    "publishedCount": 841,
+    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 22,
+  "totalProps": 24,
   "props": [
     {
       "projectionId": "16834519",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Pass Yards",
-      "line": "199.5",
+      "line": "207.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 5801,
+      "rank": 5622,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16834651",
@@ -58,9 +58,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 5897,
+      "rank": 5719,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16902355",
@@ -79,9 +79,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 5898,
+      "rank": 5720,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16902360",
@@ -100,9 +100,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 5902,
+      "rank": 5727,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16834506",
@@ -121,30 +121,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 5957,
+      "rank": 5779,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
-    },
-    {
-      "projectionId": "16907354",
-      "playerId": "211058",
-      "status": "pre_game",
-      "player": "Justin Herbert",
-      "stat": "Pass Completions",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 5989,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16900031",
@@ -163,9 +142,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 5993,
+      "rank": 5814,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16907354",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Pass Completions",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5815,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16899991",
@@ -184,9 +184,72 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6044,
+      "rank": 5868,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16900021",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5869,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16902362",
+      "playerId": "211058",
+      "status": "pre_game",
+      "player": "Justin Herbert",
+      "stat": "Longest Rush",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5870,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16902411",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Longest Rush",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 5871,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16902429",
@@ -205,9 +268,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6045,
+      "rank": 5872,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16900009",
@@ -215,7 +278,7 @@
       "status": "pre_game",
       "player": "Kimani Vidal",
       "stat": "Receiving Yards",
-      "line": "9.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -226,72 +289,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6053,
+      "rank": 5915,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
-    },
-    {
-      "projectionId": "16900021",
-      "playerId": "336552",
-      "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Rush Yards",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 6054,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
-    },
-    {
-      "projectionId": "16902362",
-      "playerId": "211058",
-      "status": "pre_game",
-      "player": "Justin Herbert",
-      "stat": "Longest Rush",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 6067,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
-    },
-    {
-      "projectionId": "16902411",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Longest Rush",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 6068,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16902424",
@@ -310,9 +310,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6090,
+      "rank": 5924,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16902462",
@@ -331,9 +331,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6092,
+      "rank": 5926,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16902464",
@@ -352,9 +352,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6093,
+      "rank": 5927,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16903253",
@@ -373,9 +373,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6097,
+      "rank": 5933,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16870436",
@@ -383,7 +383,7 @@
       "status": "pre_game",
       "player": "Cameron Dicker",
       "stat": "Kicking Points",
-      "line": "5.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -394,17 +394,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6112,
+      "rank": 5936,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
-      "projectionId": "16907357",
+      "projectionId": "16902434",
       "playerId": "336552",
       "status": "pre_game",
       "player": "Keaton Mitchell",
       "stat": "Longest Rush",
-      "line": "5.5",
+      "line": "6.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -415,9 +415,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6121,
+      "rank": 5939,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16899973",
@@ -436,9 +436,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6126,
+      "rank": 5964,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16902460",
@@ -457,17 +457,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6138,
+      "rank": 5978,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
-      "projectionId": "16917938",
+      "projectionId": "16942012",
       "playerId": "336552",
       "status": "pre_game",
       "player": "Keaton Mitchell",
-      "stat": "Rush Attempts",
-      "line": "3.5",
+      "stat": "Rec Targets",
+      "line": "3",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -478,9 +478,51 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 6159,
+      "rank": 6008,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16942013",
+      "playerId": "216816",
+      "status": "pre_game",
+      "player": "Kimani Vidal",
+      "stat": "Rec Targets",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 6027,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16928855",
+      "playerId": "211252",
+      "status": "pre_game",
+      "player": "Cameron Dicker",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 6044,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     }
   ]
 }

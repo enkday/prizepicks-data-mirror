@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-12T12:07:33.431Z",
-  "scrapedDate": "Thursday, November 12, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-13T12:07:05.013Z",
+  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 814,
-    "sourceCount": 6229,
-    "acceptedCount": 814,
-    "excludedCount": 5415,
+    "count": 841,
+    "sourceCount": 6083,
+    "acceptedCount": 841,
+    "excludedCount": 5242,
     "rejectedCount": 0,
-    "publishedCount": 814,
-    "providerFetchedAt": "2026-11-12T12:05:21.759Z",
+    "publishedCount": 841,
+    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New Orleans Saints",
-  "totalProps": 21,
+  "totalProps": 25,
   "props": [
     {
       "projectionId": "16834513",
@@ -37,9 +37,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3624,
+      "rank": 3201,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16834812",
@@ -58,9 +58,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3664,
+      "rank": 3242,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16874630",
@@ -79,9 +79,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3674,
+      "rank": 3254,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839957",
@@ -100,9 +100,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3705,
+      "rank": 3282,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839815",
@@ -121,9 +121,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3731,
+      "rank": 3310,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839777",
@@ -142,9 +142,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3733,
+      "rank": 3311,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16840015",
@@ -163,9 +163,51 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3771,
+      "rank": 3348,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16834813",
+      "playerId": "153107",
+      "status": "pre_game",
+      "player": "Juwan Johnson",
+      "stat": "Receiving Yards",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3351,
+      "gameId": "196144",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16839899",
+      "playerId": "211238",
+      "status": "pre_game",
+      "player": "Chris Olave",
+      "stat": "Longest Reception",
+      "line": "24.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3353,
+      "gameId": "196144",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16840190",
@@ -184,51 +226,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3777,
+      "rank": 3356,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
-    },
-    {
-      "projectionId": "16839899",
-      "playerId": "211238",
-      "status": "pre_game",
-      "player": "Chris Olave",
-      "stat": "Longest Reception",
-      "line": "23.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3783,
-      "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
-    },
-    {
-      "projectionId": "16834813",
-      "playerId": "153107",
-      "status": "pre_game",
-      "player": "Juwan Johnson",
-      "stat": "Receiving Yards",
-      "line": "21.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3788,
-      "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839944",
@@ -247,9 +247,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3825,
+      "rank": 3401,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16834501",
@@ -268,9 +268,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3830,
+      "rank": 3406,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839918",
@@ -289,9 +289,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3840,
+      "rank": 3416,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16840007",
@@ -299,7 +299,7 @@
       "status": "pre_game",
       "player": "Juwan Johnson",
       "stat": "Longest Reception",
-      "line": "11.5",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -310,30 +310,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3858,
+      "rank": 3435,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
-    },
-    {
-      "projectionId": "16839938",
-      "playerId": "338784",
-      "status": "pre_game",
-      "player": "Noah Fant",
-      "stat": "Receiving Yards",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New Orleans Saints",
-      "teamCode": "NO",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3863,
-      "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839754",
@@ -352,9 +331,30 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3870,
+      "rank": 3449,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16942030",
+      "playerId": "211238",
+      "status": "pre_game",
+      "player": "Chris Olave",
+      "stat": "Rec Targets",
+      "line": "9",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3465,
+      "gameId": "196144",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839937",
@@ -373,9 +373,30 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3889,
+      "rank": 3468,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16942029",
+      "playerId": "320253",
+      "status": "pre_game",
+      "player": "Jordyn Tyson",
+      "stat": "Rec Targets",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3490,
+      "gameId": "196144",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839840",
@@ -394,16 +415,37 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3908,
+      "rank": 3491,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
-      "projectionId": "16839832",
-      "playerId": "246565",
+      "projectionId": "16839938",
+      "playerId": "338784",
       "status": "pre_game",
-      "player": "Tyler Shough",
-      "stat": "Rush Attempts",
+      "player": "Noah Fant",
+      "stat": "Receiving Yards",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3501,
+      "gameId": "196144",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16942031",
+      "playerId": "260181",
+      "status": "pre_game",
+      "player": "Devaughn Vele",
+      "stat": "Rec Targets",
       "line": "4.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -415,9 +457,51 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3927,
+      "rank": 3523,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16942032",
+      "playerId": "153107",
+      "status": "pre_game",
+      "player": "Juwan Johnson",
+      "stat": "Rec Targets",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3545,
+      "gameId": "196144",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+    },
+    {
+      "projectionId": "16942033",
+      "playerId": "338784",
+      "status": "pre_game",
+      "player": "Noah Fant",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New Orleans Saints",
+      "teamCode": "NO",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3587,
+      "gameId": "196144",
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16839739",
@@ -436,9 +520,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4010,
+      "rank": 3611,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     },
     {
       "projectionId": "16864057",
@@ -457,9 +541,9 @@
       "teamCode": "NO",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 4014,
+      "rank": 3615,
       "gameId": "196144",
-      "providerFetchedAt": "2026-11-12T12:05:21.759Z"
+      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
     }
   ]
 }
