@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-13T12:07:05.013Z",
-  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-14T12:05:58.296Z",
+  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 841,
-    "sourceCount": 6083,
-    "acceptedCount": 841,
-    "excludedCount": 5242,
+    "count": 978,
+    "sourceCount": 7032,
+    "acceptedCount": 978,
+    "excludedCount": 6054,
     "rejectedCount": 0,
-    "publishedCount": 841,
-    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
+    "publishedCount": 978,
+    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Atlanta Falcons",
-  "totalProps": 34,
+  "totalProps": 40,
   "props": [
     {
       "projectionId": "16834508",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Michael Penix Jr.",
       "stat": "Pass Yards",
-      "line": "218.5",
+      "line": "215.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 387,
+      "rank": 512,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953081",
+      "playerId": "216845",
+      "status": "pre_game",
+      "player": "Michael Penix Jr.",
+      "stat": "Passer Rating",
+      "line": "87.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 547,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834639",
@@ -47,7 +68,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Rush Yards",
-      "line": "86.5",
+      "line": "84.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 431,
+      "rank": 548,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834798",
@@ -79,9 +100,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 440,
+      "rank": 555,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16881191",
@@ -100,9 +121,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 451,
+      "rank": 564,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834801",
@@ -121,9 +142,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 500,
+      "rank": 608,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853347",
@@ -142,9 +163,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 507,
+      "rank": 614,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853249",
@@ -163,9 +184,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 511,
+      "rank": 618,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834799",
@@ -184,9 +205,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 542,
+      "rank": 643,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853343",
@@ -205,9 +226,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 543,
+      "rank": 644,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853314",
@@ -226,9 +247,30 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 563,
+      "rank": 662,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16881342",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 668,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853387",
@@ -247,9 +289,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 573,
+      "rank": 672,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853303",
@@ -268,9 +310,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 586,
+      "rank": 684,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853373",
@@ -278,27 +320,6 @@
       "status": "pre_game",
       "player": "Jahan Dotson",
       "stat": "Longest Reception",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 607,
-      "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16853335",
-      "playerId": "206319",
-      "status": "pre_game",
-      "player": "Bijan Robinson",
-      "stat": "Longest Rush",
       "line": "17.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -310,9 +331,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 612,
+      "rank": 702,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853318",
@@ -320,7 +341,7 @@
       "status": "pre_game",
       "player": "Kyle Pitts Sr.",
       "stat": "Longest Reception",
-      "line": "15.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -331,9 +352,30 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 621,
+      "rank": 709,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16853335",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Longest Rush",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 710,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853312",
@@ -341,6 +383,27 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Longest Reception",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 736,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16974805",
+      "playerId": "211628",
+      "status": "pre_game",
+      "player": "Drake London",
+      "stat": "Yards on First Reception",
       "line": "11.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -352,9 +415,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 657,
+      "rank": 740,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16881259",
@@ -373,9 +436,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 675,
+      "rank": 754,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941180",
@@ -394,9 +457,30 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 700,
+      "rank": 781,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16834496",
+      "playerId": "216845",
+      "status": "pre_game",
+      "player": "Michael Penix Jr.",
+      "stat": "Rush Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 785,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16881231",
@@ -415,9 +499,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 706,
+      "rank": 789,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16895493",
@@ -425,27 +509,6 @@
       "status": "pre_game",
       "player": "Olamide Zaccheaus",
       "stat": "Longest Reception",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Atlanta Falcons",
-      "teamCode": "ATL",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 707,
-      "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16834496",
-      "playerId": "216845",
-      "status": "pre_game",
-      "player": "Michael Penix Jr.",
-      "stat": "Rush Yards",
       "line": "6.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -457,9 +520,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 710,
+      "rank": 798,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863542",
@@ -478,9 +541,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 727,
+      "rank": 810,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16895697",
@@ -499,9 +562,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 733,
+      "rank": 814,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16931550",
@@ -520,9 +583,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 735,
+      "rank": 817,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941182",
@@ -541,9 +604,30 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 737,
+      "rank": 819,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16974806",
+      "playerId": "206319",
+      "status": "pre_game",
+      "player": "Bijan Robinson",
+      "stat": "Yards on First Reception",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 820,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941179",
@@ -562,9 +646,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 741,
+      "rank": 823,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16881339",
@@ -572,7 +656,7 @@
       "status": "pre_game",
       "player": "Bijan Robinson",
       "stat": "Rush Yards Per Carry",
-      "line": "4.4",
+      "line": "4.3",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -583,9 +667,30 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 762,
+      "rank": 847,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16853270",
+      "playerId": "216845",
+      "status": "pre_game",
+      "player": "Michael Penix Jr.",
+      "stat": "Rush Attempts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 849,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941181",
@@ -604,9 +709,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 785,
+      "rank": 867,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864051",
@@ -625,9 +730,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 800,
+      "rank": 881,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16895421",
@@ -646,9 +751,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 813,
+      "rank": 893,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941183",
@@ -667,9 +772,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 820,
+      "rank": 900,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16895424",
@@ -688,9 +793,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 836,
+      "rank": 913,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16911211",
@@ -709,9 +814,30 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 839,
+      "rank": 916,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953107",
+      "playerId": "216845",
+      "status": "pre_game",
+      "player": "Michael Penix Jr.",
+      "stat": "Sacks Taken",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Atlanta Falcons",
+      "teamCode": "ATL",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 929,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16887327",
@@ -730,9 +856,9 @@
       "teamCode": "ATL",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 883,
+      "rank": 969,
       "gameId": "196143",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     }
   ]
 }

@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "195372",
+    "gameId": "201459",
     "sport": "NCAAF",
-    "startTime": "11/13/26 06:00 PM CST",
-    "startTimeIso": "2026-11-13T18:00:00-06:00",
+    "startTime": "11/14/26 11:00 AM CST",
+    "startTimeIso": "2026-11-14T11:00:00-06:00",
     "teams": [
-      "Florida State Seminoles",
-      "Pittsburgh Panthers"
+      "SMU Mustangs",
+      "Wake Forest Demon Deacons"
     ],
-    "slate": "Late",
+    "slate": "Early",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T18:00:00-06:00"
+      "2026-11-14T11:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Florida State Seminoles",
-        "Pittsburgh Panthers"
+        "SMU Mustangs",
+        "Wake Forest Demon Deacons"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,23 +24,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195693",
+    "gameId": "201461",
     "sport": "NCAAF",
-    "startTime": "11/13/26 08:00 PM CST",
-    "startTimeIso": "2026-11-13T20:00:00-06:00",
+    "startTime": "11/14/26 11:00 AM CST",
+    "startTimeIso": "2026-11-14T11:00:00-06:00",
     "teams": [
-      "Illinois Fighting Illini",
-      "UCLA Bruins"
+      "Maryland Terrapins",
+      "Wisconsin Badgers"
     ],
-    "slate": "Late",
+    "slate": "Early",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T20:00:00-06:00"
+      "2026-11-14T11:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Illinois Fighting Illini",
-        "UCLA Bruins"
+        "Maryland Terrapins",
+        "Wisconsin Badgers"
       ]
     ],
     "sourceEventConflict": false,
@@ -48,23 +48,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195695",
+    "gameId": "202925",
     "sport": "NCAAF",
-    "startTime": "11/13/26 09:15 PM CST",
-    "startTimeIso": "2026-11-13T21:15:00-06:00",
+    "startTime": "11/14/26 11:00 AM CST",
+    "startTimeIso": "2026-11-14T11:00:00-06:00",
     "teams": [
-      "Colorado Buffaloes",
-      "Houston Cougars"
+      "Cincinnati Bearcats",
+      "Iowa State Cyclones"
     ],
-    "slate": "Late",
+    "slate": "Early",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T21:15:00-06:00"
+      "2026-11-14T11:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Colorado Buffaloes",
-        "Houston Cougars"
+        "Cincinnati Bearcats",
+        "Iowa State Cyclones"
       ]
     ],
     "sourceEventConflict": false,
@@ -72,23 +72,81 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195369",
-    "sport": "NBA",
-    "startTime": "11/13/26 06:00 PM CST",
-    "startTimeIso": "2026-11-13T18:00:00-06:00",
+    "gameId": "201462",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 11:00 AM CST",
+    "startTimeIso": "2026-11-14T11:00:00-06:00",
     "teams": [
-      "Indiana Pacers",
-      "New York Knicks"
+      "Duke Blue Devils",
+      "MIA",
+      "Miami (FL) Hurricanes"
     ],
-    "slate": "Late",
+    "slate": "Early",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T18:00:00-06:00"
+      "2026-11-14T11:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Indiana Pacers",
-        "New York Knicks"
+        "Duke Blue Devils",
+        "Miami (FL) Hurricanes"
+      ],
+      [
+        "Duke Blue Devils",
+        "MIA"
+      ]
+    ],
+    "sourceEventConflict": true,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201463",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 11:00 AM CST",
+    "startTimeIso": "2026-11-14T11:00:00-06:00",
+    "teams": [
+      "NC State Wolfpack",
+      "North Carolina State Wolfpack",
+      "Syracuse Orange"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T11:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "North Carolina State Wolfpack",
+        "Syracuse Orange"
+      ],
+      [
+        "NC State Wolfpack",
+        "Syracuse Orange"
+      ]
+    ],
+    "sourceEventConflict": true,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201464",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 11:00 AM CST",
+    "startTimeIso": "2026-11-14T11:00:00-06:00",
+    "teams": [
+      "Northwestern Wildcats",
+      "Ohio State Buckeyes"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T11:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Northwestern Wildcats",
+        "Ohio State Buckeyes"
       ]
     ],
     "sourceEventConflict": false,
@@ -96,23 +154,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195368",
-    "sport": "NBA",
-    "startTime": "11/13/26 06:00 PM CST",
-    "startTimeIso": "2026-11-13T18:00:00-06:00",
+    "gameId": "201465",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 11:30 AM CST",
+    "startTimeIso": "2026-11-14T11:30:00-06:00",
     "teams": [
-      "Milwaukee Bucks",
-      "Orlando Magic"
+      "Clemson Tigers",
+      "Georgia Tech Yellow Jackets"
     ],
-    "slate": "Late",
+    "slate": "Early",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T18:00:00-06:00"
+      "2026-11-14T11:30:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Milwaukee Bucks",
-        "Orlando Magic"
+        "Clemson Tigers",
+        "Georgia Tech Yellow Jackets"
       ]
     ],
     "sourceEventConflict": false,
@@ -120,22 +178,670 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195677",
-    "sport": "NBA",
-    "startTime": "11/13/26 07:00 PM CST",
-    "startTimeIso": "2026-11-13T19:00:00-06:00",
+    "gameId": "201466",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 11:30 AM CST",
+    "startTimeIso": "2026-11-14T11:30:00-06:00",
     "teams": [
-      "Memphis Grizzlies",
+      "Nebraska Cornhuskers",
+      "Rutgers Scarlet Knights"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T11:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Nebraska Cornhuskers",
+        "Rutgers Scarlet Knights"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201467",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 11:45 AM CST",
+    "startTimeIso": "2026-11-14T11:45:00-06:00",
+    "teams": [
+      "Alabama Crimson Tide",
+      "Vanderbilt Commodores"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T11:45:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Alabama Crimson Tide",
+        "Vanderbilt Commodores"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202926",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 01:00 PM CST",
+    "startTimeIso": "2026-11-14T13:00:00-06:00",
+    "teams": [
+      "Kansas State Wildcats",
+      "TCU Horned Frogs"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T13:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Kansas State Wildcats",
+        "TCU Horned Frogs"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202927",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 02:00 PM CST",
+    "startTimeIso": "2026-11-14T14:00:00-06:00",
+    "teams": [
+      "Tennessee Volunteers",
+      "Texas A&M Aggies"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T14:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Tennessee Volunteers",
+        "Texas A&M Aggies"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201473",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 02:30 PM CST",
+    "startTimeIso": "2026-11-14T14:30:00-06:00",
+    "teams": [
+      "Michigan Wolverines",
+      "Oregon Ducks"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Michigan Wolverines",
+        "Oregon Ducks"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202930",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 02:30 PM CST",
+    "startTimeIso": "2026-11-14T14:30:00-06:00",
+    "teams": [
+      "Kansas Jayhawks",
+      "West Virginia Mountaineers"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Kansas Jayhawks",
+        "West Virginia Mountaineers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201474",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 02:30 PM CST",
+    "startTimeIso": "2026-11-14T14:30:00-06:00",
+    "teams": [
+      "California Golden Bears",
+      "Virginia Cavaliers"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "California Golden Bears",
+        "Virginia Cavaliers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202737",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 02:30 PM CST",
+    "startTimeIso": "2026-11-14T14:30:00-06:00",
+    "teams": [
+      "Georgia Bulldogs",
+      "Missouri Tigers"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Georgia Bulldogs",
+        "Missouri Tigers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201476",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 02:30 PM CST",
+    "startTimeIso": "2026-11-14T14:30:00-06:00",
+    "teams": [
+      "Indiana Hoosiers",
+      "USC Trojans"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Indiana Hoosiers",
+        "USC Trojans"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "195755",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 02:30 PM CST",
+    "startTimeIso": "2026-11-14T14:30:00-06:00",
+    "teams": [
+      "Boston College Eagles",
+      "Notre Dame Fighting Irish"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Boston College Eagles",
+        "Notre Dame Fighting Irish"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201460",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 03:15 PM CST",
+    "startTimeIso": "2026-11-14T15:15:00-06:00",
+    "teams": [
+      "Auburn Tigers",
+      "Mississippi State Bulldogs"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T15:15:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Auburn Tigers",
+        "Mississippi State Bulldogs"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202738",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 03:15 PM CST",
+    "startTimeIso": "2026-11-14T15:15:00-06:00",
+    "teams": [
+      "Oklahoma Sooners",
+      "Ole Miss Rebels"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T15:15:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Oklahoma Sooners",
+        "Ole Miss Rebels"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201477",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 04:30 PM CST",
+    "startTimeIso": "2026-11-14T16:30:00-06:00",
+    "teams": [
+      "Michigan State Spartans",
+      "Washington Huskies"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T16:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Michigan State Spartans",
+        "Washington Huskies"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202929",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 04:30 PM CST",
+    "startTimeIso": "2026-11-14T16:30:00-06:00",
+    "teams": [
+      "Arizona State Sun Devils",
+      "UCF Knights"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T16:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Arizona State Sun Devils",
+        "UCF Knights"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "195764",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 05:00 PM CST",
+    "startTimeIso": "2026-11-14T17:00:00-06:00",
+    "teams": [
+      "Boise State Broncos",
+      "Oregon State Beavers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T17:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Boise State Broncos",
+        "Oregon State Beavers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202931",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 05:15 PM CST",
+    "startTimeIso": "2026-11-14T17:15:00-06:00",
+    "teams": [
+      "Florida Gators",
+      "Kentucky Wildcats"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T17:15:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Florida Gators",
+        "Kentucky Wildcats"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202739",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 06:00 PM CST",
+    "startTimeIso": "2026-11-14T18:00:00-06:00",
+    "teams": [
+      "Minnesota Golden Gophers",
+      "Penn State Nittany Lions"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T18:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Minnesota Golden Gophers",
+        "Penn State Nittany Lions"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202740",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 06:00 PM CST",
+    "startTimeIso": "2026-11-14T18:00:00-06:00",
+    "teams": [
+      "Louisville Cardinals",
+      "North Carolina Tar Heels"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T18:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Louisville Cardinals",
+        "North Carolina Tar Heels"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202928",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 06:00 PM CST",
+    "startTimeIso": "2026-11-14T18:00:00-06:00",
+    "teams": [
+      "BYU Cougars",
+      "Baylor Bears"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T18:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "BYU Cougars",
+        "Baylor Bears"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202742",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 06:30 PM CST",
+    "startTimeIso": "2026-11-14T18:30:00-06:00",
+    "teams": [
+      "LSU Tigers",
+      "Texas Longhorns"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "LSU Tigers",
+        "Texas Longhorns"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202741",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 06:30 PM CST",
+    "startTimeIso": "2026-11-14T18:30:00-06:00",
+    "teams": [
+      "Iowa Hawkeyes",
+      "Purdue Boilermakers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Iowa Hawkeyes",
+        "Purdue Boilermakers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202743",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 06:30 PM CST",
+    "startTimeIso": "2026-11-14T18:30:00-06:00",
+    "teams": [
+      "Stanford Cardinal",
+      "Virginia Tech Hokies"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Stanford Cardinal",
+        "Virginia Tech Hokies"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "201481",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 06:45 PM CST",
+    "startTimeIso": "2026-11-14T18:45:00-06:00",
+    "teams": [
+      "Arkansas Razorbacks",
+      "South Carolina Gamecocks"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T18:45:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Arkansas Razorbacks",
+        "South Carolina Gamecocks"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202933",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 08:30 PM CST",
+    "startTimeIso": "2026-11-14T20:30:00-06:00",
+    "teams": [
+      "Oklahoma State Cowboys",
+      "Texas Tech Red Raiders"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T20:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Oklahoma State Cowboys",
+        "Texas Tech Red Raiders"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "202932",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 09:30 PM CST",
+    "startTimeIso": "2026-11-14T21:30:00-06:00",
+    "teams": [
+      "Arizona Wildcats",
+      "Utah Utes"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T21:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Arizona Wildcats",
+        "Utah Utes"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "196161",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 09:30 PM CST",
+    "startTimeIso": "2026-11-14T21:30:00-06:00",
+    "teams": [
+      "Colorado State Rams",
+      "Washington State Cougars"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T21:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Colorado State Rams",
+        "Washington State Cougars"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "196163",
+    "sport": "NCAAF",
+    "startTime": "11/14/26 10:00 PM CST",
+    "startTimeIso": "2026-11-14T22:00:00-06:00",
+    "teams": [
+      "Hawai'i Warriors",
+      "North Dakota State Bison"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-14T22:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Hawai'i Warriors",
+        "North Dakota State Bison"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "195684",
+    "sport": "NBA",
+    "startTime": "11/14/26 06:00 PM CST",
+    "startTimeIso": "2026-11-14T18:00:00-06:00",
+    "teams": [
+      "Denver Nuggets",
       "New Orleans Pelicans"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T19:00:00-06:00"
+      "2026-11-14T18:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Memphis Grizzlies",
+        "Denver Nuggets",
         "New Orleans Pelicans"
       ]
     ],
@@ -144,23 +850,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195678",
+    "gameId": "196148",
     "sport": "NBA",
-    "startTime": "11/13/26 07:00 PM CST",
-    "startTimeIso": "2026-11-13T19:00:00-06:00",
+    "startTime": "11/14/26 06:30 PM CST",
+    "startTimeIso": "2026-11-14T18:30:00-06:00",
     "teams": [
-      "Atlanta Hawks",
-      "Chicago Bulls"
+      "Cleveland Cavaliers",
+      "Dallas Mavericks"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T19:00:00-06:00"
+      "2026-11-14T18:30:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Atlanta Hawks",
-        "Chicago Bulls"
+        "Cleveland Cavaliers",
+        "Dallas Mavericks"
       ]
     ],
     "sourceEventConflict": false,
@@ -168,22 +874,22 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195679",
+    "gameId": "196149",
     "sport": "NBA",
-    "startTime": "11/13/26 07:00 PM CST",
-    "startTimeIso": "2026-11-13T19:00:00-06:00",
+    "startTime": "11/14/26 07:00 PM CST",
+    "startTimeIso": "2026-11-14T19:00:00-06:00",
     "teams": [
-      "Cleveland Cavaliers",
+      "Detroit Pistons",
       "Miami Heat"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T19:00:00-06:00"
+      "2026-11-14T19:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Cleveland Cavaliers",
+        "Detroit Pistons",
         "Miami Heat"
       ]
     ],
@@ -192,23 +898,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195680",
+    "gameId": "196151",
     "sport": "NBA",
-    "startTime": "11/13/26 07:30 PM CST",
-    "startTimeIso": "2026-11-13T19:30:00-06:00",
+    "startTime": "11/14/26 07:00 PM CST",
+    "startTimeIso": "2026-11-14T19:00:00-06:00",
     "teams": [
-      "Houston Rockets",
-      "Utah Jazz"
+      "Brooklyn Nets",
+      "Memphis Grizzlies"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T19:30:00-06:00"
+      "2026-11-14T19:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Houston Rockets",
-        "Utah Jazz"
+        "Brooklyn Nets",
+        "Memphis Grizzlies"
       ]
     ],
     "sourceEventConflict": false,
@@ -216,71 +922,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "195681",
+    "gameId": "196150",
     "sport": "NBA",
-    "startTime": "11/13/26 08:30 PM CST",
-    "startTimeIso": "2026-11-13T20:30:00-06:00",
+    "startTime": "11/14/26 07:00 PM CST",
+    "startTimeIso": "2026-11-14T19:00:00-06:00",
     "teams": [
-      "Golden State Warriors",
-      "San Antonio Spurs"
+      "Chicago Bulls",
+      "Minnesota Timberwolves"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-13T20:30:00-06:00"
+      "2026-11-14T19:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Golden State Warriors",
-        "San Antonio Spurs"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "195682",
-    "sport": "NBA",
-    "startTime": "11/13/26 09:00 PM CST",
-    "startTimeIso": "2026-11-13T21:00:00-06:00",
-    "teams": [
-      "Portland Trail Blazers",
-      "Sacramento Kings"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-13T21:00:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Portland Trail Blazers",
-        "Sacramento Kings"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "195683",
-    "sport": "NBA",
-    "startTime": "11/13/26 09:30 PM CST",
-    "startTimeIso": "2026-11-13T21:30:00-06:00",
-    "teams": [
-      "LA Clippers",
-      "Oklahoma City Thunder"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-13T21:30:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "LA Clippers",
-        "Oklahoma City Thunder"
+        "Chicago Bulls",
+        "Minnesota Timberwolves"
       ]
     ],
     "sourceEventConflict": false,

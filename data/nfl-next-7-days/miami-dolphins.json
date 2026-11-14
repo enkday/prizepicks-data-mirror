@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-13T12:07:05.013Z",
-  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-14T12:05:58.296Z",
+  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 841,
-    "sourceCount": 6083,
-    "acceptedCount": 841,
-    "excludedCount": 5242,
+    "count": 978,
+    "sourceCount": 7032,
+    "acceptedCount": 978,
+    "excludedCount": 6054,
     "rejectedCount": 0,
-    "publishedCount": 841,
-    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
+    "publishedCount": 978,
+    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Miami Dolphins",
-  "totalProps": 30,
+  "totalProps": 38,
   "props": [
     {
       "projectionId": "16869129",
@@ -37,9 +37,30 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2304,
+      "rank": 2597,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953076",
+      "playerId": "344003",
+      "status": "pre_game",
+      "player": "Kyle McCord",
+      "stat": "Passer Rating",
+      "line": "74.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2639,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834641",
@@ -58,17 +79,17 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2342,
+      "rank": 2640,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16834806",
-      "playerId": "336594",
+      "projectionId": "16909465",
+      "playerId": "344003",
       "status": "pre_game",
-      "player": "Caleb Douglas",
-      "stat": "Receiving Yards",
-      "line": "43.5",
+      "player": "Kyle McCord",
+      "stat": "Completion Percentage",
+      "line": "60",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -79,9 +100,30 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2375,
+      "rank": 2648,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16834806",
+      "playerId": "336594",
+      "status": "pre_game",
+      "player": "Caleb Douglas",
+      "stat": "Receiving Yards",
+      "line": "42.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2674,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834807",
@@ -100,9 +142,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2400,
+      "rank": 2702,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16835233",
@@ -121,9 +163,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2401,
+      "rank": 2703,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16869107",
@@ -142,9 +184,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2419,
+      "rank": 2721,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16869117",
@@ -163,9 +205,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2429,
+      "rank": 2732,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16835187",
@@ -173,6 +215,27 @@
       "status": "pre_game",
       "player": "Caleb Douglas",
       "stat": "Longest Reception",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2759,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16915988",
+      "playerId": "252681",
+      "status": "pre_game",
+      "player": "Ollie Gordon II",
+      "stat": "Rush Yards in First 5 Attempts",
       "line": "19.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -184,17 +247,17 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2458,
+      "rank": 2785,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16835214",
+      "projectionId": "16966615",
       "playerId": "252681",
       "status": "pre_game",
       "player": "Ollie Gordon II",
       "stat": "Rush Attempts",
-      "line": "17.5",
+      "line": "18",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -205,9 +268,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2491,
+      "rank": 2801,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16835169",
@@ -226,9 +289,51 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2495,
+      "rank": 2806,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16957420",
+      "playerId": "338961",
+      "status": "pre_game",
+      "player": "Kevin Coleman Jr.",
+      "stat": "Receiving Yards",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2808,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16869785",
+      "playerId": "344003",
+      "status": "pre_game",
+      "player": "Kyle McCord",
+      "stat": "Pass Completions",
+      "line": "16",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2809,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16835197",
@@ -247,51 +352,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2498,
+      "rank": 2812,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16869785",
-      "playerId": "344003",
-      "status": "pre_game",
-      "player": "Kyle McCord",
-      "stat": "Pass Completions",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2501,
-      "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16835193",
-      "playerId": "338957",
-      "status": "pre_game",
-      "player": "Chris Bell",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 12:00 PM CST",
-      "startTimeCST": "11/15/26 12:00 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Miami Dolphins",
-      "teamCode": "MIA",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 2507,
-      "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16835206",
@@ -310,16 +373,16 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2508,
+      "rank": 2821,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16932698",
-      "playerId": "213952",
+      "projectionId": "16835193",
+      "playerId": "338957",
       "status": "pre_game",
-      "player": "Jaylen Wright",
-      "stat": "Rush Yards",
+      "player": "Chris Bell",
+      "stat": "Receiving Yards",
       "line": "13.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -331,17 +394,17 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2541,
+      "rank": 2848,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16835205",
-      "playerId": "338957",
+      "projectionId": "16932698",
+      "playerId": "213952",
       "status": "pre_game",
-      "player": "Chris Bell",
-      "stat": "Longest Reception",
-      "line": "10.5",
+      "player": "Jaylen Wright",
+      "stat": "Rush Yards",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -352,9 +415,30 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2553,
+      "rank": 2857,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16960491",
+      "playerId": "338961",
+      "status": "pre_game",
+      "player": "Kevin Coleman Jr.",
+      "stat": "Longest Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2867,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16869141",
@@ -362,7 +446,7 @@
       "status": "pre_game",
       "player": "Kyle McCord",
       "stat": "Rush Yards",
-      "line": "6.5",
+      "line": "7.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -373,12 +457,12 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2604,
+      "rank": 2918,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16919000",
+      "projectionId": "16835194",
       "playerId": "252681",
       "status": "pre_game",
       "player": "Ollie Gordon II",
@@ -394,9 +478,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2609,
+      "rank": 2926,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16835157",
@@ -415,9 +499,30 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2614,
+      "rank": 2937,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16918995",
+      "playerId": "356516",
+      "status": "pre_game",
+      "player": "Zane Gonzalez",
+      "stat": "Kicking Points",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2943,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942021",
@@ -436,9 +541,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2625,
+      "rank": 2948,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942023",
@@ -457,9 +562,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2627,
+      "rank": 2951,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942024",
@@ -478,9 +583,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2628,
+      "rank": 2952,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16869110",
@@ -499,9 +604,30 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2630,
+      "rank": 2954,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16915989",
+      "playerId": "252681",
+      "status": "pre_game",
+      "player": "Ollie Gordon II",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.9",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 2986,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864056",
@@ -520,9 +646,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2650,
+      "rank": 2990,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16902718",
@@ -541,9 +667,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2659,
+      "rank": 2998,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16908368",
@@ -562,9 +688,30 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2660,
+      "rank": 2999,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16971000",
+      "playerId": "213952",
+      "status": "pre_game",
+      "player": "Jaylen Wright",
+      "stat": "Rush Attempts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 3008,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942022",
@@ -583,9 +730,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2669,
+      "rank": 3015,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16869112",
@@ -604,17 +751,17 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2673,
+      "rank": 3019,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16930508",
-      "playerId": "338957",
+      "projectionId": "16953102",
+      "playerId": "344003",
       "status": "pre_game",
-      "player": "Chris Bell",
-      "stat": "Receptions",
-      "line": "1.5",
+      "player": "Kyle McCord",
+      "stat": "Sacks Taken",
+      "line": "2.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -625,9 +772,30 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2702,
+      "rank": 3033,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16971051",
+      "playerId": "336599",
+      "status": "pre_game",
+      "player": "Will Kacmarek",
+      "stat": "Longest Reception",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Miami Dolphins",
+      "teamCode": "MIA",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 3037,
+      "gameId": "196140",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16935308",
@@ -646,9 +814,9 @@
       "teamCode": "MIA",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 2703,
+      "rank": 3055,
       "gameId": "196140",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-13T12:07:05.013Z",
-  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-14T12:05:58.296Z",
+  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 841,
-    "sourceCount": 6083,
-    "acceptedCount": 841,
-    "excludedCount": 5242,
+    "count": 978,
+    "sourceCount": 7032,
+    "acceptedCount": 978,
+    "excludedCount": 6054,
     "rejectedCount": 0,
-    "publishedCount": 841,
-    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
+    "publishedCount": 978,
+    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Seattle Seahawks",
-  "totalProps": 41,
+  "totalProps": 46,
   "props": [
     {
       "projectionId": "16870005",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Drew Lock",
       "stat": "Pass Yards",
-      "line": "203.5",
+      "line": "202.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3635,
+      "rank": 4219,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953088",
+      "playerId": "344486",
+      "status": "pre_game",
+      "player": "Drew Lock",
+      "stat": "Passer Rating",
+      "line": "93.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4254,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834814",
@@ -58,9 +79,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3670,
+      "rank": 4256,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16879437",
@@ -79,9 +100,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3688,
+      "rank": 4276,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847759",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Zach Charbonnet",
       "stat": "Rush Yards",
-      "line": "59.5",
+      "line": "64.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3694,
+      "rank": 4279,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847722",
@@ -121,9 +142,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3718,
+      "rank": 4306,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16870003",
@@ -142,9 +163,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3742,
+      "rank": 4326,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16870004",
@@ -163,9 +184,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3772,
+      "rank": 4358,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847643",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Jaxon Smith-Njigba",
       "stat": "Longest Reception",
-      "line": "25.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3779,
+      "rank": 4364,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847737",
@@ -205,9 +226,72 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3798,
+      "rank": 4384,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16879422",
+      "playerId": "211958",
+      "status": "pre_game",
+      "player": "Zach Charbonnet",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4387,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16872782",
+      "playerId": "246593",
+      "status": "pre_game",
+      "player": "Cooper Kupp",
+      "stat": "Receiving Yards",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4388,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16879421",
+      "playerId": "320307",
+      "status": "pre_game",
+      "player": "Jadarian Price",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4389,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16870008",
@@ -226,30 +310,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3816,
+      "rank": 4404,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16872782",
-      "playerId": "246593",
-      "status": "pre_game",
-      "player": "Cooper Kupp",
-      "stat": "Receiving Yards",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3817,
-      "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16932394",
@@ -257,7 +320,7 @@
       "status": "pre_game",
       "player": "Rashid Shaheed",
       "stat": "Receiving Yards",
-      "line": "18.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -268,9 +331,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3828,
+      "rank": 4427,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847589",
@@ -289,9 +352,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3836,
+      "rank": 4428,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16853132",
@@ -299,7 +362,7 @@
       "status": "pre_game",
       "player": "Zach Charbonnet",
       "stat": "Rush Attempts",
-      "line": "14.5",
+      "line": "15",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -310,9 +373,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3841,
+      "rank": 4431,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847568",
@@ -331,9 +394,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3866,
+      "rank": 4458,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16878835",
@@ -352,9 +415,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3872,
+      "rank": 4464,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847648",
@@ -373,9 +436,30 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3876,
+      "rank": 4468,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16847697",
+      "playerId": "320307",
+      "status": "pre_game",
+      "player": "Jadarian Price",
+      "stat": "Receiving Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4469,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16936986",
@@ -394,9 +478,30 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3881,
+      "rank": 4474,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16974825",
+      "playerId": "211247",
+      "status": "pre_game",
+      "player": "Jaxon Smith-Njigba",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4475,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847741",
@@ -415,9 +520,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3883,
+      "rank": 4477,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942053",
@@ -436,30 +541,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3886,
+      "rank": 4480,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16847697",
-      "playerId": "320307",
-      "status": "pre_game",
-      "player": "Jadarian Price",
-      "stat": "Receiving Yards",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 3889,
-      "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847706",
@@ -478,9 +562,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3890,
+      "rank": 4483,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847665",
@@ -499,9 +583,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3920,
+      "rank": 4524,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847584",
@@ -520,9 +604,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3928,
+      "rank": 4533,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16847661",
@@ -541,9 +625,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3929,
+      "rank": 4534,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16913770",
@@ -562,9 +646,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3934,
+      "rank": 4539,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16870066",
@@ -583,9 +667,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3948,
+      "rank": 4553,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16895601",
@@ -604,9 +688,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3956,
+      "rank": 4561,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16936985",
@@ -625,9 +709,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3958,
+      "rank": 4564,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16879419",
@@ -646,9 +730,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3973,
+      "rank": 4591,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16879420",
@@ -667,9 +751,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3974,
+      "rank": 4592,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942050",
@@ -688,9 +772,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3990,
+      "rank": 4608,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942051",
@@ -709,9 +793,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3991,
+      "rank": 4609,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942055",
@@ -730,9 +814,30 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 3992,
+      "rank": 4610,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16870067",
+      "playerId": "344486",
+      "status": "pre_game",
+      "player": "Drew Lock",
+      "stat": "Rush Attempts",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4626,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16929377",
@@ -751,9 +856,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4010,
+      "rank": 4633,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942052",
@@ -772,9 +877,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4014,
+      "rank": 4637,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942054",
@@ -793,30 +898,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4015,
+      "rank": 4638,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16872785",
-      "playerId": "320307",
-      "status": "pre_game",
-      "player": "Jadarian Price",
-      "stat": "Receptions",
-      "line": "2",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Seattle Seahawks",
-      "teamCode": "SEA",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4016,
-      "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942056",
@@ -835,9 +919,30 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4036,
+      "rank": 4661,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953112",
+      "playerId": "344486",
+      "status": "pre_game",
+      "player": "Drew Lock",
+      "stat": "Sacks Taken",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Seattle Seahawks",
+      "teamCode": "SEA",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4662,
+      "gameId": "196146",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16825297",
@@ -856,9 +961,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4051,
+      "rank": 4687,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864058",
@@ -877,9 +982,9 @@
       "teamCode": "SEA",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4062,
+      "rank": 4697,
       "gameId": "196146",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     }
   ]
 }

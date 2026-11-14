@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-11-14T12:05:58.296Z",
+  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NFL",
+    "ok": true,
+    "status": 200,
+    "count": 978,
+    "sourceCount": 7032,
+    "acceptedCount": 978,
+    "excludedCount": 6054,
+    "rejectedCount": 0,
+    "publishedCount": 978,
+    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NFL",
+  "day": "tomorrow",
+  "team": "Baltimore Ravens",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "16873091",
+      "playerId": "361121",
+      "status": "pre_game",
+      "player": "Jake Moody",
+      "stat": "Kicking Points",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Atlanta Falcons",
+      "opponentCode": "ATL",
+      "rank": 796,
+      "gameId": "196143",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    }
+  ]
+}

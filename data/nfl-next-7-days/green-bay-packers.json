@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-13T12:07:05.013Z",
-  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-14T12:05:58.296Z",
+  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 841,
-    "sourceCount": 6083,
-    "acceptedCount": 841,
-    "excludedCount": 5242,
+    "count": 978,
+    "sourceCount": 7032,
+    "acceptedCount": 978,
+    "excludedCount": 6054,
     "rejectedCount": 0,
-    "publishedCount": 841,
-    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
+    "publishedCount": 978,
+    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Green Bay Packers",
-  "totalProps": 25,
+  "totalProps": 32,
   "props": [
     {
       "projectionId": "16834510",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Pass Yards",
-      "line": "255.5",
+      "line": "253.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1446,
+      "rank": 1620,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953083",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Passer Rating",
+      "line": "88.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1649,
+      "gameId": "196141",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834803",
@@ -58,9 +79,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1477,
+      "rank": 1656,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834804",
@@ -79,9 +100,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1481,
+      "rank": 1659,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16870476",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Completion Percentage",
-      "line": "63.4",
+      "line": "58.9",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1485,
+      "rank": 1673,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864795",
@@ -121,9 +142,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1514,
+      "rank": 1697,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834805",
@@ -142,9 +163,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1528,
+      "rank": 1713,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16886662",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Pass Attempts",
-      "line": "34.5",
+      "line": "36",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1533,
+      "rank": 1715,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16874671",
@@ -184,9 +205,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1537,
+      "rank": 1723,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864844",
@@ -205,9 +226,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1552,
+      "rank": 1741,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864759",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Matthew Golden",
       "stat": "Longest Reception",
-      "line": "24.5",
+      "line": "25.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -226,17 +247,17 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1555,
+      "rank": 1744,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16864746",
+      "projectionId": "16964574",
       "playerId": "206301",
       "status": "pre_game",
       "player": "Jordan Love",
       "stat": "Pass Completions",
-      "line": "22.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1567,
+      "rank": 1756,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864873",
@@ -257,7 +278,7 @@
       "status": "pre_game",
       "player": "Savion Williams",
       "stat": "Receiving Yards",
-      "line": "20.5",
+      "line": "19.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
       "startTimeCST": "11/15/26 12:00 PM CST",
@@ -268,9 +289,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1569,
+      "rank": 1769,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864775",
@@ -289,9 +310,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1593,
+      "rank": 1790,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16874672",
@@ -299,6 +320,27 @@
       "status": "pre_game",
       "player": "MarShawn Lloyd",
       "stat": "Rush Yards",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1796,
+      "gameId": "196141",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16974812",
+      "playerId": "210337",
+      "status": "pre_game",
+      "player": "Christian Watson",
+      "stat": "Yards on First Reception",
       "line": "11.5",
       "sport": "NFL",
       "startTime": "11/15/26 12:00 PM CST",
@@ -310,9 +352,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1616,
+      "rank": 1819,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864783",
@@ -331,9 +373,30 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1618,
+      "rank": 1820,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16974813",
+      "playerId": "246577",
+      "status": "pre_game",
+      "player": "Matthew Golden",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1830,
+      "gameId": "196141",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16874673",
@@ -352,9 +415,30 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1636,
+      "rank": 1838,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16970862",
+      "playerId": "340168",
+      "status": "pre_game",
+      "player": "Kaleb Johnson",
+      "stat": "Rush Attempts",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1851,
+      "gameId": "196141",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941212",
@@ -373,9 +457,30 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1650,
+      "rank": 1854,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16974814",
+      "playerId": "212129",
+      "status": "pre_game",
+      "player": "Tucker Kraft",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1857,
+      "gameId": "196141",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941211",
@@ -394,9 +499,30 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1663,
+      "rank": 1867,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16867274",
+      "playerId": "336518",
+      "status": "pre_game",
+      "player": "Trey Smack",
+      "stat": "Kicking Points",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1869,
+      "gameId": "196141",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941213",
@@ -415,9 +541,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1683,
+      "rank": 1888,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834498",
@@ -436,9 +562,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1686,
+      "rank": 1890,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16880501",
@@ -457,9 +583,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1694,
+      "rank": 1898,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864756",
@@ -478,9 +604,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1704,
+      "rank": 1918,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941214",
@@ -499,9 +625,30 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1718,
+      "rank": 1931,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953109",
+      "playerId": "206301",
+      "status": "pre_game",
+      "player": "Jordan Love",
+      "stat": "Sacks Taken",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/15/26 12:00 PM CST",
+      "startTimeCST": "11/15/26 12:00 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Green Bay Packers",
+      "teamCode": "GB",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 1951,
+      "gameId": "196141",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16885711",
@@ -520,9 +667,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1739,
+      "rank": 1962,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864054",
@@ -541,9 +688,9 @@
       "teamCode": "GB",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 1770,
+      "rank": 1997,
       "gameId": "196141",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     }
   ]
 }

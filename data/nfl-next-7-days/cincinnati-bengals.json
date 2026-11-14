@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-13T12:07:05.013Z",
-  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-14T12:05:58.296Z",
+  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 841,
-    "sourceCount": 6083,
-    "acceptedCount": 841,
-    "excludedCount": 5242,
+    "count": 978,
+    "sourceCount": 7032,
+    "acceptedCount": 978,
+    "excludedCount": 6054,
     "rejectedCount": 0,
-    "publishedCount": 841,
-    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
+    "publishedCount": 978,
+    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cincinnati Bengals",
-  "totalProps": 44,
+  "totalProps": 46,
   "props": [
     {
       "projectionId": "16862020",
@@ -37,9 +37,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5033,
+      "rank": 5902,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834517",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Pass Yards",
-      "line": "288.5",
+      "line": "289.5",
       "sport": "NFL",
       "startTime": "11/15/26 07:20 PM CST",
       "startTimeCST": "11/15/26 07:20 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5047,
+      "rank": 5915,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953093",
+      "playerId": "210964",
+      "status": "pre_game",
+      "player": "Joe Burrow",
+      "stat": "Passer Rating",
+      "line": "101.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 07:20 PM CST",
+      "startTimeCST": "11/15/26 07:20 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 5954,
+      "gameId": "196503",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834822",
@@ -79,9 +100,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5093,
+      "rank": 5962,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834823",
@@ -100,9 +121,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5111,
+      "rank": 5977,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16861404",
@@ -121,9 +142,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5114,
+      "rank": 5982,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834648",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Chase Brown",
       "stat": "Rush Yards",
-      "line": "45.5",
+      "line": "46.5",
       "sport": "NFL",
       "startTime": "11/15/26 07:20 PM CST",
       "startTimeCST": "11/15/26 07:20 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5161,
+      "rank": 6033,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850192",
@@ -163,9 +184,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5190,
+      "rank": 6062,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850020",
@@ -184,9 +205,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5193,
+      "rank": 6065,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850070",
@@ -205,9 +226,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5233,
+      "rank": 6104,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850185",
@@ -226,9 +247,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5234,
+      "rank": 6105,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850221",
@@ -247,9 +268,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5238,
+      "rank": 6110,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834824",
@@ -268,9 +289,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5242,
+      "rank": 6113,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850111",
@@ -278,7 +299,7 @@
       "status": "pre_game",
       "player": "Mike Gesicki",
       "stat": "Receiving Yards",
-      "line": "23.5",
+      "line": "24.5",
       "sport": "NFL",
       "startTime": "11/15/26 07:20 PM CST",
       "startTimeCST": "11/15/26 07:20 PM CST",
@@ -289,9 +310,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5259,
+      "rank": 6115,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16862042",
@@ -310,9 +331,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5270,
+      "rank": 6140,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850127",
@@ -331,9 +352,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5287,
+      "rank": 6159,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850147",
@@ -341,7 +362,7 @@
       "status": "pre_game",
       "player": "Samaje Perine",
       "stat": "Rush Yards",
-      "line": "19.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "11/15/26 07:20 PM CST",
       "startTimeCST": "11/15/26 07:20 PM CST",
@@ -352,9 +373,30 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5292,
+      "rank": 6178,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16850172",
+      "playerId": "212331",
+      "status": "pre_game",
+      "player": "Mike Gesicki",
+      "stat": "Longest Reception",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 07:20 PM CST",
+      "startTimeCST": "11/15/26 07:20 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 6192,
+      "gameId": "196503",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850069",
@@ -373,16 +415,16 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5342,
+      "rank": 6217,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16850172",
-      "playerId": "212331",
+      "projectionId": "16974833",
+      "playerId": "152593",
       "status": "pre_game",
-      "player": "Mike Gesicki",
-      "stat": "Longest Reception",
+      "player": "Tee Higgins",
+      "stat": "Yards on First Reception",
       "line": "12.5",
       "sport": "NFL",
       "startTime": "11/15/26 07:20 PM CST",
@@ -394,9 +436,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5347,
+      "rank": 6228,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850184",
@@ -415,9 +457,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5355,
+      "rank": 6230,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863714",
@@ -436,30 +478,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5360,
+      "rank": 6235,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16850164",
-      "playerId": "211234",
-      "status": "pre_game",
-      "player": "Chase Brown",
-      "stat": "Longest Reception",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 07:20 PM CST",
-      "startTimeCST": "11/15/26 07:20 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 5362,
-      "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850196",
@@ -478,17 +499,17 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5363,
+      "rank": 6237,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16858724",
-      "playerId": "249686",
+      "projectionId": "16974831",
+      "playerId": "150731",
       "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Longest Rush",
-      "line": "8.5",
+      "player": "Ja'Marr Chase",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "11/15/26 07:20 PM CST",
       "startTimeCST": "11/15/26 07:20 PM CST",
@@ -499,9 +520,30 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5405,
+      "rank": 6242,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16850164",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 07:20 PM CST",
+      "startTimeCST": "11/15/26 07:20 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 6249,
+      "gameId": "196503",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863716",
@@ -520,9 +562,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5407,
+      "rank": 6291,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16870385",
@@ -541,9 +583,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5409,
+      "rank": 6293,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16834504",
@@ -562,9 +604,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5411,
+      "rank": 6296,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850056",
@@ -583,9 +625,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5414,
+      "rank": 6299,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16861408",
@@ -604,9 +646,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5416,
+      "rank": 6301,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864094",
@@ -625,30 +667,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5420,
+      "rank": 6305,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16850055",
-      "playerId": "214063",
-      "status": "pre_game",
-      "player": "Drew Sample",
-      "stat": "Receiving Yards",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 07:20 PM CST",
-      "startTimeCST": "11/15/26 07:20 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 5427,
-      "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850074",
@@ -667,17 +688,17 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5428,
+      "rank": 6312,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16850105",
-      "playerId": "249686",
+      "projectionId": "16850055",
+      "playerId": "214063",
       "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Longest Reception",
-      "line": "6.5",
+      "player": "Drew Sample",
+      "stat": "Receiving Yards",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "11/15/26 07:20 PM CST",
       "startTimeCST": "11/15/26 07:20 PM CST",
@@ -688,9 +709,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5429,
+      "rank": 6329,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850134",
@@ -709,9 +730,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5447,
+      "rank": 6331,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16861415",
@@ -730,9 +751,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5449,
+      "rank": 6333,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863713",
@@ -751,9 +772,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5455,
+      "rank": 6339,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16850036",
@@ -772,9 +793,51 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5463,
+      "rank": 6347,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16850105",
+      "playerId": "249686",
+      "status": "pre_game",
+      "player": "Samaje Perine",
+      "stat": "Longest Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 07:20 PM CST",
+      "startTimeCST": "11/15/26 07:20 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 6349,
+      "gameId": "196503",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16974832",
+      "playerId": "211234",
+      "status": "pre_game",
+      "player": "Chase Brown",
+      "stat": "Yards on First Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 07:20 PM CST",
+      "startTimeCST": "11/15/26 07:20 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 6368,
+      "gameId": "196503",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16862041",
@@ -793,9 +856,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5476,
+      "rank": 6370,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863712",
@@ -814,9 +877,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5493,
+      "rank": 6387,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863715",
@@ -835,30 +898,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5494,
+      "rank": 6388,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
-    },
-    {
-      "projectionId": "16862487",
-      "playerId": "210964",
-      "status": "pre_game",
-      "player": "Joe Burrow",
-      "stat": "Rush Attempts",
-      "line": "2.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 07:20 PM CST",
-      "startTimeCST": "11/15/26 07:20 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 5520,
-      "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16941238",
@@ -877,9 +919,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5551,
+      "rank": 6452,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16828060",
@@ -898,9 +940,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5575,
+      "rank": 6490,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16849943",
@@ -919,9 +961,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5578,
+      "rank": 6493,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864061",
@@ -940,9 +982,9 @@
       "teamCode": "CIN",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 5586,
+      "rank": 6500,
       "gameId": "196503",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     }
   ]
 }

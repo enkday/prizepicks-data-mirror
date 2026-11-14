@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-13T12:07:05.013Z",
-  "scrapedDate": "Friday, November 13, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-14T12:05:58.296Z",
+  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 841,
-    "sourceCount": 6083,
-    "acceptedCount": 841,
-    "excludedCount": 5242,
+    "count": 978,
+    "sourceCount": 7032,
+    "acceptedCount": 978,
+    "excludedCount": 6054,
     "rejectedCount": 0,
-    "publishedCount": 841,
-    "providerFetchedAt": "2026-11-13T12:05:03.425Z",
+    "publishedCount": 978,
+    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New England Patriots",
-  "totalProps": 16,
+  "totalProps": 25,
   "props": [
     {
       "projectionId": "16824373",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Drake Maye",
       "stat": "Pass Yards",
-      "line": "262.5",
+      "line": "260.5",
       "sport": "NFL",
       "startTime": "11/15/26 08:30 AM CST",
       "startTimeCST": "11/15/26 08:30 AM CST",
@@ -39,15 +39,15 @@
       "opponentCode": "DET",
       "rank": 22,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16824828",
+      "projectionId": "16953072",
       "playerId": "215664",
       "status": "pre_game",
       "player": "Drake Maye",
-      "stat": "Completion Percentage",
-      "line": "62.3",
+      "stat": "Passer Rating",
+      "line": "94.5",
       "sport": "NFL",
       "startTime": "11/15/26 08:30 AM CST",
       "startTimeCST": "11/15/26 08:30 AM CST",
@@ -58,9 +58,51 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 72,
+      "rank": 58,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16824828",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Completion Percentage",
+      "line": "64.2",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 75,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16960675",
+      "playerId": "322622",
+      "status": "pre_game",
+      "player": "A.J. Brown",
+      "stat": "Receiving Yards",
+      "line": "51.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 84,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16832206",
@@ -79,9 +121,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 109,
+      "rank": 118,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16832149",
@@ -100,9 +142,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 115,
+      "rank": 124,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16824826",
@@ -121,9 +163,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 117,
+      "rank": 131,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16824657",
@@ -131,7 +173,7 @@
       "status": "pre_game",
       "player": "Drake Maye",
       "stat": "Rush Yards",
-      "line": "26.5",
+      "line": "27.5",
       "sport": "NFL",
       "startTime": "11/15/26 08:30 AM CST",
       "startTimeCST": "11/15/26 08:30 AM CST",
@@ -142,9 +184,30 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 143,
+      "rank": 158,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16832114",
+      "playerId": "336245",
+      "status": "pre_game",
+      "player": "Eli Raridon",
+      "stat": "Receiving Yards",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 160,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16833108",
@@ -163,17 +226,17 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 162,
+      "rank": 181,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
-      "projectionId": "16832174",
-      "playerId": "210966",
+      "projectionId": "16964194",
+      "playerId": "322622",
       "status": "pre_game",
-      "player": "Hunter Henry",
+      "player": "A.J. Brown",
       "stat": "Longest Reception",
-      "line": "17.5",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/15/26 08:30 AM CST",
       "startTimeCST": "11/15/26 08:30 AM CST",
@@ -184,9 +247,72 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 189,
+      "rank": 185,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16859670",
+      "playerId": "339720",
+      "status": "pre_game",
+      "player": "Corey Kiner",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 206,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16832174",
+      "playerId": "210966",
+      "status": "pre_game",
+      "player": "Hunter Henry",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 212,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16832215",
+      "playerId": "336245",
+      "status": "pre_game",
+      "player": "Eli Raridon",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 236,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16832109",
@@ -205,9 +331,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 207,
+      "rank": 238,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16859672",
@@ -226,9 +352,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 213,
+      "rank": 245,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863751",
@@ -247,9 +373,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 224,
+      "rank": 259,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16863750",
@@ -268,9 +394,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 237,
+      "rank": 286,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16824825",
@@ -289,9 +415,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 245,
+      "rank": 297,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16864091",
@@ -310,9 +436,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 259,
+      "rank": 316,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16942028",
@@ -331,9 +457,9 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 263,
+      "rank": 327,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     },
     {
       "projectionId": "16824856",
@@ -352,9 +478,72 @@
       "teamCode": "NE",
       "Opponent": "Detroit Lions",
       "opponentCode": "DET",
-      "rank": 268,
+      "rank": 331,
       "gameId": "196137",
-      "providerFetchedAt": "2026-11-13T12:05:03.425Z"
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16859671",
+      "playerId": "339720",
+      "status": "pre_game",
+      "player": "Corey Kiner",
+      "stat": "Rush Yards Per Carry",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 357,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16953098",
+      "playerId": "215664",
+      "status": "pre_game",
+      "player": "Drake Maye",
+      "stat": "Sacks Taken",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 379,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+    },
+    {
+      "projectionId": "16870139",
+      "playerId": "260902",
+      "status": "pre_game",
+      "player": "Andy Borregales",
+      "stat": "FG Made",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 08:30 AM CST",
+      "startTimeCST": "11/15/26 08:30 AM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T09:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New England Patriots",
+      "teamCode": "NE",
+      "Opponent": "Detroit Lions",
+      "opponentCode": "DET",
+      "rank": 415,
+      "gameId": "196137",
+      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
     }
   ]
 }
