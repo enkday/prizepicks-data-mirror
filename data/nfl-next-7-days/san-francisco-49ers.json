@@ -1,32 +1,32 @@
 {
-  "scrapedAt": "2026-11-14T12:05:58.296Z",
-  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
+  "scrapedAt": "2026-11-15T12:05:56.178Z",
+  "scrapedDate": "Sunday, November 15, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 978,
-    "sourceCount": 7032,
-    "acceptedCount": 978,
-    "excludedCount": 6054,
+    "count": 1142,
+    "sourceCount": 8294,
+    "acceptedCount": 1142,
+    "excludedCount": 7152,
     "rejectedCount": 0,
-    "publishedCount": 978,
-    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
+    "publishedCount": 1142,
+    "providerFetchedAt": "2026-11-15T12:04:46.060Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 41,
+  "totalProps": 45,
   "props": [
     {
-      "projectionId": "16834515",
+      "projectionId": "16986478",
       "playerId": "206314",
       "status": "pre_game",
       "player": "Brock Purdy",
-      "stat": "Pass Yards",
-      "line": "260.5",
+      "stat": "Pass TDs",
+      "line": "2",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5362,
+      "rank": 6359,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16834515",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Pass Yards",
+      "line": "261.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6381,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16953092",
@@ -58,9 +79,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5390,
+      "rank": 6412,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16871906",
@@ -79,9 +100,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5424,
+      "rank": 6443,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16834646",
@@ -100,9 +121,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5429,
+      "rank": 6449,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852587",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "George Kittle",
       "stat": "Receiving Yards",
-      "line": "62.5",
+      "line": "61.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5430,
+      "rank": 6451,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852526",
@@ -142,9 +163,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5491,
+      "rank": 6515,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16865291",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Deebo Samuel Sr.",
       "stat": "Receiving Yards",
-      "line": "35.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5498,
+      "rank": 6519,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852488",
@@ -184,9 +205,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5501,
+      "rank": 6524,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16834820",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Christian McCaffrey",
       "stat": "Receiving Yards",
-      "line": "33.5",
+      "line": "32.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5505,
+      "rank": 6529,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852421",
@@ -226,9 +247,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5510,
+      "rank": 6531,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16922057",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Demarcus Robinson",
       "stat": "Receiving Yards",
-      "line": "28.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -247,30 +268,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5539,
+      "rank": 6534,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16968657",
-      "playerId": "250313",
-      "status": "pre_game",
-      "player": "Jordan Watkins",
-      "stat": "Receiving Yards",
-      "line": "24.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:25 PM CST",
-      "startTimeCST": "11/15/26 03:25 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5560,
-      "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16880152",
@@ -289,9 +289,30 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5564,
+      "rank": 6587,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16968657",
+      "playerId": "250313",
+      "status": "pre_game",
+      "player": "Jordan Watkins",
+      "stat": "Receiving Yards",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6589,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852429",
@@ -310,9 +331,30 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5566,
+      "rank": 6591,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16962614",
+      "playerId": "363538",
+      "status": "pre_game",
+      "player": "Keenan Allen",
+      "stat": "Receiving Yards",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6593,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16865908",
@@ -331,9 +373,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5570,
+      "rank": 6595,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16834502",
@@ -352,16 +394,16 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5576,
+      "rank": 6601,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16962614",
-      "playerId": "363538",
+      "projectionId": "16968903",
+      "playerId": "250313",
       "status": "pre_game",
-      "player": "Keenan Allen",
-      "stat": "Receiving Yards",
+      "player": "Jordan Watkins",
+      "stat": "Longest Reception",
       "line": "19.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
@@ -373,15 +415,15 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5603,
+      "rank": 6632,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16905481",
-      "playerId": "211085",
+      "projectionId": "16922153",
+      "playerId": "246594",
       "status": "pre_game",
-      "player": "Deebo Samuel Sr.",
+      "player": "Demarcus Robinson",
       "stat": "Longest Reception",
       "line": "18.5",
       "sport": "NFL",
@@ -394,15 +436,15 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5614,
+      "rank": 6643,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16922153",
-      "playerId": "246594",
+      "projectionId": "16905481",
+      "playerId": "211085",
       "status": "pre_game",
-      "player": "Demarcus Robinson",
+      "player": "Deebo Samuel Sr.",
       "stat": "Longest Reception",
       "line": "17.5",
       "sport": "NFL",
@@ -415,30 +457,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5618,
+      "rank": 6645,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16968903",
-      "playerId": "250313",
-      "status": "pre_game",
-      "player": "Jordan Watkins",
-      "stat": "Longest Reception",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:25 PM CST",
-      "startTimeCST": "11/15/26 03:25 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5619,
-      "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852420",
@@ -457,30 +478,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5628,
+      "rank": 6656,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16852435",
-      "playerId": "206315",
-      "status": "pre_game",
-      "player": "Christian McCaffrey",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:25 PM CST",
-      "startTimeCST": "11/15/26 03:25 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5629,
-      "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852574",
@@ -488,7 +488,7 @@
       "status": "pre_game",
       "player": "Christian McCaffrey",
       "stat": "Rush Attempts",
-      "line": "14.5",
+      "line": "14",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -499,9 +499,51 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5630,
+      "rank": 6678,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16962613",
+      "playerId": "363538",
+      "status": "pre_game",
+      "player": "Keenan Allen",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6685,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16852435",
+      "playerId": "206315",
+      "status": "pre_game",
+      "player": "Christian McCaffrey",
+      "stat": "Longest Reception",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6688,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852415",
@@ -520,9 +562,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5661,
+      "rank": 6697,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16852455",
@@ -541,30 +583,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5662,
+      "rank": 6698,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16962613",
-      "playerId": "363538",
-      "status": "pre_game",
-      "player": "Keenan Allen",
-      "stat": "Longest Reception",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:25 PM CST",
-      "startTimeCST": "11/15/26 03:25 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5666,
-      "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16974829",
@@ -583,9 +604,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5710,
+      "rank": 6748,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16903611",
@@ -593,7 +614,7 @@
       "status": "pre_game",
       "player": "Kaelon Black",
       "stat": "Rush Attempts",
-      "line": "8",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
       "startTimeCST": "11/15/26 03:25 PM CST",
@@ -604,9 +625,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5713,
+      "rank": 6755,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16968917",
@@ -625,9 +646,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5714,
+      "rank": 6761,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16905467",
@@ -646,9 +667,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5719,
+      "rank": 6766,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16905473",
@@ -667,9 +688,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5720,
+      "rank": 6767,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942048",
@@ -688,9 +709,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5725,
+      "rank": 6776,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16906551",
@@ -709,9 +730,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5730,
+      "rank": 6782,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942046",
@@ -730,9 +751,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5745,
+      "rank": 6807,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16974828",
@@ -751,9 +772,30 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5750,
+      "rank": 6811,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16853135",
+      "playerId": "211086",
+      "status": "pre_game",
+      "player": "George Kittle",
+      "stat": "Receptions",
+      "line": "5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6820,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942047",
@@ -772,9 +814,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5751,
+      "rank": 6821,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16880151",
@@ -793,9 +835,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5752,
+      "rank": 6824,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942049",
@@ -814,16 +856,79 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5789,
+      "rank": 6861,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16968656",
+      "projectionId": "16986301",
+      "playerId": "363538",
+      "status": "pre_game",
+      "player": "Keenan Allen",
+      "stat": "Rec Targets",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6874,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16986299",
       "playerId": "250313",
       "status": "pre_game",
       "player": "Jordan Watkins",
-      "stat": "Receptions",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6902,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16990925",
+      "playerId": "340081",
+      "status": "pre_game",
+      "player": "Corliss Waitman",
+      "stat": "Punts",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:25 PM CST",
+      "startTimeCST": "11/15/26 03:25 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Dallas Cowboys",
+      "opponentCode": "DAL",
+      "rank": 6903,
+      "gameId": "196147",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16986300",
+      "playerId": "162701",
+      "status": "pre_game",
+      "player": "Kyle Juszczyk",
+      "stat": "Rec Targets",
       "line": "1.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:25 PM CST",
@@ -835,9 +940,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5847,
+      "rank": 6940,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16864060",
@@ -856,30 +961,9 @@
       "teamCode": "SF",
       "Opponent": "Dallas Cowboys",
       "opponentCode": "DAL",
-      "rank": 5880,
+      "rank": 6974,
       "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16905469",
-      "playerId": "336246",
-      "status": "pre_game",
-      "player": "Kaelon Black",
-      "stat": "Receptions",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:25 PM CST",
-      "startTimeCST": "11/15/26 03:25 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Dallas Cowboys",
-      "opponentCode": "DAL",
-      "rank": 5884,
-      "gameId": "196147",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     }
   ]
 }

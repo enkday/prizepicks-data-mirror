@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-14T12:05:58.296Z",
-  "scrapedDate": "Saturday, November 14, 2026 at 06:05 AM CST",
+  "scrapedAt": "2026-11-15T12:05:56.178Z",
+  "scrapedDate": "Sunday, November 15, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 978,
-    "sourceCount": 7032,
-    "acceptedCount": 978,
-    "excludedCount": 6054,
+    "count": 1142,
+    "sourceCount": 8294,
+    "acceptedCount": 1142,
+    "excludedCount": 7152,
     "rejectedCount": 0,
-    "publishedCount": 978,
-    "providerFetchedAt": "2026-11-14T12:04:49.178Z",
+    "publishedCount": 1142,
+    "providerFetchedAt": "2026-11-15T12:04:46.060Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Rams",
-  "totalProps": 44,
+  "totalProps": 46,
   "props": [
     {
       "projectionId": "16845700",
@@ -37,9 +37,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4741,
+      "rank": 5714,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16953090",
@@ -58,30 +58,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4782,
+      "rank": 5757,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16911425",
-      "playerId": "250314",
-      "status": "pre_game",
-      "player": "Matthew Stafford",
-      "stat": "Completion Percentage",
-      "line": "67.2",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 4805,
-      "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16867702",
@@ -100,17 +79,17 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4809,
+      "rank": 5782,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16867698",
-      "playerId": "246579",
+      "projectionId": "16911425",
+      "playerId": "250314",
       "status": "pre_game",
-      "player": "Blake Corum",
-      "stat": "Rush Yards",
-      "line": "59.5",
+      "player": "Matthew Stafford",
+      "stat": "Completion Percentage",
+      "line": "63.9",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -121,9 +100,51 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4815,
+      "rank": 5783,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16867698",
+      "playerId": "246579",
+      "status": "pre_game",
+      "player": "Blake Corum",
+      "stat": "Rush Yards",
+      "line": "57.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 5796,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16916000",
+      "playerId": "246591",
+      "status": "pre_game",
+      "player": "Tyler Higbee",
+      "stat": "Receiving Yards",
+      "line": "36.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 5847,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16845741",
@@ -142,17 +163,17 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4874,
+      "rank": 5850,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16916000",
-      "playerId": "246591",
+      "projectionId": "16915998",
+      "playerId": "246581",
       "status": "pre_game",
-      "player": "Tyler Higbee",
+      "player": "Colby Parkinson",
       "stat": "Receiving Yards",
-      "line": "35.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4876,
+      "rank": 5858,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16845604",
@@ -184,30 +205,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4884,
+      "rank": 5859,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16915998",
-      "playerId": "246581",
-      "status": "pre_game",
-      "player": "Colby Parkinson",
-      "stat": "Receiving Yards",
-      "line": "30.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 4885,
-      "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16916001",
@@ -226,9 +226,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4902,
+      "rank": 5876,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16916002",
@@ -247,9 +247,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4903,
+      "rank": 5877,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16911694",
@@ -268,9 +268,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4935,
+      "rank": 5907,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16911696",
@@ -278,7 +278,7 @@
       "status": "pre_game",
       "player": "Kyren Williams",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "22.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -289,9 +289,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4937,
+      "rank": 5911,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16867682",
@@ -310,30 +310,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4957,
+      "rank": 5930,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16921291",
-      "playerId": "246590",
-      "status": "pre_game",
-      "player": "Tutu Atwell",
-      "stat": "Longest Reception",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 4987,
-      "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16921298",
@@ -352,9 +331,30 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4988,
+      "rank": 5957,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16921291",
+      "playerId": "246590",
+      "status": "pre_game",
+      "player": "Tutu Atwell",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 5962,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16921293",
@@ -373,9 +373,30 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 4994,
+      "rank": 5964,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16921292",
+      "playerId": "246581",
+      "status": "pre_game",
+      "player": "Colby Parkinson",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 5972,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16869866",
@@ -394,51 +415,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5000,
+      "rank": 5974,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16867663",
-      "playerId": "246579",
-      "status": "pre_game",
-      "player": "Blake Corum",
-      "stat": "Longest Rush",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5003,
-      "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16921292",
-      "playerId": "246581",
-      "status": "pre_game",
-      "player": "Colby Parkinson",
-      "stat": "Longest Reception",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5019,
-      "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16870030",
@@ -457,16 +436,16 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5031,
+      "rank": 6005,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16924000",
-      "playerId": "262280",
+      "projectionId": "16996488",
+      "playerId": "246579",
       "status": "pre_game",
-      "player": "Davis Allen",
-      "stat": "Receiving Yards",
+      "player": "Blake Corum",
+      "stat": "Longest Rush",
       "line": "13.5",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
@@ -478,9 +457,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5036,
+      "rank": 6011,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16962692",
@@ -499,9 +478,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5045,
+      "rank": 6015,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16867683",
@@ -520,15 +499,57 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5046,
+      "rank": 6017,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
-      "projectionId": "16867675",
+      "projectionId": "16870031",
       "playerId": "246551",
       "status": "pre_game",
       "player": "Kyren Williams",
+      "stat": "Longest Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6025,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16924000",
+      "playerId": "262280",
+      "status": "pre_game",
+      "player": "Davis Allen",
+      "stat": "Receiving Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6029,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16964528",
+      "playerId": "346113",
+      "status": "pre_game",
+      "player": "CJ Daniels",
       "stat": "Longest Reception",
       "line": "10.5",
       "sport": "NFL",
@@ -541,9 +562,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5061,
+      "rank": 6039,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16924034",
@@ -562,30 +583,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5096,
+      "rank": 6071,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16964528",
-      "playerId": "346113",
-      "status": "pre_game",
-      "player": "CJ Daniels",
-      "stat": "Longest Reception",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5106,
-      "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16867685",
@@ -604,9 +604,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5133,
+      "rank": 6115,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16867696",
@@ -625,9 +625,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5134,
+      "rank": 6116,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942020",
@@ -646,9 +646,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5162,
+      "rank": 6147,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16911695",
@@ -667,9 +667,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5165,
+      "rank": 6159,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942015",
@@ -688,9 +688,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5176,
+      "rank": 6168,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942016",
@@ -709,9 +709,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5177,
+      "rank": 6169,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16974826",
@@ -730,9 +730,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5194,
+      "rank": 6185,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16911693",
@@ -740,7 +740,7 @@
       "status": "pre_game",
       "player": "Kyren Williams",
       "stat": "Rush Yards Per Carry",
-      "line": "4.4",
+      "line": "4.2",
       "sport": "NFL",
       "startTime": "11/15/26 03:05 PM CST",
       "startTimeCST": "11/15/26 03:05 PM CST",
@@ -751,9 +751,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5196,
+      "rank": 6190,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942017",
@@ -772,9 +772,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5200,
+      "rank": 6193,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942018",
@@ -793,9 +793,30 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5201,
+      "rank": 6194,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16990923",
+      "playerId": "260652",
+      "status": "pre_game",
+      "player": "Ethan Evans",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6195,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16917581",
@@ -814,9 +835,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5214,
+      "rank": 6208,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16923900",
@@ -835,9 +856,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5217,
+      "rank": 6211,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942019",
@@ -856,9 +877,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5243,
+      "rank": 6249,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16953114",
@@ -877,9 +898,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5250,
+      "rank": 6257,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16942014",
@@ -898,9 +919,51 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5275,
+      "rank": 6280,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16985758",
+      "playerId": "262280",
+      "status": "pre_game",
+      "player": "Davis Allen",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6291,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+    },
+    {
+      "projectionId": "16990936",
+      "playerId": "260652",
+      "status": "pre_game",
+      "player": "Ethan Evans",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/15/26 03:05 PM CST",
+      "startTimeCST": "11/15/26 03:05 PM CST",
+      "startDateCST": "2026-11-15",
+      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 6294,
+      "gameId": "196145",
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     },
     {
       "projectionId": "16845695",
@@ -919,30 +982,9 @@
       "teamCode": "LA",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 5306,
+      "rank": 6323,
       "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
-    },
-    {
-      "projectionId": "16968863",
-      "playerId": "339905",
-      "status": "pre_game",
-      "player": "Myles Garrett",
-      "stat": "Sacks",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/15/26 03:05 PM CST",
-      "startTimeCST": "11/15/26 03:05 PM CST",
-      "startDateCST": "2026-11-15",
-      "startTimeIso": "2026-11-15T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Rams",
-      "teamCode": "LA",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 5327,
-      "gameId": "196145",
-      "providerFetchedAt": "2026-11-14T12:04:49.178Z"
+      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
     }
   ]
 }
