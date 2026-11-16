@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-15T12:05:56.178Z",
-  "scrapedDate": "Sunday, November 15, 2026 at 06:05 AM CST",
+  "scrapedAt": "2026-11-16T12:09:06.446Z",
+  "scrapedDate": "Monday, November 16, 2026 at 06:09 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1142,
-    "sourceCount": 8294,
-    "acceptedCount": 1142,
-    "excludedCount": 7152,
+    "count": 118,
+    "sourceCount": 1150,
+    "acceptedCount": 118,
+    "excludedCount": 1032,
     "rejectedCount": 0,
-    "publishedCount": 1142,
-    "providerFetchedAt": "2026-11-15T12:04:46.060Z",
+    "publishedCount": 118,
+    "providerFetchedAt": "2026-11-16T12:07:11.303Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 38,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "16986480",
@@ -37,9 +37,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7705,
+      "rank": 1,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16834519",
@@ -58,9 +58,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7727,
+      "rank": 23,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16953096",
@@ -79,9 +79,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7767,
+      "rank": 64,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16908152",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Completion Percentage",
-      "line": "63.9",
+      "line": "63.3",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -100,17 +100,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7785,
+      "rank": 84,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
-      "projectionId": "16995440",
-      "playerId": "211424",
+      "projectionId": "17025823",
+      "playerId": "244040",
       "status": "pre_game",
-      "player": "Ladd McConkey",
+      "player": "Tre' Harris",
       "stat": "Receiving Yards",
-      "line": "35.5",
+      "line": "36.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7833,
+      "rank": 142,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16834651",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Omarion Hampton",
       "stat": "Rush Yards",
-      "line": "32.5",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7837,
+      "rank": 145,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16902355",
@@ -152,6 +152,27 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Longest Completion",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 146,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "17025821",
+      "playerId": "169519",
+      "status": "pre_game",
+      "player": "Quentin Johnston",
+      "stat": "Receiving Yards",
       "line": "32.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7838,
+      "rank": 149,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16902360",
@@ -184,9 +205,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7845,
+      "rank": 154,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16834506",
@@ -205,9 +226,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7899,
+      "rank": 211,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "16900031",
+      "playerId": "216816",
+      "status": "pre_game",
+      "player": "Kimani Vidal",
+      "stat": "Rush Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 214,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16907354",
@@ -226,16 +268,16 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7933,
+      "rank": 246,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
-      "projectionId": "16900031",
-      "playerId": "216816",
+      "projectionId": "16995439",
+      "playerId": "244039",
       "status": "pre_game",
-      "player": "Kimani Vidal",
-      "stat": "Rush Yards",
+      "player": "Oronde Gadsden II",
+      "stat": "Receiving Yards",
       "line": "18.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
@@ -247,17 +289,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7943,
+      "rank": 259,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
-      "projectionId": "16995424",
-      "playerId": "211424",
+      "projectionId": "17025798",
+      "playerId": "244040",
       "status": "pre_game",
-      "player": "Ladd McConkey",
+      "player": "Tre' Harris",
       "stat": "Longest Reception",
-      "line": "17.5",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -268,17 +310,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7951,
+      "rank": 261,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
-      "projectionId": "16995439",
-      "playerId": "244039",
+      "projectionId": "17025813",
+      "playerId": "169519",
       "status": "pre_game",
-      "player": "Oronde Gadsden II",
-      "stat": "Receiving Yards",
-      "line": "17.5",
+      "player": "Quentin Johnston",
+      "stat": "Longest Reception",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -289,9 +331,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7952,
+      "rank": 262,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16909083",
@@ -299,7 +341,7 @@
       "status": "pre_game",
       "player": "Omarion Hampton",
       "stat": "Rush Yards in First 5 Attempts",
-      "line": "15.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -310,17 +352,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7958,
+      "rank": 270,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
-      "projectionId": "16995437",
-      "playerId": "336276",
+      "projectionId": "17026947",
+      "playerId": "247648",
       "status": "pre_game",
-      "player": "Charlie Kolar",
+      "player": "KeAndre Lambert-Smith",
       "stat": "Receiving Yards",
-      "line": "13.5",
+      "line": "12.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -331,9 +373,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7987,
+      "rank": 311,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "16900021",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Rush Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 314,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16902362",
@@ -352,9 +415,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7996,
+      "rank": 316,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16995433",
@@ -373,9 +436,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 7999,
+      "rank": 318,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16899991",
@@ -394,30 +457,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8002,
+      "rank": 324,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
-    },
-    {
-      "projectionId": "16900021",
-      "playerId": "336552",
-      "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Rush Yards",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 8003,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16902411",
@@ -436,9 +478,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8004,
+      "rank": 325,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16902429",
@@ -457,38 +499,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8005,
+      "rank": 326,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
-      "projectionId": "16974836",
-      "playerId": "211424",
+      "projectionId": "17026948",
+      "playerId": "247648",
       "status": "pre_game",
-      "player": "Ladd McConkey",
-      "stat": "Yards on First Reception",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 8045,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
-    },
-    {
-      "projectionId": "16995434",
-      "playerId": "336276",
-      "status": "pre_game",
-      "player": "Charlie Kolar",
+      "player": "KeAndre Lambert-Smith",
       "stat": "Longest Reception",
-      "line": "9.5",
+      "line": "10.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -499,9 +520,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8048,
+      "rank": 330,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16900009",
@@ -520,17 +541,17 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8054,
+      "rank": 375,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
-      "projectionId": "16902424",
+      "projectionId": "16907356",
       "playerId": "216816",
       "status": "pre_game",
       "player": "Kimani Vidal",
       "stat": "Longest Rush",
-      "line": "7.5",
+      "line": "8.5",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -541,30 +562,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8069,
+      "rank": 377,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
-    },
-    {
-      "projectionId": "16902462",
-      "playerId": "336552",
-      "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Longest Reception",
-      "line": "7.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 8071,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16902464",
@@ -583,9 +583,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8072,
+      "rank": 392,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "17025961",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 401,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16903253",
@@ -604,9 +625,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8079,
+      "rank": 404,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "16902434",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 410,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16969636",
@@ -625,9 +667,51 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8087,
+      "rank": 413,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "16899973",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Receiving Yards",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 433,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "17033308",
+      "playerId": "244040",
+      "status": "pre_game",
+      "player": "Tre' Harris",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 456,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16990965",
@@ -646,30 +730,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8119,
+      "rank": 457,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
-    },
-    {
-      "projectionId": "16899973",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Receiving Yards",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "11/16/26 07:15 PM CST",
-      "startTimeCST": "11/16/26 07:15 PM CST",
-      "startDateCST": "2026-11-16",
-      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "Baltimore Ravens",
-      "opponentCode": "BAL",
-      "rank": 8122,
-      "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16902460",
@@ -688,9 +751,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8136,
+      "rank": 477,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "17033307",
+      "playerId": "169519",
+      "status": "pre_game",
+      "player": "Quentin Johnston",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 495,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16953120",
@@ -709,9 +793,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8170,
+      "rank": 521,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16909076",
@@ -719,7 +803,7 @@
       "status": "pre_game",
       "player": "Omarion Hampton",
       "stat": "Rush Yards Per Carry",
-      "line": "3.2",
+      "line": "3.3",
       "sport": "NFL",
       "startTime": "11/16/26 07:15 PM CST",
       "startTimeCST": "11/16/26 07:15 PM CST",
@@ -730,9 +814,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8182,
+      "rank": 537,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16942012",
@@ -751,9 +835,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8186,
+      "rank": 541,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "17036390",
+      "playerId": "169519",
+      "status": "pre_game",
+      "player": "Quentin Johnston",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 568,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16942013",
@@ -772,9 +877,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8212,
+      "rank": 571,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16986447",
@@ -793,9 +898,9 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8216,
+      "rank": 575,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     },
     {
       "projectionId": "16928855",
@@ -814,9 +919,30 @@
       "teamCode": "LAC",
       "Opponent": "Baltimore Ravens",
       "opponentCode": "BAL",
-      "rank": 8233,
+      "rank": 592,
       "gameId": "196770",
-      "providerFetchedAt": "2026-11-15T12:04:46.060Z"
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
+    },
+    {
+      "projectionId": "17029214",
+      "playerId": "258728",
+      "status": "pre_game",
+      "player": "Tuli Tuipulotu",
+      "stat": "Sacks",
+      "line": "0.25",
+      "sport": "NFL",
+      "startTime": "11/16/26 07:15 PM CST",
+      "startTimeCST": "11/16/26 07:15 PM CST",
+      "startDateCST": "2026-11-16",
+      "startTimeIso": "2026-11-16T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "Baltimore Ravens",
+      "opponentCode": "BAL",
+      "rank": 659,
+      "gameId": "196770",
+      "providerFetchedAt": "2026-11-16T12:07:11.303Z"
     }
   ]
 }
