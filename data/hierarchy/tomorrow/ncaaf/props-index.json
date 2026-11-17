@@ -1,60 +1,48 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "ff2ec192a914913baf7d7d205a1dc1409a392e7c4cffad16a84f9c02540b717d",
-  "sourceScrapedAt": "2026-11-16T12:09:06.446Z",
-  "sourceScrapedDate": "Monday, November 16, 2026 at 06:09 AM CST",
-  "observedDate": "2026-11-17",
+  "sourcePayloadHash": "664681bd9a337340af6a933d67d6c84717e16fa0a6f40eff4a330d5eedd44b6b",
+  "sourceScrapedAt": "2026-11-17T12:07:05.849Z",
+  "sourceScrapedDate": "Tuesday, November 17, 2026 at 06:07 AM CST",
+  "observedDate": "2026-11-18",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 3,
-  "propCount": 26,
+  "gameCount": 2,
+  "propCount": 54,
   "games": [
     {
-      "gameId": "196772",
+      "gameId": "202744",
       "slate": "Late",
-      "startTime": "11/17/26 05:00 PM CST",
-      "startTimeIso": "2026-11-17T17:00:00-06:00",
+      "startTime": "11/18/26 06:00 PM CST",
+      "startTimeIso": "2026-11-18T18:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Eastern Michigan Eagles",
-        "Western Michigan Broncos"
+        "Akron Zips",
+        "UMass Minutemen"
       ],
-      "propCount": 7,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/196772.json"
+      "propCount": 25,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/202744.json"
     },
     {
-      "gameId": "196771",
+      "gameId": "202745",
       "slate": "Late",
-      "startTime": "11/17/26 06:00 PM CST",
-      "startTimeIso": "2026-11-17T18:00:00-06:00",
+      "startTime": "11/18/26 06:30 PM CST",
+      "startTimeIso": "2026-11-18T18:30:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Kent State Golden Flashes",
-        "Miami (OH) RedHawks"
+        "Buffalo Bulls",
+        "Central Michigan Chippewas",
+        "Hampton Pirates"
       ],
-      "propCount": 9,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/196771.json"
-    },
-    {
-      "gameId": "196773",
-      "slate": "Late",
-      "startTime": "11/17/26 06:00 PM CST",
-      "startTimeIso": "2026-11-17T18:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Ball State Cardinals",
-        "Ohio Bobcats"
-      ],
-      "propCount": 10,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/196773.json"
+      "propCount": 29,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/202745.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 26,
+      "propCount": 54,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

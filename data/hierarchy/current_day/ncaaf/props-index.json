@@ -1,0 +1,61 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "664681bd9a337340af6a933d67d6c84717e16fa0a6f40eff4a330d5eedd44b6b",
+  "sourceScrapedAt": "2026-11-17T12:07:05.849Z",
+  "sourceScrapedDate": "Tuesday, November 17, 2026 at 06:07 AM CST",
+  "observedDate": "2026-11-17",
+  "completeness": "reported",
+  "sport": "NCAAF",
+  "sportSlug": "ncaaf",
+  "dayBranch": "current_day",
+  "gameCount": 3,
+  "propCount": 83,
+  "games": [
+    {
+      "gameId": "196772",
+      "slate": "Late",
+      "startTime": "11/17/26 05:00 PM CST",
+      "startTimeIso": "2026-11-17T17:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Eastern Michigan Eagles",
+        "Western Michigan Broncos"
+      ],
+      "propCount": 19,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/196772.json"
+    },
+    {
+      "gameId": "196771",
+      "slate": "Late",
+      "startTime": "11/17/26 06:00 PM CST",
+      "startTimeIso": "2026-11-17T18:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Kent State Golden Flashes",
+        "Miami (OH) RedHawks"
+      ],
+      "propCount": 26,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/196771.json"
+    },
+    {
+      "gameId": "196773",
+      "slate": "Late",
+      "startTime": "11/17/26 06:00 PM CST",
+      "startTimeIso": "2026-11-17T18:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Ball State Cardinals",
+        "Ohio Bobcats"
+      ],
+      "propCount": 38,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/196773.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 83,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
+    }
+  ]
+}

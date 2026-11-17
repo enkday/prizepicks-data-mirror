@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "196772",
+    "gameId": "202744",
     "sport": "NCAAF",
-    "startTime": "11/17/26 05:00 PM CST",
-    "startTimeIso": "2026-11-17T17:00:00-06:00",
+    "startTime": "11/18/26 06:00 PM CST",
+    "startTimeIso": "2026-11-18T18:00:00-06:00",
     "teams": [
-      "Eastern Michigan Eagles",
-      "Western Michigan Broncos"
+      "Akron Zips",
+      "UMass Minutemen"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-11-17T17:00:00-06:00"
+      "2026-11-18T18:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Eastern Michigan Eagles",
-        "Western Michigan Broncos"
+        "Akron Zips",
+        "UMass Minutemen"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,50 +24,31 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "196771",
+    "gameId": "202745",
     "sport": "NCAAF",
-    "startTime": "11/17/26 06:00 PM CST",
-    "startTimeIso": "2026-11-17T18:00:00-06:00",
+    "startTime": "11/18/26 06:30 PM CST",
+    "startTimeIso": "2026-11-18T18:30:00-06:00",
     "teams": [
-      "Kent State Golden Flashes",
-      "Miami (OH) RedHawks"
+      "Buffalo Bulls",
+      "Central Michigan Chippewas",
+      "Hampton Pirates"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-11-17T18:00:00-06:00"
+      "2026-11-18T18:30:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Kent State Golden Flashes",
-        "Miami (OH) RedHawks"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "196773",
-    "sport": "NCAAF",
-    "startTime": "11/17/26 06:00 PM CST",
-    "startTimeIso": "2026-11-17T18:00:00-06:00",
-    "teams": [
-      "Ball State Cardinals",
-      "Ohio Bobcats"
-    ],
-    "slate": "Late",
-    "dayBranch": "tomorrow",
-    "startTimeObservations": [
-      "2026-11-17T18:00:00-06:00"
-    ],
-    "teamPairObservations": [
+        "Buffalo Bulls",
+        "Central Michigan Chippewas"
+      ],
       [
-        "Ball State Cardinals",
-        "Ohio Bobcats"
+        "Buffalo Bulls",
+        "Hampton Pirates"
       ]
     ],
-    "sourceEventConflict": false,
+    "sourceEventConflict": true,
     "eventTimeVerified": true,
     "startTimeSelectionRule": "linked-provider-game"
   }
