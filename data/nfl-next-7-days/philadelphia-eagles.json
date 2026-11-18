@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-17T12:07:05.849Z",
-  "scrapedDate": "Tuesday, November 17, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-18T12:07:29.286Z",
+  "scrapedDate": "Wednesday, November 18, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 506,
-    "sourceCount": 3393,
-    "acceptedCount": 506,
-    "excludedCount": 2887,
+    "count": 657,
+    "sourceCount": 5018,
+    "acceptedCount": 657,
+    "excludedCount": 4361,
     "rejectedCount": 0,
-    "publishedCount": 506,
-    "providerFetchedAt": "2026-11-17T12:05:01.024Z",
+    "publishedCount": 657,
+    "providerFetchedAt": "2026-11-18T12:05:18.830Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Philadelphia Eagles",
-  "totalProps": 17,
+  "totalProps": 16,
   "props": [
     {
       "projectionId": "17061841",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Joe Milton III",
       "stat": "Pass Yards",
-      "line": "175.5",
+      "line": "194.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 447,
+      "rank": 589,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17061956",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Saquon Barkley",
       "stat": "Rush Yards",
-      "line": "67.5",
+      "line": "66.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 475,
+      "rank": 635,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081224",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "DeVonta Smith",
       "stat": "Receiving Yards",
-      "line": "49.5",
+      "line": "51.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 493,
+      "rank": 646,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081132",
@@ -89,27 +89,6 @@
       "status": "pre_game",
       "player": "Joe Milton III",
       "stat": "Pass Attempts",
-      "line": "33.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 513,
-      "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
-    },
-    {
-      "projectionId": "17081162",
-      "playerId": "210338",
-      "status": "pre_game",
-      "player": "Dallas Goedert",
-      "stat": "Receiving Yards",
       "line": "32.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -121,9 +100,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 514,
+      "rank": 679,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17061825",
@@ -131,7 +110,7 @@
       "status": "pre_game",
       "player": "Joe Milton III",
       "stat": "Rush Yards",
-      "line": "30.5",
+      "line": "31.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -142,9 +121,30 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 516,
+      "rank": 680,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+    },
+    {
+      "projectionId": "17081162",
+      "playerId": "210338",
+      "status": "pre_game",
+      "player": "Dallas Goedert",
+      "stat": "Receiving Yards",
+      "line": "31.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Philadelphia Eagles",
+      "teamCode": "PHI",
+      "Opponent": "Pittsburgh Steelers",
+      "opponentCode": "PIT",
+      "rank": 681,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081214",
@@ -163,30 +163,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 518,
+      "rank": 684,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
-    },
-    {
-      "projectionId": "17081158",
-      "playerId": "361519",
-      "status": "pre_game",
-      "player": "Joe Milton III",
-      "stat": "Pass Completions",
-      "line": "20.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Philadelphia Eagles",
-      "teamCode": "PHI",
-      "Opponent": "Pittsburgh Steelers",
-      "opponentCode": "PIT",
-      "rank": 541,
-      "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081178",
@@ -205,9 +184,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 558,
+      "rank": 732,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081139",
@@ -215,7 +194,7 @@
       "status": "pre_game",
       "player": "Saquon Barkley",
       "stat": "Rush Attempts",
-      "line": "17.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -226,9 +205,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 559,
+      "rank": 737,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081253",
@@ -247,9 +226,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 566,
+      "rank": 746,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081173",
@@ -268,9 +247,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 567,
+      "rank": 753,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081230",
@@ -289,9 +268,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 568,
+      "rank": 756,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17062819",
@@ -310,9 +289,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 569,
+      "rank": 757,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081131",
@@ -331,9 +310,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 576,
+      "rank": 772,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081076",
@@ -352,9 +331,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 582,
+      "rank": 780,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17081211",
@@ -373,9 +352,9 @@
       "teamCode": "PHI",
       "Opponent": "Pittsburgh Steelers",
       "opponentCode": "PIT",
-      "rank": 590,
+      "rank": 789,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     }
   ]
 }

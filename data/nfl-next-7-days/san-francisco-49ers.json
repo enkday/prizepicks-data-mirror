@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-17T12:07:05.849Z",
-  "scrapedDate": "Tuesday, November 17, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-18T12:07:29.286Z",
+  "scrapedDate": "Wednesday, November 18, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 506,
-    "sourceCount": 3393,
-    "acceptedCount": 506,
-    "excludedCount": 2887,
+    "count": 657,
+    "sourceCount": 5018,
+    "acceptedCount": 657,
+    "excludedCount": 4361,
     "rejectedCount": 0,
-    "publishedCount": 506,
-    "providerFetchedAt": "2026-11-17T12:05:01.024Z",
+    "publishedCount": 657,
+    "providerFetchedAt": "2026-11-18T12:05:18.830Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "San Francisco 49ers",
-  "totalProps": 29,
+  "totalProps": 28,
   "props": [
     {
       "projectionId": "17061854",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Brock Purdy",
       "stat": "Pass Yards",
-      "line": "243.5",
+      "line": "246.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2735,
+      "rank": 4252,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068548",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "George Kittle",
       "stat": "Receiving Yards",
-      "line": "64.5",
+      "line": "61.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2782,
+      "rank": 4303,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17061965",
@@ -79,9 +79,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2794,
+      "rank": 4314,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068549",
@@ -100,30 +100,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2826,
+      "rank": 4348,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
-    },
-    {
-      "projectionId": "17062837",
-      "playerId": "206315",
-      "status": "pre_game",
-      "player": "Christian McCaffrey",
-      "stat": "Receiving Yards",
-      "line": "36.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 2828,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068501",
@@ -142,16 +121,37 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2829,
+      "rank": 4353,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
-      "projectionId": "17068540",
-      "playerId": "211085",
+      "projectionId": "17062837",
+      "playerId": "206315",
       "status": "pre_game",
-      "player": "Deebo Samuel Sr.",
+      "player": "Christian McCaffrey",
       "stat": "Receiving Yards",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 4357,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+    },
+    {
+      "projectionId": "17068416",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Pass Attempts",
       "line": "32.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
@@ -163,16 +163,16 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2835,
+      "rank": 4361,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
-      "projectionId": "17068416",
-      "playerId": "206314",
+      "projectionId": "17068540",
+      "playerId": "211085",
       "status": "pre_game",
-      "player": "Brock Purdy",
-      "stat": "Pass Attempts",
+      "player": "Deebo Samuel Sr.",
+      "stat": "Receiving Yards",
       "line": "31.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
@@ -184,9 +184,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2836,
+      "rank": 4364,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068467",
@@ -205,9 +205,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2864,
+      "rank": 4390,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068528",
@@ -226,38 +226,17 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2872,
+      "rank": 4403,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
-      "projectionId": "17068546",
-      "playerId": "211085",
-      "status": "pre_game",
-      "player": "Deebo Samuel Sr.",
-      "stat": "Longest Reception",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 2897,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
-    },
-    {
-      "projectionId": "17061837",
+      "projectionId": "17068407",
       "playerId": "206314",
       "status": "pre_game",
       "player": "Brock Purdy",
-      "stat": "Rush Yards",
-      "line": "17.5",
+      "stat": "Pass Completions",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -268,9 +247,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2898,
+      "rank": 4408,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068479",
@@ -289,9 +268,51 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2899,
+      "rank": 4433,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+    },
+    {
+      "projectionId": "17068546",
+      "playerId": "211085",
+      "status": "pre_game",
+      "player": "Deebo Samuel Sr.",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 4434,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+    },
+    {
+      "projectionId": "17061837",
+      "playerId": "206314",
+      "status": "pre_game",
+      "player": "Brock Purdy",
+      "stat": "Rush Yards",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 4437,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068491",
@@ -310,9 +331,30 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2905,
+      "rank": 4444,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+    },
+    {
+      "projectionId": "17147100",
+      "playerId": "206315",
+      "status": "pre_game",
+      "player": "Christian McCaffrey",
+      "stat": "Rush Attempts",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "San Francisco 49ers",
+      "teamCode": "SF",
+      "Opponent": "Minnesota Vikings",
+      "opponentCode": "MIN",
+      "rank": 4454,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068447",
@@ -331,30 +373,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2916,
+      "rank": 4458,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
-    },
-    {
-      "projectionId": "17071228",
-      "playerId": "206315",
-      "status": "pre_game",
-      "player": "Christian McCaffrey",
-      "stat": "Rush Attempts",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 2917,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068340",
@@ -373,9 +394,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2926,
+      "rank": 4472,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068362",
@@ -394,9 +415,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2927,
+      "rank": 4473,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068458",
@@ -415,9 +436,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2932,
+      "rank": 4477,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068302",
@@ -436,9 +457,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2943,
+      "rank": 4492,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17069946",
@@ -457,9 +478,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2949,
+      "rank": 4498,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17071239",
@@ -467,7 +488,7 @@
       "status": "pre_game",
       "player": "George Kittle",
       "stat": "Receptions",
-      "line": "5.5",
+      "line": "5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -478,9 +499,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2959,
+      "rank": 4514,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068457",
@@ -499,17 +520,17 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2983,
+      "rank": 4535,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
-      "projectionId": "17074033",
-      "playerId": "206315",
+      "projectionId": "17071226",
+      "playerId": "211085",
       "status": "pre_game",
-      "player": "Christian McCaffrey",
+      "player": "Deebo Samuel Sr.",
       "stat": "Receptions",
-      "line": "3.5",
+      "line": "2.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -520,9 +541,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 2987,
+      "rank": 4547,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068477",
@@ -541,51 +562,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 3010,
+      "rank": 4566,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
-    },
-    {
-      "projectionId": "17068430",
-      "playerId": "336246",
-      "status": "pre_game",
-      "player": "Kaelon Black",
-      "stat": "Receiving Yards",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 3053,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
-    },
-    {
-      "projectionId": "17068435",
-      "playerId": "336246",
-      "status": "pre_game",
-      "player": "Kaelon Black",
-      "stat": "Longest Reception",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "San Francisco 49ers",
-      "teamCode": "SF",
-      "Opponent": "Minnesota Vikings",
-      "opponentCode": "MIN",
-      "rank": 3054,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17068483",
@@ -604,9 +583,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 3055,
+      "rank": 4611,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     },
     {
       "projectionId": "17073968",
@@ -625,9 +604,9 @@
       "teamCode": "SF",
       "Opponent": "Minnesota Vikings",
       "opponentCode": "MIN",
-      "rank": 3065,
+      "rank": 4621,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-17T12:05:01.024Z"
+      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
     }
   ]
 }
