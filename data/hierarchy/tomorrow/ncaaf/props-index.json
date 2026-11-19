@@ -1,34 +1,86 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "be788fe05d7df0e743b6d2d412892ea2306d5e65a5fe48b036a82a19b279b906",
-  "sourceScrapedAt": "2026-11-18T12:07:29.286Z",
-  "sourceScrapedDate": "Wednesday, November 18, 2026 at 06:07 AM CST",
-  "observedDate": "2026-11-19",
+  "sourcePayloadHash": "e77edcffaa14dabccc98a8c212bbd16d957a972fba1ab3b612c5c657534cdb65",
+  "sourceScrapedAt": "2026-11-19T12:07:02.791Z",
+  "sourceScrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
+  "observedDate": "2026-11-20",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 1,
-  "propCount": 6,
+  "gameCount": 5,
+  "propCount": 89,
   "games": [
     {
-      "gameId": "197600",
+      "gameId": "197601",
       "slate": "Late",
-      "startTime": "11/19/26 06:30 PM CST",
-      "startTimeIso": "2026-11-19T18:30:00-06:00",
+      "startTime": "11/20/26 05:00 PM CST",
+      "startTimeIso": "2026-11-20T17:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Rice Owls",
-        "Temple Owls"
+        "Iowa State Cyclones",
+        "UCF Knights"
       ],
-      "propCount": 6,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/197600.json"
+      "propCount": 35,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/197601.json"
+    },
+    {
+      "gameId": "197890",
+      "slate": "Late",
+      "startTime": "11/20/26 06:30 PM CST",
+      "startTimeIso": "2026-11-20T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Bowling Green Falcons",
+        "Toledo Rockets"
+      ],
+      "propCount": 7,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/197890.json"
+    },
+    {
+      "gameId": "197891",
+      "slate": "Late",
+      "startTime": "11/20/26 06:30 PM CST",
+      "startTimeIso": "2026-11-20T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Clemson Tigers",
+        "Duke Blue Devils"
+      ],
+      "propCount": 17,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/197891.json"
+    },
+    {
+      "gameId": "197892",
+      "slate": "Late",
+      "startTime": "11/20/26 07:00 PM CST",
+      "startTimeIso": "2026-11-20T19:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Michigan State Spartans",
+        "Oregon Ducks"
+      ],
+      "propCount": 25,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/197892.json"
+    },
+    {
+      "gameId": "197894",
+      "slate": "Late",
+      "startTime": "11/20/26 08:00 PM CST",
+      "startTimeIso": "2026-11-20T20:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "New Mexico Lobos",
+        "Wyoming Cowboys"
+      ],
+      "propCount": 5,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/197894.json"
     }
   ],
   "slates": [
     {
       "slate": "late",
-      "propCount": 6,
+      "propCount": 89,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

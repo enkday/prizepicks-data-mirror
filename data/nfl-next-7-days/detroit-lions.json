@@ -1,32 +1,32 @@
 {
-  "scrapedAt": "2026-11-18T12:07:29.286Z",
-  "scrapedDate": "Wednesday, November 18, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-19T12:07:02.791Z",
+  "scrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 657,
-    "sourceCount": 5018,
-    "acceptedCount": 657,
-    "excludedCount": 4361,
+    "count": 815,
+    "sourceCount": 5939,
+    "acceptedCount": 815,
+    "excludedCount": 5124,
     "rejectedCount": 0,
-    "publishedCount": 657,
-    "providerFetchedAt": "2026-11-18T12:05:18.830Z",
+    "publishedCount": 815,
+    "providerFetchedAt": "2026-11-19T12:05:07.477Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Detroit Lions",
-  "totalProps": 28,
+  "totalProps": 33,
   "props": [
     {
-      "projectionId": "17061849",
-      "playerId": "206305",
+      "projectionId": "17165792",
+      "playerId": "206307",
       "status": "pre_game",
-      "player": "Jared Goff",
-      "stat": "Pass Yards",
-      "line": "247.5",
+      "player": "Jahmyr Gibbs",
+      "stat": "Anytime TDs",
+      "line": "1",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2520,
+      "rank": 642,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17061849",
+      "playerId": "206305",
+      "status": "pre_game",
+      "player": "Jared Goff",
+      "stat": "Pass Yards",
+      "line": "249.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 2869,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17061960",
@@ -58,9 +79,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2556,
+      "rank": 2913,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17062830",
@@ -79,9 +100,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2570,
+      "rank": 2929,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17062831",
@@ -100,9 +121,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2591,
+      "rank": 2953,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070749",
@@ -121,9 +142,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2617,
+      "rank": 2993,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17062832",
@@ -142,9 +163,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2620,
+      "rank": 2995,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17150170",
@@ -163,9 +184,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2622,
+      "rank": 2997,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17062833",
@@ -184,9 +205,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2625,
+      "rank": 3001,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070775",
@@ -205,9 +226,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2656,
+      "rank": 3044,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070788",
@@ -226,9 +247,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2657,
+      "rank": 3045,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070807",
@@ -247,9 +268,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2660,
+      "rank": 3051,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17127546",
@@ -268,9 +289,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2683,
+      "rank": 3073,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070742",
@@ -289,9 +310,30 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2686,
+      "rank": 3088,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17070784",
+      "playerId": "206311",
+      "status": "pre_game",
+      "player": "Sam LaPorta",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3102,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070765",
@@ -310,17 +352,17 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2694,
+      "rank": 3103,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
-      "projectionId": "17070784",
-      "playerId": "206311",
+      "projectionId": "17070763",
+      "playerId": "206307",
       "status": "pre_game",
-      "player": "Sam LaPorta",
+      "player": "Jahmyr Gibbs",
       "stat": "Longest Reception",
-      "line": "15.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -331,9 +373,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2695,
+      "rank": 3110,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070821",
@@ -352,30 +394,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2700,
+      "rank": 3111,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
-    },
-    {
-      "projectionId": "17070763",
-      "playerId": "206307",
-      "status": "pre_game",
-      "player": "Jahmyr Gibbs",
-      "stat": "Longest Reception",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 2713,
-      "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070831",
@@ -394,9 +415,30 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2718,
+      "rank": 3132,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172919",
+      "playerId": "206309",
+      "status": "pre_game",
+      "player": "Amon-Ra St. Brown",
+      "stat": "Rec Targets",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3156,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070741",
@@ -415,9 +457,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2739,
+      "rank": 3162,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17096837",
@@ -436,36 +478,99 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2744,
+      "rank": 3168,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
-      "projectionId": "17070858",
-      "playerId": "206307",
-      "status": "pre_game",
-      "player": "Jahmyr Gibbs",
-      "stat": "Receptions",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 2767,
-      "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
-    },
-    {
-      "projectionId": "17147407",
+      "projectionId": "17172922",
       "playerId": "210887",
       "status": "pre_game",
       "player": "Jameson Williams",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3181,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172921",
+      "playerId": "206307",
+      "status": "pre_game",
+      "player": "Jahmyr Gibbs",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3198,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172923",
+      "playerId": "206311",
+      "status": "pre_game",
+      "player": "Sam LaPorta",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3199,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17191513",
+      "playerId": "216875",
+      "status": "pre_game",
+      "player": "Sione Vaki",
+      "stat": "Rush Attempts",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3201,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17070837",
+      "playerId": "206311",
+      "status": "pre_game",
+      "player": "Sam LaPorta",
       "stat": "Receptions",
       "line": "3.5",
       "sport": "NFL",
@@ -478,9 +583,30 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2769,
+      "rank": 3207,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172920",
+      "playerId": "246575",
+      "status": "pre_game",
+      "player": "Isaac TeSlaa",
+      "stat": "Rec Targets",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Detroit Lions",
+      "teamCode": "DET",
+      "Opponent": "Tampa Bay Buccaneers",
+      "opponentCode": "TB",
+      "rank": 3231,
+      "gameId": "198299",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070683",
@@ -499,9 +625,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2787,
+      "rank": 3235,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070779",
@@ -520,9 +646,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2791,
+      "rank": 3239,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17070803",
@@ -541,30 +667,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2792,
+      "rank": 3240,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
-    },
-    {
-      "projectionId": "17153868",
-      "playerId": "211281",
-      "status": "pre_game",
-      "player": "Jake Bates",
-      "stat": "FG Made",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Detroit Lions",
-      "teamCode": "DET",
-      "Opponent": "Tampa Bay Buccaneers",
-      "opponentCode": "TB",
-      "rank": 2799,
-      "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17043256",
@@ -583,9 +688,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2806,
+      "rank": 3257,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17061832",
@@ -604,9 +709,9 @@
       "teamCode": "DET",
       "Opponent": "Tampa Bay Buccaneers",
       "opponentCode": "TB",
-      "rank": 2817,
+      "rank": 3268,
       "gameId": "198299",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     }
   ]
 }

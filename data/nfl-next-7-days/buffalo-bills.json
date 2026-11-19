@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-18T12:07:29.286Z",
-  "scrapedDate": "Wednesday, November 18, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-19T12:07:02.791Z",
+  "scrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 657,
-    "sourceCount": 5018,
-    "acceptedCount": 657,
-    "excludedCount": 4361,
+    "count": 815,
+    "sourceCount": 5939,
+    "acceptedCount": 815,
+    "excludedCount": 5124,
     "rejectedCount": 0,
-    "publishedCount": 657,
-    "providerFetchedAt": "2026-11-18T12:05:18.830Z",
+    "publishedCount": 815,
+    "providerFetchedAt": "2026-11-19T12:05:07.477Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Buffalo Bills",
-  "totalProps": 29,
+  "totalProps": 33,
   "props": [
     {
       "projectionId": "17052752",
@@ -37,9 +37,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2125,
+      "rank": 2456,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052797",
@@ -58,9 +58,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2161,
+      "rank": 2494,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052700",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "DJ Moore",
       "stat": "Receiving Yards",
-      "line": "47.5",
+      "line": "48.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2204,
+      "rank": 2537,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052748",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Josh Allen",
       "stat": "Longest Completion",
-      "line": "38.5",
+      "line": "39.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2226,
+      "rank": 2552,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052668",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Keon Coleman",
       "stat": "Receiving Yards",
-      "line": "34.5",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -121,9 +121,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2231,
+      "rank": 2568,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052776",
@@ -142,9 +142,30 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2236,
+      "rank": 2570,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17083108",
+      "playerId": "211117",
+      "status": "pre_game",
+      "player": "Dalton Kincaid",
+      "stat": "Receiving Yards",
+      "line": "31.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2572,
+      "gameId": "198298",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052754",
@@ -163,30 +184,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2269,
+      "rank": 2604,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
-    },
-    {
-      "projectionId": "17083108",
-      "playerId": "211117",
-      "status": "pre_game",
-      "player": "Dalton Kincaid",
-      "stat": "Receiving Yards",
-      "line": "27.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 2270,
-      "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052612",
@@ -205,9 +205,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2273,
+      "rank": 2609,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052643",
@@ -226,9 +226,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2290,
+      "rank": 2626,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052671",
@@ -236,7 +236,7 @@
       "status": "pre_game",
       "player": "James Cook III",
       "stat": "Rush Attempts",
-      "line": "21",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -247,9 +247,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2294,
+      "rank": 2632,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052801",
@@ -268,9 +268,30 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2322,
+      "rank": 2658,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17052640",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Longest Rush",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2663,
+      "gameId": "198298",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17068798",
@@ -289,16 +310,16 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2329,
+      "rank": 2664,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
-      "projectionId": "17052640",
-      "playerId": "210711",
+      "projectionId": "17052646",
+      "playerId": "211112",
       "status": "pre_game",
-      "player": "James Cook III",
-      "stat": "Longest Rush",
+      "player": "Khalil Shakir",
+      "stat": "Longest Reception",
       "line": "17.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -310,30 +331,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2332,
+      "rank": 2667,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
-    },
-    {
-      "projectionId": "17052646",
-      "playerId": "211112",
-      "status": "pre_game",
-      "player": "Khalil Shakir",
-      "stat": "Longest Reception",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 2336,
-      "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17113325",
@@ -341,7 +341,7 @@
       "status": "pre_game",
       "player": "Dalton Kincaid",
       "stat": "Longest Reception",
-      "line": "16.5",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -352,17 +352,17 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2339,
+      "rank": 2671,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
-      "projectionId": "17052743",
-      "playerId": "212778",
+      "projectionId": "17052727",
+      "playerId": "211930",
       "status": "pre_game",
-      "player": "Ty Johnson",
+      "player": "Dawson Knox",
       "stat": "Receiving Yards",
-      "line": "14.5",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -373,9 +373,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2346,
+      "rank": 2678,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052601",
@@ -394,15 +394,15 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2361,
+      "rank": 2700,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
-      "projectionId": "17052727",
-      "playerId": "211930",
+      "projectionId": "17052743",
+      "playerId": "212778",
       "status": "pre_game",
-      "player": "Dawson Knox",
+      "player": "Ty Johnson",
       "stat": "Receiving Yards",
       "line": "12.5",
       "sport": "NFL",
@@ -415,9 +415,30 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2364,
+      "rank": 2702,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17052742",
+      "playerId": "211930",
+      "status": "pre_game",
+      "player": "Dawson Knox",
+      "stat": "Longest Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2708,
+      "gameId": "198298",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052699",
@@ -436,30 +457,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2373,
+      "rank": 2713,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
-    },
-    {
-      "projectionId": "17052742",
-      "playerId": "211930",
-      "status": "pre_game",
-      "player": "Dawson Knox",
-      "stat": "Longest Reception",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Buffalo Bills",
-      "teamCode": "BUF",
-      "Opponent": "Miami Dolphins",
-      "opponentCode": "MIA",
-      "rank": 2374,
-      "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052662",
@@ -478,9 +478,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2389,
+      "rank": 2726,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17126638",
@@ -499,9 +499,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2391,
+      "rank": 2730,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052767",
@@ -520,9 +520,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2394,
+      "rank": 2732,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052681",
@@ -541,9 +541,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2400,
+      "rank": 2741,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052775",
@@ -551,7 +551,7 @@
       "status": "pre_game",
       "player": "Ty Johnson",
       "stat": "Rush Yards",
-      "line": "3.5",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -562,9 +562,30 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2431,
+      "rank": 2751,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172889",
+      "playerId": "320271",
+      "status": "pre_game",
+      "player": "DJ Moore",
+      "stat": "Rec Targets",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2756,
+      "gameId": "198298",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17073936",
@@ -572,6 +593,48 @@
       "status": "pre_game",
       "player": "Ty Johnson",
       "stat": "Longest Rush",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2762,
+      "gameId": "198298",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172891",
+      "playerId": "211112",
+      "status": "pre_game",
+      "player": "Khalil Shakir",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2772,
+      "gameId": "198298",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172888",
+      "playerId": "211117",
+      "status": "pre_game",
+      "player": "Dalton Kincaid",
+      "stat": "Rec Targets",
       "line": "3.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -583,9 +646,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2432,
+      "rank": 2784,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
       "projectionId": "17052644",
@@ -604,16 +667,37 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2442,
+      "rank": 2792,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     },
     {
-      "projectionId": "17052707",
-      "playerId": "211930",
+      "projectionId": "17108252",
+      "playerId": "211117",
       "status": "pre_game",
-      "player": "Dawson Knox",
+      "player": "Dalton Kincaid",
       "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Buffalo Bills",
+      "teamCode": "BUF",
+      "Opponent": "Miami Dolphins",
+      "opponentCode": "MIA",
+      "rank": 2801,
+      "gameId": "198298",
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+    },
+    {
+      "projectionId": "17172890",
+      "playerId": "210711",
+      "status": "pre_game",
+      "player": "James Cook III",
+      "stat": "Rec Targets",
       "line": "1.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -625,9 +709,9 @@
       "teamCode": "BUF",
       "Opponent": "Miami Dolphins",
       "opponentCode": "MIA",
-      "rank": 2466,
+      "rank": 2825,
       "gameId": "198298",
-      "providerFetchedAt": "2026-11-18T12:05:18.830Z"
+      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
     }
   ]
 }
