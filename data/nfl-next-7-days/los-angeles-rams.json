@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-11-20T12:07:06.966Z",
+  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NFL",
+    "ok": true,
+    "status": 200,
+    "count": 838,
+    "sourceCount": 5957,
+    "acceptedCount": 838,
+    "excludedCount": 5119,
+    "rejectedCount": 0,
+    "publishedCount": 838,
+    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NFL",
+  "day": "next-7-days",
+  "team": "Los Angeles Rams",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "17211171",
+      "playerId": "250314",
+      "status": "pre_game",
+      "player": "Matthew Stafford",
+      "stat": "Pass Yards",
+      "line": "228.5",
+      "sport": "NFL",
+      "startTime": "11/25/26 07:00 PM CST",
+      "startTimeCST": "11/25/26 07:00 PM CST",
+      "startDateCST": "2026-11-25",
+      "startTimeIso": "2026-11-25T20:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Rams",
+      "teamCode": "LA",
+      "Opponent": "Green Bay Packers",
+      "opponentCode": "GB",
+      "rank": 5954,
+      "gameId": "199449",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    }
+  ]
+}

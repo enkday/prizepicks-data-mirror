@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-19T12:07:02.791Z",
-  "scrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-20T12:07:06.966Z",
+  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 815,
-    "sourceCount": 5939,
-    "acceptedCount": 815,
-    "excludedCount": 5124,
+    "count": 838,
+    "sourceCount": 5957,
+    "acceptedCount": 838,
+    "excludedCount": 5119,
     "rejectedCount": 0,
-    "publishedCount": 815,
-    "providerFetchedAt": "2026-11-19T12:05:07.477Z",
+    "publishedCount": 838,
+    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Denver Broncos",
-  "totalProps": 41,
+  "totalProps": 45,
   "props": [
     {
       "projectionId": "17061852",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Bo Nix",
       "stat": "Pass Yards",
-      "line": "213.5",
+      "line": "215.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -37,9 +37,30 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4102,
+      "rank": 4035,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17135360",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Completion Percentage",
+      "line": "70.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4077,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17061963",
@@ -58,9 +79,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4150,
+      "rank": 4083,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17135520",
@@ -79,9 +100,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4186,
+      "rank": 4122,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17135473",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Courtland Sutton",
       "stat": "Receiving Yards",
-      "line": "39.5",
+      "line": "35.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4199,
+      "rank": 4148,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082277",
@@ -121,9 +142,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4217,
+      "rank": 4149,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082379",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Bo Nix",
       "stat": "Pass Attempts",
-      "line": "32",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -142,30 +163,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4223,
+      "rank": 4160,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17082373",
-      "playerId": "338940",
-      "status": "pre_game",
-      "player": "Jonah Coleman",
-      "stat": "Receiving Yards",
-      "line": "25.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4264,
-      "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17190836",
@@ -173,6 +173,27 @@
       "status": "pre_game",
       "player": "Pat Bryant",
       "stat": "Receiving Yards",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4190,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17082326",
+      "playerId": "246531",
+      "status": "pre_game",
+      "player": "J.K. Dobbins",
+      "stat": "Rush Yards",
       "line": "24.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
@@ -184,17 +205,17 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4269,
+      "rank": 4198,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17082326",
-      "playerId": "246531",
+      "projectionId": "17082349",
+      "playerId": "246530",
       "status": "pre_game",
-      "player": "J.K. Dobbins",
-      "stat": "Rush Yards",
-      "line": "22.5",
+      "player": "Evan Engram",
+      "stat": "Receiving Yards",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -205,9 +226,30 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4274,
+      "rank": 4208,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17082373",
+      "playerId": "338940",
+      "status": "pre_game",
+      "player": "Jonah Coleman",
+      "stat": "Receiving Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4209,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082210",
@@ -226,16 +268,16 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4277,
+      "rank": 4211,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17082349",
-      "playerId": "246530",
+      "projectionId": "17135639",
+      "playerId": "338940",
       "status": "pre_game",
-      "player": "Evan Engram",
-      "stat": "Receiving Yards",
+      "player": "Jonah Coleman",
+      "stat": "Rush Yards in First 5 Attempts",
       "line": "20.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
@@ -247,36 +289,15 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4278,
+      "rank": 4212,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17139896",
       "playerId": "320281",
       "status": "pre_game",
       "player": "Jaylen Waddle",
-      "stat": "Longest Reception",
-      "line": "19.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4299,
-      "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17139899",
-      "playerId": "211246",
-      "status": "pre_game",
-      "player": "Courtland Sutton",
       "stat": "Longest Reception",
       "line": "18.5",
       "sport": "NFL",
@@ -289,9 +310,30 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4316,
+      "rank": 4252,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17139899",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4258,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082294",
@@ -310,9 +352,30 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4328,
+      "rank": 4263,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17190837",
+      "playerId": "246566",
+      "status": "pre_game",
+      "player": "Pat Bryant",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4269,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082260",
@@ -331,72 +394,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4334,
+      "rank": 4271,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17190837",
-      "playerId": "246566",
-      "status": "pre_game",
-      "player": "Pat Bryant",
-      "stat": "Longest Reception",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4353,
-      "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17082286",
-      "playerId": "338940",
-      "status": "pre_game",
-      "player": "Jonah Coleman",
-      "stat": "Longest Reception",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4356,
-      "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17061835",
-      "playerId": "211036",
-      "status": "pre_game",
-      "player": "Bo Nix",
-      "stat": "Rush Yards",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4362,
-      "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082323",
@@ -415,9 +415,72 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4363,
+      "rank": 4305,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17061835",
+      "playerId": "211036",
+      "status": "pre_game",
+      "player": "Bo Nix",
+      "stat": "Rush Yards",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4311,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17210453",
+      "playerId": "211246",
+      "status": "pre_game",
+      "player": "Courtland Sutton",
+      "stat": "Yards on First Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4315,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17210547",
+      "playerId": "338940",
+      "status": "pre_game",
+      "player": "Jonah Coleman",
+      "stat": "Longest Reception",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4316,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082255",
@@ -436,9 +499,51 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4372,
+      "rank": 4320,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17190848",
+      "playerId": "211964",
+      "status": "pre_game",
+      "player": "Marvin Mims Jr.",
+      "stat": "Receiving Yards",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4339,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17210454",
+      "playerId": "320281",
+      "status": "pre_game",
+      "player": "Jaylen Waddle",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4342,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082256",
@@ -457,9 +562,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4393,
+      "rank": 4349,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17136517",
@@ -478,30 +583,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4396,
+      "rank": 4352,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17190848",
-      "playerId": "211964",
-      "status": "pre_game",
-      "player": "Marvin Mims Jr.",
-      "stat": "Receiving Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4398,
-      "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17190830",
@@ -520,9 +604,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4407,
+      "rank": 4364,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17190840",
@@ -541,9 +625,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4408,
+      "rank": 4365,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17190846",
@@ -562,9 +646,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4409,
+      "rank": 4366,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082237",
@@ -583,9 +667,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4411,
+      "rank": 4368,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082222",
@@ -604,9 +688,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4416,
+      "rank": 4374,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17082313",
@@ -625,9 +709,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4418,
+      "rank": 4375,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172915",
@@ -646,9 +730,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4426,
+      "rank": 4383,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172917",
@@ -667,9 +751,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4434,
+      "rank": 4390,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172918",
@@ -688,17 +772,17 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4441,
+      "rank": 4398,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17082347",
+      "projectionId": "17135638",
       "playerId": "338940",
       "status": "pre_game",
       "player": "Jonah Coleman",
-      "stat": "Receptions",
-      "line": "3.5",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.1",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -709,30 +793,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4444,
+      "rank": 4403,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17135512",
-      "playerId": "320281",
-      "status": "pre_game",
-      "player": "Jaylen Waddle",
-      "stat": "Receptions",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Denver Broncos",
-      "teamCode": "DEN",
-      "Opponent": "Las Vegas Raiders",
-      "opponentCode": "LV",
-      "rank": 4450,
-      "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172916",
@@ -751,9 +814,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4453,
+      "rank": 4412,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17135500",
@@ -772,9 +835,30 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4467,
+      "rank": 4430,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17190844",
+      "playerId": "246566",
+      "status": "pre_game",
+      "player": "Pat Bryant",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Denver Broncos",
+      "teamCode": "DEN",
+      "Opponent": "Las Vegas Raiders",
+      "opponentCode": "LV",
+      "rank": 4441,
+      "gameId": "198303",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17127964",
@@ -793,9 +877,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4488,
+      "rank": 4451,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17171654",
@@ -814,9 +898,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4528,
+      "rank": 4492,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17190856",
@@ -835,9 +919,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4532,
+      "rank": 4496,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17190858",
@@ -856,9 +940,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4534,
+      "rank": 4498,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17190859",
@@ -877,9 +961,9 @@
       "teamCode": "DEN",
       "Opponent": "Las Vegas Raiders",
       "opponentCode": "LV",
-      "rank": 4535,
+      "rank": 4499,
       "gameId": "198303",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     }
   ]
 }

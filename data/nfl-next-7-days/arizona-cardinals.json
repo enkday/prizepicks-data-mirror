@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-19T12:07:02.791Z",
-  "scrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-20T12:07:06.966Z",
+  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 815,
-    "sourceCount": 5939,
-    "acceptedCount": 815,
-    "excludedCount": 5124,
+    "count": 838,
+    "sourceCount": 5957,
+    "acceptedCount": 838,
+    "excludedCount": 5119,
     "rejectedCount": 0,
-    "publishedCount": 815,
-    "providerFetchedAt": "2026-11-19T12:05:07.477Z",
+    "publishedCount": 838,
+    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Arizona Cardinals",
-  "totalProps": 36,
+  "totalProps": 40,
   "props": [
     {
       "projectionId": "17061842",
@@ -37,17 +37,17 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1077,
+      "rank": 540,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17062820",
-      "playerId": "211118",
+      "projectionId": "17147331",
+      "playerId": "363000",
       "status": "pre_game",
-      "player": "Trey McBride",
-      "stat": "Receiving Yards",
-      "line": "48.5",
+      "player": "Carson Beck",
+      "stat": "Completion Percentage",
+      "line": "55.6",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1124,
+      "rank": 576,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17062820",
+      "playerId": "211118",
+      "status": "pre_game",
+      "player": "Trey McBride",
+      "stat": "Receiving Yards",
+      "line": "49.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 579,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071612",
@@ -79,9 +100,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1158,
+      "rank": 625,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071700",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Carson Beck",
       "stat": "Longest Completion",
-      "line": "27.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1188,
+      "rank": 658,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071765",
@@ -121,9 +142,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1192,
+      "rank": 659,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071738",
@@ -142,9 +163,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1206,
+      "rank": 674,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071553",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Carson Beck",
       "stat": "Pass Completions",
-      "line": "19",
+      "line": "18.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -163,9 +184,30 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1244,
+      "rank": 714,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17071613",
+      "playerId": "211118",
+      "status": "pre_game",
+      "player": "Trey McBride",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 719,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071784",
@@ -184,30 +226,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1249,
+      "rank": 720,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17071613",
-      "playerId": "211118",
-      "status": "pre_game",
-      "player": "Trey McBride",
-      "stat": "Longest Reception",
-      "line": "15.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1252,
-      "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071756",
@@ -226,36 +247,15 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1253,
+      "rank": 723,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071724",
       "playerId": "338234",
       "status": "pre_game",
       "player": "Reggie Virgil",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1257,
-      "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17071754",
-      "playerId": "336553",
-      "status": "pre_game",
-      "player": "Devin Duvernay",
       "stat": "Receiving Yards",
       "line": "13.5",
       "sport": "NFL",
@@ -268,9 +268,30 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1277,
+      "rank": 746,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17071754",
+      "playerId": "336553",
+      "status": "pre_game",
+      "player": "Devin Duvernay",
+      "stat": "Receiving Yards",
+      "line": "12.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 751,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071643",
@@ -289,9 +310,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1287,
+      "rank": 756,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071645",
@@ -310,9 +331,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1288,
+      "rank": 757,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071537",
@@ -331,51 +352,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1292,
+      "rank": 761,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17071611",
-      "playerId": "336553",
-      "status": "pre_game",
-      "player": "Devin Duvernay",
-      "stat": "Longest Reception",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1293,
-      "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17172523",
-      "playerId": "336277",
-      "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Rush Attempts",
-      "line": "10",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1297,
-      "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071549",
@@ -394,9 +373,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1300,
+      "rank": 768,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071556",
@@ -415,16 +394,16 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1301,
+      "rank": 769,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17071672",
-      "playerId": "269158",
+      "projectionId": "17071611",
+      "playerId": "336553",
       "status": "pre_game",
-      "player": "Bam Knight",
-      "stat": "Receiving Yards",
+      "player": "Devin Duvernay",
+      "stat": "Longest Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -436,9 +415,30 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1305,
+      "rank": 771,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17172523",
+      "playerId": "336277",
+      "status": "pre_game",
+      "player": "Tyler Allgeier",
+      "stat": "Rush Attempts",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 794,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071614",
@@ -457,9 +457,51 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1328,
+      "rank": 802,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17071672",
+      "playerId": "269158",
+      "status": "pre_game",
+      "player": "Bam Knight",
+      "stat": "Receiving Yards",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 803,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17071774",
+      "playerId": "363000",
+      "status": "pre_game",
+      "player": "Carson Beck",
+      "stat": "Rush Yards",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 804,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172882",
@@ -478,9 +520,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1334,
+      "rank": 810,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071622",
@@ -499,9 +541,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1338,
+      "rank": 816,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071644",
@@ -520,9 +562,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1339,
+      "rank": 817,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071659",
@@ -541,16 +583,16 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1340,
+      "rank": 818,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17071774",
-      "playerId": "363000",
+      "projectionId": "17210431",
+      "playerId": "211118",
       "status": "pre_game",
-      "player": "Carson Beck",
-      "stat": "Rush Yards",
+      "player": "Trey McBride",
+      "stat": "Yards on First Reception",
       "line": "7.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -562,9 +604,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1341,
+      "rank": 822,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17071570",
@@ -583,9 +625,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1346,
+      "rank": 825,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17145722",
@@ -604,9 +646,51 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1355,
+      "rank": 834,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17207016",
+      "playerId": "342455",
+      "status": "pre_game",
+      "player": "Hunter Long",
+      "stat": "Receiving Yards",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 850,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17207028",
+      "playerId": "342455",
+      "status": "pre_game",
+      "player": "Hunter Long",
+      "stat": "Longest Reception",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 873,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172879",
@@ -625,9 +709,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1408,
+      "rank": 904,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172878",
@@ -646,9 +730,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1426,
+      "rank": 920,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172880",
@@ -667,9 +751,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1427,
+      "rank": 921,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172881",
@@ -688,9 +772,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1428,
+      "rank": 922,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172883",
@@ -709,15 +793,15 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1432,
+      "rank": 930,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17071579",
-      "playerId": "336553",
+      "projectionId": "17071559",
+      "playerId": "269158",
       "status": "pre_game",
-      "player": "Devin Duvernay",
+      "player": "Bam Knight",
       "stat": "Receptions",
       "line": "1.5",
       "sport": "NFL",
@@ -730,30 +814,9 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1438,
+      "rank": 937,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17161833",
-      "playerId": "338234",
-      "status": "pre_game",
-      "player": "Reggie Virgil",
-      "stat": "Receptions",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Kansas City Chiefs",
-      "opponentCode": "KC",
-      "rank": 1454,
-      "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17185418",
@@ -772,9 +835,30 @@
       "teamCode": "ARI",
       "Opponent": "Kansas City Chiefs",
       "opponentCode": "KC",
-      "rank": 1456,
+      "rank": 953,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17234939",
+      "playerId": "363000",
+      "status": "pre_game",
+      "player": "Carson Beck",
+      "stat": "Pass TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Kansas City Chiefs",
+      "opponentCode": "KC",
+      "rank": 1001,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     }
   ]
 }

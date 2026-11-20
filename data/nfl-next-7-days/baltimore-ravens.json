@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-19T12:07:02.791Z",
-  "scrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-20T12:07:06.966Z",
+  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 815,
-    "sourceCount": 5939,
-    "acceptedCount": 815,
-    "excludedCount": 5124,
+    "count": 838,
+    "sourceCount": 5957,
+    "acceptedCount": 838,
+    "excludedCount": 5119,
     "rejectedCount": 0,
-    "publishedCount": 815,
-    "providerFetchedAt": "2026-11-19T12:05:07.477Z",
+    "publishedCount": 838,
+    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Baltimore Ravens",
-  "totalProps": 35,
+  "totalProps": 40,
   "props": [
     {
       "projectionId": "17114672",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Derrick Henry",
       "stat": "Rush Yards",
-      "line": "67.5",
+      "line": "64.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 644,
+      "rank": 3,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17114671",
@@ -58,9 +58,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 645,
+      "rank": 4,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119095",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Jacoby Brissett",
       "stat": "Pass Yards",
-      "line": "236.5",
+      "line": "238.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3303,
+      "rank": 3075,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119315",
@@ -100,9 +100,30 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3356,
+      "rank": 3132,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17151380",
+      "playerId": "362860",
+      "status": "pre_game",
+      "player": "Jacoby Brissett",
+      "stat": "Completion Percentage",
+      "line": "66.2",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3134,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119127",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Jacoby Brissett",
       "stat": "Pass Attempts",
-      "line": "35.5",
+      "line": "35",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3409,
+      "rank": 3193,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119319",
@@ -131,27 +152,6 @@
       "status": "pre_game",
       "player": "Ja'Kobi Lane",
       "stat": "Receiving Yards",
-      "line": "35.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3410,
-      "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17119069",
-      "playerId": "362860",
-      "status": "pre_game",
-      "player": "Jacoby Brissett",
-      "stat": "Longest Completion",
       "line": "34.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -163,9 +163,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3413,
+      "rank": 3194,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119276",
@@ -173,6 +173,27 @@
       "status": "pre_game",
       "player": "Mark Andrews",
       "stat": "Receiving Yards",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3197,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17119069",
+      "playerId": "362860",
+      "status": "pre_game",
+      "player": "Jacoby Brissett",
+      "stat": "Longest Completion",
       "line": "32.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -184,30 +205,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3418,
+      "rank": 3199,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17119248",
-      "playerId": "362860",
-      "status": "pre_game",
-      "player": "Jacoby Brissett",
-      "stat": "Pass Completions",
-      "line": "23.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3469,
-      "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119258",
@@ -215,7 +215,7 @@
       "status": "pre_game",
       "player": "Rashod Bateman",
       "stat": "Receiving Yards",
-      "line": "23.5",
+      "line": "25.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -226,9 +226,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3470,
+      "rank": 3238,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119212",
@@ -247,9 +247,30 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3475,
+      "rank": 3260,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17151409",
+      "playerId": "206297",
+      "status": "pre_game",
+      "player": "Derrick Henry",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "20.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3267,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119199",
@@ -268,9 +289,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3515,
+      "rank": 3300,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119165",
@@ -289,9 +310,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3525,
+      "rank": 3313,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119065",
@@ -310,9 +331,30 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3530,
+      "rank": 3316,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17119159",
+      "playerId": "206299",
+      "status": "pre_game",
+      "player": "Mark Andrews",
+      "stat": "Longest Reception",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3318,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119213",
@@ -331,9 +373,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3532,
+      "rank": 3320,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119279",
@@ -352,30 +394,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3534,
+      "rank": 3321,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17119159",
-      "playerId": "206299",
-      "status": "pre_game",
-      "player": "Mark Andrews",
-      "stat": "Longest Reception",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3549,
-      "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119235",
@@ -394,9 +415,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3550,
+      "rank": 3338,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17189809",
@@ -404,7 +425,7 @@
       "status": "pre_game",
       "player": "Josh Cuevas",
       "stat": "Receiving Yards",
-      "line": "10.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -415,9 +436,51 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3567,
+      "rank": 3355,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17189819",
+      "playerId": "336458",
+      "status": "pre_game",
+      "player": "Josh Cuevas",
+      "stat": "Longest Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3377,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17210449",
+      "playerId": "210203",
+      "status": "pre_game",
+      "player": "Zay Flowers",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3392,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119070",
@@ -436,9 +499,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3595,
+      "rank": 3397,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119234",
@@ -457,30 +520,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3597,
+      "rank": 3400,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17189819",
-      "playerId": "336458",
-      "status": "pre_game",
-      "player": "Josh Cuevas",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3600,
-      "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119220",
@@ -499,9 +541,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3602,
+      "rank": 3404,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172887",
@@ -520,9 +562,72 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3610,
+      "rank": 3410,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17210450",
+      "playerId": "206299",
+      "status": "pre_game",
+      "player": "Mark Andrews",
+      "stat": "Yards on First Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3414,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17126657",
+      "playerId": "363824",
+      "status": "pre_game",
+      "player": "Riley Patterson",
+      "stat": "Kicking Points",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3415,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17119063",
+      "playerId": "362860",
+      "status": "pre_game",
+      "player": "Jacoby Brissett",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3417,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119303",
@@ -541,30 +646,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3615,
+      "rank": 3419,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17126657",
-      "playerId": "363824",
-      "status": "pre_game",
-      "player": "Riley Patterson",
-      "stat": "Kicking Points",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3617,
-      "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17119256",
@@ -583,9 +667,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3625,
+      "rank": 3431,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172885",
@@ -604,30 +688,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3634,
+      "rank": 3440,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17119063",
-      "playerId": "362860",
-      "status": "pre_game",
-      "player": "Jacoby Brissett",
-      "stat": "Longest Rush",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Baltimore Ravens",
-      "teamCode": "BAL",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 3639,
-      "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172884",
@@ -646,9 +709,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3648,
+      "rank": 3452,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172886",
@@ -667,9 +730,30 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3649,
+      "rank": 3453,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17151406",
+      "playerId": "206297",
+      "status": "pre_game",
+      "player": "Derrick Henry",
+      "stat": "Rush Yards Per Carry",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3477,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17191514",
@@ -688,9 +772,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3678,
+      "rank": 3498,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17126656",
@@ -709,9 +793,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3711,
+      "rank": 3533,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17189814",
@@ -730,9 +814,9 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3716,
+      "rank": 3539,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17189818",
@@ -751,9 +835,30 @@
       "teamCode": "BAL",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 3718,
+      "rank": 3541,
       "gameId": "198300",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17193416",
+      "playerId": "336460",
+      "status": "pre_game",
+      "player": "Matt Hibner",
+      "stat": "Receptions",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Baltimore Ravens",
+      "teamCode": "BAL",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 3582,
+      "gameId": "198300",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     }
   ]
 }

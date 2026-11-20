@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-19T12:07:02.791Z",
-  "scrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-20T12:07:06.966Z",
+  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 815,
-    "sourceCount": 5939,
-    "acceptedCount": 815,
-    "excludedCount": 5124,
+    "count": 838,
+    "sourceCount": 5957,
+    "acceptedCount": 838,
+    "excludedCount": 5119,
     "rejectedCount": 0,
-    "publishedCount": 815,
-    "providerFetchedAt": "2026-11-19T12:05:07.477Z",
+    "publishedCount": 838,
+    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Pittsburgh Steelers",
-  "totalProps": 29,
+  "totalProps": 40,
   "props": [
     {
       "projectionId": "17061840",
@@ -37,9 +37,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 659,
+      "rank": 20,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17061955",
@@ -58,9 +58,30 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 717,
+      "rank": 77,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17148278",
+      "playerId": "247910",
+      "status": "pre_game",
+      "player": "Aaron Rodgers",
+      "stat": "Completion Percentage",
+      "line": "58.2",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 91,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17062816",
@@ -68,7 +89,7 @@
       "status": "pre_game",
       "player": "DK Metcalf",
       "stat": "Receiving Yards",
-      "line": "43.5",
+      "line": "42.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -79,9 +100,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 753,
+      "rank": 112,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081259",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Rico Dowdle",
       "stat": "Rush Yards",
-      "line": "36.5",
+      "line": "37.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 774,
+      "rank": 134,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081267",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Aaron Rodgers",
       "stat": "Longest Completion",
-      "line": "35.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 775,
+      "rank": 138,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081123",
@@ -142,17 +163,17 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 779,
+      "rank": 141,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17062817",
-      "playerId": "210642",
+      "projectionId": "17204749",
+      "playerId": "320277",
       "status": "pre_game",
-      "player": "Pat Freiermuth",
+      "player": "Germie Bernard",
       "stat": "Receiving Yards",
-      "line": "25.5",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -163,9 +184,30 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 816,
+      "rank": 182,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17062817",
+      "playerId": "210642",
+      "status": "pre_game",
+      "player": "Pat Freiermuth",
+      "stat": "Receiving Yards",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 202,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17062818",
@@ -184,17 +226,17 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 830,
+      "rank": 203,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17189246",
-      "playerId": "207092",
+      "projectionId": "17148702",
+      "playerId": "211933",
       "status": "pre_game",
-      "player": "Darnell Washington",
-      "stat": "Receiving Yards",
-      "line": "20.5",
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -205,9 +247,51 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 834,
+      "rank": 204,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17214827",
+      "playerId": "216917",
+      "status": "pre_game",
+      "player": "Roman Wilson",
+      "stat": "Receiving Yards",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 206,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17214907",
+      "playerId": "320280",
+      "status": "pre_game",
+      "player": "Michael Pittman Jr.",
+      "stat": "Receiving Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 208,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081185",
@@ -226,9 +310,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 840,
+      "rank": 214,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17148294",
@@ -247,17 +331,17 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 847,
+      "rank": 221,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17081159",
-      "playerId": "211933",
+      "projectionId": "17189246",
+      "playerId": "207092",
       "status": "pre_game",
-      "player": "Jaylen Warren",
-      "stat": "Longest Rush",
-      "line": "14.5",
+      "player": "Darnell Washington",
+      "stat": "Receiving Yards",
+      "line": "17.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -268,9 +352,51 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 875,
+      "rank": 250,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17081159",
+      "playerId": "211933",
+      "status": "pre_game",
+      "player": "Jaylen Warren",
+      "stat": "Longest Rush",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 254,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17214828",
+      "playerId": "216917",
+      "status": "pre_game",
+      "player": "Roman Wilson",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 259,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081233",
@@ -289,9 +415,51 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 876,
+      "rank": 262,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17205861",
+      "playerId": "320277",
+      "status": "pre_game",
+      "player": "Germie Bernard",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 290,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17214905",
+      "playerId": "320280",
+      "status": "pre_game",
+      "player": "Michael Pittman Jr.",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 291,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17189247",
@@ -299,7 +467,7 @@
       "status": "pre_game",
       "player": "Darnell Washington",
       "stat": "Longest Reception",
-      "line": "12.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -310,9 +478,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 903,
+      "rank": 301,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17189253",
@@ -320,7 +488,7 @@
       "status": "pre_game",
       "player": "Pat Freiermuth",
       "stat": "Longest Reception",
-      "line": "12.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -331,16 +499,16 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 904,
+      "rank": 302,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17081190",
+      "projectionId": "17081141",
       "playerId": "320306",
       "status": "pre_game",
       "player": "Rico Dowdle",
-      "stat": "Receiving Yards",
+      "stat": "Longest Rush",
       "line": "10.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -352,16 +520,16 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 915,
+      "rank": 306,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17081141",
+      "projectionId": "17081190",
       "playerId": "320306",
       "status": "pre_game",
       "player": "Rico Dowdle",
-      "stat": "Longest Rush",
+      "stat": "Receiving Yards",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -373,9 +541,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 918,
+      "rank": 312,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17087726",
@@ -394,9 +562,30 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 921,
+      "rank": 314,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17210428",
+      "playerId": "246568",
+      "status": "pre_game",
+      "player": "DK Metcalf",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 333,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081261",
@@ -415,9 +604,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 940,
+      "rank": 346,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17127931",
@@ -436,9 +625,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 941,
+      "rank": 347,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17173323",
@@ -457,9 +646,30 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 953,
+      "rank": 363,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17148704",
+      "playerId": "211933",
+      "status": "pre_game",
+      "player": "Jaylen Warren",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 381,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081134",
@@ -478,9 +688,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 978,
+      "rank": 398,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17173324",
@@ -499,9 +709,30 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 983,
+      "rank": 403,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17205592",
+      "playerId": "320277",
+      "status": "pre_game",
+      "player": "Germie Bernard",
+      "stat": "Receptions",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Pittsburgh Steelers",
+      "teamCode": "PIT",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 418,
+      "gameId": "198302",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17173325",
@@ -520,9 +751,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1002,
+      "rank": 430,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17189256",
@@ -541,9 +772,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1006,
+      "rank": 433,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081074",
@@ -562,9 +793,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1011,
+      "rank": 443,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17061824",
@@ -583,9 +814,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1038,
+      "rank": 482,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17081152",
@@ -604,9 +835,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1041,
+      "rank": 485,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17173537",
@@ -625,9 +856,9 @@
       "teamCode": "PIT",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1050,
+      "rank": 494,
       "gameId": "198302",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     }
   ]
 }

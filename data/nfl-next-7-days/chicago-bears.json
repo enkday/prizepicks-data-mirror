@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-19T12:07:02.791Z",
-  "scrapedDate": "Thursday, November 19, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-20T12:07:06.966Z",
+  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 815,
-    "sourceCount": 5939,
-    "acceptedCount": 815,
-    "excludedCount": 5124,
+    "count": 838,
+    "sourceCount": 5957,
+    "acceptedCount": 838,
+    "excludedCount": 5119,
     "rejectedCount": 0,
-    "publishedCount": 815,
-    "providerFetchedAt": "2026-11-19T12:05:07.477Z",
+    "publishedCount": 838,
+    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Chicago Bears",
-  "totalProps": 34,
+  "totalProps": 43,
   "props": [
     {
       "projectionId": "17061845",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Caleb Williams",
       "stat": "Pass Yards",
-      "line": "248.5",
+      "line": "247.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1510,
+      "rank": 1034,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077748",
@@ -58,9 +58,30 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1574,
+      "rank": 1099,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17131667",
+      "playerId": "210552",
+      "status": "pre_game",
+      "player": "Caleb Williams",
+      "stat": "Completion Percentage",
+      "line": "61.9",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1101,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17062824",
@@ -79,9 +100,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1575,
+      "rank": 1102,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17062826",
@@ -100,9 +121,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1589,
+      "rank": 1115,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17062825",
@@ -121,9 +142,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1609,
+      "rank": 1136,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077631",
@@ -142,9 +163,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1610,
+      "rank": 1138,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077636",
@@ -152,7 +173,7 @@
       "status": "pre_game",
       "player": "Caleb Williams",
       "stat": "Longest Completion",
-      "line": "37.5",
+      "line": "38.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -163,9 +184,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1638,
+      "rank": 1165,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077564",
@@ -184,9 +205,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1648,
+      "rank": 1176,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077599",
@@ -194,7 +215,7 @@
       "status": "pre_game",
       "player": "Rome Odunze",
       "stat": "Longest Reception",
-      "line": "22.5",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -205,9 +226,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1706,
+      "rank": 1233,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077810",
@@ -226,16 +247,16 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1707,
+      "rank": 1237,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17077770",
-      "playerId": "336734",
+      "projectionId": "17133372",
+      "playerId": "246525",
       "status": "pre_game",
-      "player": "Kalif Raymond",
-      "stat": "Receiving Yards",
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards in First 5 Attempts",
       "line": "21.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -247,16 +268,37 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1709,
+      "rank": 1240,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17077664",
-      "playerId": "246522",
+      "projectionId": "17133374",
+      "playerId": "210665",
       "status": "pre_game",
-      "player": "Colston Loveland",
-      "stat": "Longest Reception",
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1241,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17077770",
+      "playerId": "336734",
+      "status": "pre_game",
+      "player": "Kalif Raymond",
+      "stat": "Receiving Yards",
       "line": "20.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -268,9 +310,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1713,
+      "rank": 1244,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077591",
@@ -289,9 +331,30 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1715,
+      "rank": 1246,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17077664",
+      "playerId": "246522",
+      "status": "pre_game",
+      "player": "Colston Loveland",
+      "stat": "Longest Reception",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1266,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17061828",
@@ -310,9 +373,72 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1757,
+      "rank": 1287,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17077499",
+      "playerId": "210665",
+      "status": "pre_game",
+      "player": "D'Andre Swift",
+      "stat": "Receiving Yards",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1298,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17077567",
+      "playerId": "210665",
+      "status": "pre_game",
+      "player": "D'Andre Swift",
+      "stat": "Longest Rush",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1299,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17077588",
+      "playerId": "246525",
+      "status": "pre_game",
+      "player": "Kyle Monangai",
+      "stat": "Longest Rush",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1300,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17133521",
@@ -331,72 +457,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1774,
+      "rank": 1309,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17077499",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Receiving Yards",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 1794,
-      "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17077567",
-      "playerId": "210665",
-      "status": "pre_game",
-      "player": "D'Andre Swift",
-      "stat": "Longest Rush",
-      "line": "13.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 1795,
-      "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17077588",
-      "playerId": "246525",
-      "status": "pre_game",
-      "player": "Kyle Monangai",
-      "stat": "Longest Rush",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 1803,
-      "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077647",
@@ -415,9 +478,30 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1811,
+      "rank": 1338,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17210438",
+      "playerId": "211241",
+      "status": "pre_game",
+      "player": "Rome Odunze",
+      "stat": "Yards on First Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1343,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077553",
@@ -436,9 +520,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1816,
+      "rank": 1345,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17133380",
@@ -446,7 +530,7 @@
       "status": "pre_game",
       "player": "Kyle Monangai",
       "stat": "Rush Attempts",
-      "line": "10.5",
+      "line": "10",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -457,16 +541,16 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1820,
+      "rank": 1354,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17173342",
-      "playerId": "211162",
+      "projectionId": "17210436",
+      "playerId": "246526",
       "status": "pre_game",
-      "player": "Cairo Santos",
-      "stat": "Kicking Points",
+      "player": "Luther Burden III",
+      "stat": "Yards on First Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -478,9 +562,30 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1852,
+      "rank": 1392,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17173342",
+      "playerId": "211162",
+      "status": "pre_game",
+      "player": "Cairo Santos",
+      "stat": "Kicking Points",
+      "line": "9",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1394,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077822",
@@ -499,16 +604,37 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1865,
+      "rank": 1400,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
-      "projectionId": "17077587",
+      "projectionId": "17210437",
+      "playerId": "246522",
+      "status": "pre_game",
+      "player": "Colston Loveland",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1410,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17077817",
       "playerId": "336722",
       "status": "pre_game",
       "player": "Sam Roush",
-      "stat": "Receiving Yards",
+      "stat": "Longest Reception",
       "line": "7.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
@@ -520,30 +646,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1875,
+      "rank": 1420,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
-    },
-    {
-      "projectionId": "17077817",
-      "playerId": "336722",
-      "status": "pre_game",
-      "player": "Sam Roush",
-      "stat": "Longest Reception",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Chicago Bears",
-      "teamCode": "CHI",
-      "Opponent": "New Orleans Saints",
-      "opponentCode": "NO",
-      "rank": 1891,
-      "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172897",
@@ -562,9 +667,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1897,
+      "rank": 1432,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172900",
@@ -583,9 +688,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1898,
+      "rank": 1433,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172901",
@@ -604,9 +709,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1900,
+      "rank": 1435,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077521",
@@ -625,9 +730,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1901,
+      "rank": 1437,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077718",
@@ -646,9 +751,30 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1906,
+      "rank": 1443,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17077587",
+      "playerId": "336722",
+      "status": "pre_game",
+      "player": "Sam Roush",
+      "stat": "Receiving Yards",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1459,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17077749",
@@ -667,9 +793,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1924,
+      "rank": 1462,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17127238",
@@ -688,9 +814,72 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1929,
+      "rank": 1467,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17127286",
+      "playerId": "246522",
+      "status": "pre_game",
+      "player": "Colston Loveland",
+      "stat": "Receptions",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1468,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17133373",
+      "playerId": "210665",
+      "status": "pre_game",
+      "player": "D'Andre Swift",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.4",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1477,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+    },
+    {
+      "projectionId": "17133371",
+      "playerId": "246525",
+      "status": "pre_game",
+      "player": "Kyle Monangai",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.2",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Chicago Bears",
+      "teamCode": "CHI",
+      "Opponent": "New Orleans Saints",
+      "opponentCode": "NO",
+      "rank": 1478,
+      "gameId": "198295",
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172899",
@@ -709,9 +898,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1955,
+      "rank": 1496,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     },
     {
       "projectionId": "17172898",
@@ -730,9 +919,9 @@
       "teamCode": "CHI",
       "Opponent": "New Orleans Saints",
       "opponentCode": "NO",
-      "rank": 1962,
+      "rank": 1503,
       "gameId": "198295",
-      "providerFetchedAt": "2026-11-19T12:05:07.477Z"
+      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
     }
   ]
 }
