@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-20T12:07:06.966Z",
-  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-21T12:06:05.268Z",
+  "scrapedDate": "Saturday, November 21, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 838,
-    "sourceCount": 5957,
-    "acceptedCount": 838,
-    "excludedCount": 5119,
+    "count": 1042,
+    "sourceCount": 7031,
+    "acceptedCount": 1042,
+    "excludedCount": 5989,
     "rejectedCount": 0,
-    "publishedCount": 838,
-    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
+    "publishedCount": 1042,
+    "providerFetchedAt": "2026-11-21T12:04:56.550Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Kansas City Chiefs",
-  "totalProps": 31,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "17061843",
@@ -37,9 +37,51 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 525,
+      "rank": 605,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248357",
+      "playerId": "206295",
+      "status": "pre_game",
+      "player": "Patrick Mahomes",
+      "stat": "Passer Rating",
+      "line": "105.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 623,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17247976",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Rush Yards",
+      "line": "87.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 636,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17140159",
@@ -58,9 +100,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 569,
+      "rank": 650,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071730",
@@ -79,9 +121,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 578,
+      "rank": 660,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17062821",
@@ -100,9 +142,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 594,
+      "rank": 677,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071697",
@@ -121,9 +163,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 614,
+      "rank": 699,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071685",
@@ -142,9 +184,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 615,
+      "rank": 701,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071742",
@@ -163,9 +205,30 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 626,
+      "rank": 709,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17247978",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Receiving Yards",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 737,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071690",
@@ -184,9 +247,51 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 662,
+      "rank": 743,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248534",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "22.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 756,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17071696",
+      "playerId": "210206",
+      "status": "pre_game",
+      "player": "Rashee Rice",
+      "stat": "Longest Reception",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 757,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17136483",
@@ -205,30 +310,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 676,
+      "rank": 758,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
-    },
-    {
-      "projectionId": "17071696",
-      "playerId": "210206",
-      "status": "pre_game",
-      "player": "Rashee Rice",
-      "stat": "Longest Reception",
-      "line": "20.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 678,
-      "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071663",
@@ -247,9 +331,30 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 694,
+      "rank": 776,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248535",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Rush Attempts",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 794,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071626",
@@ -268,9 +373,30 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 715,
+      "rank": 799,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248747",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Longest Rush",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 802,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17071603",
@@ -289,9 +415,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 722,
+      "rank": 807,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17191733",
@@ -310,9 +436,30 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 749,
+      "rank": 835,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248552",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 836,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17158945",
@@ -331,9 +478,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 753,
+      "rank": 839,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17162726",
@@ -341,7 +488,7 @@
       "status": "pre_game",
       "player": "Cyrus Allen",
       "stat": "Longest Reception",
-      "line": "10.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -352,9 +499,30 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 763,
+      "rank": 845,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17260212",
+      "playerId": "364344",
+      "status": "pre_game",
+      "player": "Nate Carter",
+      "stat": "Rush Yards",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 846,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17191730",
@@ -373,9 +541,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 764,
+      "rank": 848,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17061826",
@@ -394,9 +562,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 766,
+      "rank": 850,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17163993",
@@ -415,9 +583,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 807,
+      "rank": 889,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17210432",
@@ -436,9 +604,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 811,
+      "rank": 894,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17210433",
@@ -457,9 +625,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 812,
+      "rank": 895,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172934",
@@ -478,9 +646,30 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 831,
+      "rank": 917,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17260203",
+      "playerId": "364344",
+      "status": "pre_game",
+      "player": "Nate Carter",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 918,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172933",
@@ -499,9 +688,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 848,
+      "rank": 932,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172935",
@@ -520,9 +709,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 851,
+      "rank": 936,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17158951",
@@ -541,9 +730,30 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 858,
+      "rank": 944,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248537",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 964,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172936",
@@ -562,9 +772,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 880,
+      "rank": 974,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17170445",
@@ -583,17 +793,17 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 897,
+      "rank": 991,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17200288",
-      "playerId": "210205",
+      "projectionId": "17252327",
+      "playerId": "213280",
       "status": "pre_game",
-      "player": "Xavier Worthy",
-      "stat": "Receptions",
-      "line": "2.5",
+      "player": "Matt Araiza",
+      "stat": "Punts",
+      "line": "3.5",
       "sport": "NFL",
       "startTime": "11/22/26 12:00 PM CST",
       "startTimeCST": "11/22/26 12:00 PM CST",
@@ -604,30 +814,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 924,
+      "rank": 997,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
-    },
-    {
-      "projectionId": "17071651",
-      "playerId": "206325",
-      "status": "pre_game",
-      "player": "Harrison Butker",
-      "stat": "FG Made",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 12:00 PM CST",
-      "startTimeCST": "11/22/26 12:00 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Kansas City Chiefs",
-      "teamCode": "KC",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 941,
-      "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172932",
@@ -646,9 +835,9 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 952,
+      "rank": 1043,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17191737",
@@ -667,9 +856,93 @@
       "teamCode": "KC",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 954,
+      "rank": 1045,
       "gameId": "198294",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248381",
+      "playerId": "206295",
+      "status": "pre_game",
+      "player": "Patrick Mahomes",
+      "stat": "Sacks Taken",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1054,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17252347",
+      "playerId": "213280",
+      "status": "pre_game",
+      "player": "Matt Araiza",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1056,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17234163",
+      "playerId": "337714",
+      "status": "pre_game",
+      "player": "Emmett Johnson",
+      "stat": "Rush TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1103,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17251188",
+      "playerId": "210408",
+      "status": "pre_game",
+      "player": "George Karlaftis",
+      "stat": "Sacks",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 12:00 PM CST",
+      "startTimeCST": "11/22/26 12:00 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Kansas City Chiefs",
+      "teamCode": "KC",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 1105,
+      "gameId": "198294",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     }
   ]
 }

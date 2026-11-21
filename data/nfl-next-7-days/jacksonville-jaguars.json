@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-20T12:07:06.966Z",
-  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-21T12:06:05.268Z",
+  "scrapedDate": "Saturday, November 21, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 838,
-    "sourceCount": 5957,
-    "acceptedCount": 838,
-    "excludedCount": 5119,
+    "count": 1042,
+    "sourceCount": 7031,
+    "acceptedCount": 1042,
+    "excludedCount": 5989,
     "rejectedCount": 0,
-    "publishedCount": 838,
-    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
+    "publishedCount": 1042,
+    "providerFetchedAt": "2026-11-21T12:04:56.550Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 31,
+  "totalProps": 44,
   "props": [
     {
       "projectionId": "17051219",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Yards",
-      "line": "240.5",
+      "line": "230.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -37,17 +37,17 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4525,
+      "rank": 5156,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17051354",
-      "playerId": "216955",
+      "projectionId": "17248372",
+      "playerId": "210950",
       "status": "pre_game",
-      "player": "Parker Washington",
-      "stat": "Receiving Yards",
-      "line": "64.5",
+      "player": "Trevor Lawrence",
+      "stat": "Passer Rating",
+      "line": "94.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -58,9 +58,30 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4577,
+      "rank": 5189,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051355",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards",
+      "line": "71.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5209,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17086358",
@@ -79,9 +100,30 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4578,
+      "rank": 5223,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051354",
+      "playerId": "216955",
+      "status": "pre_game",
+      "player": "Parker Washington",
+      "stat": "Receiving Yards",
+      "line": "63.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5224,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051152",
@@ -100,9 +142,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4610,
+      "rank": 5258,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051309",
@@ -121,9 +163,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4628,
+      "rank": 5279,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051196",
@@ -142,9 +184,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4634,
+      "rank": 5286,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051047",
@@ -152,7 +194,7 @@
       "status": "pre_game",
       "player": "Trevor Lawrence",
       "stat": "Pass Attempts",
-      "line": "31",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -163,9 +205,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4638,
+      "rank": 5290,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051260",
@@ -184,16 +226,16 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4674,
+      "rank": 5331,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17051330",
-      "playerId": "277422",
+      "projectionId": "17130234",
+      "playerId": "246555",
       "status": "pre_game",
-      "player": "Jakobi Meyers",
-      "stat": "Longest Reception",
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards in First 5 Attempts",
       "line": "20.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
@@ -205,9 +247,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4688,
+      "rank": 5350,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051128",
@@ -226,9 +268,72 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4691,
+      "rank": 5355,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051330",
+      "playerId": "277422",
+      "status": "pre_game",
+      "player": "Jakobi Meyers",
+      "stat": "Longest Reception",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5377,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051367",
+      "playerId": "336495",
+      "status": "pre_game",
+      "player": "Chris Rodriguez Jr.",
+      "stat": "Rush Yards",
+      "line": "19.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5383,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051163",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Attempts",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5400,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051371",
@@ -247,17 +352,17 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4731,
+      "rank": 5406,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17051097",
-      "playerId": "212842",
+      "projectionId": "17051071",
+      "playerId": "246555",
       "status": "pre_game",
-      "player": "Brian Thomas Jr.",
-      "stat": "Receiving Yards",
-      "line": "12.5",
+      "player": "Bhayshul Tuten",
+      "stat": "Longest Rush",
+      "line": "15.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
       "startTimeCST": "11/22/26 03:25 PM CST",
@@ -268,9 +373,51 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4769,
+      "rank": 5411,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051097",
+      "playerId": "212842",
+      "status": "pre_game",
+      "player": "Brian Thomas Jr.",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5444,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051212",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5446,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051211",
@@ -289,9 +436,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4777,
+      "rank": 5459,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051217",
@@ -310,9 +457,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4778,
+      "rank": 5460,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051377",
@@ -331,9 +478,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4779,
+      "rank": 5462,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17210455",
@@ -352,30 +499,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4781,
+      "rank": 5464,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
-    },
-    {
-      "projectionId": "17051318",
-      "playerId": "210950",
-      "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Rush Yards",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:25 PM CST",
-      "startTimeCST": "11/22/26 03:25 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "New York Giants",
-      "opponentCode": "NYG",
-      "rank": 4784,
-      "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051303",
@@ -394,16 +520,16 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4792,
+      "rank": 5474,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17051074",
-      "playerId": "210950",
+      "projectionId": "17051168",
+      "playerId": "246555",
       "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Longest Rush",
+      "player": "Bhayshul Tuten",
+      "stat": "Longest Reception",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
@@ -415,9 +541,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4817,
+      "rank": 5506,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051261",
@@ -436,16 +562,16 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4818,
+      "rank": 5507,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17051306",
-      "playerId": "246559",
+      "projectionId": "17051318",
+      "playerId": "210950",
       "status": "pre_game",
-      "player": "Travis Hunter",
-      "stat": "Receiving Yards",
+      "player": "Trevor Lawrence",
+      "stat": "Rush Yards",
       "line": "8.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
@@ -457,9 +583,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4819,
+      "rank": 5508,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051324",
@@ -478,9 +604,30 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4820,
+      "rank": 5509,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17168588",
+      "playerId": "336495",
+      "status": "pre_game",
+      "player": "Chris Rodriguez Jr.",
+      "stat": "Longest Rush",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5512,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17051284",
@@ -499,9 +646,30 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4832,
+      "rank": 5522,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051306",
+      "playerId": "246559",
+      "status": "pre_game",
+      "player": "Travis Hunter",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5523,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172930",
@@ -520,9 +688,30 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4833,
+      "rank": 5524,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17051074",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5529,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172927",
@@ -541,9 +730,30 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4878,
+      "rank": 5573,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17130235",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Rush Yards Per Carry",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5584,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172925",
@@ -562,16 +772,16 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4883,
+      "rank": 5585,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17133816",
-      "playerId": "210950",
+      "projectionId": "17252344",
+      "playerId": "213279",
       "status": "pre_game",
-      "player": "Trevor Lawrence",
-      "stat": "Rush Attempts",
+      "player": "Logan Cooke",
+      "stat": "Punts",
       "line": "3.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:25 PM CST",
@@ -583,9 +793,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4902,
+      "rank": 5611,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172926",
@@ -604,9 +814,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4931,
+      "rank": 5642,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172929",
@@ -625,9 +835,30 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4932,
+      "rank": 5643,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248396",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Sacks Taken",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5644,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172928",
@@ -646,9 +877,9 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4960,
+      "rank": 5673,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17172931",
@@ -667,9 +898,51 @@
       "teamCode": "JAC",
       "Opponent": "New York Giants",
       "opponentCode": "NYG",
-      "rank": 4961,
+      "rank": 5674,
       "gameId": "198297",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17252356",
+      "playerId": "213279",
+      "status": "pre_game",
+      "player": "Logan Cooke",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5683,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17048179",
+      "playerId": "246555",
+      "status": "pre_game",
+      "player": "Bhayshul Tuten",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:25 PM CST",
+      "startTimeCST": "11/22/26 03:25 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "New York Giants",
+      "opponentCode": "NYG",
+      "rank": 5716,
+      "gameId": "198297",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     }
   ]
 }

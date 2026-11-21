@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-20T12:07:06.966Z",
-  "scrapedDate": "Friday, November 20, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-21T12:06:05.268Z",
+  "scrapedDate": "Saturday, November 21, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 838,
-    "sourceCount": 5957,
-    "acceptedCount": 838,
-    "excludedCount": 5119,
+    "count": 1042,
+    "sourceCount": 7031,
+    "acceptedCount": 1042,
+    "excludedCount": 5989,
     "rejectedCount": 0,
-    "publishedCount": 838,
-    "providerFetchedAt": "2026-11-20T12:05:03.798Z",
+    "publishedCount": 1042,
+    "providerFetchedAt": "2026-11-21T12:04:56.550Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Minnesota Vikings",
-  "totalProps": 33,
+  "totalProps": 39,
   "props": [
     {
       "projectionId": "17061853",
@@ -37,9 +37,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5042,
+      "rank": 5780,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17062836",
@@ -47,6 +47,27 @@
       "status": "pre_game",
       "player": "Justin Jefferson",
       "stat": "Receiving Yards",
+      "line": "84.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5820,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248374",
+      "playerId": "363337",
+      "status": "pre_game",
+      "player": "Kirk Cousins",
+      "stat": "Passer Rating",
       "line": "82.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
@@ -58,9 +79,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5077,
+      "rank": 5822,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17073618",
@@ -79,9 +100,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5090,
+      "rank": 5835,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17188727",
+      "playerId": "217134",
+      "status": "pre_game",
+      "player": "T.J. Hockenson",
+      "stat": "Receiving Yards",
+      "line": "48.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 5875,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17061964",
@@ -100,30 +142,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5130,
+      "rank": 5881,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
-    },
-    {
-      "projectionId": "17188727",
-      "playerId": "217134",
-      "status": "pre_game",
-      "player": "T.J. Hockenson",
-      "stat": "Receiving Yards",
-      "line": "42.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 5132,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068451",
@@ -142,9 +163,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5158,
+      "rank": 5910,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068476",
@@ -163,9 +184,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5159,
+      "rank": 5911,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068537",
@@ -173,7 +194,7 @@
       "status": "pre_game",
       "player": "Aaron Jones Sr.",
       "stat": "Rush Yards",
-      "line": "30.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -184,9 +205,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5168,
+      "rank": 5937,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068471",
@@ -205,9 +226,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5202,
+      "rank": 5957,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068415",
@@ -215,7 +236,7 @@
       "status": "pre_game",
       "player": "Kirk Cousins",
       "stat": "Pass Completions",
-      "line": "22",
+      "line": "22.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -226,15 +247,15 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5214,
+      "rank": 5975,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17188799",
-      "playerId": "246528",
+      "projectionId": "17187557",
+      "playerId": "336525",
       "status": "pre_game",
-      "player": "Tai Felton",
+      "player": "Jauan Jennings",
       "stat": "Receiving Yards",
       "line": "20.5",
       "sport": "NFL",
@@ -247,16 +268,16 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5223,
+      "rank": 5985,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17187557",
-      "playerId": "336525",
+      "projectionId": "17188726",
+      "playerId": "217134",
       "status": "pre_game",
-      "player": "Jauan Jennings",
-      "stat": "Receiving Yards",
+      "player": "T.J. Hockenson",
+      "stat": "Longest Reception",
       "line": "19.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
@@ -268,9 +289,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5246,
+      "rank": 6011,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17073641",
@@ -289,37 +310,16 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5263,
+      "rank": 6023,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17188726",
-      "playerId": "217134",
-      "status": "pre_game",
-      "player": "T.J. Hockenson",
-      "stat": "Longest Reception",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 5269,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
-    },
-    {
-      "projectionId": "17188800",
+      "projectionId": "17188799",
       "playerId": "246528",
       "status": "pre_game",
       "player": "Tai Felton",
-      "stat": "Longest Reception",
+      "stat": "Receiving Yards",
       "line": "14.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
@@ -331,30 +331,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5285,
+      "rank": 6047,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
-    },
-    {
-      "projectionId": "17068360",
-      "playerId": "246524",
-      "status": "pre_game",
-      "player": "Jordan Mason",
-      "stat": "Rush Attempts",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 07:20 PM CST",
-      "startTimeCST": "11/22/26 07:20 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Minnesota Vikings",
-      "teamCode": "MIN",
-      "Opponent": "San Francisco 49ers",
-      "opponentCode": "SF",
-      "rank": 5295,
-      "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17188112",
@@ -373,9 +352,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5299,
+      "rank": 6066,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17188800",
+      "playerId": "246528",
+      "status": "pre_game",
+      "player": "Tai Felton",
+      "stat": "Longest Reception",
+      "line": "11.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 6072,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17173303",
@@ -394,9 +394,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5307,
+      "rank": 6076,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17210458",
@@ -415,9 +415,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5308,
+      "rank": 6077,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068352",
@@ -436,9 +436,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5312,
+      "rank": 6083,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068387",
@@ -457,9 +457,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5315,
+      "rank": 6086,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068413",
@@ -478,17 +478,17 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5316,
+      "rank": 6087,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17068385",
-      "playerId": "210958",
+      "projectionId": "17255964",
+      "playerId": "336528",
       "status": "pre_game",
-      "player": "Aaron Jones Sr.",
-      "stat": "Longest Reception",
-      "line": "8.5",
+      "player": "Myles Price",
+      "stat": "Receiving Yards",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -499,9 +499,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5338,
+      "rank": 6107,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17073654",
@@ -520,9 +520,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5340,
+      "rank": 6114,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17256109",
+      "playerId": "336528",
+      "status": "pre_game",
+      "player": "Myles Price",
+      "stat": "Longest Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 6120,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17077314",
@@ -541,9 +562,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5351,
+      "rank": 6128,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17140369",
+      "playerId": "210958",
+      "status": "pre_game",
+      "player": "Aaron Jones Sr.",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 6129,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17108249",
@@ -562,17 +604,17 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5353,
+      "rank": 6133,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17068384",
-      "playerId": "246524",
+      "projectionId": "17248402",
+      "playerId": "363337",
       "status": "pre_game",
-      "player": "Jordan Mason",
-      "stat": "Longest Reception",
-      "line": "4.5",
+      "player": "Kirk Cousins",
+      "stat": "Consecutive Pass Completions",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
       "startTimeCST": "11/22/26 07:20 PM CST",
@@ -583,9 +625,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5374,
+      "rank": 6155,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17209090",
@@ -604,9 +646,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5394,
+      "rank": 6185,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17252345",
+      "playerId": "343572",
+      "status": "pre_game",
+      "player": "Brett Thorson",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 6186,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17068524",
@@ -625,9 +688,9 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5401,
+      "rank": 6194,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17073657",
@@ -646,9 +709,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5403,
+      "rank": 6196,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17068345",
+      "playerId": "363337",
+      "status": "pre_game",
+      "player": "Kirk Cousins",
+      "stat": "Longest Rush",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 6209,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17173302",
@@ -667,9 +751,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5424,
+      "rank": 6218,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17248398",
+      "playerId": "363337",
+      "status": "pre_game",
+      "player": "Kirk Cousins",
+      "stat": "Sacks Taken",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 6230,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
       "projectionId": "17061836",
@@ -688,16 +793,16 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5438,
+      "rank": 6238,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     },
     {
-      "projectionId": "17188716",
-      "playerId": "363337",
+      "projectionId": "17252357",
+      "playerId": "343572",
       "status": "pre_game",
-      "player": "Kirk Cousins",
-      "stat": "Rush Attempts",
+      "player": "Brett Thorson",
+      "stat": "Punts Inside 20",
       "line": "1.5",
       "sport": "NFL",
       "startTime": "11/22/26 07:20 PM CST",
@@ -709,9 +814,30 @@
       "teamCode": "MIN",
       "Opponent": "San Francisco 49ers",
       "opponentCode": "SF",
-      "rank": 5462,
+      "rank": 6264,
       "gameId": "198562",
-      "providerFetchedAt": "2026-11-20T12:05:03.798Z"
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+    },
+    {
+      "projectionId": "17256038",
+      "playerId": "246528",
+      "status": "pre_game",
+      "player": "Tai Felton",
+      "stat": "Receptions",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 07:20 PM CST",
+      "startTimeCST": "11/22/26 07:20 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Minnesota Vikings",
+      "teamCode": "MIN",
+      "Opponent": "San Francisco 49ers",
+      "opponentCode": "SF",
+      "rank": 6267,
+      "gameId": "198562",
+      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
     }
   ]
 }
