@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-21T12:06:05.268Z",
-  "scrapedDate": "Saturday, November 21, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-22T12:05:56.767Z",
+  "scrapedDate": "Sunday, November 22, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1042,
-    "sourceCount": 7031,
-    "acceptedCount": 1042,
-    "excludedCount": 5989,
+    "count": 1097,
+    "sourceCount": 7935,
+    "acceptedCount": 1097,
+    "excludedCount": 6838,
     "rejectedCount": 0,
-    "publishedCount": 1042,
-    "providerFetchedAt": "2026-11-21T12:04:56.550Z",
+    "publishedCount": 1097,
+    "providerFetchedAt": "2026-11-22T12:04:47.670Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Los Angeles Chargers",
-  "totalProps": 34,
+  "totalProps": 38,
   "props": [
     {
       "projectionId": "17118346",
@@ -37,9 +37,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4093,
+      "rank": 4539,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17248369",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Passer Rating",
-      "line": "94.5",
+      "line": "93.6",
       "sport": "NFL",
       "startTime": "11/22/26 03:05 PM CST",
       "startTimeCST": "11/22/26 03:05 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4118,
+      "rank": 4567,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17187954",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Completion Percentage",
-      "line": "64.9",
+      "line": "67.3",
       "sport": "NFL",
       "startTime": "11/22/26 03:05 PM CST",
       "startTimeCST": "11/22/26 03:05 PM CST",
@@ -79,9 +79,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4145,
+      "rank": 4592,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118376",
@@ -100,9 +100,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4146,
+      "rank": 4596,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118409",
@@ -110,7 +110,7 @@
       "status": "pre_game",
       "player": "Tre' Harris",
       "stat": "Receiving Yards",
-      "line": "46.5",
+      "line": "41.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:05 PM CST",
       "startTimeCST": "11/22/26 03:05 PM CST",
@@ -121,9 +121,30 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4175,
+      "rank": 4637,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17289169",
+      "playerId": "211424",
+      "status": "pre_game",
+      "player": "Ladd McConkey",
+      "stat": "Receiving Yards",
+      "line": "39.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4655,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118343",
@@ -131,7 +152,7 @@
       "status": "pre_game",
       "player": "Justin Herbert",
       "stat": "Longest Completion",
-      "line": "33.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:05 PM CST",
       "startTimeCST": "11/22/26 03:05 PM CST",
@@ -142,9 +163,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4200,
+      "rank": 4662,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118336",
@@ -163,9 +184,30 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4234,
+      "rank": 4697,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17289162",
+      "playerId": "169519",
+      "status": "pre_game",
+      "player": "Quentin Johnston",
+      "stat": "Receiving Yards",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4721,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118344",
@@ -184,30 +226,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4254,
+      "rank": 4723,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17187359",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Rush Yards in First 5 Attempts",
-      "line": "20.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:05 PM CST",
-      "startTimeCST": "11/22/26 03:05 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 4261,
-      "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118406",
@@ -226,9 +247,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4278,
+      "rank": 4746,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118342",
@@ -247,9 +268,51 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4295,
+      "rank": 4770,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17187359",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4771,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17290904",
+      "playerId": "211424",
+      "status": "pre_game",
+      "player": "Ladd McConkey",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4775,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118366",
@@ -268,9 +331,30 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4304,
+      "rank": 4783,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17290918",
+      "playerId": "169519",
+      "status": "pre_game",
+      "player": "Quentin Johnston",
+      "stat": "Longest Reception",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4787,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118368",
@@ -289,9 +373,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4310,
+      "rank": 4789,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17174622",
@@ -310,9 +394,30 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4331,
+      "rank": 4815,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17286926",
+      "playerId": "336276",
+      "status": "pre_game",
+      "player": "Charlie Kolar",
+      "stat": "Receiving Yards",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4820,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118338",
@@ -331,9 +436,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4341,
+      "rank": 4830,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17174623",
@@ -352,16 +457,16 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4343,
+      "rank": 4832,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
-      "projectionId": "17182510",
-      "playerId": "336552",
+      "projectionId": "17286924",
+      "playerId": "336276",
       "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Receiving Yards",
+      "player": "Charlie Kolar",
+      "stat": "Longest Reception",
       "line": "10.5",
       "sport": "NFL",
       "startTime": "11/22/26 03:05 PM CST",
@@ -373,51 +478,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4351,
+      "rank": 4844,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17182521",
-      "playerId": "216816",
-      "status": "pre_game",
-      "player": "Kimani Vidal",
-      "stat": "Receiving Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:05 PM CST",
-      "startTimeCST": "11/22/26 03:05 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 4391,
-      "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17182524",
-      "playerId": "336552",
-      "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:05 PM CST",
-      "startTimeCST": "11/22/26 03:05 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 4392,
-      "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17181142",
@@ -436,9 +499,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4401,
+      "rank": 4897,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17182506",
@@ -457,9 +520,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4402,
+      "rank": 4899,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17182508",
@@ -478,9 +541,72 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4403,
+      "rank": 4900,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17182510",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4901,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17182521",
+      "playerId": "216816",
+      "status": "pre_game",
+      "player": "Kimani Vidal",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4902,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17182524",
+      "playerId": "336552",
+      "status": "pre_game",
+      "player": "Keaton Mitchell",
+      "stat": "Longest Reception",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4903,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118381",
@@ -499,9 +625,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4413,
+      "rank": 4921,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118384",
@@ -520,9 +646,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4414,
+      "rank": 4922,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17182515",
@@ -541,9 +667,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4417,
+      "rank": 4924,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17118334",
@@ -562,30 +688,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4427,
+      "rank": 4940,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17187360",
-      "playerId": "244038",
-      "status": "pre_game",
-      "player": "Omarion Hampton",
-      "stat": "Rush Yards Per Carry",
-      "line": "4",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:05 PM CST",
-      "startTimeCST": "11/22/26 03:05 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 4451,
-      "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17252339",
@@ -604,9 +709,30 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4453,
+      "rank": 4984,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17187360",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.8",
+      "sport": "NFL",
+      "startTime": "11/22/26 03:05 PM CST",
+      "startTimeCST": "11/22/26 03:05 PM CST",
+      "startDateCST": "2026-11-22",
+      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New York Jets",
+      "opponentCode": "NYJ",
+      "rank": 4986,
+      "gameId": "198301",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17182511",
@@ -625,9 +751,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4469,
+      "rank": 5001,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17248393",
@@ -646,30 +772,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4482,
+      "rank": 5029,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17188975",
-      "playerId": "336552",
-      "status": "pre_game",
-      "player": "Keaton Mitchell",
-      "stat": "Receptions",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:05 PM CST",
-      "startTimeCST": "11/22/26 03:05 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 4510,
-      "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17249410",
@@ -688,9 +793,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4517,
+      "rank": 5074,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17252352",
@@ -709,30 +814,9 @@
       "teamCode": "LAC",
       "Opponent": "New York Jets",
       "opponentCode": "NYJ",
-      "rank": 4518,
+      "rank": 5076,
       "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17261207",
-      "playerId": "154135",
-      "status": "pre_game",
-      "player": "Khalil Mack",
-      "stat": "Sacks",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/22/26 03:05 PM CST",
-      "startTimeCST": "11/22/26 03:05 PM CST",
-      "startDateCST": "2026-11-22",
-      "startTimeIso": "2026-11-22T16:05:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Los Angeles Chargers",
-      "teamCode": "LAC",
-      "Opponent": "New York Jets",
-      "opponentCode": "NYJ",
-      "rank": 4565,
-      "gameId": "198301",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     }
   ]
 }

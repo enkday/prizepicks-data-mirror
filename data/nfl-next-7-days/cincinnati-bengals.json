@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-21T12:06:05.268Z",
-  "scrapedDate": "Saturday, November 21, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-22T12:05:56.767Z",
+  "scrapedDate": "Sunday, November 22, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 1042,
-    "sourceCount": 7031,
-    "acceptedCount": 1042,
-    "excludedCount": 5989,
+    "count": 1097,
+    "sourceCount": 7935,
+    "acceptedCount": 1097,
+    "excludedCount": 6838,
     "rejectedCount": 0,
-    "publishedCount": 1042,
-    "providerFetchedAt": "2026-11-21T12:04:56.550Z",
+    "publishedCount": 1097,
+    "providerFetchedAt": "2026-11-22T12:04:47.670Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Cincinnati Bengals",
-  "totalProps": 39,
+  "totalProps": 38,
   "props": [
     {
       "projectionId": "17061855",
@@ -37,9 +37,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6345,
+      "rank": 7140,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17248376",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Passer Rating",
-      "line": "110.5",
+      "line": "111.1",
       "sport": "NFL",
       "startTime": "11/23/26 07:15 PM CST",
       "startTimeCST": "11/23/26 07:15 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6375,
+      "rank": 7169,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17062838",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Ja'Marr Chase",
       "stat": "Receiving Yards",
-      "line": "96.5",
+      "line": "94.5",
       "sport": "NFL",
       "startTime": "11/23/26 07:15 PM CST",
       "startTimeCST": "11/23/26 07:15 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6383,
+      "rank": 7182,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17074797",
+      "playerId": "210964",
+      "status": "pre_game",
+      "player": "Joe Burrow",
+      "stat": "Completion Percentage",
+      "line": "76",
+      "sport": "NFL",
+      "startTime": "11/23/26 07:15 PM CST",
+      "startTimeCST": "11/23/26 07:15 PM CST",
+      "startDateCST": "2026-11-23",
+      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 7190,
+      "gameId": "198875",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17062839",
@@ -100,30 +121,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6394,
+      "rank": 7191,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17074797",
-      "playerId": "210964",
-      "status": "pre_game",
-      "player": "Joe Burrow",
-      "stat": "Completion Percentage",
-      "line": "73.3",
-      "sport": "NFL",
-      "startTime": "11/23/26 07:15 PM CST",
-      "startTimeCST": "11/23/26 07:15 PM CST",
-      "startDateCST": "2026-11-23",
-      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6396,
-      "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17061966",
@@ -142,9 +142,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6441,
+      "rank": 7241,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086496",
@@ -163,9 +163,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6449,
+      "rank": 7248,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17074773",
@@ -184,9 +184,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6469,
+      "rank": 7273,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17074758",
@@ -205,9 +205,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6510,
+      "rank": 7318,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086478",
@@ -226,9 +226,30 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6512,
+      "rank": 7320,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17072793",
+      "playerId": "212331",
+      "status": "pre_game",
+      "player": "Mike Gesicki",
+      "stat": "Receiving Yards",
+      "line": "26.5",
+      "sport": "NFL",
+      "startTime": "11/23/26 07:15 PM CST",
+      "startTimeCST": "11/23/26 07:15 PM CST",
+      "startDateCST": "2026-11-23",
+      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 7321,
+      "gameId": "198875",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17062840",
@@ -247,9 +268,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6517,
+      "rank": 7325,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086519",
@@ -257,27 +278,6 @@
       "status": "pre_game",
       "player": "Tee Higgins",
       "stat": "Longest Reception",
-      "line": "25.5",
-      "sport": "NFL",
-      "startTime": "11/23/26 07:15 PM CST",
-      "startTimeCST": "11/23/26 07:15 PM CST",
-      "startDateCST": "2026-11-23",
-      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6520,
-      "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17072793",
-      "playerId": "212331",
-      "status": "pre_game",
-      "player": "Mike Gesicki",
-      "stat": "Receiving Yards",
       "line": "24.5",
       "sport": "NFL",
       "startTime": "11/23/26 07:15 PM CST",
@@ -289,9 +289,30 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6521,
+      "rank": 7330,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17287590",
+      "playerId": "342397",
+      "status": "pre_game",
+      "player": "Dohnte Meyers",
+      "stat": "Receiving Yards",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/23/26 07:15 PM CST",
+      "startTimeCST": "11/23/26 07:15 PM CST",
+      "startDateCST": "2026-11-23",
+      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 7343,
+      "gameId": "198875",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17072035",
@@ -310,9 +331,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6539,
+      "rank": 7346,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086543",
@@ -331,9 +352,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6574,
+      "rank": 7388,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086477",
@@ -352,9 +373,30 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6589,
+      "rank": 7400,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17287591",
+      "playerId": "342397",
+      "status": "pre_game",
+      "player": "Dohnte Meyers",
+      "stat": "Longest Reception",
+      "line": "13.5",
+      "sport": "NFL",
+      "startTime": "11/23/26 07:15 PM CST",
+      "startTimeCST": "11/23/26 07:15 PM CST",
+      "startDateCST": "2026-11-23",
+      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 7417,
+      "gameId": "198875",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086443",
@@ -373,30 +415,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6604,
+      "rank": 7422,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17081370",
-      "playerId": "211234",
-      "status": "pre_game",
-      "player": "Chase Brown",
-      "stat": "Rush Attempts",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "11/23/26 07:15 PM CST",
-      "startTimeCST": "11/23/26 07:15 PM CST",
-      "startDateCST": "2026-11-23",
-      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6610,
-      "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17210462",
@@ -415,9 +436,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6611,
+      "rank": 7430,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086482",
@@ -436,9 +457,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6617,
+      "rank": 7436,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17210461",
@@ -457,30 +478,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6620,
+      "rank": 7439,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17087992",
-      "playerId": "249686",
-      "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Longest Rush",
-      "line": "9.5",
-      "sport": "NFL",
-      "startTime": "11/23/26 07:15 PM CST",
-      "startTimeCST": "11/23/26 07:15 PM CST",
-      "startDateCST": "2026-11-23",
-      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6633,
-      "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17248517",
@@ -488,7 +488,7 @@
       "status": "pre_game",
       "player": "Evan McPherson",
       "stat": "Kicking Points",
-      "line": "9.5",
+      "line": "9",
       "sport": "NFL",
       "startTime": "11/23/26 07:15 PM CST",
       "startTimeCST": "11/23/26 07:15 PM CST",
@@ -499,9 +499,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6648,
+      "rank": 7486,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086435",
@@ -520,9 +520,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6656,
+      "rank": 7490,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086499",
@@ -541,9 +541,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6659,
+      "rank": 7498,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17061838",
@@ -562,9 +562,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6660,
+      "rank": 7499,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17248404",
@@ -572,7 +572,7 @@
       "status": "pre_game",
       "player": "Joe Burrow",
       "stat": "Consecutive Pass Completions",
-      "line": "7.5",
+      "line": "7",
       "sport": "NFL",
       "startTime": "11/23/26 07:15 PM CST",
       "startTimeCST": "11/23/26 07:15 PM CST",
@@ -583,9 +583,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6668,
+      "rank": 7516,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086493",
@@ -604,9 +604,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6676,
+      "rank": 7519,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086510",
@@ -625,72 +625,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6678,
+      "rank": 7520,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17086517",
-      "playerId": "249686",
-      "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Receiving Yards",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/23/26 07:15 PM CST",
-      "startTimeCST": "11/23/26 07:15 PM CST",
-      "startDateCST": "2026-11-23",
-      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6679,
-      "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17130538",
-      "playerId": "249686",
-      "status": "pre_game",
-      "player": "Samaje Perine",
-      "stat": "Rush Attempts",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/23/26 07:15 PM CST",
-      "startTimeCST": "11/23/26 07:15 PM CST",
-      "startDateCST": "2026-11-23",
-      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6681,
-      "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
-    },
-    {
-      "projectionId": "17072568",
-      "playerId": "152593",
-      "status": "pre_game",
-      "player": "Tee Higgins",
-      "stat": "Receptions",
-      "line": "5.5",
-      "sport": "NFL",
-      "startTime": "11/23/26 07:15 PM CST",
-      "startTimeCST": "11/23/26 07:15 PM CST",
-      "startDateCST": "2026-11-23",
-      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Cincinnati Bengals",
-      "teamCode": "CIN",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 6684,
-      "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086503",
@@ -709,9 +646,30 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6692,
+      "rank": 7541,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17086517",
+      "playerId": "249686",
+      "status": "pre_game",
+      "player": "Samaje Perine",
+      "stat": "Receiving Yards",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/23/26 07:15 PM CST",
+      "startTimeCST": "11/23/26 07:15 PM CST",
+      "startDateCST": "2026-11-23",
+      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 7542,
+      "gameId": "198875",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086525",
@@ -730,9 +688,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6715,
+      "rank": 7578,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17071889",
@@ -751,9 +709,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6736,
+      "rank": 7603,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17086538",
@@ -772,9 +730,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6743,
+      "rank": 7610,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17252389",
@@ -793,9 +751,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6752,
+      "rank": 7619,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17248400",
@@ -814,9 +772,9 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6753,
+      "rank": 7626,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     },
     {
       "projectionId": "17046815",
@@ -835,9 +793,30 @@
       "teamCode": "CIN",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 6793,
+      "rank": 7681,
       "gameId": "198875",
-      "providerFetchedAt": "2026-11-21T12:04:56.550Z"
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
+    },
+    {
+      "projectionId": "17288860",
+      "playerId": "342577",
+      "status": "pre_game",
+      "player": "Boye Mafe",
+      "stat": "Sacks",
+      "line": "0.25",
+      "sport": "NFL",
+      "startTime": "11/23/26 07:15 PM CST",
+      "startTimeCST": "11/23/26 07:15 PM CST",
+      "startDateCST": "2026-11-23",
+      "startTimeIso": "2026-11-23T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Cincinnati Bengals",
+      "teamCode": "CIN",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 7725,
+      "gameId": "198875",
+      "providerFetchedAt": "2026-11-22T12:04:47.670Z"
     }
   ]
 }
