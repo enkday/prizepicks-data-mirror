@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "204536",
-    "sport": "NCAAF",
-    "startTime": "11/24/26 06:00 PM CST",
-    "startTimeIso": "2026-11-24T18:00:00-06:00",
+    "gameId": "199449",
+    "sport": "NFL",
+    "startTime": "11/25/26 07:00 PM CST",
+    "startTimeIso": "2026-11-25T19:00:00-06:00",
     "teams": [
-      "Miami (OH) RedHawks",
-      "Western Michigan Broncos"
+      "Green Bay Packers",
+      "Los Angeles Rams"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-11-24T18:00:00-06:00"
+      "2026-11-25T19:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Miami (OH) RedHawks",
-        "Western Michigan Broncos"
+        "Green Bay Packers",
+        "Los Angeles Rams"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,23 +24,71 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "198882",
-    "sport": "NCAAF",
-    "startTime": "11/24/26 06:00 PM CST",
-    "startTimeIso": "2026-11-24T18:00:00-06:00",
+    "gameId": "199187",
+    "sport": "NBA",
+    "startTime": "11/25/26 04:00 PM CST",
+    "startTimeIso": "2026-11-25T16:00:00-06:00",
     "teams": [
-      "Eastern Michigan Eagles",
-      "Kent State Golden Flashes"
+      "Miami Heat",
+      "Philadelphia 76ers"
     ],
     "slate": "Late",
     "dayBranch": "tomorrow",
     "startTimeObservations": [
-      "2026-11-24T18:00:00-06:00"
+      "2026-11-25T16:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Eastern Michigan Eagles",
-        "Kent State Golden Flashes"
+        "Miami Heat",
+        "Philadelphia 76ers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199483",
+    "sport": "NBA",
+    "startTime": "11/25/26 06:30 PM CST",
+    "startTimeIso": "2026-11-25T18:30:00-06:00",
+    "teams": [
+      "Minnesota Timberwolves",
+      "Oklahoma City Thunder"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-11-25T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Minnesota Timberwolves",
+        "Oklahoma City Thunder"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199484",
+    "sport": "NBA",
+    "startTime": "11/25/26 06:30 PM CST",
+    "startTimeIso": "2026-11-25T18:30:00-06:00",
+    "teams": [
+      "Cleveland Cavaliers",
+      "New York Knicks"
+    ],
+    "slate": "Late",
+    "dayBranch": "tomorrow",
+    "startTimeObservations": [
+      "2026-11-25T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Cleveland Cavaliers",
+        "New York Knicks"
       ]
     ],
     "sourceEventConflict": false,

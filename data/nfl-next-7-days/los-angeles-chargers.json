@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-11-24T12:07:06.158Z",
+  "scrapedDate": "Tuesday, November 24, 2026 at 06:07 AM CST",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NFL",
+    "ok": true,
+    "status": 200,
+    "count": 818,
+    "sourceCount": 5064,
+    "acceptedCount": 818,
+    "excludedCount": 4246,
+    "rejectedCount": 0,
+    "publishedCount": 818,
+    "providerFetchedAt": "2026-11-24T12:05:16.203Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NFL",
+  "day": "next-7-days",
+  "team": "Los Angeles Chargers",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "17372073",
+      "playerId": "244038",
+      "status": "pre_game",
+      "player": "Omarion Hampton",
+      "stat": "Rush Yards",
+      "line": "61.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:05 PM CST",
+      "startTimeCST": "11/29/26 03:05 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:05:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Los Angeles Chargers",
+      "teamCode": "LAC",
+      "Opponent": "New England Patriots",
+      "opponentCode": "NE",
+      "rank": 4034,
+      "gameId": "200736",
+      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "fd1df20db1db8f07b81e8b3f5c0ca4073de9252f020d7a096d9c845722812430",
+  "sourceScrapedAt": "2026-11-24T12:07:06.158Z",
+  "sourceScrapedDate": "Tuesday, November 24, 2026 at 06:07 AM CST",
+  "observedDate": "2026-11-25",
+  "completeness": "reported",
+  "sport": "NBA",
+  "sportSlug": "nba",
+  "dayBranch": "tomorrow",
+  "gameCount": 3,
+  "propCount": 50,
+  "games": [
+    {
+      "gameId": "199187",
+      "slate": "Late",
+      "startTime": "11/25/26 04:00 PM CST",
+      "startTimeIso": "2026-11-25T16:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Miami Heat",
+        "Philadelphia 76ers"
+      ],
+      "propCount": 18,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/199187.json"
+    },
+    {
+      "gameId": "199483",
+      "slate": "Late",
+      "startTime": "11/25/26 06:30 PM CST",
+      "startTimeIso": "2026-11-25T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Minnesota Timberwolves",
+        "Oklahoma City Thunder"
+      ],
+      "propCount": 17,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/199483.json"
+    },
+    {
+      "gameId": "199484",
+      "slate": "Late",
+      "startTime": "11/25/26 06:30 PM CST",
+      "startTimeIso": "2026-11-25T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Cleveland Cavaliers",
+        "New York Knicks"
+      ],
+      "propCount": 15,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-game/199484.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 50,
+      "path": "/data/hierarchy/tomorrow/nba/props-by-slate/late.json"
+    }
+  ]
+}
