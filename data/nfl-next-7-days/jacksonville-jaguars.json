@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-24T12:07:06.158Z",
-  "scrapedDate": "Tuesday, November 24, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-25T12:06:38.055Z",
+  "scrapedDate": "Wednesday, November 25, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 818,
-    "sourceCount": 5064,
-    "acceptedCount": 818,
-    "excludedCount": 4246,
+    "count": 959,
+    "sourceCount": 6580,
+    "acceptedCount": 959,
+    "excludedCount": 5621,
     "rejectedCount": 0,
-    "publishedCount": 818,
-    "providerFetchedAt": "2026-11-24T12:05:16.203Z",
+    "publishedCount": 959,
+    "providerFetchedAt": "2026-11-25T12:05:27.940Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Jacksonville Jaguars",
-  "totalProps": 22,
+  "totalProps": 24,
   "props": [
     {
       "projectionId": "17371822",
@@ -37,9 +37,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3144,
+      "rank": 3989,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17372140",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Parker Washington",
       "stat": "Receiving Yards",
-      "line": "78.5",
+      "line": "77.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3175,
+      "rank": 4020,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17372142",
@@ -79,9 +79,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3210,
+      "rank": 4054,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400151",
@@ -100,9 +100,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3219,
+      "rank": 4063,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400074",
@@ -121,9 +121,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3237,
+      "rank": 4081,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17372141",
@@ -142,9 +142,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3238,
+      "rank": 4082,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400176",
@@ -163,9 +163,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3269,
+      "rank": 4114,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400057",
@@ -184,9 +184,30 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3276,
+      "rank": 4119,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17413100",
+      "playerId": "210950",
+      "status": "pre_game",
+      "player": "Trevor Lawrence",
+      "stat": "Pass Completions",
+      "line": "21.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 4120,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400169",
@@ -205,30 +226,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3308,
+      "rank": 4152,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
-    },
-    {
-      "projectionId": "17400220",
-      "playerId": "212842",
-      "status": "pre_game",
-      "player": "Brian Thomas Jr.",
-      "stat": "Receiving Yards",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 12:00 PM CST",
-      "startTimeCST": "11/29/26 12:00 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Jacksonville Jaguars",
-      "teamCode": "JAC",
-      "Opponent": "Tennessee Titans",
-      "opponentCode": "TEN",
-      "rank": 3309,
-      "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400255",
@@ -247,9 +247,30 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3310,
+      "rank": 4153,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17400220",
+      "playerId": "212842",
+      "status": "pre_game",
+      "player": "Brian Thomas Jr.",
+      "stat": "Receiving Yards",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 4155,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400142",
@@ -268,9 +289,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3316,
+      "rank": 4160,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400279",
@@ -289,9 +310,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3317,
+      "rank": 4161,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17371808",
@@ -310,9 +331,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3320,
+      "rank": 4164,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400232",
@@ -331,9 +352,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3323,
+      "rank": 4166,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400039",
@@ -352,9 +373,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3324,
+      "rank": 4168,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400102",
@@ -373,9 +394,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3325,
+      "rank": 4169,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400124",
@@ -394,9 +415,30 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3326,
+      "rank": 4170,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17423210",
+      "playerId": "211198",
+      "status": "pre_game",
+      "player": "Cam Little",
+      "stat": "Kicking Points",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Jacksonville Jaguars",
+      "teamCode": "JAC",
+      "Opponent": "Tennessee Titans",
+      "opponentCode": "TEN",
+      "rank": 4173,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400162",
@@ -415,9 +457,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3331,
+      "rank": 4176,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400068",
@@ -436,9 +478,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3369,
+      "rank": 4211,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400133",
@@ -457,9 +499,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3383,
+      "rank": 4225,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17400038",
@@ -478,9 +520,9 @@
       "teamCode": "JAC",
       "Opponent": "Tennessee Titans",
       "opponentCode": "TEN",
-      "rank": 3416,
+      "rank": 4259,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     }
   ]
 }

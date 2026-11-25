@@ -1,74 +1,32 @@
 {
-  "scrapedAt": "2026-11-24T12:07:06.158Z",
-  "scrapedDate": "Tuesday, November 24, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-25T12:06:38.055Z",
+  "scrapedDate": "Wednesday, November 25, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 818,
-    "sourceCount": 5064,
-    "acceptedCount": 818,
-    "excludedCount": 4246,
+    "count": 959,
+    "sourceCount": 6580,
+    "acceptedCount": 959,
+    "excludedCount": 5621,
     "rejectedCount": 0,
-    "publishedCount": 818,
-    "providerFetchedAt": "2026-11-24T12:05:16.203Z",
+    "publishedCount": 959,
+    "providerFetchedAt": "2026-11-25T12:05:27.940Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Dallas Cowboys",
-  "totalProps": 43,
+  "totalProps": 47,
   "props": [
-    {
-      "projectionId": "17333201",
-      "playerId": "211139",
-      "status": "pre_game",
-      "player": "CeeDee Lamb",
-      "stat": "Anytime TDs",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/26/26 03:30 PM CST",
-      "startTimeCST": "11/26/26 03:30 PM CST",
-      "startDateCST": "2026-11-26",
-      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1274,
-      "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
-    },
-    {
-      "projectionId": "17332713",
-      "playerId": "244045",
-      "status": "pre_game",
-      "player": "George Pickens",
-      "stat": "Anytime TDs",
-      "line": "0.5",
-      "sport": "NFL",
-      "startTime": "11/26/26 03:30 PM CST",
-      "startTimeCST": "11/26/26 03:30 PM CST",
-      "startDateCST": "2026-11-26",
-      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1275,
-      "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
-    },
     {
       "projectionId": "17332882",
       "playerId": "211072",
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Pass Yards",
-      "line": "260.5",
+      "line": "261.5",
       "sport": "NFL",
       "startTime": "11/26/26 03:30 PM CST",
       "startTimeCST": "11/26/26 03:30 PM CST",
@@ -79,9 +37,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1293,
+      "rank": 1505,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17332851",
@@ -100,9 +58,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1338,
+      "rank": 1551,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17332896",
@@ -110,7 +68,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Rush Yards",
-      "line": "76.5",
+      "line": "75.5",
       "sport": "NFL",
       "startTime": "11/26/26 03:30 PM CST",
       "startTimeCST": "11/26/26 03:30 PM CST",
@@ -121,9 +79,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1349,
+      "rank": 1564,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17332857",
@@ -142,9 +100,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1354,
+      "rank": 1568,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17339010",
@@ -163,9 +121,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1364,
+      "rank": 1581,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17363195",
@@ -173,7 +131,7 @@
       "status": "pre_game",
       "player": "Dak Prescott",
       "stat": "Longest Completion",
-      "line": "37.5",
+      "line": "38.5",
       "sport": "NFL",
       "startTime": "11/26/26 03:30 PM CST",
       "startTimeCST": "11/26/26 03:30 PM CST",
@@ -184,9 +142,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1417,
+      "rank": 1630,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17339012",
@@ -205,9 +163,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1423,
+      "rank": 1640,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17332808",
@@ -226,9 +184,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1433,
+      "rank": 1647,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17341133",
@@ -247,9 +205,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1462,
+      "rank": 1683,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17341134",
@@ -268,9 +226,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1467,
+      "rank": 1687,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17339007",
@@ -289,9 +247,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1482,
+      "rank": 1703,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17339880",
@@ -310,9 +268,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1500,
+      "rank": 1721,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17340232",
@@ -331,9 +289,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1521,
+      "rank": 1752,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17363190",
@@ -352,9 +310,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1525,
+      "rank": 1756,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17341129",
@@ -373,9 +331,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1528,
+      "rank": 1757,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17384388",
@@ -383,6 +341,27 @@
       "status": "pre_game",
       "player": "Brevyn Spann-Ford",
       "stat": "Receiving Yards",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1785,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17438051",
+      "playerId": "367970",
+      "status": "pre_game",
+      "player": "Jashaun Corbin",
+      "stat": "Rush Yards",
       "line": "13.5",
       "sport": "NFL",
       "startTime": "11/26/26 03:30 PM CST",
@@ -394,9 +373,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1560,
+      "rank": 1791,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17368895",
@@ -415,9 +394,30 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1573,
+      "rank": 1805,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17339190",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Rush Yards",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1813,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17384610",
@@ -436,30 +436,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1596,
+      "rank": 1829,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
-    },
-    {
-      "projectionId": "17339190",
-      "playerId": "211072",
-      "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Rush Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/26/26 03:30 PM CST",
-      "startTimeCST": "11/26/26 03:30 PM CST",
-      "startDateCST": "2026-11-26",
-      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1601,
-      "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17363376",
@@ -478,9 +457,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1602,
+      "rank": 1838,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17368896",
@@ -499,9 +478,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1604,
+      "rank": 1841,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17332869",
@@ -520,9 +499,51 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1611,
+      "rank": 1848,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17363189",
+      "playerId": "211072",
+      "status": "pre_game",
+      "player": "Dak Prescott",
+      "stat": "Longest Rush",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1851,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17438043",
+      "playerId": "367970",
+      "status": "pre_game",
+      "player": "Jashaun Corbin",
+      "stat": "Longest Rush",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1854,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17372749",
@@ -541,9 +562,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1617,
+      "rank": 1857,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17339009",
@@ -562,9 +583,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1623,
+      "rank": 1865,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17341456",
@@ -583,30 +604,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1625,
+      "rank": 1868,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
-    },
-    {
-      "projectionId": "17363189",
-      "playerId": "211072",
-      "status": "pre_game",
-      "player": "Dak Prescott",
-      "stat": "Longest Rush",
-      "line": "6.5",
-      "sport": "NFL",
-      "startTime": "11/26/26 03:30 PM CST",
-      "startTimeCST": "11/26/26 03:30 PM CST",
-      "startDateCST": "2026-11-26",
-      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1626,
-      "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17363227",
@@ -625,9 +625,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1627,
+      "rank": 1869,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17371425",
@@ -635,7 +635,7 @@
       "status": "pre_game",
       "player": "KaVontae Turpin",
       "stat": "Receiving Yards",
-      "line": "6.5",
+      "line": "5.5",
       "sport": "NFL",
       "startTime": "11/26/26 03:30 PM CST",
       "startTimeCST": "11/26/26 03:30 PM CST",
@@ -646,9 +646,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1629,
+      "rank": 1887,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17381478",
@@ -667,9 +667,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1645,
+      "rank": 1888,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17332839",
@@ -688,9 +688,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1649,
+      "rank": 1899,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17368898",
@@ -709,30 +709,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1659,
+      "rank": 1909,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
-    },
-    {
-      "projectionId": "17371432",
-      "playerId": "214497",
-      "status": "pre_game",
-      "player": "KaVontae Turpin",
-      "stat": "Rush Yards",
-      "line": "4.5",
-      "sport": "NFL",
-      "startTime": "11/26/26 03:30 PM CST",
-      "startTimeCST": "11/26/26 03:30 PM CST",
-      "startDateCST": "2026-11-26",
-      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Dallas Cowboys",
-      "teamCode": "DAL",
-      "Opponent": "Philadelphia Eagles",
-      "opponentCode": "PHI",
-      "rank": 1660,
-      "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17374178",
@@ -751,9 +730,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1661,
+      "rank": 1910,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17339879",
@@ -761,7 +740,7 @@
       "status": "pre_game",
       "player": "Javonte Williams",
       "stat": "Rush Yards Per Carry",
-      "line": "3.9",
+      "line": "3.8",
       "sport": "NFL",
       "startTime": "11/26/26 03:30 PM CST",
       "startTimeCST": "11/26/26 03:30 PM CST",
@@ -772,9 +751,30 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1670,
+      "rank": 1926,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17371432",
+      "playerId": "214497",
+      "status": "pre_game",
+      "player": "KaVontae Turpin",
+      "stat": "Rush Yards",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1937,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17385548",
@@ -793,9 +793,30 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1681,
+      "rank": 1940,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17444614",
+      "playerId": "367970",
+      "status": "pre_game",
+      "player": "Jashaun Corbin",
+      "stat": "Rush Attempts",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 1949,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17369103",
@@ -814,9 +835,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1687,
+      "rank": 1958,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17372750",
@@ -835,9 +856,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1688,
+      "rank": 1960,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17368897",
@@ -856,9 +877,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1703,
+      "rank": 1977,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17376735",
@@ -877,9 +898,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1709,
+      "rank": 1985,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17363215",
@@ -898,9 +919,9 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1724,
+      "rank": 2005,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     },
     {
       "projectionId": "17391116",
@@ -908,7 +929,7 @@
       "status": "pre_game",
       "player": "Quinnen Williams",
       "stat": "Sacks",
-      "line": "0.75",
+      "line": "0.5",
       "sport": "NFL",
       "startTime": "11/26/26 03:30 PM CST",
       "startTimeCST": "11/26/26 03:30 PM CST",
@@ -919,9 +940,72 @@
       "teamCode": "DAL",
       "Opponent": "Philadelphia Eagles",
       "opponentCode": "PHI",
-      "rank": 1739,
+      "rank": 2069,
       "gameId": "199451",
-      "providerFetchedAt": "2026-11-24T12:05:16.203Z"
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17438047",
+      "playerId": "367970",
+      "status": "pre_game",
+      "player": "Jashaun Corbin",
+      "stat": "Longest Reception",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2073,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17438048",
+      "playerId": "367970",
+      "status": "pre_game",
+      "player": "Jashaun Corbin",
+      "stat": "Receiving Yards",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2074,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+    },
+    {
+      "projectionId": "17443346",
+      "playerId": "367970",
+      "status": "pre_game",
+      "player": "Jashaun Corbin",
+      "stat": "Receptions",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/26/26 03:30 PM CST",
+      "startTimeCST": "11/26/26 03:30 PM CST",
+      "startDateCST": "2026-11-26",
+      "startTimeIso": "2026-11-26T16:30:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Dallas Cowboys",
+      "teamCode": "DAL",
+      "Opponent": "Philadelphia Eagles",
+      "opponentCode": "PHI",
+      "rank": 2075,
+      "gameId": "199451",
+      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
     }
   ]
 }

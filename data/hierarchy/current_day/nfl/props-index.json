@@ -1,0 +1,35 @@
+{
+  "sourcePath": "/data/prizepicks.json",
+  "sourcePayloadHash": "8b83c8198e7274981c6ea2c530aee8c32e4dd65ebd3eb35b78ebfeba9ad94fa3",
+  "sourceScrapedAt": "2026-11-25T12:06:38.055Z",
+  "sourceScrapedDate": "Wednesday, November 25, 2026 at 06:06 AM CST",
+  "observedDate": "2026-11-25",
+  "completeness": "reported",
+  "sport": "NFL",
+  "sportSlug": "nfl",
+  "dayBranch": "current_day",
+  "gameCount": 1,
+  "propCount": 100,
+  "games": [
+    {
+      "gameId": "199449",
+      "slate": "Late",
+      "startTime": "11/25/26 07:00 PM CST",
+      "startTimeIso": "2026-11-25T19:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Green Bay Packers",
+        "Los Angeles Rams"
+      ],
+      "propCount": 100,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/199449.json"
+    }
+  ],
+  "slates": [
+    {
+      "slate": "late",
+      "propCount": 100,
+      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
+    }
+  ]
+}
