@@ -1,0 +1,45 @@
+{
+  "scrapedAt": "2026-11-26T12:07:28.148Z",
+  "scrapedDate": "Thursday, November 26, 2026 at 06:07 AM CST",
+  "source": "PrizePicks API",
+  "collectionStatus": {
+    "leagueName": "NBA",
+    "ok": true,
+    "status": 200,
+    "count": 192,
+    "sourceCount": 2225,
+    "acceptedCount": 192,
+    "excludedCount": 2033,
+    "rejectedCount": 0,
+    "publishedCount": 192,
+    "providerFetchedAt": "2026-11-26T12:06:24.277Z",
+    "endpoint": "https://partner-api.prizepicks.com/projections"
+  },
+  "sport": "NBA",
+  "day": "tomorrow",
+  "team": "Brooklyn Nets",
+  "totalProps": 1,
+  "props": [
+    {
+      "projectionId": "17498079",
+      "playerId": "271599",
+      "status": "pre_game",
+      "player": "Michael Porter Jr.",
+      "stat": "Points",
+      "line": "20.5",
+      "sport": "NBA",
+      "startTime": "11/27/26 06:40 PM CST",
+      "startTimeCST": "11/27/26 06:40 PM CST",
+      "startDateCST": "2026-11-27",
+      "startTimeIso": "2026-11-27T19:40:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Brooklyn Nets",
+      "teamCode": "BKN",
+      "Opponent": "Toronto Raptors",
+      "opponentCode": "TOR",
+      "rank": 803,
+      "gameId": "200107",
+      "providerFetchedAt": "2026-11-26T12:06:24.277Z"
+    }
+  ]
+}

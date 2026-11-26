@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-25T12:06:38.055Z",
-  "scrapedDate": "Wednesday, November 25, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-26T12:07:28.148Z",
+  "scrapedDate": "Thursday, November 26, 2026 at 06:07 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 959,
-    "sourceCount": 6580,
-    "acceptedCount": 959,
-    "excludedCount": 5621,
+    "count": 999,
+    "sourceCount": 7653,
+    "acceptedCount": 999,
+    "excludedCount": 6654,
     "rejectedCount": 0,
-    "publishedCount": 959,
-    "providerFetchedAt": "2026-11-25T12:05:27.940Z",
+    "publishedCount": 999,
+    "providerFetchedAt": "2026-11-26T12:05:17.757Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tampa Bay Buccaneers",
-  "totalProps": 26,
+  "totalProps": 31,
   "props": [
     {
       "projectionId": "17371831",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Baker Mayfield",
       "stat": "Pass Yards",
-      "line": "205.5",
+      "line": "202.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
       "startTimeCST": "11/30/26 07:15 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6181,
+      "rank": 7198,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17372078",
@@ -58,9 +58,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6214,
+      "rank": 7236,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17372159",
@@ -68,7 +68,7 @@
       "status": "pre_game",
       "player": "Emeka Egbuka",
       "stat": "Receiving Yards",
-      "line": "37.5",
+      "line": "34.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
       "startTimeCST": "11/30/26 07:15 PM CST",
@@ -79,9 +79,30 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6288,
+      "rank": 7313,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+    },
+    {
+      "projectionId": "17394908",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Longest Completion",
+      "line": "33.5",
+      "sport": "NFL",
+      "startTime": "11/30/26 07:15 PM CST",
+      "startTimeCST": "11/30/26 07:15 PM CST",
+      "startDateCST": "2026-11-30",
+      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7316,
+      "gameId": "200996",
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394676",
@@ -89,7 +110,7 @@
       "status": "pre_game",
       "player": "Baker Mayfield",
       "stat": "Pass Attempts",
-      "line": "30",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
       "startTimeCST": "11/30/26 07:15 PM CST",
@@ -100,9 +121,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6296,
+      "rank": 7322,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394842",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Cade Otton",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "28.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
       "startTimeCST": "11/30/26 07:15 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6325,
+      "rank": 7347,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394865",
@@ -142,9 +163,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6331,
+      "rank": 7353,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394894",
@@ -152,6 +173,27 @@
       "status": "pre_game",
       "player": "Chris Godwin Jr.",
       "stat": "Receiving Yards",
+      "line": "23.5",
+      "sport": "NFL",
+      "startTime": "11/30/26 07:15 PM CST",
+      "startTimeCST": "11/30/26 07:15 PM CST",
+      "startDateCST": "2026-11-30",
+      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7369,
+      "gameId": "200996",
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+    },
+    {
+      "projectionId": "17394801",
+      "playerId": "336288",
+      "status": "pre_game",
+      "player": "Kenny Gainwell",
+      "stat": "Rush Yards",
       "line": "22.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
@@ -163,30 +205,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6348,
+      "rank": 7372,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
-    },
-    {
-      "projectionId": "17394801",
-      "playerId": "336288",
-      "status": "pre_game",
-      "player": "Kenny Gainwell",
-      "stat": "Rush Yards",
-      "line": "21.5",
-      "sport": "NFL",
-      "startTime": "11/30/26 07:15 PM CST",
-      "startTimeCST": "11/30/26 07:15 PM CST",
-      "startDateCST": "2026-11-30",
-      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 6350,
-      "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394827",
@@ -205,16 +226,16 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6385,
+      "rank": 7409,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
-      "projectionId": "17394895",
-      "playerId": "212264",
+      "projectionId": "17394838",
+      "playerId": "211073",
       "status": "pre_game",
-      "player": "Bucky Irving",
-      "stat": "Receiving Yards",
+      "player": "Baker Mayfield",
+      "stat": "Pass Completions",
       "line": "18.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
@@ -226,16 +247,16 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6388,
+      "rank": 7410,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
-      "projectionId": "17394821",
-      "playerId": "246561",
+      "projectionId": "17394895",
+      "playerId": "212264",
       "status": "pre_game",
-      "player": "Emeka Egbuka",
-      "stat": "Longest Reception",
+      "player": "Bucky Irving",
+      "stat": "Receiving Yards",
       "line": "17.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6391,
+      "rank": 7414,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394798",
@@ -268,9 +289,51 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6395,
+      "rank": 7420,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+    },
+    {
+      "projectionId": "17394812",
+      "playerId": "336288",
+      "status": "pre_game",
+      "player": "Kenny Gainwell",
+      "stat": "Receiving Yards",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/30/26 07:15 PM CST",
+      "startTimeCST": "11/30/26 07:15 PM CST",
+      "startDateCST": "2026-11-30",
+      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7421,
+      "gameId": "200996",
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+    },
+    {
+      "projectionId": "17394821",
+      "playerId": "246561",
+      "status": "pre_game",
+      "player": "Emeka Egbuka",
+      "stat": "Longest Reception",
+      "line": "16.5",
+      "sport": "NFL",
+      "startTime": "11/30/26 07:15 PM CST",
+      "startTimeCST": "11/30/26 07:15 PM CST",
+      "startDateCST": "2026-11-30",
+      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7422,
+      "gameId": "200996",
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17371816",
@@ -289,9 +352,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6396,
+      "rank": 7425,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394699",
@@ -310,15 +373,15 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6398,
+      "rank": 7427,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
-      "projectionId": "17394812",
-      "playerId": "336288",
+      "projectionId": "17394879",
+      "playerId": "254945",
       "status": "pre_game",
-      "player": "Kenny Gainwell",
+      "player": "Tez Johnson",
       "stat": "Receiving Yards",
       "line": "15.5",
       "sport": "NFL",
@@ -331,9 +394,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6399,
+      "rank": 7428,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394747",
@@ -352,30 +415,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6404,
+      "rank": 7433,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
-    },
-    {
-      "projectionId": "17394879",
-      "playerId": "254945",
-      "status": "pre_game",
-      "player": "Tez Johnson",
-      "stat": "Receiving Yards",
-      "line": "14.5",
-      "sport": "NFL",
-      "startTime": "11/30/26 07:15 PM CST",
-      "startTimeCST": "11/30/26 07:15 PM CST",
-      "startDateCST": "2026-11-30",
-      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tampa Bay Buccaneers",
-      "teamCode": "TB",
-      "Opponent": "Carolina Panthers",
-      "opponentCode": "CAR",
-      "rank": 6406,
-      "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394737",
@@ -383,7 +425,7 @@
       "status": "pre_game",
       "player": "Tez Johnson",
       "stat": "Longest Reception",
-      "line": "12.5",
+      "line": "13.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
       "startTimeCST": "11/30/26 07:15 PM CST",
@@ -394,9 +436,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6429,
+      "rank": 7458,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394779",
@@ -415,9 +457,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6430,
+      "rank": 7463,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394666",
@@ -425,7 +467,7 @@
       "status": "pre_game",
       "player": "Bucky Irving",
       "stat": "Longest Reception",
-      "line": "10.5",
+      "line": "9.5",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
       "startTimeCST": "11/30/26 07:15 PM CST",
@@ -436,9 +478,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6433,
+      "rank": 7471,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394858",
@@ -457,9 +499,30 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6440,
+      "rank": 7475,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+    },
+    {
+      "projectionId": "17394901",
+      "playerId": "211073",
+      "status": "pre_game",
+      "player": "Baker Mayfield",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/30/26 07:15 PM CST",
+      "startTimeCST": "11/30/26 07:15 PM CST",
+      "startDateCST": "2026-11-30",
+      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7476,
+      "gameId": "200996",
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17438378",
@@ -478,9 +541,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6453,
+      "rank": 7494,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394680",
@@ -499,9 +562,9 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6465,
+      "rank": 7509,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394659",
@@ -520,17 +583,17 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6479,
+      "rank": 7534,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
-      "projectionId": "17441961",
-      "playerId": "246561",
+      "projectionId": "17492674",
+      "playerId": "212264",
       "status": "pre_game",
-      "player": "Emeka Egbuka",
+      "player": "Bucky Irving",
       "stat": "Receptions",
-      "line": "3.5",
+      "line": "3",
       "sport": "NFL",
       "startTime": "11/30/26 07:15 PM CST",
       "startTimeCST": "11/30/26 07:15 PM CST",
@@ -541,9 +604,30 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6516,
+      "rank": 7583,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+    },
+    {
+      "projectionId": "17492675",
+      "playerId": "210869",
+      "status": "pre_game",
+      "player": "Cade Otton",
+      "stat": "Receptions",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/30/26 07:15 PM CST",
+      "startTimeCST": "11/30/26 07:15 PM CST",
+      "startDateCST": "2026-11-30",
+      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7584,
+      "gameId": "200996",
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     },
     {
       "projectionId": "17394696",
@@ -562,9 +646,30 @@
       "teamCode": "TB",
       "Opponent": "Carolina Panthers",
       "opponentCode": "CAR",
-      "rank": 6519,
+      "rank": 7586,
       "gameId": "200996",
-      "providerFetchedAt": "2026-11-25T12:05:27.940Z"
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+    },
+    {
+      "projectionId": "17357414",
+      "playerId": "212264",
+      "status": "pre_game",
+      "player": "Bucky Irving",
+      "stat": "Anytime TDs",
+      "line": "0.5",
+      "sport": "NFL",
+      "startTime": "11/30/26 07:15 PM CST",
+      "startTimeCST": "11/30/26 07:15 PM CST",
+      "startDateCST": "2026-11-30",
+      "startTimeIso": "2026-11-30T20:15:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tampa Bay Buccaneers",
+      "teamCode": "TB",
+      "Opponent": "Carolina Panthers",
+      "opponentCode": "CAR",
+      "rank": 7625,
+      "gameId": "200996",
+      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
     }
   ]
 }

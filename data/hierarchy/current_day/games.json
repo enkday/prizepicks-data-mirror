@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "199449",
+    "gameId": "199450",
     "sport": "NFL",
-    "startTime": "11/25/26 07:00 PM CST",
-    "startTimeIso": "2026-11-25T19:00:00-06:00",
+    "startTime": "11/26/26 12:00 PM CST",
+    "startTimeIso": "2026-11-26T12:00:00-06:00",
     "teams": [
-      "Green Bay Packers",
-      "Los Angeles Rams"
+      "Chicago Bears",
+      "Detroit Lions"
     ],
-    "slate": "Late",
+    "slate": "Early",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-25T19:00:00-06:00"
+      "2026-11-26T12:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Green Bay Packers",
-        "Los Angeles Rams"
+        "Chicago Bears",
+        "Detroit Lions"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,23 +24,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "199187",
-    "sport": "NBA",
-    "startTime": "11/25/26 04:00 PM CST",
-    "startTimeIso": "2026-11-25T16:00:00-06:00",
+    "gameId": "199451",
+    "sport": "NFL",
+    "startTime": "11/26/26 03:30 PM CST",
+    "startTimeIso": "2026-11-26T15:30:00-06:00",
     "teams": [
-      "Miami Heat",
-      "Philadelphia 76ers"
+      "Dallas Cowboys",
+      "Philadelphia Eagles"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-25T16:00:00-06:00"
+      "2026-11-26T15:30:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Miami Heat",
-        "Philadelphia 76ers"
+        "Dallas Cowboys",
+        "Philadelphia Eagles"
       ]
     ],
     "sourceEventConflict": false,
@@ -48,23 +48,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "199188",
-    "sport": "NBA",
-    "startTime": "11/25/26 06:00 PM CST",
-    "startTimeIso": "2026-11-25T18:00:00-06:00",
+    "gameId": "199736",
+    "sport": "NFL",
+    "startTime": "11/26/26 07:20 PM CST",
+    "startTimeIso": "2026-11-26T19:20:00-06:00",
     "teams": [
-      "Charlotte Hornets",
-      "Chicago Bulls"
+      "Buffalo Bills",
+      "Kansas City Chiefs"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-25T18:00:00-06:00"
+      "2026-11-26T19:20:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Charlotte Hornets",
-        "Chicago Bulls"
+        "Buffalo Bills",
+        "Kansas City Chiefs"
       ]
     ],
     "sourceEventConflict": false,
@@ -72,167 +72,23 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "199483",
-    "sport": "NBA",
-    "startTime": "11/25/26 06:30 PM CST",
-    "startTimeIso": "2026-11-25T18:30:00-06:00",
+    "gameId": "199751",
+    "sport": "NCAAF",
+    "startTime": "11/26/26 07:00 PM CST",
+    "startTimeIso": "2026-11-26T19:00:00-06:00",
     "teams": [
-      "Minnesota Timberwolves",
-      "Oklahoma City Thunder"
+      "TCU Horned Frogs",
+      "Texas Tech Red Raiders"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-25T18:30:00-06:00"
+      "2026-11-26T19:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Minnesota Timberwolves",
-        "Oklahoma City Thunder"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199484",
-    "sport": "NBA",
-    "startTime": "11/25/26 06:30 PM CST",
-    "startTimeIso": "2026-11-25T18:30:00-06:00",
-    "teams": [
-      "Cleveland Cavaliers",
-      "New York Knicks"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-25T18:30:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Cleveland Cavaliers",
-        "New York Knicks"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199485",
-    "sport": "NBA",
-    "startTime": "11/25/26 07:00 PM CST",
-    "startTimeIso": "2026-11-25T19:00:00-06:00",
-    "teams": [
-      "Brooklyn Nets",
-      "Milwaukee Bucks"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-25T19:00:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Brooklyn Nets",
-        "Milwaukee Bucks"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199486",
-    "sport": "NBA",
-    "startTime": "11/25/26 07:00 PM CST",
-    "startTimeIso": "2026-11-25T19:00:00-06:00",
-    "teams": [
-      "LA Clippers",
-      "Memphis Grizzlies"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-25T19:00:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "LA Clippers",
-        "Memphis Grizzlies"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199487",
-    "sport": "NBA",
-    "startTime": "11/25/26 07:30 PM CST",
-    "startTimeIso": "2026-11-25T19:30:00-06:00",
-    "teams": [
-      "Houston Rockets",
-      "Phoenix Suns"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-25T19:30:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Houston Rockets",
-        "Phoenix Suns"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199488",
-    "sport": "NBA",
-    "startTime": "11/25/26 09:00 PM CST",
-    "startTimeIso": "2026-11-25T21:00:00-06:00",
-    "teams": [
-      "Portland Trail Blazers",
-      "San Antonio Spurs"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-25T21:00:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Portland Trail Blazers",
-        "San Antonio Spurs"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199489",
-    "sport": "NBA",
-    "startTime": "11/25/26 09:00 PM CST",
-    "startTimeIso": "2026-11-25T21:00:00-06:00",
-    "teams": [
-      "Golden State Warriors",
-      "Sacramento Kings"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-25T21:00:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Golden State Warriors",
-        "Sacramento Kings"
+        "TCU Horned Frogs",
+        "Texas Tech Red Raiders"
       ]
     ],
     "sourceEventConflict": false,
