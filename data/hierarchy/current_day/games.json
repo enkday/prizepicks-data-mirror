@@ -1,22 +1,22 @@
 [
   {
-    "gameId": "199450",
+    "gameId": "199737",
     "sport": "NFL",
-    "startTime": "11/26/26 12:00 PM CST",
-    "startTimeIso": "2026-11-26T12:00:00-06:00",
+    "startTime": "11/27/26 02:00 PM CST",
+    "startTimeIso": "2026-11-27T14:00:00-06:00",
     "teams": [
-      "Chicago Bears",
-      "Detroit Lions"
+      "Denver Broncos",
+      "Pittsburgh Steelers"
     ],
     "slate": "Early",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-26T12:00:00-06:00"
+      "2026-11-27T14:00:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "Chicago Bears",
-        "Detroit Lions"
+        "Denver Broncos",
+        "Pittsburgh Steelers"
       ]
     ],
     "sourceEventConflict": false,
@@ -24,71 +24,580 @@
     "startTimeSelectionRule": "linked-provider-game"
   },
   {
-    "gameId": "199451",
-    "sport": "NFL",
-    "startTime": "11/26/26 03:30 PM CST",
-    "startTimeIso": "2026-11-26T15:30:00-06:00",
-    "teams": [
-      "Dallas Cowboys",
-      "Philadelphia Eagles"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-26T15:30:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Dallas Cowboys",
-        "Philadelphia Eagles"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199736",
-    "sport": "NFL",
-    "startTime": "11/26/26 07:20 PM CST",
-    "startTimeIso": "2026-11-26T19:20:00-06:00",
-    "teams": [
-      "Buffalo Bills",
-      "Kansas City Chiefs"
-    ],
-    "slate": "Late",
-    "dayBranch": "current_day",
-    "startTimeObservations": [
-      "2026-11-26T19:20:00-06:00"
-    ],
-    "teamPairObservations": [
-      [
-        "Buffalo Bills",
-        "Kansas City Chiefs"
-      ]
-    ],
-    "sourceEventConflict": false,
-    "eventTimeVerified": true,
-    "startTimeSelectionRule": "linked-provider-game"
-  },
-  {
-    "gameId": "199751",
+    "gameId": "199752",
     "sport": "NCAAF",
-    "startTime": "11/26/26 07:00 PM CST",
-    "startTimeIso": "2026-11-26T19:00:00-06:00",
+    "startTime": "11/27/26 11:00 AM CST",
+    "startTimeIso": "2026-11-27T11:00:00-06:00",
     "teams": [
-      "TCU Horned Frogs",
-      "Texas Tech Red Raiders"
+      "Iowa Hawkeyes",
+      "Nebraska Cornhuskers"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T11:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Iowa Hawkeyes",
+        "Nebraska Cornhuskers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199753",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 11:00 AM CST",
+    "startTimeIso": "2026-11-27T11:00:00-06:00",
+    "teams": [
+      "Mississippi State Bulldogs",
+      "Ole Miss Rebels",
+      "Washington Huskies"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T11:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Mississippi State Bulldogs",
+        "Ole Miss Rebels"
+      ],
+      [
+        "Ole Miss Rebels",
+        "Washington Huskies"
+      ]
+    ],
+    "sourceEventConflict": true,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "204901",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 11:00 AM CST",
+    "startTimeIso": "2026-11-27T11:00:00-06:00",
+    "teams": [
+      "Tulsa Golden Hurricane",
+      "UTSA Roadrunners"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T11:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Tulsa Golden Hurricane",
+        "UTSA Roadrunners"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199754",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 11:00 AM CST",
+    "startTimeIso": "2026-11-27T11:00:00-06:00",
+    "teams": [
+      "Ohio Bobcats",
+      "Toledo Rockets"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T11:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Ohio Bobcats",
+        "Toledo Rockets"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199755",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 11:00 AM CST",
+    "startTimeIso": "2026-11-27T11:00:00-06:00",
+    "teams": [
+      "Akron Zips",
+      "Buffalo Bulls"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T11:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Akron Zips",
+        "Buffalo Bulls"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199756",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 02:00 PM CST",
+    "startTimeIso": "2026-11-27T14:00:00-06:00",
+    "teams": [
+      "Appalachian State Mountaineers",
+      "South Alabama Jaguars"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T14:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Appalachian State Mountaineers",
+        "South Alabama Jaguars"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "204902",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 02:30 PM CST",
+    "startTimeIso": "2026-11-27T14:30:00-06:00",
+    "teams": [
+      "Memphis Tigers",
+      "Temple Owls"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Memphis Tigers",
+        "Temple Owls"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199757",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 02:30 PM CST",
+    "startTimeIso": "2026-11-27T14:30:00-06:00",
+    "teams": [
+      "North Dakota State Bison",
+      "San Jose State Spartans"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "North Dakota State Bison",
+        "San Jose State Spartans"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199758",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 02:30 PM CST",
+    "startTimeIso": "2026-11-27T14:30:00-06:00",
+    "teams": [
+      "Florida Gators",
+      "Florida State Seminoles"
+    ],
+    "slate": "Early",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T14:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Florida Gators",
+        "Florida State Seminoles"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199759",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 03:30 PM CST",
+    "startTimeIso": "2026-11-27T15:30:00-06:00",
+    "teams": [
+      "Air Force Falcons",
+      "New Mexico Lobos"
     ],
     "slate": "Late",
     "dayBranch": "current_day",
     "startTimeObservations": [
-      "2026-11-26T19:00:00-06:00"
+      "2026-11-27T15:30:00-06:00"
     ],
     "teamPairObservations": [
       [
-        "TCU Horned Frogs",
-        "Texas Tech Red Raiders"
+        "Air Force Falcons",
+        "New Mexico Lobos"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200093",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 06:30 PM CST",
+    "startTimeIso": "2026-11-27T18:30:00-06:00",
+    "teams": [
+      "Texas A&M Aggies",
+      "Texas Longhorns"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Texas A&M Aggies",
+        "Texas Longhorns"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200094",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 06:30 PM CST",
+    "startTimeIso": "2026-11-27T18:30:00-06:00",
+    "teams": [
+      "Minnesota Golden Gophers",
+      "Wisconsin Badgers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Minnesota Golden Gophers",
+        "Wisconsin Badgers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200095",
+    "sport": "NCAAF",
+    "startTime": "11/27/26 08:00 PM CST",
+    "startTimeIso": "2026-11-27T20:00:00-06:00",
+    "teams": [
+      "Utah Utes",
+      "West Virginia Mountaineers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T20:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Utah Utes",
+        "West Virginia Mountaineers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "199750",
+    "sport": "NBA",
+    "startTime": "11/27/26 06:00 PM CST",
+    "startTimeIso": "2026-11-27T18:00:00-06:00",
+    "teams": [
+      "Miami Heat",
+      "New York Knicks"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T18:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Miami Heat",
+        "New York Knicks"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200107",
+    "sport": "NBA",
+    "startTime": "11/27/26 06:30 PM CST",
+    "startTimeIso": "2026-11-27T18:30:00-06:00",
+    "teams": [
+      "Brooklyn Nets",
+      "Toronto Raptors"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Brooklyn Nets",
+        "Toronto Raptors"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200108",
+    "sport": "NBA",
+    "startTime": "11/27/26 06:30 PM CST",
+    "startTimeIso": "2026-11-27T18:30:00-06:00",
+    "teams": [
+      "Detroit Pistons",
+      "Milwaukee Bucks"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Detroit Pistons",
+        "Milwaukee Bucks"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200109",
+    "sport": "NBA",
+    "startTime": "11/27/26 06:30 PM CST",
+    "startTimeIso": "2026-11-27T18:30:00-06:00",
+    "teams": [
+      "Indiana Pacers",
+      "Philadelphia 76ers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T18:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Indiana Pacers",
+        "Philadelphia 76ers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200110",
+    "sport": "NBA",
+    "startTime": "11/27/26 07:00 PM CST",
+    "startTimeIso": "2026-11-27T19:00:00-06:00",
+    "teams": [
+      "Atlanta Hawks",
+      "Boston Celtics"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T19:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Atlanta Hawks",
+        "Boston Celtics"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200111",
+    "sport": "NBA",
+    "startTime": "11/27/26 07:30 PM CST",
+    "startTimeIso": "2026-11-27T19:30:00-06:00",
+    "teams": [
+      "Memphis Grizzlies",
+      "Minnesota Timberwolves"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T19:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Memphis Grizzlies",
+        "Minnesota Timberwolves"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200112",
+    "sport": "NBA",
+    "startTime": "11/27/26 08:00 PM CST",
+    "startTimeIso": "2026-11-27T20:00:00-06:00",
+    "teams": [
+      "Dallas Mavericks",
+      "Phoenix Suns"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T20:00:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Dallas Mavericks",
+        "Phoenix Suns"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200113",
+    "sport": "NBA",
+    "startTime": "11/27/26 08:30 PM CST",
+    "startTimeIso": "2026-11-27T20:30:00-06:00",
+    "teams": [
+      "Golden State Warriors",
+      "Portland Trail Blazers"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T20:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Golden State Warriors",
+        "Portland Trail Blazers"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200114",
+    "sport": "NBA",
+    "startTime": "11/27/26 08:30 PM CST",
+    "startTimeIso": "2026-11-27T20:30:00-06:00",
+    "teams": [
+      "LA Clippers",
+      "New Orleans Pelicans"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T20:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "LA Clippers",
+        "New Orleans Pelicans"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200115",
+    "sport": "NBA",
+    "startTime": "11/27/26 08:30 PM CST",
+    "startTimeIso": "2026-11-27T20:30:00-06:00",
+    "teams": [
+      "Los Angeles Lakers",
+      "San Antonio Spurs"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T20:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Los Angeles Lakers",
+        "San Antonio Spurs"
+      ]
+    ],
+    "sourceEventConflict": false,
+    "eventTimeVerified": true,
+    "startTimeSelectionRule": "linked-provider-game"
+  },
+  {
+    "gameId": "200116",
+    "sport": "NBA",
+    "startTime": "11/27/26 08:30 PM CST",
+    "startTimeIso": "2026-11-27T20:30:00-06:00",
+    "teams": [
+      "Denver Nuggets",
+      "Utah Jazz"
+    ],
+    "slate": "Late",
+    "dayBranch": "current_day",
+    "startTimeObservations": [
+      "2026-11-27T20:30:00-06:00"
+    ],
+    "teamPairObservations": [
+      [
+        "Denver Nuggets",
+        "Utah Jazz"
       ]
     ],
     "sourceEventConflict": false,

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-26T12:07:28.148Z",
-  "scrapedDate": "Thursday, November 26, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-27T12:06:44.165Z",
+  "scrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 999,
-    "sourceCount": 7653,
-    "acceptedCount": 999,
-    "excludedCount": 6654,
+    "count": 722,
+    "sourceCount": 5752,
+    "acceptedCount": 722,
+    "excludedCount": 5030,
     "rejectedCount": 0,
-    "publishedCount": 999,
-    "providerFetchedAt": "2026-11-26T12:05:17.757Z",
+    "publishedCount": 722,
+    "providerFetchedAt": "2026-11-27T12:05:34.208Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Las Vegas Raiders",
-  "totalProps": 27,
+  "totalProps": 26,
   "props": [
     {
       "projectionId": "17371829",
@@ -37,9 +37,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6716,
+      "rank": 4806,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17372153",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Brock Bowers",
       "stat": "Receiving Yards",
-      "line": "66.5",
+      "line": "63.5",
       "sport": "NFL",
       "startTime": "11/29/26 07:20 PM CST",
       "startTimeCST": "11/29/26 07:20 PM CST",
@@ -58,9 +58,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6768,
+      "rank": 4858,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17372076",
@@ -79,9 +79,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6813,
+      "rank": 4897,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445208",
@@ -89,7 +89,7 @@
       "status": "pre_game",
       "player": "Mike Washington Jr.",
       "stat": "Rush Yards",
-      "line": "32.5",
+      "line": "33.5",
       "sport": "NFL",
       "startTime": "11/29/26 07:20 PM CST",
       "startTimeCST": "11/29/26 07:20 PM CST",
@@ -100,9 +100,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6848,
+      "rank": 4931,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445086",
@@ -121,16 +121,16 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6849,
+      "rank": 4935,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
-      "projectionId": "17495726",
-      "playerId": "211965",
+      "projectionId": "17445099",
+      "playerId": "320282",
       "status": "pre_game",
-      "player": "Tre Tucker",
-      "stat": "Receiving Yards",
+      "player": "Fernando Mendoza",
+      "stat": "Longest Completion",
       "line": "31.5",
       "sport": "NFL",
       "startTime": "11/29/26 07:20 PM CST",
@@ -142,36 +142,15 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6850,
+      "rank": 4936,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
-      "projectionId": "17445099",
-      "playerId": "320282",
+      "projectionId": "17495726",
+      "playerId": "211965",
       "status": "pre_game",
-      "player": "Fernando Mendoza",
-      "stat": "Longest Completion",
-      "line": "30.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 07:20 PM CST",
-      "startTimeCST": "11/29/26 07:20 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 6852,
-      "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17372082",
-      "playerId": "246538",
-      "status": "pre_game",
-      "player": "Ashton Jeanty",
+      "player": "Tre Tucker",
       "stat": "Receiving Yards",
       "line": "28.5",
       "sport": "NFL",
@@ -184,9 +163,30 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6879,
+      "rank": 4967,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+    },
+    {
+      "projectionId": "17372082",
+      "playerId": "246538",
+      "status": "pre_game",
+      "player": "Ashton Jeanty",
+      "stat": "Receiving Yards",
+      "line": "27.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 07:20 PM CST",
+      "startTimeCST": "11/29/26 07:20 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 4968,
+      "gameId": "200434",
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17495704",
@@ -205,9 +205,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6892,
+      "rank": 4978,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17496650",
@@ -215,7 +215,7 @@
       "status": "pre_game",
       "player": "Brock Bowers",
       "stat": "Longest Reception",
-      "line": "22.5",
+      "line": "20.5",
       "sport": "NFL",
       "startTime": "11/29/26 07:20 PM CST",
       "startTimeCST": "11/29/26 07:20 PM CST",
@@ -226,9 +226,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6905,
+      "rank": 4994,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445204",
@@ -247,9 +247,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6941,
+      "rank": 5028,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17496585",
@@ -268,9 +268,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6945,
+      "rank": 5032,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17371814",
@@ -289,9 +289,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6954,
+      "rank": 5041,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17497257",
@@ -299,7 +299,7 @@
       "status": "pre_game",
       "player": "Michael Mayer",
       "stat": "Longest Reception",
-      "line": "13.5",
+      "line": "14.5",
       "sport": "NFL",
       "startTime": "11/29/26 07:20 PM CST",
       "startTimeCST": "11/29/26 07:20 PM CST",
@@ -310,9 +310,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6982,
+      "rank": 5059,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445489",
@@ -331,9 +331,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6990,
+      "rank": 5083,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445507",
@@ -352,9 +352,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6991,
+      "rank": 5084,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445795",
@@ -373,9 +373,30 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 6992,
+      "rank": 5085,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+    },
+    {
+      "projectionId": "17495688",
+      "playerId": "246541",
+      "status": "pre_game",
+      "player": "Jack Bech",
+      "stat": "Receiving Yards",
+      "line": "10.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 07:20 PM CST",
+      "startTimeCST": "11/29/26 07:20 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T20:20:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Las Vegas Raiders",
+      "teamCode": "LV",
+      "Opponent": "Cleveland Browns",
+      "opponentCode": "CLE",
+      "rank": 5093,
+      "gameId": "200434",
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17497492",
@@ -394,9 +415,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7001,
+      "rank": 5094,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445202",
@@ -415,9 +436,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7004,
+      "rank": 5099,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17495692",
@@ -436,9 +457,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7016,
+      "rank": 5111,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17445085",
@@ -457,30 +478,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7037,
+      "rank": 5130,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17495688",
-      "playerId": "246541",
-      "status": "pre_game",
-      "player": "Jack Bech",
-      "stat": "Receiving Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 07:20 PM CST",
-      "startTimeCST": "11/29/26 07:20 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 7039,
-      "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17496747",
@@ -499,9 +499,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7040,
+      "rank": 5131,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17496752",
@@ -520,9 +520,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7041,
+      "rank": 5132,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17458067",
@@ -541,30 +541,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7056,
+      "rank": 5148,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17484850",
-      "playerId": "246538",
-      "status": "pre_game",
-      "player": "Ashton Jeanty",
-      "stat": "Receptions",
-      "line": "3.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 07:20 PM CST",
-      "startTimeCST": "11/29/26 07:20 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T20:20:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Las Vegas Raiders",
-      "teamCode": "LV",
-      "Opponent": "Cleveland Browns",
-      "opponentCode": "CLE",
-      "rank": 7098,
-      "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17458069",
@@ -583,9 +562,9 @@
       "teamCode": "LV",
       "Opponent": "Cleveland Browns",
       "opponentCode": "CLE",
-      "rank": 7131,
+      "rank": 5226,
       "gameId": "200434",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     }
   ]
 }

@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-26T12:07:28.148Z",
-  "scrapedDate": "Thursday, November 26, 2026 at 06:07 AM CST",
+  "scrapedAt": "2026-11-27T12:06:44.165Z",
+  "scrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 999,
-    "sourceCount": 7653,
-    "acceptedCount": 999,
-    "excludedCount": 6654,
+    "count": 722,
+    "sourceCount": 5752,
+    "acceptedCount": 722,
+    "excludedCount": 5030,
     "rejectedCount": 0,
-    "publishedCount": 999,
-    "providerFetchedAt": "2026-11-26T12:05:17.757Z",
+    "publishedCount": 722,
+    "providerFetchedAt": "2026-11-27T12:05:34.208Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Washington Commanders",
-  "totalProps": 38,
+  "totalProps": 36,
   "props": [
     {
       "projectionId": "17479016",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Pass Yards",
-      "line": "220.5",
+      "line": "224.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -37,9 +37,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6316,
+      "rank": 4361,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479069",
@@ -47,7 +47,7 @@
       "status": "pre_game",
       "player": "Jacory Croskey-Merritt",
       "stat": "Rush Yards",
-      "line": "53.5",
+      "line": "54.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -58,36 +58,36 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6359,
+      "rank": 4416,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17478990",
-      "playerId": "346119",
-      "status": "pre_game",
-      "player": "Antonio Williams",
-      "stat": "Receiving Yards",
-      "line": "42.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 6381,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478954",
       "playerId": "336578",
       "status": "pre_game",
       "player": "Stefon Diggs",
+      "stat": "Receiving Yards",
+      "line": "43.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 4439,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+    },
+    {
+      "projectionId": "17478990",
+      "playerId": "346119",
+      "status": "pre_game",
+      "player": "Antonio Williams",
       "stat": "Receiving Yards",
       "line": "41.5",
       "sport": "NFL",
@@ -100,9 +100,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6382,
+      "rank": 4441,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479001",
@@ -121,9 +121,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6405,
+      "rank": 4464,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479028",
@@ -131,7 +131,7 @@
       "status": "pre_game",
       "player": "Jayden Daniels",
       "stat": "Longest Completion",
-      "line": "34.5",
+      "line": "32.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -142,9 +142,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6406,
+      "rank": 4466,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479070",
@@ -163,9 +163,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6409,
+      "rank": 4470,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478985",
@@ -184,16 +184,16 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6447,
+      "rank": 4510,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
-      "projectionId": "17479078",
-      "playerId": "211074",
+      "projectionId": "17478859",
+      "playerId": "278437",
       "status": "pre_game",
-      "player": "Austin Ekeler",
-      "stat": "Rush Yards",
+      "player": "Treylon Burks",
+      "stat": "Receiving Yards",
       "line": "24.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
@@ -205,17 +205,17 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6457,
+      "rank": 4517,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
-      "projectionId": "17478859",
-      "playerId": "278437",
+      "projectionId": "17479078",
+      "playerId": "211074",
       "status": "pre_game",
-      "player": "Treylon Burks",
-      "stat": "Receiving Yards",
-      "line": "22.5",
+      "player": "Austin Ekeler",
+      "stat": "Rush Yards",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -226,9 +226,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6465,
+      "rank": 4534,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478837",
@@ -247,30 +247,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6475,
+      "rank": 4546,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17478947",
-      "playerId": "346119",
-      "status": "pre_game",
-      "player": "Antonio Williams",
-      "stat": "Longest Reception",
-      "line": "18.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 6509,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479034",
@@ -289,9 +268,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6510,
+      "rank": 4584,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479092",
@@ -310,9 +289,30 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6511,
+      "rank": 4585,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+    },
+    {
+      "projectionId": "17478947",
+      "playerId": "346119",
+      "status": "pre_game",
+      "player": "Antonio Williams",
+      "stat": "Longest Reception",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 4587,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478996",
@@ -331,9 +331,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6512,
+      "rank": 4588,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479006",
@@ -352,9 +352,51 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6516,
+      "rank": 4591,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+    },
+    {
+      "projectionId": "17479041",
+      "playerId": "210778",
+      "status": "pre_game",
+      "player": "Jayden Daniels",
+      "stat": "Longest Rush",
+      "line": "15.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 4593,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+    },
+    {
+      "projectionId": "17478907",
+      "playerId": "252771",
+      "status": "pre_game",
+      "player": "Jacory Croskey-Merritt",
+      "stat": "Longest Rush",
+      "line": "14.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 4597,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478869",
@@ -373,51 +415,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6536,
+      "rank": 4614,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17478907",
-      "playerId": "252771",
-      "status": "pre_game",
-      "player": "Jacory Croskey-Merritt",
-      "stat": "Longest Rush",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 6541,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17479041",
-      "playerId": "210778",
-      "status": "pre_game",
-      "player": "Jayden Daniels",
-      "stat": "Longest Rush",
-      "line": "12.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 6543,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478972",
@@ -436,30 +436,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6558,
+      "rank": 4634,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17478896",
-      "playerId": "336581",
-      "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Receiving Yards",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 6578,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17505861",
@@ -478,9 +457,30 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6581,
+      "rank": 4658,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+    },
+    {
+      "projectionId": "17478896",
+      "playerId": "336581",
+      "status": "pre_game",
+      "player": "Rachaad White",
+      "stat": "Receiving Yards",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Washington Commanders",
+      "teamCode": "WAS",
+      "Opponent": "Arizona Cardinals",
+      "opponentCode": "ARI",
+      "rank": 4662,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478991",
@@ -499,9 +499,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6583,
+      "rank": 4664,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17496856",
@@ -520,9 +520,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6585,
+      "rank": 4666,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478818",
@@ -541,9 +541,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6587,
+      "rank": 4669,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478847",
@@ -562,9 +562,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6588,
+      "rank": 4670,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478882",
@@ -583,9 +583,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6589,
+      "rank": 4671,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478946",
@@ -604,9 +604,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6591,
+      "rank": 4674,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478815",
@@ -625,9 +625,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6594,
+      "rank": 4678,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478834",
@@ -646,9 +646,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6595,
+      "rank": 4679,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478851",
@@ -667,9 +667,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6596,
+      "rank": 4680,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478936",
@@ -688,51 +688,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6600,
+      "rank": 4684,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17479048",
-      "playerId": "210778",
-      "status": "pre_game",
-      "player": "Jayden Daniels",
-      "stat": "Pass TDs",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 6652,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
-    },
-    {
-      "projectionId": "17479323",
-      "playerId": "336581",
-      "status": "pre_game",
-      "player": "Rachaad White",
-      "stat": "Receptions",
-      "line": "1.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Washington Commanders",
-      "teamCode": "WAS",
-      "Opponent": "Arizona Cardinals",
-      "opponentCode": "ARI",
-      "rank": 6656,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17494827",
@@ -751,9 +709,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6658,
+      "rank": 4744,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17478918",
@@ -772,9 +730,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6683,
+      "rank": 4772,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479046",
@@ -793,9 +751,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6686,
+      "rank": 4775,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     },
     {
       "projectionId": "17479108",
@@ -814,9 +772,9 @@
       "teamCode": "WAS",
       "Opponent": "Arizona Cardinals",
       "opponentCode": "ARI",
-      "rank": 6688,
+      "rank": 4777,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-26T12:05:17.757Z"
+      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
     }
   ]
 }

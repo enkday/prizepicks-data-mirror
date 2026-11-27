@@ -1,195 +1,482 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "23937a0e0e927009cd71b91f727a0d5639f7f4b40d0917e352981f584f5fa953",
-  "sourceScrapedAt": "2026-11-26T12:07:28.148Z",
-  "sourceScrapedDate": "Thursday, November 26, 2026 at 06:07 AM CST",
-  "observedDate": "2026-11-27",
+  "sourcePayloadHash": "ef12266f25d33833cb209773a0bb26acaacfa7a81b10bb851e556c1b0dae08ce",
+  "sourceScrapedAt": "2026-11-27T12:06:44.165Z",
+  "sourceScrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
+  "observedDate": "2026-11-28",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "tomorrow",
-  "gameCount": 13,
-  "propCount": 285,
+  "gameCount": 35,
+  "propCount": 758,
   "games": [
     {
-      "gameId": "199752",
+      "gameId": "200098",
       "slate": "Early",
-      "startTime": "11/27/26 11:00 AM CST",
-      "startTimeIso": "2026-11-27T11:00:00-06:00",
+      "startTime": "11/28/26 11:00 AM CST",
+      "startTimeIso": "2026-11-28T11:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Iowa Hawkeyes",
-        "Nebraska Cornhuskers"
+        "Michigan Wolverines",
+        "Ohio State Buckeyes"
       ],
-      "propCount": 46,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199752.json"
+      "propCount": 40,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/200098.json"
     },
     {
-      "gameId": "199753",
+      "gameId": "204904",
       "slate": "Early",
-      "startTime": "11/27/26 11:00 AM CST",
-      "startTimeIso": "2026-11-27T11:00:00-06:00",
+      "startTime": "11/28/26 11:00 AM CST",
+      "startTimeIso": "2026-11-28T11:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Mississippi State Bulldogs",
-        "Ole Miss Rebels"
+        "Notre Dame Fighting Irish",
+        "Syracuse Orange"
+      ],
+      "propCount": 21,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204904.json"
+    },
+    {
+      "gameId": "204905",
+      "slate": "Early",
+      "startTime": "11/28/26 11:00 AM CST",
+      "startTimeIso": "2026-11-28T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Boston College Eagles",
+        "Miami (FL) Hurricanes"
+      ],
+      "propCount": 9,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204905.json"
+    },
+    {
+      "gameId": "204907",
+      "slate": "Early",
+      "startTime": "11/28/26 11:00 AM CST",
+      "startTimeIso": "2026-11-28T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Georgia Southern Eagles",
+        "Louisiana Tech Bulldogs"
+      ],
+      "propCount": 5,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204907.json"
+    },
+    {
+      "gameId": "204908",
+      "slate": "Early",
+      "startTime": "11/28/26 11:00 AM CST",
+      "startTimeIso": "2026-11-28T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "NC State Wolfpack",
+        "North Carolina State Wolfpack",
+        "North Carolina Tar Heels"
+      ],
+      "propCount": 15,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204908.json"
+    },
+    {
+      "gameId": "206397",
+      "slate": "Early",
+      "startTime": "11/28/26 11:00 AM CST",
+      "startTimeIso": "2026-11-28T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Kentucky Wildcats",
+        "Louisville Cardinals"
+      ],
+      "propCount": 33,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206397.json"
+    },
+    {
+      "gameId": "204909",
+      "slate": "Early",
+      "startTime": "11/28/26 11:30 AM CST",
+      "startTimeIso": "2026-11-28T11:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Illinois Fighting Illini",
+        "Northwestern Wildcats"
+      ],
+      "propCount": 48,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204909.json"
+    },
+    {
+      "gameId": "206398",
+      "slate": "Early",
+      "startTime": "11/28/26 11:45 AM CST",
+      "startTimeIso": "2026-11-28T11:45:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Arkansas Razorbacks",
+        "LSU Tigers"
+      ],
+      "propCount": 24,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206398.json"
+    },
+    {
+      "gameId": "204911",
+      "slate": "Early",
+      "startTime": "11/28/26 12:00 PM CST",
+      "startTimeIso": "2026-11-28T12:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "East Carolina Pirates",
+        "Florida Atlantic Owls"
+      ],
+      "propCount": 4,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204911.json"
+    },
+    {
+      "gameId": "204912",
+      "slate": "Early",
+      "startTime": "11/28/26 01:00 PM CST",
+      "startTimeIso": "2026-11-28T13:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Colorado Buffaloes",
+        "UCF Knights"
+      ],
+      "propCount": 24,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204912.json"
+    },
+    {
+      "gameId": "204913",
+      "slate": "Early",
+      "startTime": "11/28/26 01:00 PM CST",
+      "startTimeIso": "2026-11-28T13:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Iowa State Cyclones",
+        "Kansas State Wildcats"
+      ],
+      "propCount": 23,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204913.json"
+    },
+    {
+      "gameId": "204917",
+      "slate": "Early",
+      "startTime": "11/28/26 02:00 PM CST",
+      "startTimeIso": "2026-11-28T14:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Virginia Cavaliers",
+        "Virginia Tech Hokies"
       ],
       "propCount": 19,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199753.json"
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204917.json"
     },
     {
-      "gameId": "199754",
+      "gameId": "206399",
       "slate": "Early",
-      "startTime": "11/27/26 11:00 AM CST",
-      "startTimeIso": "2026-11-27T11:00:00-06:00",
+      "startTime": "11/28/26 02:00 PM CST",
+      "startTimeIso": "2026-11-28T14:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Ohio Bobcats",
-        "Toledo Rockets"
-      ],
-      "propCount": 14,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199754.json"
-    },
-    {
-      "gameId": "199755",
-      "slate": "Early",
-      "startTime": "11/27/26 11:00 AM CST",
-      "startTimeIso": "2026-11-27T11:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Akron Zips",
-        "Buffalo Bulls"
-      ],
-      "propCount": 13,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199755.json"
-    },
-    {
-      "gameId": "204901",
-      "slate": "Early",
-      "startTime": "11/27/26 11:00 AM CST",
-      "startTimeIso": "2026-11-27T11:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Tulsa Golden Hurricane",
-        "UTSA Roadrunners"
-      ],
-      "propCount": 19,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204901.json"
-    },
-    {
-      "gameId": "199756",
-      "slate": "Early",
-      "startTime": "11/27/26 02:00 PM CST",
-      "startTimeIso": "2026-11-27T14:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Appalachian State Mountaineers",
-        "South Alabama Jaguars"
-      ],
-      "propCount": 6,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199756.json"
-    },
-    {
-      "gameId": "199757",
-      "slate": "Early",
-      "startTime": "11/27/26 02:30 PM CST",
-      "startTimeIso": "2026-11-27T14:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "North Dakota State Bison",
-        "San Jose State Spartans"
-      ],
-      "propCount": 10,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199757.json"
-    },
-    {
-      "gameId": "199758",
-      "slate": "Early",
-      "startTime": "11/27/26 02:30 PM CST",
-      "startTimeIso": "2026-11-27T14:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Florida Gators",
-        "Florida State Seminoles"
-      ],
-      "propCount": 38,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199758.json"
-    },
-    {
-      "gameId": "204902",
-      "slate": "Early",
-      "startTime": "11/27/26 02:30 PM CST",
-      "startTimeIso": "2026-11-27T14:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Memphis Tigers",
-        "Temple Owls"
-      ],
-      "propCount": 13,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204902.json"
-    },
-    {
-      "gameId": "199759",
-      "slate": "Late",
-      "startTime": "11/27/26 03:30 PM CST",
-      "startTimeIso": "2026-11-27T15:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Air Force Falcons",
-        "New Mexico Lobos"
-      ],
-      "propCount": 7,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/199759.json"
-    },
-    {
-      "gameId": "200093",
-      "slate": "Late",
-      "startTime": "11/27/26 06:30 PM CST",
-      "startTimeIso": "2026-11-27T18:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Texas A&M Aggies",
-        "Texas Longhorns"
-      ],
-      "propCount": 35,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/200093.json"
-    },
-    {
-      "gameId": "200094",
-      "slate": "Late",
-      "startTime": "11/27/26 06:30 PM CST",
-      "startTimeIso": "2026-11-27T18:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Minnesota Golden Gophers",
-        "Wisconsin Badgers"
-      ],
-      "propCount": 39,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/200094.json"
-    },
-    {
-      "gameId": "200095",
-      "slate": "Late",
-      "startTime": "11/27/26 08:00 PM CST",
-      "startTimeIso": "2026-11-27T20:00:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Utah Utes",
-        "West Virginia Mountaineers"
+        "Clemson Tigers",
+        "South Carolina Gamecocks"
       ],
       "propCount": 26,
-      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/200095.json"
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206399.json"
+    },
+    {
+      "gameId": "204918",
+      "slate": "Early",
+      "startTime": "11/28/26 02:30 PM CST",
+      "startTimeIso": "2026-11-28T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "UCLA Bruins",
+        "USC Trojans"
+      ],
+      "propCount": 40,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204918.json"
+    },
+    {
+      "gameId": "204920",
+      "slate": "Early",
+      "startTime": "11/28/26 02:30 PM CST",
+      "startTimeIso": "2026-11-28T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Maryland Terrapins",
+        "Penn State Nittany Lions"
+      ],
+      "propCount": 11,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204920.json"
+    },
+    {
+      "gameId": "204921",
+      "slate": "Early",
+      "startTime": "11/28/26 02:30 PM CST",
+      "startTimeIso": "2026-11-28T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "BYU Cougars",
+        "Cincinnati Bearcats"
+      ],
+      "propCount": 36,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204921.json"
+    },
+    {
+      "gameId": "206400",
+      "slate": "Early",
+      "startTime": "11/28/26 02:30 PM CST",
+      "startTimeIso": "2026-11-28T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Duke Blue Devils",
+        "Wake Forest Demon Deacons"
+      ],
+      "propCount": 26,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206400.json"
+    },
+    {
+      "gameId": "206401",
+      "slate": "Early",
+      "startTime": "11/28/26 02:30 PM CST",
+      "startTimeIso": "2026-11-28T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Georgia Bulldogs",
+        "Georgia Tech Yellow Jackets"
+      ],
+      "propCount": 30,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206401.json"
+    },
+    {
+      "gameId": "206402",
+      "slate": "Early",
+      "startTime": "11/28/26 02:30 PM CST",
+      "startTimeIso": "2026-11-28T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "SMU Mustangs",
+        "Stanford Cardinal"
+      ],
+      "propCount": 39,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206402.json"
+    },
+    {
+      "gameId": "204922",
+      "slate": "Late",
+      "startTime": "11/28/26 03:00 PM CST",
+      "startTimeIso": "2026-11-28T15:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "North Texas Mean Green",
+        "UAB Blazers"
+      ],
+      "propCount": 5,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204922.json"
+    },
+    {
+      "gameId": "204923",
+      "slate": "Late",
+      "startTime": "11/28/26 03:15 PM CST",
+      "startTimeIso": "2026-11-28T15:15:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Michigan State Spartans",
+        "Rutgers Scarlet Knights"
+      ],
+      "propCount": 16,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204923.json"
+    },
+    {
+      "gameId": "204924",
+      "slate": "Late",
+      "startTime": "11/28/26 03:15 PM CST",
+      "startTimeIso": "2026-11-28T15:15:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Missouri Tigers",
+        "Oklahoma Sooners"
+      ],
+      "propCount": 28,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204924.json"
+    },
+    {
+      "gameId": "206582",
+      "slate": "Late",
+      "startTime": "11/28/26 05:00 PM CST",
+      "startTimeIso": "2026-11-28T17:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Boise State Broncos",
+        "Colorado State Rams"
+      ],
+      "propCount": 12,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206582.json"
+    },
+    {
+      "gameId": "204925",
+      "slate": "Late",
+      "startTime": "11/28/26 05:15 PM CST",
+      "startTimeIso": "2026-11-28T17:15:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Kansas Jayhawks",
+        "Oklahoma State Cowboys"
+      ],
+      "propCount": 31,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204925.json"
+    },
+    {
+      "gameId": "206403",
+      "slate": "Late",
+      "startTime": "11/28/26 06:00 PM CST",
+      "startTimeIso": "2026-11-28T18:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Tennessee Volunteers",
+        "Vanderbilt Commodores"
+      ],
+      "propCount": 15,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206403.json"
+    },
+    {
+      "gameId": "206404",
+      "slate": "Late",
+      "startTime": "11/28/26 06:00 PM CST",
+      "startTimeIso": "2026-11-28T18:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Indiana Hoosiers",
+        "Purdue Boilermakers"
+      ],
+      "propCount": 23,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206404.json"
+    },
+    {
+      "gameId": "204926",
+      "slate": "Late",
+      "startTime": "11/28/26 06:30 PM CST",
+      "startTimeIso": "2026-11-28T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "California Golden Bears",
+        "Pittsburgh Panthers"
+      ],
+      "propCount": 5,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204926.json"
+    },
+    {
+      "gameId": "206405",
+      "slate": "Late",
+      "startTime": "11/28/26 06:30 PM CST",
+      "startTimeIso": "2026-11-28T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Alabama Crimson Tide",
+        "Auburn Tigers"
+      ],
+      "propCount": 38,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206405.json"
+    },
+    {
+      "gameId": "206406",
+      "slate": "Late",
+      "startTime": "11/28/26 06:30 PM CST",
+      "startTimeIso": "2026-11-28T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Oregon Ducks",
+        "Washington Huskies"
+      ],
+      "propCount": 38,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206406.json"
+    },
+    {
+      "gameId": "200463",
+      "slate": "Late",
+      "startTime": "11/28/26 08:00 PM CST",
+      "startTimeIso": "2026-11-28T20:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Nevada Wolf Pack",
+        "UNLV Rebels"
+      ],
+      "propCount": 9,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/200463.json"
+    },
+    {
+      "gameId": "204927",
+      "slate": "Late",
+      "startTime": "11/28/26 08:00 PM CST",
+      "startTimeIso": "2026-11-28T20:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Arizona State Sun Devils",
+        "Arizona Wildcats"
+      ],
+      "propCount": 21,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204927.json"
+    },
+    {
+      "gameId": "204928",
+      "slate": "Late",
+      "startTime": "11/28/26 08:30 PM CST",
+      "startTimeIso": "2026-11-28T20:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Baylor Bears",
+        "Houston Cougars"
+      ],
+      "propCount": 14,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/204928.json"
+    },
+    {
+      "gameId": "206584",
+      "slate": "Late",
+      "startTime": "11/28/26 08:30 PM CST",
+      "startTimeIso": "2026-11-28T20:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Texas State Bobcats",
+        "Utah State Aggies"
+      ],
+      "propCount": 8,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206584.json"
+    },
+    {
+      "gameId": "206585",
+      "slate": "Late",
+      "startTime": "11/28/26 09:00 PM CST",
+      "startTimeIso": "2026-11-28T21:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Fresno State Bulldogs",
+        "Oregon State Beavers"
+      ],
+      "propCount": 19,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/206585.json"
+    },
+    {
+      "gameId": "200464",
+      "slate": "Late",
+      "startTime": "11/28/26 10:00 PM CST",
+      "startTimeIso": "2026-11-28T22:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Hawai'i Warriors",
+        "Sacramento State Hornets"
+      ],
+      "propCount": 3,
+      "path": "/data/hierarchy/tomorrow/ncaaf/props-by-game/200464.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 178,
+      "propCount": 473,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/early.json"
     },
     {
       "slate": "late",
-      "propCount": 107,
+      "propCount": 285,
       "path": "/data/hierarchy/tomorrow/ncaaf/props-by-slate/late.json"
     }
   ]

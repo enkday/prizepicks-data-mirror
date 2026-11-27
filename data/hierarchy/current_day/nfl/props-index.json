@@ -1,66 +1,35 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "23937a0e0e927009cd71b91f727a0d5639f7f4b40d0917e352981f584f5fa953",
-  "sourceScrapedAt": "2026-11-26T12:07:28.148Z",
-  "sourceScrapedDate": "Thursday, November 26, 2026 at 06:07 AM CST",
-  "observedDate": "2026-11-26",
+  "sourcePayloadHash": "ef12266f25d33833cb209773a0bb26acaacfa7a81b10bb851e556c1b0dae08ce",
+  "sourceScrapedAt": "2026-11-27T12:06:44.165Z",
+  "sourceScrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
+  "observedDate": "2026-11-27",
   "completeness": "reported",
   "sport": "NFL",
   "sportSlug": "nfl",
   "dayBranch": "current_day",
-  "gameCount": 3,
-  "propCount": 293,
+  "gameCount": 1,
+  "propCount": 96,
   "games": [
     {
-      "gameId": "199450",
+      "gameId": "199737",
       "slate": "Early",
-      "startTime": "11/26/26 12:00 PM CST",
-      "startTimeIso": "2026-11-26T12:00:00-06:00",
+      "startTime": "11/27/26 02:00 PM CST",
+      "startTimeIso": "2026-11-27T14:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "Chicago Bears",
-        "Detroit Lions"
+        "Denver Broncos",
+        "Pittsburgh Steelers"
       ],
-      "propCount": 102,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/199450.json"
-    },
-    {
-      "gameId": "199451",
-      "slate": "Late",
-      "startTime": "11/26/26 03:30 PM CST",
-      "startTimeIso": "2026-11-26T15:30:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Dallas Cowboys",
-        "Philadelphia Eagles"
-      ],
-      "propCount": 93,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/199451.json"
-    },
-    {
-      "gameId": "199736",
-      "slate": "Late",
-      "startTime": "11/26/26 07:20 PM CST",
-      "startTimeIso": "2026-11-26T19:20:00-06:00",
-      "eventTimeVerified": true,
-      "teams": [
-        "Buffalo Bills",
-        "Kansas City Chiefs"
-      ],
-      "propCount": 98,
-      "path": "/data/hierarchy/current_day/nfl/props-by-game/199736.json"
+      "propCount": 96,
+      "path": "/data/hierarchy/current_day/nfl/props-by-game/199737.json"
     }
   ],
   "slates": [
     {
       "slate": "early",
-      "propCount": 102,
+      "propCount": 96,
       "path": "/data/hierarchy/current_day/nfl/props-by-slate/early.json"
-    },
-    {
-      "slate": "late",
-      "propCount": 191,
-      "path": "/data/hierarchy/current_day/nfl/props-by-slate/late.json"
     }
   ]
 }

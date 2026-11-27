@@ -1,34 +1,196 @@
 {
   "sourcePath": "/data/prizepicks.json",
-  "sourcePayloadHash": "23937a0e0e927009cd71b91f727a0d5639f7f4b40d0917e352981f584f5fa953",
-  "sourceScrapedAt": "2026-11-26T12:07:28.148Z",
-  "sourceScrapedDate": "Thursday, November 26, 2026 at 06:07 AM CST",
-  "observedDate": "2026-11-26",
+  "sourcePayloadHash": "ef12266f25d33833cb209773a0bb26acaacfa7a81b10bb851e556c1b0dae08ce",
+  "sourceScrapedAt": "2026-11-27T12:06:44.165Z",
+  "sourceScrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
+  "observedDate": "2026-11-27",
   "completeness": "reported",
   "sport": "NCAAF",
   "sportSlug": "ncaaf",
   "dayBranch": "current_day",
-  "gameCount": 1,
-  "propCount": 27,
+  "gameCount": 13,
+  "propCount": 321,
   "games": [
     {
-      "gameId": "199751",
-      "slate": "Late",
-      "startTime": "11/26/26 07:00 PM CST",
-      "startTimeIso": "2026-11-26T19:00:00-06:00",
+      "gameId": "199752",
+      "slate": "Early",
+      "startTime": "11/27/26 11:00 AM CST",
+      "startTimeIso": "2026-11-27T11:00:00-06:00",
       "eventTimeVerified": true,
       "teams": [
-        "TCU Horned Frogs",
-        "Texas Tech Red Raiders"
+        "Iowa Hawkeyes",
+        "Nebraska Cornhuskers"
+      ],
+      "propCount": 50,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199752.json"
+    },
+    {
+      "gameId": "199753",
+      "slate": "Early",
+      "startTime": "11/27/26 11:00 AM CST",
+      "startTimeIso": "2026-11-27T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Mississippi State Bulldogs",
+        "Ole Miss Rebels",
+        "Washington Huskies"
+      ],
+      "propCount": 31,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199753.json"
+    },
+    {
+      "gameId": "199754",
+      "slate": "Early",
+      "startTime": "11/27/26 11:00 AM CST",
+      "startTimeIso": "2026-11-27T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Ohio Bobcats",
+        "Toledo Rockets"
+      ],
+      "propCount": 15,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199754.json"
+    },
+    {
+      "gameId": "199755",
+      "slate": "Early",
+      "startTime": "11/27/26 11:00 AM CST",
+      "startTimeIso": "2026-11-27T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Akron Zips",
+        "Buffalo Bulls"
+      ],
+      "propCount": 13,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199755.json"
+    },
+    {
+      "gameId": "204901",
+      "slate": "Early",
+      "startTime": "11/27/26 11:00 AM CST",
+      "startTimeIso": "2026-11-27T11:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Tulsa Golden Hurricane",
+        "UTSA Roadrunners"
+      ],
+      "propCount": 22,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/204901.json"
+    },
+    {
+      "gameId": "199756",
+      "slate": "Early",
+      "startTime": "11/27/26 02:00 PM CST",
+      "startTimeIso": "2026-11-27T14:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Appalachian State Mountaineers",
+        "South Alabama Jaguars"
+      ],
+      "propCount": 7,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199756.json"
+    },
+    {
+      "gameId": "199757",
+      "slate": "Early",
+      "startTime": "11/27/26 02:30 PM CST",
+      "startTimeIso": "2026-11-27T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "North Dakota State Bison",
+        "San Jose State Spartans"
+      ],
+      "propCount": 10,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199757.json"
+    },
+    {
+      "gameId": "199758",
+      "slate": "Early",
+      "startTime": "11/27/26 02:30 PM CST",
+      "startTimeIso": "2026-11-27T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Florida Gators",
+        "Florida State Seminoles"
+      ],
+      "propCount": 42,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199758.json"
+    },
+    {
+      "gameId": "204902",
+      "slate": "Early",
+      "startTime": "11/27/26 02:30 PM CST",
+      "startTimeIso": "2026-11-27T14:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Memphis Tigers",
+        "Temple Owls"
+      ],
+      "propCount": 16,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/204902.json"
+    },
+    {
+      "gameId": "199759",
+      "slate": "Late",
+      "startTime": "11/27/26 03:30 PM CST",
+      "startTimeIso": "2026-11-27T15:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Air Force Falcons",
+        "New Mexico Lobos"
+      ],
+      "propCount": 8,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199759.json"
+    },
+    {
+      "gameId": "200093",
+      "slate": "Late",
+      "startTime": "11/27/26 06:30 PM CST",
+      "startTimeIso": "2026-11-27T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Texas A&M Aggies",
+        "Texas Longhorns"
+      ],
+      "propCount": 39,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/200093.json"
+    },
+    {
+      "gameId": "200094",
+      "slate": "Late",
+      "startTime": "11/27/26 06:30 PM CST",
+      "startTimeIso": "2026-11-27T18:30:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Minnesota Golden Gophers",
+        "Wisconsin Badgers"
+      ],
+      "propCount": 41,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/200094.json"
+    },
+    {
+      "gameId": "200095",
+      "slate": "Late",
+      "startTime": "11/27/26 08:00 PM CST",
+      "startTimeIso": "2026-11-27T20:00:00-06:00",
+      "eventTimeVerified": true,
+      "teams": [
+        "Utah Utes",
+        "West Virginia Mountaineers"
       ],
       "propCount": 27,
-      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/199751.json"
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-game/200095.json"
     }
   ],
   "slates": [
     {
+      "slate": "early",
+      "propCount": 206,
+      "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/early.json"
+    },
+    {
       "slate": "late",
-      "propCount": 27,
+      "propCount": 115,
       "path": "/data/hierarchy/current_day/ncaaf/props-by-slate/late.json"
     }
   ]
