@@ -1,24 +1,24 @@
 {
-  "scrapedAt": "2026-11-27T12:06:44.165Z",
-  "scrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-28T12:05:53.474Z",
+  "scrapedDate": "Saturday, November 28, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 722,
-    "sourceCount": 5752,
-    "acceptedCount": 722,
-    "excludedCount": 5030,
+    "count": 940,
+    "sourceCount": 6177,
+    "acceptedCount": 940,
+    "excludedCount": 5237,
     "rejectedCount": 0,
-    "publishedCount": 722,
-    "providerFetchedAt": "2026-11-27T12:05:34.208Z",
+    "publishedCount": 940,
+    "providerFetchedAt": "2026-11-28T12:04:43.195Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Arizona Cardinals",
-  "totalProps": 30,
+  "totalProps": 40,
   "props": [
     {
       "projectionId": "17502259",
@@ -26,7 +26,7 @@
       "status": "pre_game",
       "player": "Josh Johnson",
       "stat": "Pass Yards",
-      "line": "162.5",
+      "line": "167.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -37,9 +37,51 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4374,
+      "rank": 4548,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17567985",
+      "playerId": "367709",
+      "status": "pre_game",
+      "player": "Josh Johnson",
+      "stat": "Passer Rating",
+      "line": "76.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4575,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17500954",
+      "playerId": "367709",
+      "status": "pre_game",
+      "player": "Josh Johnson",
+      "stat": "Completion Percentage",
+      "line": "60.7",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4586,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17372152",
@@ -58,30 +100,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4405,
+      "rank": 4587,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
-    },
-    {
-      "projectionId": "17479047",
-      "playerId": "336277",
-      "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Rush Yards",
-      "line": "32.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 4467,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17500875",
@@ -100,9 +121,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4474,
+      "rank": 4660,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17515284",
@@ -110,7 +131,7 @@
       "status": "pre_game",
       "player": "Josh Johnson",
       "stat": "Longest Completion",
-      "line": "29.5",
+      "line": "30.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -121,9 +142,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4508,
+      "rank": 4661,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17479090",
@@ -131,6 +152,27 @@
       "status": "pre_game",
       "player": "Bam Knight",
       "stat": "Rush Yards",
+      "line": "28.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4697,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17479060",
+      "playerId": "361216",
+      "status": "pre_game",
+      "player": "Harrison Wallace III",
+      "stat": "Receiving Yards",
       "line": "27.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
@@ -142,17 +184,17 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4511,
+      "rank": 4698,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
-      "projectionId": "17479060",
-      "playerId": "361216",
+      "projectionId": "17479047",
+      "playerId": "336277",
       "status": "pre_game",
-      "player": "Harrison Wallace III",
-      "stat": "Receiving Yards",
-      "line": "23.5",
+      "player": "Tyler Allgeier",
+      "stat": "Rush Yards",
+      "line": "26.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -163,9 +205,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4533,
+      "rank": 4701,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478872",
@@ -184,9 +226,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4549,
+      "rank": 4734,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478973",
@@ -205,30 +247,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4562,
+      "rank": 4747,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
-    },
-    {
-      "projectionId": "17500872",
-      "playerId": "367709",
-      "status": "pre_game",
-      "player": "Josh Johnson",
-      "stat": "Pass Completions",
-      "line": "17.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 4590,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478997",
@@ -236,7 +257,7 @@
       "status": "pre_game",
       "player": "Harrison Wallace III",
       "stat": "Longest Reception",
-      "line": "14.5",
+      "line": "16.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
       "startTimeCST": "11/29/26 03:25 PM CST",
@@ -247,9 +268,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4598,
+      "rank": 4781,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478988",
@@ -268,9 +289,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4615,
+      "rank": 4813,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17498518",
@@ -289,9 +310,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4616,
+      "rank": 4814,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17502575",
@@ -310,9 +331,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4618,
+      "rank": 4816,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478917",
@@ -320,27 +341,6 @@
       "status": "pre_game",
       "player": "Elijah Higgins",
       "stat": "Receiving Yards",
-      "line": "11.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 03:25 PM CST",
-      "startTimeCST": "11/29/26 03:25 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Arizona Cardinals",
-      "teamCode": "ARI",
-      "Opponent": "Washington Commanders",
-      "opponentCode": "WAS",
-      "rank": 4621,
-      "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
-    },
-    {
-      "projectionId": "17478983",
-      "playerId": "336277",
-      "status": "pre_game",
-      "player": "Tyler Allgeier",
-      "stat": "Longest Rush",
       "line": "10.5",
       "sport": "NFL",
       "startTime": "11/29/26 03:25 PM CST",
@@ -352,9 +352,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4625,
+      "rank": 4828,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17501343",
@@ -373,9 +373,30 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4627,
+      "rank": 4831,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17478983",
+      "playerId": "336277",
+      "status": "pre_game",
+      "player": "Tyler Allgeier",
+      "stat": "Longest Rush",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4837,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17479109",
@@ -394,9 +415,51 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4636,
+      "rank": 4839,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565601",
+      "playerId": "211118",
+      "status": "pre_game",
+      "player": "Trey McBride",
+      "stat": "Rec Targets",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4865,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17478846",
+      "playerId": "336277",
+      "status": "pre_game",
+      "player": "Tyler Allgeier",
+      "stat": "Rush Attempts",
+      "line": "9",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4877,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478813",
@@ -415,9 +478,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4654,
+      "rank": 4880,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17479097",
@@ -436,9 +499,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4656,
+      "rank": 4883,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17515277",
@@ -457,9 +520,30 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4659,
+      "rank": 4884,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17569739",
+      "playerId": "211118",
+      "status": "pre_game",
+      "player": "Trey McBride",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4888,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478915",
@@ -478,9 +562,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4673,
+      "rank": 4904,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17479074",
@@ -499,9 +583,30 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4675,
+      "rank": 4905,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17500955",
+      "playerId": "367709",
+      "status": "pre_game",
+      "player": "Josh Johnson",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4909,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478967",
@@ -520,9 +625,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4686,
+      "rank": 4927,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478982",
@@ -541,9 +646,51 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4687,
+      "rank": 4928,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565599",
+      "playerId": "361216",
+      "status": "pre_game",
+      "player": "Harrison Wallace III",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4970,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565600",
+      "playerId": "250044",
+      "status": "pre_game",
+      "player": "Simi Fehoko",
+      "stat": "Rec Targets",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4988,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478880",
@@ -562,9 +709,30 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4718,
+      "rank": 4994,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17478928",
+      "playerId": "361216",
+      "status": "pre_game",
+      "player": "Harrison Wallace III",
+      "stat": "Receptions",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 4995,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17479008",
@@ -583,9 +751,51 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4719,
+      "rank": 4996,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565602",
+      "playerId": "216836",
+      "status": "pre_game",
+      "player": "Zay Jones",
+      "stat": "Rec Targets",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5008,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17568005",
+      "playerId": "367709",
+      "status": "pre_game",
+      "player": "Josh Johnson",
+      "stat": "Sacks Taken",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 03:25 PM CST",
+      "startTimeCST": "11/29/26 03:25 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T16:25:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Arizona Cardinals",
+      "teamCode": "ARI",
+      "Opponent": "Washington Commanders",
+      "opponentCode": "WAS",
+      "rank": 5009,
+      "gameId": "200440",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17478966",
@@ -604,9 +814,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4738,
+      "rank": 5023,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17489824",
@@ -625,9 +835,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4743,
+      "rank": 5028,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17515271",
@@ -646,9 +856,9 @@
       "teamCode": "ARI",
       "Opponent": "Washington Commanders",
       "opponentCode": "WAS",
-      "rank": 4783,
+      "rank": 5086,
       "gameId": "200440",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     }
   ]
 }

@@ -1,32 +1,32 @@
 {
-  "scrapedAt": "2026-11-27T12:06:44.165Z",
-  "scrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-28T12:05:53.474Z",
+  "scrapedDate": "Saturday, November 28, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 722,
-    "sourceCount": 5752,
-    "acceptedCount": 722,
-    "excludedCount": 5030,
+    "count": 940,
+    "sourceCount": 6177,
+    "acceptedCount": 940,
+    "excludedCount": 5237,
     "rejectedCount": 0,
-    "publishedCount": 722,
-    "providerFetchedAt": "2026-11-27T12:05:34.208Z",
+    "publishedCount": 940,
+    "providerFetchedAt": "2026-11-28T12:04:43.195Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "New York Giants",
-  "totalProps": 31,
+  "totalProps": 48,
   "props": [
     {
-      "projectionId": "17371819",
-      "playerId": "353317",
+      "projectionId": "17570313",
+      "playerId": "343573",
       "status": "pre_game",
-      "player": "J.J. McCarthy",
-      "stat": "Pass Yards",
-      "line": "216.5",
+      "player": "Jordan Stout",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -37,9 +37,51 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1135,
+      "rank": 2,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17371819",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Pass Yards",
+      "line": "218.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 520,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17567975",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Passer Rating",
+      "line": "91.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 556,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17372068",
@@ -47,7 +89,7 @@
       "status": "pre_game",
       "player": "Cam Skattebo",
       "stat": "Rush Yards",
-      "line": "74.5",
+      "line": "73.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -58,9 +100,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1191,
+      "rank": 574,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17372137",
@@ -79,9 +121,30 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1199,
+      "rank": 584,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17485313",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Completion Percentage",
+      "line": "60.7",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 586,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17372138",
@@ -100,9 +163,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1224,
+      "rank": 612,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423236",
@@ -121,9 +184,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1250,
+      "rank": 636,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423230",
@@ -142,9 +205,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1258,
+      "rank": 644,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423407",
@@ -163,9 +226,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1277,
+      "rank": 664,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423414",
@@ -173,7 +236,7 @@
       "status": "pre_game",
       "player": "Malik Nabers",
       "stat": "Longest Reception",
-      "line": "22.5",
+      "line": "23.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -184,17 +247,17 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1312,
+      "rank": 693,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
-      "projectionId": "17423402",
-      "playerId": "320276",
+      "projectionId": "17487153",
+      "playerId": "246533",
       "status": "pre_game",
-      "player": "Isaiah Likely",
-      "stat": "Longest Reception",
-      "line": "19.5",
+      "player": "Cam Skattebo",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "21.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -205,9 +268,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1332,
+      "rank": 697,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17371805",
@@ -226,9 +289,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1346,
+      "rank": 731,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423401",
@@ -247,9 +310,30 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1348,
+      "rank": 732,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17423402",
+      "playerId": "320276",
+      "status": "pre_game",
+      "player": "Isaiah Likely",
+      "stat": "Longest Reception",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 733,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17488804",
@@ -268,9 +352,30 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1350,
+      "rank": 735,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17423347",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Rush Attempts",
+      "line": "17.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 738,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423399",
@@ -289,30 +394,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1351,
+      "rank": 739,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
-    },
-    {
-      "projectionId": "17487157",
-      "playerId": "246533",
-      "status": "pre_game",
-      "player": "Cam Skattebo",
-      "stat": "Rush Attempts",
-      "line": "16.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 12:00 PM CST",
-      "startTimeCST": "11/29/26 12:00 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "New York Giants",
-      "teamCode": "NYG",
-      "Opponent": "Indianapolis Colts",
-      "opponentCode": "IND",
-      "rank": 1361,
-      "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423322",
@@ -331,9 +415,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1365,
+      "rank": 753,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423352",
@@ -352,9 +436,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1366,
+      "rank": 754,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423411",
@@ -373,9 +457,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1400,
+      "rank": 789,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423340",
@@ -383,7 +467,7 @@
       "status": "pre_game",
       "player": "Devin Singletary",
       "stat": "Rush Yards",
-      "line": "12.5",
+      "line": "11.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -394,9 +478,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1404,
+      "rank": 800,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423224",
@@ -415,9 +499,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1413,
+      "rank": 804,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423321",
@@ -436,9 +520,72 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1420,
+      "rank": 812,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17569708",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 844,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565725",
+      "playerId": "206972",
+      "status": "pre_game",
+      "player": "Malik Nabers",
+      "stat": "Rec Targets",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 851,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17569707",
+      "playerId": "320276",
+      "status": "pre_game",
+      "player": "Isaiah Likely",
+      "stat": "Yards on First Reception",
+      "line": "8.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 852,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423195",
@@ -457,9 +604,30 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1450,
+      "rank": 853,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565723",
+      "playerId": "320276",
+      "status": "pre_game",
+      "player": "Isaiah Likely",
+      "stat": "Rec Targets",
+      "line": "7.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 866,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423650",
@@ -478,9 +646,51 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1466,
+      "rank": 872,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17485314",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 875,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17556819",
+      "playerId": "210959",
+      "status": "pre_game",
+      "player": "Devin Singletary",
+      "stat": "Longest Rush",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 877,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423656",
@@ -499,9 +709,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1479,
+      "rank": 887,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17479252",
@@ -520,9 +730,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1480,
+      "rank": 888,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423385",
@@ -541,9 +751,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1484,
+      "rank": 894,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423326",
@@ -562,9 +772,72 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1487,
+      "rank": 897,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17487164",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Rush Yards Per Carry",
+      "line": "4.3",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 931,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565724",
+      "playerId": "336250",
+      "status": "pre_game",
+      "player": "Malachi Fields",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 938,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17570288",
+      "playerId": "343573",
+      "status": "pre_game",
+      "player": "Jordan Stout",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 939,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17498229",
@@ -583,9 +856,51 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1533,
+      "rank": 955,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565721",
+      "playerId": "246533",
+      "status": "pre_game",
+      "player": "Cam Skattebo",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 967,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565722",
+      "playerId": "336247",
+      "status": "pre_game",
+      "player": "Darnell Mooney",
+      "stat": "Rec Targets",
+      "line": "3",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 968,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423331",
@@ -604,9 +919,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1541,
+      "rank": 973,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17423342",
@@ -625,9 +940,30 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1542,
+      "rank": 974,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17567996",
+      "playerId": "353317",
+      "status": "pre_game",
+      "player": "J.J. McCarthy",
+      "stat": "Sacks Taken",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 993,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17480542",
@@ -646,9 +982,9 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1580,
+      "rank": 1015,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17521885",
@@ -667,9 +1003,30 @@
       "teamCode": "NYG",
       "Opponent": "Indianapolis Colts",
       "opponentCode": "IND",
-      "rank": 1587,
+      "rank": 1023,
       "gameId": "200433",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565726",
+      "playerId": "212258",
+      "status": "pre_game",
+      "player": "Theo Johnson",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "New York Giants",
+      "teamCode": "NYG",
+      "Opponent": "Indianapolis Colts",
+      "opponentCode": "IND",
+      "rank": 1028,
+      "gameId": "200433",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     }
   ]
 }

@@ -1,25 +1,46 @@
 {
-  "scrapedAt": "2026-11-27T12:06:44.165Z",
-  "scrapedDate": "Friday, November 27, 2026 at 06:06 AM CST",
+  "scrapedAt": "2026-11-28T12:05:53.474Z",
+  "scrapedDate": "Saturday, November 28, 2026 at 06:05 AM CST",
   "source": "PrizePicks API",
   "collectionStatus": {
     "leagueName": "NFL",
     "ok": true,
     "status": 200,
-    "count": 722,
-    "sourceCount": 5752,
-    "acceptedCount": 722,
-    "excludedCount": 5030,
+    "count": 940,
+    "sourceCount": 6177,
+    "acceptedCount": 940,
+    "excludedCount": 5237,
     "rejectedCount": 0,
-    "publishedCount": 722,
-    "providerFetchedAt": "2026-11-27T12:05:34.208Z",
+    "publishedCount": 940,
+    "providerFetchedAt": "2026-11-28T12:04:43.195Z",
     "endpoint": "https://partner-api.prizepicks.com/projections"
   },
   "sport": "NFL",
   "day": "next-7-days",
   "team": "Tennessee Titans",
-  "totalProps": 34,
+  "totalProps": 49,
   "props": [
+    {
+      "projectionId": "17570316",
+      "playerId": "364385",
+      "status": "pre_game",
+      "player": "Thomas Morstead",
+      "stat": "Punts Inside 20",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 3,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
     {
       "projectionId": "17371821",
       "playerId": "246529",
@@ -37,17 +58,17 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1660,
+      "rank": 1117,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
-      "projectionId": "17372070",
-      "playerId": "210676",
+      "projectionId": "17567977",
+      "playerId": "246529",
       "status": "pre_game",
-      "player": "Tony Pollard",
-      "stat": "Rush Yards",
-      "line": "54.5",
+      "player": "Cam Ward",
+      "stat": "Passer Rating",
+      "line": "78.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -58,9 +79,51 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1708,
+      "rank": 1152,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17475824",
+      "playerId": "246529",
+      "status": "pre_game",
+      "player": "Cam Ward",
+      "stat": "Completion Percentage",
+      "line": "58.9",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1178,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17372070",
+      "playerId": "210676",
+      "status": "pre_game",
+      "player": "Tony Pollard",
+      "stat": "Rush Yards",
+      "line": "52.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1181,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17372139",
@@ -79,9 +142,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1709,
+      "rank": 1182,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400054",
@@ -100,9 +163,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1758,
+      "rank": 1224,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400129",
@@ -121,9 +184,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1767,
+      "rank": 1230,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400256",
@@ -131,7 +194,7 @@
       "status": "pre_game",
       "player": "Chimere Dike",
       "stat": "Receiving Yards",
-      "line": "27.5",
+      "line": "29.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -142,9 +205,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1800,
+      "rank": 1254,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400221",
@@ -152,7 +215,7 @@
       "status": "pre_game",
       "player": "Elic Ayomanor",
       "stat": "Receiving Yards",
-      "line": "26.5",
+      "line": "25.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
       "startTimeCST": "11/29/26 12:00 PM CST",
@@ -163,9 +226,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1804,
+      "rank": 1278,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400194",
@@ -184,9 +247,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1826,
+      "rank": 1292,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400107",
@@ -205,9 +268,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1827,
+      "rank": 1294,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400163",
@@ -226,9 +289,30 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1846,
+      "rank": 1314,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17493579",
+      "playerId": "210676",
+      "status": "pre_game",
+      "player": "Tony Pollard",
+      "stat": "Rush Yards in First 5 Attempts",
+      "line": "18.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1346,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400267",
@@ -247,9 +331,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1875,
+      "rank": 1358,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400097",
@@ -268,9 +352,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1877,
+      "rank": 1362,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400123",
@@ -289,9 +373,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1878,
+      "rank": 1363,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400272",
@@ -310,9 +394,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1880,
+      "rank": 1364,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400022",
@@ -331,9 +415,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1898,
+      "rank": 1387,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17490076",
@@ -352,9 +436,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1902,
+      "rank": 1394,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400203",
@@ -373,30 +457,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1907,
+      "rank": 1398,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
-    },
-    {
-      "projectionId": "17490080",
-      "playerId": "210631",
-      "status": "pre_game",
-      "player": "Calvin Ridley",
-      "stat": "Longest Reception",
-      "line": "10.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 12:00 PM CST",
-      "startTimeCST": "11/29/26 12:00 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 1914,
-      "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400130",
@@ -415,16 +478,16 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1917,
+      "rank": 1413,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
-      "projectionId": "17490082",
-      "playerId": "253599",
+      "projectionId": "17490080",
+      "playerId": "210631",
       "status": "pre_game",
-      "player": "Xavier Restrepo",
-      "stat": "Receiving Yards",
+      "player": "Calvin Ridley",
+      "stat": "Longest Reception",
       "line": "9.5",
       "sport": "NFL",
       "startTime": "11/29/26 12:00 PM CST",
@@ -436,9 +499,30 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1932,
+      "rank": 1425,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17569713",
+      "playerId": "320254",
+      "status": "pre_game",
+      "player": "Carnell Tate",
+      "stat": "Yards on First Reception",
+      "line": "9.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1450,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17371807",
@@ -457,9 +541,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1954,
+      "rank": 1451,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400207",
@@ -478,30 +562,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1956,
+      "rank": 1453,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
-    },
-    {
-      "projectionId": "17490079",
-      "playerId": "253599",
-      "status": "pre_game",
-      "player": "Xavier Restrepo",
-      "stat": "Longest Reception",
-      "line": "8.5",
-      "sport": "NFL",
-      "startTime": "11/29/26 12:00 PM CST",
-      "startTimeCST": "11/29/26 12:00 PM CST",
-      "startDateCST": "2026-11-29",
-      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
-      "oddsType": "standard",
-      "Team": "Tennessee Titans",
-      "teamCode": "TEN",
-      "Opponent": "Jacksonville Jaguars",
-      "opponentCode": "JAC",
-      "rank": 1959,
-      "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17490159",
@@ -520,9 +583,30 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1969,
+      "rank": 1463,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565743",
+      "playerId": "320254",
+      "status": "pre_game",
+      "player": "Carnell Tate",
+      "stat": "Rec Targets",
+      "line": "7",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1471,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400043",
@@ -541,9 +625,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1971,
+      "rank": 1472,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400180",
@@ -562,9 +646,30 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1974,
+      "rank": 1476,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17490079",
+      "playerId": "253599",
+      "status": "pre_game",
+      "player": "Xavier Restrepo",
+      "stat": "Longest Reception",
+      "line": "6.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1480,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17490162",
@@ -583,9 +688,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1981,
+      "rank": 1481,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400017",
@@ -604,9 +709,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1984,
+      "rank": 1489,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400095",
@@ -625,9 +730,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1987,
+      "rank": 1492,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17465826",
@@ -646,9 +751,30 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 1995,
+      "rank": 1498,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17475822",
+      "playerId": "246529",
+      "status": "pre_game",
+      "player": "Cam Ward",
+      "stat": "Completions in First 10 Pass Attempts",
+      "line": "5.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1500,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400285",
@@ -667,9 +793,135 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2002,
+      "rank": 1507,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565744",
+      "playerId": "249803",
+      "status": "pre_game",
+      "player": "Elic Ayomanor",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1538,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565747",
+      "playerId": "250230",
+      "status": "pre_game",
+      "player": "Chimere Dike",
+      "stat": "Rec Targets",
+      "line": "4.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1539,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565745",
+      "playerId": "261862",
+      "status": "pre_game",
+      "player": "Gunnar Helm",
+      "stat": "Rec Targets",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1543,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17570290",
+      "playerId": "364385",
+      "status": "pre_game",
+      "player": "Thomas Morstead",
+      "stat": "Punts",
+      "line": "4",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1544,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17493578",
+      "playerId": "210676",
+      "status": "pre_game",
+      "player": "Tony Pollard",
+      "stat": "Rush Yards Per Carry",
+      "line": "3.6",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1545,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565746",
+      "playerId": "211245",
+      "status": "pre_game",
+      "player": "Tyjae Spears",
+      "stat": "Rec Targets",
+      "line": "3.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1568,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17492667",
@@ -688,9 +940,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2045,
+      "rank": 1570,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17492668",
@@ -709,9 +961,9 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2046,
+      "rank": 1571,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     },
     {
       "projectionId": "17400060",
@@ -730,9 +982,72 @@
       "teamCode": "TEN",
       "Opponent": "Jacksonville Jaguars",
       "opponentCode": "JAC",
-      "rank": 2049,
+      "rank": 1574,
       "gameId": "200438",
-      "providerFetchedAt": "2026-11-27T12:05:34.208Z"
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17490082",
+      "playerId": "253599",
+      "status": "pre_game",
+      "player": "Xavier Restrepo",
+      "stat": "Receiving Yards",
+      "line": "2.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1584,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565742",
+      "playerId": "210631",
+      "status": "pre_game",
+      "player": "Calvin Ridley",
+      "stat": "Rec Targets",
+      "line": "2",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1599,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
+    },
+    {
+      "projectionId": "17565748",
+      "playerId": "336566",
+      "status": "pre_game",
+      "player": "Daniel Bellinger",
+      "stat": "Rec Targets",
+      "line": "1.5",
+      "sport": "NFL",
+      "startTime": "11/29/26 12:00 PM CST",
+      "startTimeCST": "11/29/26 12:00 PM CST",
+      "startDateCST": "2026-11-29",
+      "startTimeIso": "2026-11-29T13:00:00.000-05:00",
+      "oddsType": "standard",
+      "Team": "Tennessee Titans",
+      "teamCode": "TEN",
+      "Opponent": "Jacksonville Jaguars",
+      "opponentCode": "JAC",
+      "rank": 1630,
+      "gameId": "200438",
+      "providerFetchedAt": "2026-11-28T12:04:43.195Z"
     }
   ]
 }
